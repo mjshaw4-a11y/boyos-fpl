@@ -6,14 +6,14 @@ on:
     # Regular fallback refresh every hour
     - cron: '5 * * * *'
 
-    # Saturday live window: every 5 mins, 12:30pm-8:00pm UK (BST)
-    # GitHub cron uses UTC, so this is 11:30am-7:00pm UTC.
-    - cron: '30-55/5 11 * * 6'
-    - cron: '*/5 12-18 * * 6'
+    # Friday live window: every 5 mins
+    - cron: '*/5 17-22 * * 5'
+
+    # Saturday live window: every 5 mins
+    - cron: '*/5 11-18 * * 6'
     - cron: '0 19 * * 6'
 
-    # Sunday live window: every 5 mins, 12:00pm-6:00pm UK (GMT after clocks change)
-    # From Sunday 25th Oct 2026 the UK is on GMT, so local time = UTC.
+    # Sunday live window: every 5 mins
     - cron: '*/5 12-17 * * 0'
     - cron: '0 18 * * 0'
 
@@ -23,6 +23,7 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -33,16 +34,14 @@ jobs:
           node-version: '22'
 
       - name: Fetch latest FPL data
-        run: node scripts/update-boyos.mjs
+        run: node scripts/update-boyos.js
 
       - name: Commit data if changed
         run: |
           git config user.name "boyos-fpl-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add boyos-data.json
-          if git diff --cached --quiet; then
-            echo "No data changes"
-          else
-            git commit -m "Update Boyos FPL data"
-            git push
-          fi
+          git diff --cached --quiet && exit 0
+          git commit -m "Update Boyos FPL data"
+          git pull --rebase origin main
+          git push origin main
