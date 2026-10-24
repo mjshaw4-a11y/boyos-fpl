@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-10-24T13:34:43.582Z",
+  "generated_at": "2026-10-24T16:28:26.084Z",
   "latest_gameweek": 8,
   "events": [
     {
@@ -282,8 +282,8 @@
       "gameweek_points": 2,
       "transfer_cost": 0,
       "net_gameweek_points": 2,
-      "total_points": 489,
-      "overall_rank": 1269211,
+      "total_points": 507,
+      "overall_rank": 1104989,
       "previous_boyos_rank": 1,
       "rank_change": 0
     },
@@ -295,8 +295,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 468,
-      "overall_rank": 2321523,
+      "total_points": 484,
+      "overall_rank": 2162201,
       "previous_boyos_rank": 2,
       "rank_change": 0
     },
@@ -308,8 +308,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 459,
-      "overall_rank": 2878697,
+      "total_points": 477,
+      "overall_rank": 2578673,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -321,8 +321,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 387,
-      "overall_rank": 7146947,
+      "total_points": 390,
+      "overall_rank": 7552750,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -334,8 +334,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 354,
-      "overall_rank": 8494585,
+      "total_points": 380,
+      "overall_rank": 7976418,
       "previous_boyos_rank": 5,
       "rank_change": 0
     }
@@ -396,11 +396,11 @@
       },
       {
         "name": "Curlo",
-        "value": 0
+        "value": 3
       },
       {
         "name": "Joe",
-        "value": -1
+        "value": 1
       },
       {
         "name": "Manny",
@@ -458,37 +458,37 @@
       },
       {
         "name": "Manny",
-        "value": 60.8
+        "value": 56.9
       },
       {
         "name": "Dave",
-        "value": 57.1
+        "value": 53.1
       },
       {
         "name": "Curlo",
-        "value": 54.9
+        "value": 50.6
       },
       {
         "name": "Joe",
-        "value": 48.9
+        "value": 45.5
       }
     ],
     "captain_regret": [
       {
         "name": "Joe",
-        "value": 47
+        "value": 54
       },
       {
         "name": "Manny",
-        "value": 40
+        "value": 47
       },
       {
         "name": "Dave",
-        "value": 39
+        "value": 46
       },
       {
         "name": "Curlo",
-        "value": 37
+        "value": 44
       },
       {
         "name": "Ben",
@@ -730,8 +730,8 @@
       "manager": "Joe Burke",
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
-      "total_points": 489,
-      "overall_rank": 1269211,
+      "total_points": 507,
+      "overall_rank": 1104989,
       "latest_gameweek": 8,
       "gameweek_points": 2,
       "transfer_cost": 0,
@@ -745,8 +745,8 @@
       },
       "vice_captain": {
         "player": "Calafiori",
-        "raw_points": 0,
-        "minutes": 0
+        "raw_points": 1,
+        "minutes": 22
       },
       "active_chip": null,
       "transfers": [
@@ -755,13 +755,13 @@
           "chip": null,
           "in": "Rudoni",
           "in_id": 183,
-          "in_points": 0,
-          "in_minutes": 0,
+          "in_points": 2,
+          "in_minutes": 90,
           "out": "Yalcouyé",
           "out_id": 605,
           "out_points": 0,
           "out_minutes": 0,
-          "gross_pl": 0,
+          "gross_pl": 2,
           "time": "2026-10-23T11:16:19.167513Z"
         }
       ],
@@ -953,13 +953,13 @@
           "chip": null,
           "in": "Rudoni",
           "in_id": 183,
-          "in_points": 0,
-          "in_minutes": 0,
+          "in_points": 2,
+          "in_minutes": 90,
           "out": "Yalcouyé",
           "out_id": 605,
           "out_points": 0,
           "out_minutes": 0,
-          "gross_pl": 0,
+          "gross_pl": 2,
           "time": "2026-10-23T11:16:19.167513Z"
         }
       ],
@@ -1089,23 +1089,23 @@
             "count": 1,
             "chip": null,
             "transfer_cost": 0,
-            "gross_pl": 0,
-            "net_pl": 0,
+            "gross_pl": 2,
+            "net_pl": 2,
             "transfers": [
               {
                 "in": "Rudoni",
                 "out": "Yalcouyé",
-                "gross_pl": 0
+                "gross_pl": 2
               }
             ]
           }
         ],
-        "gross_player_points_all": 15,
-        "gross_player_points_normal": -1,
+        "gross_player_points_all": 17,
+        "gross_player_points_normal": 1,
         "hit_cost": 0,
         "hit_count_equivalent": 0,
-        "net_pl_all": 15,
-        "net_pl_normal": -1,
+        "net_pl_all": 17,
+        "net_pl_normal": 1,
         "best_normal_transfer": {
           "gameweek": 6,
           "chip": null,
@@ -1134,7 +1134,7 @@
           "gross_pl": -5,
           "time": "2026-09-02T22:30:50.071610Z"
         },
-        "sub_60_minute_buys": 2,
+        "sub_60_minute_buys": 1,
         "sub_60_minute_buy_details": [
           {
             "gameweek": 3,
@@ -1149,27 +1149,13 @@
             "out_minutes": 90,
             "gross_pl": -5,
             "time": "2026-09-02T22:30:50.071610Z"
-          },
-          {
-            "gameweek": 8,
-            "chip": null,
-            "in": "Rudoni",
-            "in_id": 183,
-            "in_points": 0,
-            "in_minutes": 0,
-            "out": "Yalcouyé",
-            "out_id": 605,
-            "out_points": 0,
-            "out_minutes": 0,
-            "gross_pl": 0,
-            "time": "2026-10-23T11:16:19.167513Z"
           }
         ]
       },
       "transfer_pl": {
-        "gross_player_points": 15,
+        "gross_player_points": 17,
         "hit_cost": 0,
-        "net": 15
+        "net": 17
       },
       "captain_history": [
         {
@@ -1269,11 +1255,11 @@
           "captain_points": 0,
           "captain_minutes": 0,
           "vice_captain": "Calafiori",
-          "vice_points": 0,
-          "vice_minutes": 0,
-          "best_starting_player": "Haaland",
-          "best_starting_points": 8,
-          "captain_points_missed_vs_best_starter": 8,
+          "vice_points": 1,
+          "vice_minutes": 22,
+          "best_starting_player": "Konsa",
+          "best_starting_points": 15,
+          "captain_points_missed_vs_best_starter": 15,
           "chip": null
         }
       ],
@@ -1295,8 +1281,8 @@
         "total_bench_points": 51,
         "average_bench_points": 6.4,
         "captain_raw_points": 45,
-        "captain_efficiency_pct_vs_best_starter": 48.9,
-        "captain_points_missed_vs_best_starter": 47,
+        "captain_efficiency_pct_vs_best_starter": 45.5,
+        "captain_points_missed_vs_best_starter": 54,
         "chips_used": [
           {
             "name": "3xc",
@@ -1369,7 +1355,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 73,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -1397,29 +1383,29 @@
           "player": "Konsa",
           "player_id": 31,
           "position": 2,
-          "raw_points": 0,
+          "raw_points": 15,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 15,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
-          "goals": 0,
+          "minutes": 90,
+          "goals": 1,
           "assists": 0,
-          "clean_sheets": 0,
-          "bonus": 0
+          "clean_sheets": 1,
+          "bonus": 3
         },
         {
           "player": "Calafiori",
           "player_id": 8,
           "position": 3,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 1,
           "captain": false,
           "vice_captain": true,
           "bench": false,
-          "minutes": 0,
+          "minutes": 22,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -1477,13 +1463,13 @@
           "player": "Rudoni",
           "player_id": 183,
           "position": 7,
-          "raw_points": 0,
+          "raw_points": 2,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 2,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -1611,7 +1597,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 73,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -1714,8 +1700,8 @@
       "manager": "Manny Jandu",
       "entry_id": 2368930,
       "team_name": "The Regent",
-      "total_points": 468,
-      "overall_rank": 2321523,
+      "total_points": 484,
+      "overall_rank": 2162201,
       "latest_gameweek": 8,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -2182,9 +2168,9 @@
           "vice_captain": "Palmer",
           "vice_points": 0,
           "vice_minutes": 0,
-          "best_starting_player": "Haaland",
-          "best_starting_points": 8,
-          "captain_points_missed_vs_best_starter": 0,
+          "best_starting_player": "Konsa",
+          "best_starting_points": 15,
+          "captain_points_missed_vs_best_starter": 7,
           "chip": null
         }
       ],
@@ -2206,8 +2192,8 @@
         "total_bench_points": 30,
         "average_bench_points": 3.8,
         "captain_raw_points": 62,
-        "captain_efficiency_pct_vs_best_starter": 60.8,
-        "captain_points_missed_vs_best_starter": 40,
+        "captain_efficiency_pct_vs_best_starter": 56.9,
+        "captain_points_missed_vs_best_starter": 47,
         "chips_used": [
           {
             "name": "3xc",
@@ -2308,17 +2294,17 @@
           "player": "Konsa",
           "player_id": 31,
           "position": 2,
-          "raw_points": 0,
+          "raw_points": 15,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 15,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
-          "goals": 0,
+          "minutes": 90,
+          "goals": 1,
           "assists": 0,
-          "clean_sheets": 0,
-          "bonus": 0
+          "clean_sheets": 1,
+          "bonus": 3
         },
         {
           "player": "Gvardiol",
@@ -2340,13 +2326,13 @@
           "player": "Calafiori",
           "player_id": 8,
           "position": 4,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 1,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 22,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -2625,8 +2611,8 @@
       "manager": "David Eyre",
       "entry_id": 5568090,
       "team_name": "Insufferable FC",
-      "total_points": 459,
-      "overall_rank": 2878697,
+      "total_points": 477,
+      "overall_rank": 2578673,
       "latest_gameweek": 8,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -3188,9 +3174,9 @@
           "vice_captain": "Palmer",
           "vice_points": 0,
           "vice_minutes": 0,
-          "best_starting_player": "Haaland",
-          "best_starting_points": 8,
-          "captain_points_missed_vs_best_starter": 8,
+          "best_starting_player": "Konsa",
+          "best_starting_points": 15,
+          "captain_points_missed_vs_best_starter": 15,
           "chip": null
         }
       ],
@@ -3212,8 +3198,8 @@
         "total_bench_points": 72,
         "average_bench_points": 9,
         "captain_raw_points": 52,
-        "captain_efficiency_pct_vs_best_starter": 57.1,
-        "captain_points_missed_vs_best_starter": 39,
+        "captain_efficiency_pct_vs_best_starter": 53.1,
+        "captain_points_missed_vs_best_starter": 46,
         "chips_used": [
           {
             "name": "3xc",
@@ -3330,13 +3316,13 @@
           "player": "Calafiori",
           "player_id": 8,
           "position": 3,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 1,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 22,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3346,17 +3332,17 @@
           "player": "Konsa",
           "player_id": 31,
           "position": 4,
-          "raw_points": 0,
+          "raw_points": 15,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 15,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
-          "goals": 0,
+          "minutes": 90,
+          "goals": 1,
           "assists": 0,
-          "clean_sheets": 0,
-          "bonus": 0
+          "clean_sheets": 1,
+          "bonus": 3
         },
         {
           "player": "Groß",
@@ -3426,16 +3412,16 @@
           "player": "Gonzalo",
           "player_id": 569,
           "position": 9,
-          "raw_points": 0,
+          "raw_points": 2,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 2,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 73,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
+          "clean_sheets": 1,
           "bonus": 0
         },
         {
@@ -3631,8 +3617,8 @@
       "manager": "Ben Burt",
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
-      "total_points": 387,
-      "overall_rank": 7146947,
+      "total_points": 390,
+      "overall_rank": 7552750,
       "latest_gameweek": 8,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -3963,13 +3949,13 @@
           "player": "Dewsbury-Hall",
           "player_id": 236,
           "position": 13,
-          "raw_points": 0,
+          "raw_points": 2,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 85,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3995,13 +3981,13 @@
           "player": "Barry",
           "player_id": 249,
           "position": 15,
-          "raw_points": 0,
+          "raw_points": 2,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4109,16 +4095,16 @@
           "player": "Ødegaard",
           "player_id": 15,
           "position": 7,
-          "raw_points": 0,
+          "raw_points": 3,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 3,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
+          "clean_sheets": 1,
           "bonus": 0
         },
         {
@@ -4205,13 +4191,13 @@
           "player": "Dewsbury-Hall",
           "player_id": 236,
           "position": 13,
-          "raw_points": 0,
+          "raw_points": 2,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 85,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4237,13 +4223,13 @@
           "player": "Barry",
           "player_id": 249,
           "position": 15,
-          "raw_points": 0,
+          "raw_points": 2,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4336,8 +4322,8 @@
       "manager": "Matthew Shaw",
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
-      "total_points": 354,
-      "overall_rank": 8494585,
+      "total_points": 380,
+      "overall_rank": 7976418,
       "latest_gameweek": 8,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -4351,8 +4337,8 @@
       },
       "vice_captain": {
         "player": "Madueke",
-        "raw_points": 0,
-        "minutes": 0
+        "raw_points": 3,
+        "minutes": 90
       },
       "active_chip": null,
       "transfers": [
@@ -4361,13 +4347,13 @@
           "chip": null,
           "in": "Madueke",
           "in_id": 16,
-          "in_points": 0,
-          "in_minutes": 0,
+          "in_points": 3,
+          "in_minutes": 90,
           "out": "Semenyo",
           "out_id": 397,
           "out_points": 0,
           "out_minutes": 0,
-          "gross_pl": 0,
+          "gross_pl": 3,
           "time": "2026-10-23T15:30:06.076392Z"
         }
       ],
@@ -4629,13 +4615,13 @@
           "chip": null,
           "in": "Madueke",
           "in_id": 16,
-          "in_points": 0,
-          "in_minutes": 0,
+          "in_points": 3,
+          "in_minutes": 90,
           "out": "Semenyo",
           "out_id": 397,
           "out_points": 0,
           "out_minutes": 0,
-          "gross_pl": 0,
+          "gross_pl": 3,
           "time": "2026-10-23T15:30:06.076392Z"
         }
       ],
@@ -4790,23 +4776,23 @@
             "count": 1,
             "chip": null,
             "transfer_cost": 0,
-            "gross_pl": 0,
-            "net_pl": 0,
+            "gross_pl": 3,
+            "net_pl": 3,
             "transfers": [
               {
                 "in": "Madueke",
                 "out": "Semenyo",
-                "gross_pl": 0
+                "gross_pl": 3
               }
             ]
           }
         ],
-        "gross_player_points_all": -2,
-        "gross_player_points_normal": 8,
+        "gross_player_points_all": 1,
+        "gross_player_points_normal": 11,
         "hit_cost": 8,
         "hit_count_equivalent": 2,
-        "net_pl_all": -10,
-        "net_pl_normal": 0,
+        "net_pl_all": -7,
+        "net_pl_normal": 3,
         "best_normal_transfer": {
           "gameweek": 4,
           "chip": null,
@@ -4835,7 +4821,7 @@
           "gross_pl": -2,
           "time": "2026-09-18T16:48:40.870355Z"
         },
-        "sub_60_minute_buys": 5,
+        "sub_60_minute_buys": 4,
         "sub_60_minute_buy_details": [
           {
             "gameweek": 5,
@@ -4892,27 +4878,13 @@
             "out_minutes": 45,
             "gross_pl": 0,
             "time": "2026-10-16T17:38:54.804629Z"
-          },
-          {
-            "gameweek": 8,
-            "chip": null,
-            "in": "Madueke",
-            "in_id": 16,
-            "in_points": 0,
-            "in_minutes": 0,
-            "out": "Semenyo",
-            "out_id": 397,
-            "out_points": 0,
-            "out_minutes": 0,
-            "gross_pl": 0,
-            "time": "2026-10-23T15:30:06.076392Z"
           }
         ]
       },
       "transfer_pl": {
-        "gross_player_points": -2,
+        "gross_player_points": 1,
         "hit_cost": 8,
-        "net": -10
+        "net": -7
       },
       "captain_history": [
         {
@@ -5012,11 +4984,11 @@
           "captain_points": 8,
           "captain_minutes": 90,
           "vice_captain": "Madueke",
-          "vice_points": 0,
-          "vice_minutes": 0,
-          "best_starting_player": "Haaland",
-          "best_starting_points": 8,
-          "captain_points_missed_vs_best_starter": 0,
+          "vice_points": 3,
+          "vice_minutes": 90,
+          "best_starting_player": "Konsa",
+          "best_starting_points": 15,
+          "captain_points_missed_vs_best_starter": 7,
           "chip": null
         }
       ],
@@ -5038,8 +5010,8 @@
         "total_bench_points": 79,
         "average_bench_points": 9.9,
         "captain_raw_points": 45,
-        "captain_efficiency_pct_vs_best_starter": 54.9,
-        "captain_points_missed_vs_best_starter": 37,
+        "captain_efficiency_pct_vs_best_starter": 50.6,
+        "captain_points_missed_vs_best_starter": 44,
         "chips_used": [
           {
             "name": "wildcard",
@@ -5135,13 +5107,13 @@
           "player": "Calafiori",
           "player_id": 8,
           "position": 2,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 1,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 22,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -5151,33 +5123,33 @@
           "player": "Robinson",
           "player_id": 254,
           "position": 3,
-          "raw_points": 0,
+          "raw_points": 7,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 7,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
+          "clean_sheets": 1,
           "bonus": 0
         },
         {
           "player": "Konsa",
           "player_id": 31,
           "position": 4,
-          "raw_points": 0,
+          "raw_points": 15,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 15,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
-          "goals": 0,
+          "minutes": 90,
+          "goals": 1,
           "assists": 0,
-          "clean_sheets": 0,
-          "bonus": 0
+          "clean_sheets": 1,
+          "bonus": 3
         },
         {
           "player": "Groß",
@@ -5199,16 +5171,16 @@
           "player": "Madueke",
           "player_id": 16,
           "position": 6,
-          "raw_points": 0,
+          "raw_points": 3,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 3,
           "captain": false,
           "vice_captain": true,
           "bench": false,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
+          "clean_sheets": 1,
           "bonus": 0
         },
         {
