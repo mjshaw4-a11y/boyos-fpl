@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-10-24T18:57:36.488Z",
+  "generated_at": "2026-10-24T21:31:23.909Z",
   "latest_gameweek": 8,
   "events": [
     {
@@ -279,11 +279,11 @@
       "name": "Joe",
       "manager": "Joe Burke",
       "team_name": "Roper To Beat",
-      "gameweek_points": 2,
+      "gameweek_points": 30,
       "transfer_cost": 0,
-      "net_gameweek_points": 2,
+      "net_gameweek_points": 30,
       "total_points": 509,
-      "overall_rank": 1083563,
+      "overall_rank": 1083561,
       "previous_boyos_rank": 1,
       "rank_change": 0
     },
@@ -292,11 +292,11 @@
       "name": "Manny",
       "manager": "Manny Jandu",
       "team_name": "The Regent",
-      "gameweek_points": 0,
+      "gameweek_points": 32,
       "transfer_cost": 0,
-      "net_gameweek_points": 0,
+      "net_gameweek_points": 32,
       "total_points": 483,
-      "overall_rank": 2305678,
+      "overall_rank": 2305669,
       "previous_boyos_rank": 2,
       "rank_change": 0
     },
@@ -305,11 +305,11 @@
       "name": "Dave",
       "manager": "David Eyre",
       "team_name": "Insufferable FC",
-      "gameweek_points": 0,
+      "gameweek_points": 25,
       "transfer_cost": 0,
-      "net_gameweek_points": 0,
+      "net_gameweek_points": 25,
       "total_points": 476,
-      "overall_rank": 2732141,
+      "overall_rank": 2732130,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -318,11 +318,11 @@
       "name": "Ben",
       "manager": "Ben Burt",
       "team_name": "20 packs of ciggosss",
-      "gameweek_points": 0,
+      "gameweek_points": 20,
       "transfer_cost": 0,
-      "net_gameweek_points": 0,
+      "net_gameweek_points": 20,
       "total_points": 391,
-      "overall_rank": 7580999,
+      "overall_rank": 7580951,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -331,11 +331,11 @@
       "name": "Curlo",
       "manager": "Matthew Shaw",
       "team_name": "Victor Moses Lawn",
-      "gameweek_points": 0,
+      "gameweek_points": 42,
       "transfer_cost": 0,
-      "net_gameweek_points": 0,
+      "net_gameweek_points": 42,
       "total_points": 380,
-      "overall_rank": 8038336,
+      "overall_rank": 8038283,
       "previous_boyos_rank": 5,
       "rank_change": 0
     }
@@ -432,19 +432,19 @@
     "bench_points": [
       {
         "name": "Curlo",
-        "value": 79
+        "value": 88
       },
       {
         "name": "Dave",
-        "value": 72
+        "value": 83
       },
       {
         "name": "Ben",
-        "value": 57
+        "value": 61
       },
       {
         "name": "Joe",
-        "value": 51
+        "value": 52
       },
       {
         "name": "Manny",
@@ -498,10 +498,14 @@
     "weekly_wins": [
       {
         "name": "Joe",
-        "wins": 3
+        "wins": 2
       },
       {
         "name": "Ben",
+        "wins": 2
+      },
+      {
+        "name": "Curlo",
         "wins": 2
       },
       {
@@ -510,10 +514,6 @@
       },
       {
         "name": "Dave",
-        "wins": 1
-      },
-      {
-        "name": "Curlo",
         "wins": 1
       }
     ],
@@ -697,28 +697,28 @@
         ]
       },
       "8": {
-        "winner": "Joe",
-        "score": 2,
+        "winner": "Curlo",
+        "score": 42,
         "rankings": [
           {
-            "name": "Joe",
-            "net_points": 2
+            "name": "Curlo",
+            "net_points": 42
           },
           {
             "name": "Manny",
-            "net_points": 0
+            "net_points": 32
+          },
+          {
+            "name": "Joe",
+            "net_points": 30
           },
           {
             "name": "Dave",
-            "net_points": 0
+            "net_points": 25
           },
           {
             "name": "Ben",
-            "net_points": 0
-          },
-          {
-            "name": "Curlo",
-            "net_points": 0
+            "net_points": 20
           }
         ]
       }
@@ -731,12 +731,12 @@
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
       "total_points": 509,
-      "overall_rank": 1083563,
+      "overall_rank": 1083561,
       "latest_gameweek": 8,
-      "gameweek_points": 2,
+      "gameweek_points": 30,
       "transfer_cost": 0,
-      "net_gameweek_points": 2,
-      "points_on_bench": 0,
+      "net_gameweek_points": 30,
+      "points_on_bench": 1,
       "captain": {
         "player": "João Pedro",
         "raw_points": 0,
@@ -1265,7 +1265,7 @@
       ],
       "season_insights": {
         "gameweeks_played": 8,
-        "average_net_gw_score": 60.1,
+        "average_net_gw_score": 63.6,
         "best_gameweek": {
           "gameweek": 6,
           "points": 100,
@@ -1274,12 +1274,12 @@
         },
         "worst_gameweek": {
           "gameweek": 8,
-          "points": 2,
+          "points": 30,
           "hit": 0,
-          "net_points": 2
+          "net_points": 30
         },
-        "total_bench_points": 51,
-        "average_bench_points": 6.4,
+        "total_bench_points": 52,
+        "average_bench_points": 6.5,
         "captain_raw_points": 45,
         "captain_efficiency_pct_vs_best_starter": 45.5,
         "captain_points_missed_vs_best_starter": 54,
@@ -1685,12 +1685,12 @@
         },
         {
           "gameweek": 8,
-          "points": 2,
-          "net_points": 2,
-          "total_points": 481,
-          "overall_rank": 998059,
+          "points": 30,
+          "net_points": 30,
+          "total_points": 509,
+          "overall_rank": 1083563,
           "transfer_cost": 0,
-          "points_on_bench": 0,
+          "points_on_bench": 1,
           "chip": null
         }
       ]
@@ -1701,11 +1701,11 @@
       "entry_id": 2368930,
       "team_name": "The Regent",
       "total_points": 483,
-      "overall_rank": 2305678,
+      "overall_rank": 2305669,
       "latest_gameweek": 8,
-      "gameweek_points": 0,
+      "gameweek_points": 32,
       "transfer_cost": 0,
-      "net_gameweek_points": 0,
+      "net_gameweek_points": 32,
       "points_on_bench": 1,
       "captain": {
         "player": "Haaland",
@@ -2176,7 +2176,7 @@
       ],
       "season_insights": {
         "gameweeks_played": 8,
-        "average_net_gw_score": 56.4,
+        "average_net_gw_score": 60.4,
         "best_gameweek": {
           "gameweek": 2,
           "points": 103,
@@ -2185,9 +2185,9 @@
         },
         "worst_gameweek": {
           "gameweek": 8,
-          "points": 0,
+          "points": 32,
           "hit": 0,
-          "net_points": 0
+          "net_points": 32
         },
         "total_bench_points": 30,
         "average_bench_points": 3.8,
@@ -2596,10 +2596,10 @@
         },
         {
           "gameweek": 8,
-          "points": 0,
-          "net_points": 0,
-          "total_points": 451,
-          "overall_rank": 2470103,
+          "points": 32,
+          "net_points": 32,
+          "total_points": 483,
+          "overall_rank": 2305675,
           "transfer_cost": 0,
           "points_on_bench": 1,
           "chip": null
@@ -2612,12 +2612,12 @@
       "entry_id": 5568090,
       "team_name": "Insufferable FC",
       "total_points": 476,
-      "overall_rank": 2732141,
+      "overall_rank": 2732130,
       "latest_gameweek": 8,
-      "gameweek_points": 0,
+      "gameweek_points": 25,
       "transfer_cost": 0,
-      "net_gameweek_points": 0,
-      "points_on_bench": 0,
+      "net_gameweek_points": 25,
+      "points_on_bench": 11,
       "captain": {
         "player": "João Pedro",
         "raw_points": 0,
@@ -3182,7 +3182,7 @@
       ],
       "season_insights": {
         "gameweeks_played": 8,
-        "average_net_gw_score": 56.4,
+        "average_net_gw_score": 59.5,
         "best_gameweek": {
           "gameweek": 2,
           "points": 96,
@@ -3191,12 +3191,12 @@
         },
         "worst_gameweek": {
           "gameweek": 8,
-          "points": 0,
+          "points": 25,
           "hit": 0,
-          "net_points": 0
+          "net_points": 25
         },
-        "total_bench_points": 72,
-        "average_bench_points": 9,
+        "total_bench_points": 83,
+        "average_bench_points": 10.4,
         "captain_raw_points": 52,
         "captain_efficiency_pct_vs_best_starter": 53.1,
         "captain_points_missed_vs_best_starter": 46,
@@ -3602,12 +3602,12 @@
         },
         {
           "gameweek": 8,
-          "points": 0,
-          "net_points": 0,
-          "total_points": 451,
-          "overall_rank": 2499112,
+          "points": 25,
+          "net_points": 25,
+          "total_points": 476,
+          "overall_rank": 2732137,
           "transfer_cost": 0,
-          "points_on_bench": 0,
+          "points_on_bench": 11,
           "chip": null
         }
       ]
@@ -3618,12 +3618,12 @@
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
       "total_points": 391,
-      "overall_rank": 7580999,
+      "overall_rank": 7580951,
       "latest_gameweek": 8,
-      "gameweek_points": 0,
+      "gameweek_points": 20,
       "transfer_cost": 0,
-      "net_gameweek_points": 0,
-      "points_on_bench": 0,
+      "net_gameweek_points": 20,
+      "points_on_bench": 4,
       "captain": {
         "player": "Haaland",
         "raw_points": 8,
@@ -3908,7 +3908,7 @@
       ],
       "season_insights": {
         "gameweeks_played": 7,
-        "average_net_gw_score": 53,
+        "average_net_gw_score": 55.9,
         "best_gameweek": {
           "gameweek": 5,
           "points": 69,
@@ -3917,12 +3917,12 @@
         },
         "worst_gameweek": {
           "gameweek": 8,
-          "points": 0,
+          "points": 20,
           "hit": 0,
-          "net_points": 0
+          "net_points": 20
         },
-        "total_bench_points": 57,
-        "average_bench_points": 8.1,
+        "total_bench_points": 61,
+        "average_bench_points": 8.7,
         "captain_raw_points": 59,
         "captain_efficiency_pct_vs_best_starter": 67,
         "captain_points_missed_vs_best_starter": 29,
@@ -4307,12 +4307,12 @@
         },
         {
           "gameweek": 8,
-          "points": 0,
-          "net_points": 0,
-          "total_points": 371,
-          "overall_rank": 7415016,
+          "points": 20,
+          "net_points": 20,
+          "total_points": 391,
+          "overall_rank": 7580982,
           "transfer_cost": 0,
-          "points_on_bench": 0,
+          "points_on_bench": 4,
           "chip": null
         }
       ]
@@ -4323,12 +4323,12 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 380,
-      "overall_rank": 8038336,
+      "overall_rank": 8038283,
       "latest_gameweek": 8,
-      "gameweek_points": 0,
+      "gameweek_points": 42,
       "transfer_cost": 0,
-      "net_gameweek_points": 0,
-      "points_on_bench": 8,
+      "net_gameweek_points": 42,
+      "points_on_bench": 17,
       "captain": {
         "player": "Haaland",
         "raw_points": 8,
@@ -4994,7 +4994,7 @@
       ],
       "season_insights": {
         "gameweeks_played": 8,
-        "average_net_gw_score": 42.3,
+        "average_net_gw_score": 47.5,
         "best_gameweek": {
           "gameweek": 4,
           "points": 70,
@@ -5002,13 +5002,13 @@
           "net_points": 70
         },
         "worst_gameweek": {
-          "gameweek": 8,
-          "points": 0,
-          "hit": 0,
-          "net_points": 0
+          "gameweek": 6,
+          "points": 33,
+          "hit": 4,
+          "net_points": 29
         },
-        "total_bench_points": 79,
-        "average_bench_points": 9.9,
+        "total_bench_points": 88,
+        "average_bench_points": 11,
         "captain_raw_points": 45,
         "captain_efficiency_pct_vs_best_starter": 50.6,
         "captain_points_missed_vs_best_starter": 44,
@@ -5409,12 +5409,12 @@
         },
         {
           "gameweek": 8,
-          "points": 0,
-          "net_points": 0,
-          "total_points": 338,
-          "overall_rank": 8721930,
+          "points": 42,
+          "net_points": 42,
+          "total_points": 380,
+          "overall_rank": 8038315,
           "transfer_cost": 0,
-          "points_on_bench": 8,
+          "points_on_bench": 17,
           "chip": null
         }
       ]
