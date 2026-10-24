@@ -1,4 +1,4 @@
-name: Update Boyos FPL data
+name: Update FPL data
 
 on:
   workflow_dispatch:
@@ -20,6 +20,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: fpl-data-update
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -33,15 +37,18 @@ jobs:
         with:
           node-version: '22'
 
-      - name: Fetch latest FPL data
+      - name: Fetch latest Boyos FPL data
         run: node scripts/update-boyos.mjs
+
+      - name: Fetch latest George League FPL data
+        run: node scripts/update-george-league.mjs
 
       - name: Commit data if changed
         run: |
           git config user.name "boyos-fpl-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add boyos-data.json
+          git add boyos-data.json george-league-data.json
           git diff --cached --quiet && exit 0
-          git commit -m "Update Boyos FPL data"
+          git commit -m "Update FPL data"
           git pull --rebase origin main
           git push origin main
