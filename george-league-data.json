@@ -1,0 +1,3456 @@
+{
+  "league": {
+    "id": 1104419,
+    "name": "George / Joe / Curlo League"
+  },
+  "generated_at": "2026-10-24T10:12:09.287Z",
+  "latest_gameweek": 8,
+  "events": [
+    {
+      "id": 1,
+      "name": "Gameweek 1",
+      "deadline_time": "2026-08-21T17:30:00Z",
+      "finished": true,
+      "data_checked": true
+    },
+    {
+      "id": 2,
+      "name": "Gameweek 2",
+      "deadline_time": "2026-08-28T17:30:00Z",
+      "finished": true,
+      "data_checked": true
+    },
+    {
+      "id": 3,
+      "name": "Gameweek 3",
+      "deadline_time": "2026-09-04T17:30:00Z",
+      "finished": true,
+      "data_checked": true
+    },
+    {
+      "id": 4,
+      "name": "Gameweek 4",
+      "deadline_time": "2026-09-12T12:30:00Z",
+      "finished": true,
+      "data_checked": true
+    },
+    {
+      "id": 5,
+      "name": "Gameweek 5",
+      "deadline_time": "2026-09-18T17:30:00Z",
+      "finished": true,
+      "data_checked": true
+    },
+    {
+      "id": 6,
+      "name": "Gameweek 6",
+      "deadline_time": "2026-10-10T10:00:00Z",
+      "finished": true,
+      "data_checked": true
+    },
+    {
+      "id": 7,
+      "name": "Gameweek 7",
+      "deadline_time": "2026-10-17T10:00:00Z",
+      "finished": true,
+      "data_checked": true
+    },
+    {
+      "id": 8,
+      "name": "Gameweek 8",
+      "deadline_time": "2026-10-23T17:30:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 9,
+      "name": "Gameweek 9",
+      "deadline_time": "2026-10-31T11:00:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 10,
+      "name": "Gameweek 10",
+      "deadline_time": "2026-11-06T18:30:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 11,
+      "name": "Gameweek 11",
+      "deadline_time": "2026-11-21T11:00:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 12,
+      "name": "Gameweek 12",
+      "deadline_time": "2026-11-27T18:30:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 13,
+      "name": "Gameweek 13",
+      "deadline_time": "2026-12-01T18:30:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 14,
+      "name": "Gameweek 14",
+      "deadline_time": "2026-12-05T11:00:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 15,
+      "name": "Gameweek 15",
+      "deadline_time": "2026-12-12T13:30:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 16,
+      "name": "Gameweek 16",
+      "deadline_time": "2026-12-19T11:00:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 17,
+      "name": "Gameweek 17",
+      "deadline_time": "2026-12-26T11:00:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 18,
+      "name": "Gameweek 18",
+      "deadline_time": "2026-12-29T18:00:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 19,
+      "name": "Gameweek 19",
+      "deadline_time": "2027-01-01T18:30:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 20,
+      "name": "Gameweek 20",
+      "deadline_time": "2027-01-05T18:00:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 21,
+      "name": "Gameweek 21",
+      "deadline_time": "2027-01-16T13:30:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 22,
+      "name": "Gameweek 22",
+      "deadline_time": "2027-01-23T13:30:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 23,
+      "name": "Gameweek 23",
+      "deadline_time": "2027-01-30T13:30:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 24,
+      "name": "Gameweek 24",
+      "deadline_time": "2027-02-06T13:30:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 25,
+      "name": "Gameweek 25",
+      "deadline_time": "2027-02-10T18:30:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 26,
+      "name": "Gameweek 26",
+      "deadline_time": "2027-02-20T13:30:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 27,
+      "name": "Gameweek 27",
+      "deadline_time": "2027-02-27T13:30:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 28,
+      "name": "Gameweek 28",
+      "deadline_time": "2027-03-03T18:30:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 29,
+      "name": "Gameweek 29",
+      "deadline_time": "2027-03-13T13:30:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 30,
+      "name": "Gameweek 30",
+      "deadline_time": "2027-03-20T13:30:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 31,
+      "name": "Gameweek 31",
+      "deadline_time": "2027-04-10T12:30:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 32,
+      "name": "Gameweek 32",
+      "deadline_time": "2027-04-17T12:30:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 33,
+      "name": "Gameweek 33",
+      "deadline_time": "2027-04-24T12:30:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 34,
+      "name": "Gameweek 34",
+      "deadline_time": "2027-05-01T12:30:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 35,
+      "name": "Gameweek 35",
+      "deadline_time": "2027-05-08T12:30:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 36,
+      "name": "Gameweek 36",
+      "deadline_time": "2027-05-15T12:30:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 37,
+      "name": "Gameweek 37",
+      "deadline_time": "2027-05-23T12:30:00Z",
+      "finished": false,
+      "data_checked": false
+    },
+    {
+      "id": 38,
+      "name": "Gameweek 38",
+      "deadline_time": "2027-05-30T13:30:00Z",
+      "finished": false,
+      "data_checked": false
+    }
+  ],
+  "standings": [
+    {
+      "rank": 1,
+      "name": "George",
+      "manager": "George Lane",
+      "team_name": "TheRoseGardeb",
+      "gameweek_points": 0,
+      "transfer_cost": 0,
+      "net_gameweek_points": 0,
+      "total_points": 499,
+      "overall_rank": 438580,
+      "previous_league_rank": 1,
+      "rank_change": 0
+    },
+    {
+      "rank": 2,
+      "name": "Joe",
+      "manager": "Joe Burke",
+      "team_name": "Roper To Beat",
+      "gameweek_points": 2,
+      "transfer_cost": 0,
+      "net_gameweek_points": 2,
+      "total_points": 481,
+      "overall_rank": 998070,
+      "previous_league_rank": 2,
+      "rank_change": 0
+    },
+    {
+      "rank": 3,
+      "name": "Curlo",
+      "manager": "Matthew Shaw",
+      "team_name": "Victor Moses Lawn",
+      "gameweek_points": 0,
+      "transfer_cost": 0,
+      "net_gameweek_points": 0,
+      "total_points": 338,
+      "overall_rank": 8721976,
+      "previous_league_rank": 3,
+      "rank_change": 0
+    }
+  ],
+  "league_insights": {
+    "transfer_count": [
+      {
+        "name": "Curlo",
+        "value": 19
+      },
+      {
+        "name": "Joe",
+        "value": 14
+      },
+      {
+        "name": "George",
+        "value": 4
+      }
+    ],
+    "normal_transfer_count": [
+      {
+        "name": "Curlo",
+        "value": 8
+      },
+      {
+        "name": "Joe",
+        "value": 6
+      },
+      {
+        "name": "George",
+        "value": 4
+      }
+    ],
+    "transfer_pnl_normal": [
+      {
+        "name": "Curlo",
+        "value": 0
+      },
+      {
+        "name": "George",
+        "value": -1
+      },
+      {
+        "name": "Joe",
+        "value": -1
+      }
+    ],
+    "hit_cost": [
+      {
+        "name": "Curlo",
+        "value": 8
+      },
+      {
+        "name": "George",
+        "value": 0
+      },
+      {
+        "name": "Joe",
+        "value": 0
+      }
+    ],
+    "bench_points": [
+      {
+        "name": "Curlo",
+        "value": 79
+      },
+      {
+        "name": "George",
+        "value": 74
+      },
+      {
+        "name": "Joe",
+        "value": 51
+      }
+    ],
+    "captain_efficiency": [
+      {
+        "name": "George",
+        "value": 65.2
+      },
+      {
+        "name": "Joe",
+        "value": 52.3
+      },
+      {
+        "name": "Curlo",
+        "value": 50
+      }
+    ],
+    "captain_regret": [
+      {
+        "name": "Joe",
+        "value": 41
+      },
+      {
+        "name": "Curlo",
+        "value": 37
+      },
+      {
+        "name": "George",
+        "value": 31
+      }
+    ],
+    "weekly_wins": [
+      {
+        "name": "George",
+        "wins": 4
+      },
+      {
+        "name": "Joe",
+        "wins": 4
+      },
+      {
+        "name": "Curlo",
+        "wins": 0
+      }
+    ],
+    "weekly_winners": {
+      "1": {
+        "winner": "Joe",
+        "score": 59,
+        "rankings": [
+          {
+            "name": "Joe",
+            "net_points": 59
+          },
+          {
+            "name": "George",
+            "net_points": 49
+          },
+          {
+            "name": "Curlo",
+            "net_points": 33
+          }
+        ]
+      },
+      "2": {
+        "winner": "Joe",
+        "score": 91,
+        "rankings": [
+          {
+            "name": "Joe",
+            "net_points": 91
+          },
+          {
+            "name": "George",
+            "net_points": 77
+          },
+          {
+            "name": "Curlo",
+            "net_points": 61
+          }
+        ]
+      },
+      "3": {
+        "winner": "George",
+        "score": 56,
+        "rankings": [
+          {
+            "name": "George",
+            "net_points": 56
+          },
+          {
+            "name": "Joe",
+            "net_points": 51
+          },
+          {
+            "name": "Curlo",
+            "net_points": 44
+          }
+        ]
+      },
+      "4": {
+        "winner": "George",
+        "score": 83,
+        "rankings": [
+          {
+            "name": "George",
+            "net_points": 83
+          },
+          {
+            "name": "Joe",
+            "net_points": 73
+          },
+          {
+            "name": "Curlo",
+            "net_points": 70
+          }
+        ]
+      },
+      "5": {
+        "winner": "George",
+        "score": 74,
+        "rankings": [
+          {
+            "name": "George",
+            "net_points": 74
+          },
+          {
+            "name": "Joe",
+            "net_points": 51
+          },
+          {
+            "name": "Curlo",
+            "net_points": 34
+          }
+        ]
+      },
+      "6": {
+        "winner": "Joe",
+        "score": 100,
+        "rankings": [
+          {
+            "name": "Joe",
+            "net_points": 100
+          },
+          {
+            "name": "George",
+            "net_points": 73
+          },
+          {
+            "name": "Curlo",
+            "net_points": 29
+          }
+        ]
+      },
+      "7": {
+        "winner": "George",
+        "score": 87,
+        "rankings": [
+          {
+            "name": "George",
+            "net_points": 87
+          },
+          {
+            "name": "Curlo",
+            "net_points": 67
+          },
+          {
+            "name": "Joe",
+            "net_points": 54
+          }
+        ]
+      },
+      "8": {
+        "winner": "Joe",
+        "score": 2,
+        "rankings": [
+          {
+            "name": "Joe",
+            "net_points": 2
+          },
+          {
+            "name": "George",
+            "net_points": 0
+          },
+          {
+            "name": "Curlo",
+            "net_points": 0
+          }
+        ]
+      }
+    }
+  },
+  "managers": [
+    {
+      "name": "George",
+      "manager": "George Lane",
+      "entry_id": 8848218,
+      "team_name": "TheRoseGardeb",
+      "total_points": 499,
+      "overall_rank": 438580,
+      "latest_gameweek": 8,
+      "gameweek_points": 0,
+      "transfer_cost": 0,
+      "net_gameweek_points": 0,
+      "points_on_bench": 2,
+      "captain": {
+        "player": "Haaland",
+        "raw_points": 0,
+        "counted_points": 0,
+        "minutes": 0
+      },
+      "vice_captain": {
+        "player": "Mbeumo",
+        "raw_points": 0,
+        "minutes": 0
+      },
+      "active_chip": null,
+      "transfers": [
+        {
+          "gameweek": 8,
+          "chip": null,
+          "in": "Palmer",
+          "in_id": 154,
+          "in_points": 0,
+          "in_minutes": 0,
+          "out": "Semenyo",
+          "out_id": 397,
+          "out_points": 0,
+          "out_minutes": 0,
+          "gross_pl": 0,
+          "time": "2026-10-20T15:40:43.436551Z"
+        },
+        {
+          "gameweek": 8,
+          "chip": null,
+          "in": "King",
+          "in_id": 268,
+          "in_points": 0,
+          "in_minutes": 0,
+          "out": "Szoboszlai",
+          "out_id": 368,
+          "out_points": 0,
+          "out_minutes": 0,
+          "gross_pl": 0,
+          "time": "2026-10-20T15:40:43.440371Z"
+        }
+      ],
+      "transfer_history": [
+        {
+          "gameweek": 3,
+          "chip": null,
+          "in": "Strand Larsen",
+          "in_id": 222,
+          "in_points": 1,
+          "in_minutes": 45,
+          "out": "Mateta",
+          "out_id": 223,
+          "out_points": 0,
+          "out_minutes": 0,
+          "gross_pl": 1,
+          "time": "2026-09-02T05:49:09.304050Z"
+        },
+        {
+          "gameweek": 3,
+          "chip": null,
+          "in": "Cherki",
+          "in_id": 399,
+          "in_points": 3,
+          "in_minutes": 65,
+          "out": "Tzolis",
+          "out_id": 557,
+          "out_points": 5,
+          "out_minutes": 90,
+          "gross_pl": -2,
+          "time": "2026-09-02T05:49:09.309664Z"
+        },
+        {
+          "gameweek": 8,
+          "chip": null,
+          "in": "Palmer",
+          "in_id": 154,
+          "in_points": 0,
+          "in_minutes": 0,
+          "out": "Semenyo",
+          "out_id": 397,
+          "out_points": 0,
+          "out_minutes": 0,
+          "gross_pl": 0,
+          "time": "2026-10-20T15:40:43.436551Z"
+        },
+        {
+          "gameweek": 8,
+          "chip": null,
+          "in": "King",
+          "in_id": 268,
+          "in_points": 0,
+          "in_minutes": 0,
+          "out": "Szoboszlai",
+          "out_id": 368,
+          "out_points": 0,
+          "out_minutes": 0,
+          "gross_pl": 0,
+          "time": "2026-10-20T15:40:43.440371Z"
+        }
+      ],
+      "transfer_summary": {
+        "total_transfers": 4,
+        "normal_transfers": 4,
+        "wildcard_freehit_transfers": 0,
+        "active_transfer_gameweeks": 2,
+        "transfer_gameweeks": [
+          {
+            "gameweek": 3,
+            "count": 2,
+            "chip": null,
+            "transfer_cost": 0,
+            "gross_pl": -1,
+            "net_pl": -1,
+            "transfers": [
+              {
+                "in": "Strand Larsen",
+                "out": "Mateta",
+                "gross_pl": 1
+              },
+              {
+                "in": "Cherki",
+                "out": "Tzolis",
+                "gross_pl": -2
+              }
+            ]
+          },
+          {
+            "gameweek": 8,
+            "count": 2,
+            "chip": null,
+            "transfer_cost": 0,
+            "gross_pl": 0,
+            "net_pl": 0,
+            "transfers": [
+              {
+                "in": "Palmer",
+                "out": "Semenyo",
+                "gross_pl": 0
+              },
+              {
+                "in": "King",
+                "out": "Szoboszlai",
+                "gross_pl": 0
+              }
+            ]
+          }
+        ],
+        "gross_player_points_all": -1,
+        "gross_player_points_normal": -1,
+        "hit_cost": 0,
+        "hit_count_equivalent": 0,
+        "net_pl_all": -1,
+        "net_pl_normal": -1,
+        "best_normal_transfer": {
+          "gameweek": 3,
+          "chip": null,
+          "in": "Strand Larsen",
+          "in_id": 222,
+          "in_points": 1,
+          "in_minutes": 45,
+          "out": "Mateta",
+          "out_id": 223,
+          "out_points": 0,
+          "out_minutes": 0,
+          "gross_pl": 1,
+          "time": "2026-09-02T05:49:09.304050Z"
+        },
+        "worst_normal_transfer": {
+          "gameweek": 3,
+          "chip": null,
+          "in": "Cherki",
+          "in_id": 399,
+          "in_points": 3,
+          "in_minutes": 65,
+          "out": "Tzolis",
+          "out_id": 557,
+          "out_points": 5,
+          "out_minutes": 90,
+          "gross_pl": -2,
+          "time": "2026-09-02T05:49:09.309664Z"
+        },
+        "sub_60_minute_buys": 3,
+        "sub_60_minute_buy_details": [
+          {
+            "gameweek": 3,
+            "chip": null,
+            "in": "Strand Larsen",
+            "in_id": 222,
+            "in_points": 1,
+            "in_minutes": 45,
+            "out": "Mateta",
+            "out_id": 223,
+            "out_points": 0,
+            "out_minutes": 0,
+            "gross_pl": 1,
+            "time": "2026-09-02T05:49:09.304050Z"
+          },
+          {
+            "gameweek": 8,
+            "chip": null,
+            "in": "Palmer",
+            "in_id": 154,
+            "in_points": 0,
+            "in_minutes": 0,
+            "out": "Semenyo",
+            "out_id": 397,
+            "out_points": 0,
+            "out_minutes": 0,
+            "gross_pl": 0,
+            "time": "2026-10-20T15:40:43.436551Z"
+          },
+          {
+            "gameweek": 8,
+            "chip": null,
+            "in": "King",
+            "in_id": 268,
+            "in_points": 0,
+            "in_minutes": 0,
+            "out": "Szoboszlai",
+            "out_id": 368,
+            "out_points": 0,
+            "out_minutes": 0,
+            "gross_pl": 0,
+            "time": "2026-10-20T15:40:43.440371Z"
+          }
+        ]
+      },
+      "transfer_pl": {
+        "gross_player_points": -1,
+        "hit_cost": 0,
+        "net": -1
+      },
+      "captain_history": [
+        {
+          "gameweek": 1,
+          "captain": "Haaland",
+          "captain_points": 2,
+          "captain_minutes": 90,
+          "vice_captain": "Raya",
+          "vice_points": 6,
+          "vice_minutes": 90,
+          "best_starting_player": "Calafiori",
+          "best_starting_points": 9,
+          "captain_points_missed_vs_best_starter": 7,
+          "chip": null
+        },
+        {
+          "gameweek": 2,
+          "captain": "Haaland",
+          "captain_points": 13,
+          "captain_minutes": 90,
+          "vice_captain": "Raya",
+          "vice_points": 6,
+          "vice_minutes": 90,
+          "best_starting_player": "Haaland",
+          "best_starting_points": 13,
+          "captain_points_missed_vs_best_starter": 0,
+          "chip": null
+        },
+        {
+          "gameweek": 3,
+          "captain": "Haaland",
+          "captain_points": 9,
+          "captain_minutes": 90,
+          "vice_captain": "Raya",
+          "vice_points": 3,
+          "vice_minutes": 90,
+          "best_starting_player": "Haaland",
+          "best_starting_points": 9,
+          "captain_points_missed_vs_best_starter": 0,
+          "chip": null
+        },
+        {
+          "gameweek": 4,
+          "captain": "Haaland",
+          "captain_points": 9,
+          "captain_minutes": 90,
+          "vice_captain": "Raya",
+          "vice_points": 14,
+          "vice_minutes": 90,
+          "best_starting_player": "Groß",
+          "best_starting_points": 17,
+          "captain_points_missed_vs_best_starter": 8,
+          "chip": null
+        },
+        {
+          "gameweek": 5,
+          "captain": "Haaland",
+          "captain_points": 6,
+          "captain_minutes": 90,
+          "vice_captain": "Raya",
+          "vice_points": 1,
+          "vice_minutes": 90,
+          "best_starting_player": "Semenyo",
+          "best_starting_points": 17,
+          "captain_points_missed_vs_best_starter": 11,
+          "chip": null
+        },
+        {
+          "gameweek": 6,
+          "captain": "Haaland",
+          "captain_points": 6,
+          "captain_minutes": 79,
+          "vice_captain": "Mbeumo",
+          "vice_points": 8,
+          "vice_minutes": 90,
+          "best_starting_player": "O'Shea",
+          "best_starting_points": 11,
+          "captain_points_missed_vs_best_starter": 5,
+          "chip": null
+        },
+        {
+          "gameweek": 7,
+          "captain": "Haaland",
+          "captain_points": 13,
+          "captain_minutes": 90,
+          "vice_captain": "Mbeumo",
+          "vice_points": 8,
+          "vice_minutes": 90,
+          "best_starting_player": "Haaland",
+          "best_starting_points": 13,
+          "captain_points_missed_vs_best_starter": 0,
+          "chip": "3xc"
+        },
+        {
+          "gameweek": 8,
+          "captain": "Haaland",
+          "captain_points": 0,
+          "captain_minutes": 0,
+          "vice_captain": "Mbeumo",
+          "vice_points": 0,
+          "vice_minutes": 0,
+          "best_starting_player": "Raya",
+          "best_starting_points": 0,
+          "captain_points_missed_vs_best_starter": 0,
+          "chip": null
+        }
+      ],
+      "season_insights": {
+        "gameweeks_played": 8,
+        "average_net_gw_score": 62.4,
+        "best_gameweek": {
+          "gameweek": 7,
+          "points": 87,
+          "hit": 0,
+          "net_points": 87
+        },
+        "worst_gameweek": {
+          "gameweek": 8,
+          "points": 0,
+          "hit": 0,
+          "net_points": 0
+        },
+        "total_bench_points": 74,
+        "average_bench_points": 9.3,
+        "captain_raw_points": 58,
+        "captain_efficiency_pct_vs_best_starter": 65.2,
+        "captain_points_missed_vs_best_starter": 31,
+        "chips_used": [
+          {
+            "name": "3xc",
+            "time": "2026-10-12T20:58:24.905258Z",
+            "event": 7
+          }
+        ]
+      },
+      "bench": [
+        {
+          "player": "Kinsky",
+          "player_id": 496,
+          "position": 12,
+          "raw_points": 0,
+          "multiplier": 0,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": true,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "King",
+          "player_id": 268,
+          "position": 13,
+          "raw_points": 0,
+          "multiplier": 0,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": true,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "O'Shea",
+          "player_id": 304,
+          "position": 14,
+          "raw_points": 2,
+          "multiplier": 0,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": true,
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Shaw",
+          "player_id": 423,
+          "position": 15,
+          "raw_points": 0,
+          "multiplier": 0,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": true,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        }
+      ],
+      "squad": [
+        {
+          "player": "Raya",
+          "player_id": 1,
+          "position": 1,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Calafiori",
+          "player_id": 8,
+          "position": 2,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Virgil",
+          "player_id": 356,
+          "position": 3,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Ajer",
+          "player_id": 87,
+          "position": 4,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Mbeumo",
+          "player_id": 427,
+          "position": 5,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": true,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Groß",
+          "player_id": 124,
+          "position": 6,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Cherki",
+          "player_id": 399,
+          "position": 7,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Palmer",
+          "player_id": 154,
+          "position": 8,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Haaland",
+          "player_id": 411,
+          "position": 9,
+          "raw_points": 0,
+          "multiplier": 2,
+          "counted_points": 0,
+          "captain": true,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Strand Larsen",
+          "player_id": 222,
+          "position": 10,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Calvert-Lewin",
+          "player_id": 346,
+          "position": 11,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Kinsky",
+          "player_id": 496,
+          "position": 12,
+          "raw_points": 0,
+          "multiplier": 0,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": true,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "King",
+          "player_id": 268,
+          "position": 13,
+          "raw_points": 0,
+          "multiplier": 0,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": true,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "O'Shea",
+          "player_id": 304,
+          "position": 14,
+          "raw_points": 2,
+          "multiplier": 0,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": true,
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Shaw",
+          "player_id": 423,
+          "position": 15,
+          "raw_points": 0,
+          "multiplier": 0,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": true,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        }
+      ],
+      "previous_gameweek": {
+        "gameweek": 7,
+        "points": 87,
+        "total_points": 499,
+        "overall_rank": 418224,
+        "transfer_cost": 0,
+        "points_on_bench": 5
+      },
+      "gameweek_history": [
+        {
+          "gameweek": 1,
+          "points": 49,
+          "net_points": 49,
+          "total_points": 49,
+          "overall_rank": 4673927,
+          "transfer_cost": 0,
+          "points_on_bench": 10,
+          "chip": null
+        },
+        {
+          "gameweek": 2,
+          "points": 77,
+          "net_points": 77,
+          "total_points": 126,
+          "overall_rank": 5164662,
+          "transfer_cost": 0,
+          "points_on_bench": 14,
+          "chip": null
+        },
+        {
+          "gameweek": 3,
+          "points": 56,
+          "net_points": 56,
+          "total_points": 182,
+          "overall_rank": 4628571,
+          "transfer_cost": 0,
+          "points_on_bench": 11,
+          "chip": null
+        },
+        {
+          "gameweek": 4,
+          "points": 83,
+          "net_points": 83,
+          "total_points": 265,
+          "overall_rank": 3240522,
+          "transfer_cost": 0,
+          "points_on_bench": 16,
+          "chip": null
+        },
+        {
+          "gameweek": 5,
+          "points": 74,
+          "net_points": 74,
+          "total_points": 339,
+          "overall_rank": 1276195,
+          "transfer_cost": 0,
+          "points_on_bench": 8,
+          "chip": null
+        },
+        {
+          "gameweek": 6,
+          "points": 73,
+          "net_points": 73,
+          "total_points": 412,
+          "overall_rank": 976197,
+          "transfer_cost": 0,
+          "points_on_bench": 8,
+          "chip": null
+        },
+        {
+          "gameweek": 7,
+          "points": 87,
+          "net_points": 87,
+          "total_points": 499,
+          "overall_rank": 418224,
+          "transfer_cost": 0,
+          "points_on_bench": 5,
+          "chip": "3xc"
+        },
+        {
+          "gameweek": 8,
+          "points": 0,
+          "net_points": 0,
+          "total_points": 499,
+          "overall_rank": 438577,
+          "transfer_cost": 0,
+          "points_on_bench": 2,
+          "chip": null
+        }
+      ]
+    },
+    {
+      "name": "Joe",
+      "manager": "Joe Burke",
+      "entry_id": 3926846,
+      "team_name": "Roper To Beat",
+      "total_points": 481,
+      "overall_rank": 998070,
+      "latest_gameweek": 8,
+      "gameweek_points": 2,
+      "transfer_cost": 0,
+      "net_gameweek_points": 2,
+      "points_on_bench": 0,
+      "captain": {
+        "player": "João Pedro",
+        "raw_points": 0,
+        "counted_points": 0,
+        "minutes": 0
+      },
+      "vice_captain": {
+        "player": "Calafiori",
+        "raw_points": 0,
+        "minutes": 0
+      },
+      "active_chip": null,
+      "transfers": [
+        {
+          "gameweek": 8,
+          "chip": null,
+          "in": "Rudoni",
+          "in_id": 183,
+          "in_points": 0,
+          "in_minutes": 0,
+          "out": "Yalcouyé",
+          "out_id": 605,
+          "out_points": 0,
+          "out_minutes": 0,
+          "gross_pl": 0,
+          "time": "2026-10-23T11:16:19.167513Z"
+        }
+      ],
+      "transfer_history": [
+        {
+          "gameweek": 3,
+          "chip": "3xc",
+          "in": "Dedić",
+          "in_id": 593,
+          "in_points": 1,
+          "in_minutes": 90,
+          "out": "Kerkez",
+          "out_id": 358,
+          "out_points": 5,
+          "out_minutes": 90,
+          "gross_pl": -4,
+          "time": "2026-09-02T22:30:50.064920Z"
+        },
+        {
+          "gameweek": 3,
+          "chip": "3xc",
+          "in": "M.Sangaré",
+          "in_id": 565,
+          "in_points": 0,
+          "in_minutes": 45,
+          "out": "Tzolis",
+          "out_id": 557,
+          "out_points": 5,
+          "out_minutes": 90,
+          "gross_pl": -5,
+          "time": "2026-09-02T22:30:50.071610Z"
+        },
+        {
+          "gameweek": 4,
+          "chip": null,
+          "in": "Palmer",
+          "in_id": 154,
+          "in_points": 5,
+          "in_minutes": 90,
+          "out": "Cunha",
+          "out_id": 428,
+          "out_points": 2,
+          "out_minutes": 90,
+          "gross_pl": 3,
+          "time": "2026-09-10T20:46:27.834467Z"
+        },
+        {
+          "gameweek": 5,
+          "chip": "wildcard",
+          "in": "Trafford",
+          "in_id": 385,
+          "in_points": 10,
+          "in_minutes": 90,
+          "out": "Lammens",
+          "out_id": 412,
+          "out_points": 4,
+          "out_minutes": 90,
+          "gross_pl": 6,
+          "time": "2026-09-17T18:53:16.736743Z"
+        },
+        {
+          "gameweek": 5,
+          "chip": "wildcard",
+          "in": "Mykolenko",
+          "in_id": 233,
+          "in_points": 5,
+          "in_minutes": 90,
+          "out": "Gusto",
+          "out_id": 144,
+          "out_points": 0,
+          "out_minutes": 0,
+          "gross_pl": 5,
+          "time": "2026-09-17T18:53:16.736960Z"
+        },
+        {
+          "gameweek": 5,
+          "chip": "wildcard",
+          "in": "De Cuyper",
+          "in_id": 115,
+          "in_points": 6,
+          "in_minutes": 90,
+          "out": "Robertson",
+          "out_id": 502,
+          "out_points": 4,
+          "out_minutes": 90,
+          "gross_pl": 2,
+          "time": "2026-09-17T18:53:16.737126Z"
+        },
+        {
+          "gameweek": 5,
+          "chip": "wildcard",
+          "in": "Konsa",
+          "in_id": 31,
+          "in_points": 1,
+          "in_minutes": 90,
+          "out": "Dedić",
+          "out_id": 593,
+          "out_points": 0,
+          "out_minutes": 0,
+          "gross_pl": 1,
+          "time": "2026-09-17T18:53:16.737330Z"
+        },
+        {
+          "gameweek": 5,
+          "chip": "wildcard",
+          "in": "Gibbs-White",
+          "in_id": 480,
+          "in_points": 2,
+          "in_minutes": 90,
+          "out": "Rayan",
+          "out_id": 67,
+          "out_points": 2,
+          "out_minutes": 87,
+          "gross_pl": 0,
+          "time": "2026-09-17T18:53:16.737492Z"
+        },
+        {
+          "gameweek": 5,
+          "chip": "wildcard",
+          "in": "Rogers",
+          "in_id": 40,
+          "in_points": 2,
+          "in_minutes": 90,
+          "out": "Palmer",
+          "out_id": 154,
+          "out_points": 2,
+          "out_minutes": 90,
+          "gross_pl": 0,
+          "time": "2026-09-17T18:53:16.737668Z"
+        },
+        {
+          "gameweek": 5,
+          "chip": "wildcard",
+          "in": "Gakpo",
+          "in_id": 367,
+          "in_points": 3,
+          "in_minutes": 90,
+          "out": "Szoboszlai",
+          "out_id": 368,
+          "out_points": 2,
+          "out_minutes": 80,
+          "gross_pl": 1,
+          "time": "2026-09-17T18:53:16.737820Z"
+        },
+        {
+          "gameweek": 5,
+          "chip": "wildcard",
+          "in": "Yalcouyé",
+          "in_id": 605,
+          "in_points": 1,
+          "in_minutes": 5,
+          "out": "M.Sangaré",
+          "out_id": 565,
+          "out_points": 0,
+          "out_minutes": 21,
+          "gross_pl": 1,
+          "time": "2026-09-17T18:53:16.737977Z"
+        },
+        {
+          "gameweek": 6,
+          "chip": null,
+          "in": "Cunha",
+          "in_id": 428,
+          "in_points": 10,
+          "in_minutes": 90,
+          "out": "Gakpo",
+          "out_id": 367,
+          "out_points": 0,
+          "out_minutes": 0,
+          "gross_pl": 10,
+          "time": "2026-10-09T23:35:57.748384Z"
+        },
+        {
+          "gameweek": 7,
+          "chip": null,
+          "in": "Solanke",
+          "in_id": 526,
+          "in_points": 4,
+          "in_minutes": 90,
+          "out": "Calvert-Lewin",
+          "out_id": 346,
+          "out_points": 9,
+          "out_minutes": 90,
+          "gross_pl": -5,
+          "time": "2026-10-16T11:22:57.180832Z"
+        },
+        {
+          "gameweek": 8,
+          "chip": null,
+          "in": "Rudoni",
+          "in_id": 183,
+          "in_points": 0,
+          "in_minutes": 0,
+          "out": "Yalcouyé",
+          "out_id": 605,
+          "out_points": 0,
+          "out_minutes": 0,
+          "gross_pl": 0,
+          "time": "2026-10-23T11:16:19.167513Z"
+        }
+      ],
+      "transfer_summary": {
+        "total_transfers": 14,
+        "normal_transfers": 6,
+        "wildcard_freehit_transfers": 8,
+        "active_transfer_gameweeks": 6,
+        "transfer_gameweeks": [
+          {
+            "gameweek": 3,
+            "count": 2,
+            "chip": "3xc",
+            "transfer_cost": 0,
+            "gross_pl": -9,
+            "net_pl": -9,
+            "transfers": [
+              {
+                "in": "Dedić",
+                "out": "Kerkez",
+                "gross_pl": -4
+              },
+              {
+                "in": "M.Sangaré",
+                "out": "Tzolis",
+                "gross_pl": -5
+              }
+            ]
+          },
+          {
+            "gameweek": 4,
+            "count": 1,
+            "chip": null,
+            "transfer_cost": 0,
+            "gross_pl": 3,
+            "net_pl": 3,
+            "transfers": [
+              {
+                "in": "Palmer",
+                "out": "Cunha",
+                "gross_pl": 3
+              }
+            ]
+          },
+          {
+            "gameweek": 5,
+            "count": 8,
+            "chip": "wildcard",
+            "transfer_cost": 0,
+            "gross_pl": 16,
+            "net_pl": 16,
+            "transfers": [
+              {
+                "in": "Trafford",
+                "out": "Lammens",
+                "gross_pl": 6
+              },
+              {
+                "in": "Mykolenko",
+                "out": "Gusto",
+                "gross_pl": 5
+              },
+              {
+                "in": "De Cuyper",
+                "out": "Robertson",
+                "gross_pl": 2
+              },
+              {
+                "in": "Konsa",
+                "out": "Dedić",
+                "gross_pl": 1
+              },
+              {
+                "in": "Gibbs-White",
+                "out": "Rayan",
+                "gross_pl": 0
+              },
+              {
+                "in": "Rogers",
+                "out": "Palmer",
+                "gross_pl": 0
+              },
+              {
+                "in": "Gakpo",
+                "out": "Szoboszlai",
+                "gross_pl": 1
+              },
+              {
+                "in": "Yalcouyé",
+                "out": "M.Sangaré",
+                "gross_pl": 1
+              }
+            ]
+          },
+          {
+            "gameweek": 6,
+            "count": 1,
+            "chip": null,
+            "transfer_cost": 0,
+            "gross_pl": 10,
+            "net_pl": 10,
+            "transfers": [
+              {
+                "in": "Cunha",
+                "out": "Gakpo",
+                "gross_pl": 10
+              }
+            ]
+          },
+          {
+            "gameweek": 7,
+            "count": 1,
+            "chip": null,
+            "transfer_cost": 0,
+            "gross_pl": -5,
+            "net_pl": -5,
+            "transfers": [
+              {
+                "in": "Solanke",
+                "out": "Calvert-Lewin",
+                "gross_pl": -5
+              }
+            ]
+          },
+          {
+            "gameweek": 8,
+            "count": 1,
+            "chip": null,
+            "transfer_cost": 0,
+            "gross_pl": 0,
+            "net_pl": 0,
+            "transfers": [
+              {
+                "in": "Rudoni",
+                "out": "Yalcouyé",
+                "gross_pl": 0
+              }
+            ]
+          }
+        ],
+        "gross_player_points_all": 15,
+        "gross_player_points_normal": -1,
+        "hit_cost": 0,
+        "hit_count_equivalent": 0,
+        "net_pl_all": 15,
+        "net_pl_normal": -1,
+        "best_normal_transfer": {
+          "gameweek": 6,
+          "chip": null,
+          "in": "Cunha",
+          "in_id": 428,
+          "in_points": 10,
+          "in_minutes": 90,
+          "out": "Gakpo",
+          "out_id": 367,
+          "out_points": 0,
+          "out_minutes": 0,
+          "gross_pl": 10,
+          "time": "2026-10-09T23:35:57.748384Z"
+        },
+        "worst_normal_transfer": {
+          "gameweek": 3,
+          "chip": "3xc",
+          "in": "M.Sangaré",
+          "in_id": 565,
+          "in_points": 0,
+          "in_minutes": 45,
+          "out": "Tzolis",
+          "out_id": 557,
+          "out_points": 5,
+          "out_minutes": 90,
+          "gross_pl": -5,
+          "time": "2026-09-02T22:30:50.071610Z"
+        },
+        "sub_60_minute_buys": 2,
+        "sub_60_minute_buy_details": [
+          {
+            "gameweek": 3,
+            "chip": "3xc",
+            "in": "M.Sangaré",
+            "in_id": 565,
+            "in_points": 0,
+            "in_minutes": 45,
+            "out": "Tzolis",
+            "out_id": 557,
+            "out_points": 5,
+            "out_minutes": 90,
+            "gross_pl": -5,
+            "time": "2026-09-02T22:30:50.071610Z"
+          },
+          {
+            "gameweek": 8,
+            "chip": null,
+            "in": "Rudoni",
+            "in_id": 183,
+            "in_points": 0,
+            "in_minutes": 0,
+            "out": "Yalcouyé",
+            "out_id": 605,
+            "out_points": 0,
+            "out_minutes": 0,
+            "gross_pl": 0,
+            "time": "2026-10-23T11:16:19.167513Z"
+          }
+        ]
+      },
+      "transfer_pl": {
+        "gross_player_points": 15,
+        "hit_cost": 0,
+        "net": 15
+      },
+      "captain_history": [
+        {
+          "gameweek": 1,
+          "captain": "Cunha",
+          "captain_points": 2,
+          "captain_minutes": 79,
+          "vice_captain": "Tzolis",
+          "vice_points": 6,
+          "vice_minutes": 75,
+          "best_starting_player": "João Pedro",
+          "best_starting_points": 11,
+          "captain_points_missed_vs_best_starter": 9,
+          "chip": null
+        },
+        {
+          "gameweek": 2,
+          "captain": "Haaland",
+          "captain_points": 13,
+          "captain_minutes": 90,
+          "vice_captain": "João Pedro",
+          "vice_points": 9,
+          "vice_minutes": 90,
+          "best_starting_player": "Cherki",
+          "best_starting_points": 14,
+          "captain_points_missed_vs_best_starter": 1,
+          "chip": null
+        },
+        {
+          "gameweek": 3,
+          "captain": "Haaland",
+          "captain_points": 9,
+          "captain_minutes": 90,
+          "vice_captain": "Cherki",
+          "vice_points": 3,
+          "vice_minutes": 65,
+          "best_starting_player": "Haaland",
+          "best_starting_points": 9,
+          "captain_points_missed_vs_best_starter": 0,
+          "chip": "3xc"
+        },
+        {
+          "gameweek": 4,
+          "captain": "Palmer",
+          "captain_points": 5,
+          "captain_minutes": 90,
+          "vice_captain": "João Pedro",
+          "vice_points": 12,
+          "vice_minutes": 90,
+          "best_starting_player": "João Pedro",
+          "best_starting_points": 12,
+          "captain_points_missed_vs_best_starter": 7,
+          "chip": null
+        },
+        {
+          "gameweek": 5,
+          "captain": "Calvert-Lewin",
+          "captain_points": 2,
+          "captain_minutes": 90,
+          "vice_captain": "Gibbs-White",
+          "vice_points": 2,
+          "vice_minutes": 90,
+          "best_starting_player": "Trafford",
+          "best_starting_points": 10,
+          "captain_points_missed_vs_best_starter": 8,
+          "chip": "wildcard"
+        },
+        {
+          "gameweek": 6,
+          "captain": "Cunha",
+          "captain_points": 10,
+          "captain_minutes": 90,
+          "vice_captain": "João Pedro",
+          "vice_points": 12,
+          "vice_minutes": 71,
+          "best_starting_player": "De Cuyper",
+          "best_starting_points": 15,
+          "captain_points_missed_vs_best_starter": 5,
+          "chip": null
+        },
+        {
+          "gameweek": 7,
+          "captain": "Solanke",
+          "captain_points": 4,
+          "captain_minutes": 90,
+          "vice_captain": "Haaland",
+          "vice_points": 13,
+          "vice_minutes": 90,
+          "best_starting_player": "Haaland",
+          "best_starting_points": 13,
+          "captain_points_missed_vs_best_starter": 9,
+          "chip": null
+        },
+        {
+          "gameweek": 8,
+          "captain": "João Pedro",
+          "captain_points": 0,
+          "captain_minutes": 0,
+          "vice_captain": "Calafiori",
+          "vice_points": 0,
+          "vice_minutes": 0,
+          "best_starting_player": "Gibbs-White",
+          "best_starting_points": 2,
+          "captain_points_missed_vs_best_starter": 2,
+          "chip": null
+        }
+      ],
+      "season_insights": {
+        "gameweeks_played": 8,
+        "average_net_gw_score": 60.1,
+        "best_gameweek": {
+          "gameweek": 6,
+          "points": 100,
+          "hit": 0,
+          "net_points": 100
+        },
+        "worst_gameweek": {
+          "gameweek": 8,
+          "points": 2,
+          "hit": 0,
+          "net_points": 2
+        },
+        "total_bench_points": 51,
+        "average_bench_points": 6.4,
+        "captain_raw_points": 45,
+        "captain_efficiency_pct_vs_best_starter": 52.3,
+        "captain_points_missed_vs_best_starter": 41,
+        "chips_used": [
+          {
+            "name": "3xc",
+            "time": "2026-09-02T22:33:55.688713Z",
+            "event": 3
+          },
+          {
+            "name": "wildcard",
+            "time": "2026-09-17T18:40:23.739747Z",
+            "event": 5
+          }
+        ]
+      },
+      "bench": [
+        {
+          "player": "Verbruggen",
+          "player_id": 109,
+          "position": 12,
+          "raw_points": 0,
+          "multiplier": 0,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": true,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Cunha",
+          "player_id": 428,
+          "position": 13,
+          "raw_points": 0,
+          "multiplier": 0,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": true,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Gvardiol",
+          "player_id": 391,
+          "position": 14,
+          "raw_points": 0,
+          "multiplier": 0,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": true,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Mykolenko",
+          "player_id": 233,
+          "position": 15,
+          "raw_points": 0,
+          "multiplier": 0,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": true,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        }
+      ],
+      "squad": [
+        {
+          "player": "Trafford",
+          "player_id": 385,
+          "position": 1,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Konsa",
+          "player_id": 31,
+          "position": 2,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Calafiori",
+          "player_id": 8,
+          "position": 3,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": true,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "De Cuyper",
+          "player_id": 115,
+          "position": 4,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Gibbs-White",
+          "player_id": 480,
+          "position": 5,
+          "raw_points": 2,
+          "multiplier": 1,
+          "counted_points": 2,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Rogers",
+          "player_id": 40,
+          "position": 6,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Rudoni",
+          "player_id": 183,
+          "position": 7,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Cherki",
+          "player_id": 399,
+          "position": 8,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Solanke",
+          "player_id": 526,
+          "position": 9,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Haaland",
+          "player_id": 411,
+          "position": 10,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "João Pedro",
+          "player_id": 165,
+          "position": 11,
+          "raw_points": 0,
+          "multiplier": 2,
+          "counted_points": 0,
+          "captain": true,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Verbruggen",
+          "player_id": 109,
+          "position": 12,
+          "raw_points": 0,
+          "multiplier": 0,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": true,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Cunha",
+          "player_id": 428,
+          "position": 13,
+          "raw_points": 0,
+          "multiplier": 0,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": true,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Gvardiol",
+          "player_id": 391,
+          "position": 14,
+          "raw_points": 0,
+          "multiplier": 0,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": true,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Mykolenko",
+          "player_id": 233,
+          "position": 15,
+          "raw_points": 0,
+          "multiplier": 0,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": true,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        }
+      ],
+      "previous_gameweek": {
+        "gameweek": 7,
+        "points": 54,
+        "total_points": 479,
+        "overall_rank": 1044712,
+        "transfer_cost": 0,
+        "points_on_bench": 3
+      },
+      "gameweek_history": [
+        {
+          "gameweek": 1,
+          "points": 59,
+          "net_points": 59,
+          "total_points": 59,
+          "overall_rank": 1987556,
+          "transfer_cost": 0,
+          "points_on_bench": 12,
+          "chip": null
+        },
+        {
+          "gameweek": 2,
+          "points": 91,
+          "net_points": 91,
+          "total_points": 150,
+          "overall_rank": 1980790,
+          "transfer_cost": 0,
+          "points_on_bench": 3,
+          "chip": null
+        },
+        {
+          "gameweek": 3,
+          "points": 51,
+          "net_points": 51,
+          "total_points": 201,
+          "overall_rank": 2232825,
+          "transfer_cost": 0,
+          "points_on_bench": 7,
+          "chip": "3xc"
+        },
+        {
+          "gameweek": 4,
+          "points": 73,
+          "net_points": 73,
+          "total_points": 274,
+          "overall_rank": 2451523,
+          "transfer_cost": 0,
+          "points_on_bench": 13,
+          "chip": null
+        },
+        {
+          "gameweek": 5,
+          "points": 51,
+          "net_points": 51,
+          "total_points": 325,
+          "overall_rank": 2254021,
+          "transfer_cost": 0,
+          "points_on_bench": 8,
+          "chip": "wildcard"
+        },
+        {
+          "gameweek": 6,
+          "points": 100,
+          "net_points": 100,
+          "total_points": 425,
+          "overall_rank": 524952,
+          "transfer_cost": 0,
+          "points_on_bench": 5,
+          "chip": null
+        },
+        {
+          "gameweek": 7,
+          "points": 54,
+          "net_points": 54,
+          "total_points": 479,
+          "overall_rank": 1044712,
+          "transfer_cost": 0,
+          "points_on_bench": 3,
+          "chip": null
+        },
+        {
+          "gameweek": 8,
+          "points": 2,
+          "net_points": 2,
+          "total_points": 481,
+          "overall_rank": 998059,
+          "transfer_cost": 0,
+          "points_on_bench": 0,
+          "chip": null
+        }
+      ]
+    },
+    {
+      "name": "Curlo",
+      "manager": "Matthew Shaw",
+      "entry_id": 4909963,
+      "team_name": "Victor Moses Lawn",
+      "total_points": 338,
+      "overall_rank": 8721976,
+      "latest_gameweek": 8,
+      "gameweek_points": 0,
+      "transfer_cost": 0,
+      "net_gameweek_points": 0,
+      "points_on_bench": 8,
+      "captain": {
+        "player": "Haaland",
+        "raw_points": 0,
+        "counted_points": 0,
+        "minutes": 0
+      },
+      "vice_captain": {
+        "player": "Madueke",
+        "raw_points": 0,
+        "minutes": 0
+      },
+      "active_chip": null,
+      "transfers": [
+        {
+          "gameweek": 8,
+          "chip": null,
+          "in": "Madueke",
+          "in_id": 16,
+          "in_points": 0,
+          "in_minutes": 0,
+          "out": "Semenyo",
+          "out_id": 397,
+          "out_points": 0,
+          "out_minutes": 0,
+          "gross_pl": 0,
+          "time": "2026-10-23T15:30:06.076392Z"
+        }
+      ],
+      "transfer_history": [
+        {
+          "gameweek": 3,
+          "chip": "wildcard",
+          "in": "Horníček",
+          "in_id": 567,
+          "in_points": 2,
+          "in_minutes": 90,
+          "out": "Raya",
+          "out_id": 1,
+          "out_points": 3,
+          "out_minutes": 90,
+          "gross_pl": -1,
+          "time": "2026-09-04T15:13:16.886378Z"
+        },
+        {
+          "gameweek": 3,
+          "chip": "wildcard",
+          "in": "Kinsky",
+          "in_id": 496,
+          "in_points": 6,
+          "in_minutes": 90,
+          "out": "Dubravka",
+          "out_id": 497,
+          "out_points": 0,
+          "out_minutes": 0,
+          "gross_pl": 6,
+          "time": "2026-09-04T15:13:16.886598Z"
+        },
+        {
+          "gameweek": 3,
+          "chip": "wildcard",
+          "in": "Calafiori",
+          "in_id": 8,
+          "in_points": 2,
+          "in_minutes": 66,
+          "out": "Gabriel",
+          "out_id": 4,
+          "out_points": 2,
+          "out_minutes": 90,
+          "gross_pl": 0,
+          "time": "2026-09-04T15:13:16.886767Z"
+        },
+        {
+          "gameweek": 3,
+          "chip": "wildcard",
+          "in": "Mosquera",
+          "in_id": 11,
+          "in_points": 0,
+          "in_minutes": 0,
+          "out": "van Ewijk",
+          "out_id": 175,
+          "out_points": 3,
+          "out_minutes": 90,
+          "gross_pl": -3,
+          "time": "2026-09-04T15:13:16.886932Z"
+        },
+        {
+          "gameweek": 3,
+          "chip": "wildcard",
+          "in": "Muharemović",
+          "in_id": 334,
+          "in_points": 4,
+          "in_minutes": 90,
+          "out": "O'Reilly",
+          "out_id": 387,
+          "out_points": 0,
+          "out_minutes": 0,
+          "gross_pl": 4,
+          "time": "2026-09-04T15:13:16.887117Z"
+        },
+        {
+          "gameweek": 3,
+          "chip": "wildcard",
+          "in": "Robinson",
+          "in_id": 254,
+          "in_points": 1,
+          "in_minutes": 78,
+          "out": "Gvardiol",
+          "out_id": 391,
+          "out_points": 8,
+          "out_minutes": 90,
+          "gross_pl": -7,
+          "time": "2026-09-04T15:13:16.887285Z"
+        },
+        {
+          "gameweek": 3,
+          "chip": "wildcard",
+          "in": "B.Fernandes",
+          "in_id": 426,
+          "in_points": 2,
+          "in_minutes": 90,
+          "out": "Rayan",
+          "out_id": 67,
+          "out_points": 2,
+          "out_minutes": 88,
+          "gross_pl": 0,
+          "time": "2026-09-04T15:13:16.887456Z"
+        },
+        {
+          "gameweek": 3,
+          "chip": "wildcard",
+          "in": "Schade",
+          "in_id": 94,
+          "in_points": 2,
+          "in_minutes": 90,
+          "out": "Wirtz",
+          "out_id": 366,
+          "out_points": 3,
+          "out_minutes": 90,
+          "gross_pl": -1,
+          "time": "2026-09-04T15:13:16.887611Z"
+        },
+        {
+          "gameweek": 3,
+          "chip": "wildcard",
+          "in": "Stach",
+          "in_id": 335,
+          "in_points": 2,
+          "in_minutes": 90,
+          "out": "Mbeumo",
+          "out_id": 427,
+          "out_points": 8,
+          "out_minutes": 90,
+          "gross_pl": -6,
+          "time": "2026-09-04T15:13:16.887770Z"
+        },
+        {
+          "gameweek": 3,
+          "chip": "wildcard",
+          "in": "Szoboszlai",
+          "in_id": 368,
+          "in_points": 3,
+          "in_minutes": 90,
+          "out": "Tonali",
+          "out_id": 455,
+          "out_points": 5,
+          "out_minutes": 90,
+          "gross_pl": -2,
+          "time": "2026-09-04T15:13:16.887925Z"
+        },
+        {
+          "gameweek": 3,
+          "chip": "wildcard",
+          "in": "Wissa",
+          "in_id": 464,
+          "in_points": 1,
+          "in_minutes": 90,
+          "out": "Igor Jesus",
+          "out_id": 491,
+          "out_points": 1,
+          "out_minutes": 31,
+          "gross_pl": 0,
+          "time": "2026-09-04T15:13:16.888093Z"
+        },
+        {
+          "gameweek": 4,
+          "chip": null,
+          "in": "Konsa",
+          "in_id": 31,
+          "in_points": 6,
+          "in_minutes": 90,
+          "out": "Mosquera",
+          "out_id": 11,
+          "out_points": 0,
+          "out_minutes": 0,
+          "gross_pl": 6,
+          "time": "2026-09-06T14:32:36.225700Z"
+        },
+        {
+          "gameweek": 5,
+          "chip": null,
+          "in": "N.Williams",
+          "in_id": 469,
+          "in_points": 2,
+          "in_minutes": 90,
+          "out": "Shaw",
+          "out_id": 423,
+          "out_points": 2,
+          "out_minutes": 83,
+          "gross_pl": 0,
+          "time": "2026-09-18T16:47:19.392754Z"
+        },
+        {
+          "gameweek": 5,
+          "chip": null,
+          "in": "M.Sangaré",
+          "in_id": 565,
+          "in_points": 0,
+          "in_minutes": 21,
+          "out": "Szoboszlai",
+          "out_id": 368,
+          "out_points": 2,
+          "out_minutes": 80,
+          "gross_pl": -2,
+          "time": "2026-09-18T16:48:40.870355Z"
+        },
+        {
+          "gameweek": 6,
+          "chip": null,
+          "in": "Groß",
+          "in_id": 124,
+          "in_points": 6,
+          "in_minutes": 90,
+          "out": "Tzolis",
+          "out_id": 557,
+          "out_points": 0,
+          "out_minutes": 0,
+          "gross_pl": 6,
+          "time": "2026-10-03T22:20:24.612987Z"
+        },
+        {
+          "gameweek": 6,
+          "chip": null,
+          "in": "Gyökeres",
+          "in_id": 25,
+          "in_points": 1,
+          "in_minutes": 27,
+          "out": "Wissa",
+          "out_id": 464,
+          "out_points": 2,
+          "out_minutes": 77,
+          "gross_pl": -1,
+          "time": "2026-10-03T22:20:24.617244Z"
+        },
+        {
+          "gameweek": 7,
+          "chip": null,
+          "in": "Brobbey",
+          "in_id": 552,
+          "in_points": 0,
+          "in_minutes": 0,
+          "out": "Gyökeres",
+          "out_id": 25,
+          "out_points": 1,
+          "out_minutes": 24,
+          "gross_pl": -1,
+          "time": "2026-10-16T17:38:54.800831Z"
+        },
+        {
+          "gameweek": 7,
+          "chip": null,
+          "in": "Semenyo",
+          "in_id": 397,
+          "in_points": 1,
+          "in_minutes": 13,
+          "out": "M.Sangaré",
+          "out_id": 565,
+          "out_points": 1,
+          "out_minutes": 45,
+          "gross_pl": 0,
+          "time": "2026-10-16T17:38:54.804629Z"
+        },
+        {
+          "gameweek": 8,
+          "chip": null,
+          "in": "Madueke",
+          "in_id": 16,
+          "in_points": 0,
+          "in_minutes": 0,
+          "out": "Semenyo",
+          "out_id": 397,
+          "out_points": 0,
+          "out_minutes": 0,
+          "gross_pl": 0,
+          "time": "2026-10-23T15:30:06.076392Z"
+        }
+      ],
+      "transfer_summary": {
+        "total_transfers": 19,
+        "normal_transfers": 8,
+        "wildcard_freehit_transfers": 11,
+        "active_transfer_gameweeks": 6,
+        "transfer_gameweeks": [
+          {
+            "gameweek": 3,
+            "count": 11,
+            "chip": "wildcard",
+            "transfer_cost": 0,
+            "gross_pl": -10,
+            "net_pl": -10,
+            "transfers": [
+              {
+                "in": "Horníček",
+                "out": "Raya",
+                "gross_pl": -1
+              },
+              {
+                "in": "Kinsky",
+                "out": "Dubravka",
+                "gross_pl": 6
+              },
+              {
+                "in": "Calafiori",
+                "out": "Gabriel",
+                "gross_pl": 0
+              },
+              {
+                "in": "Mosquera",
+                "out": "van Ewijk",
+                "gross_pl": -3
+              },
+              {
+                "in": "Muharemović",
+                "out": "O'Reilly",
+                "gross_pl": 4
+              },
+              {
+                "in": "Robinson",
+                "out": "Gvardiol",
+                "gross_pl": -7
+              },
+              {
+                "in": "B.Fernandes",
+                "out": "Rayan",
+                "gross_pl": 0
+              },
+              {
+                "in": "Schade",
+                "out": "Wirtz",
+                "gross_pl": -1
+              },
+              {
+                "in": "Stach",
+                "out": "Mbeumo",
+                "gross_pl": -6
+              },
+              {
+                "in": "Szoboszlai",
+                "out": "Tonali",
+                "gross_pl": -2
+              },
+              {
+                "in": "Wissa",
+                "out": "Igor Jesus",
+                "gross_pl": 0
+              }
+            ]
+          },
+          {
+            "gameweek": 4,
+            "count": 1,
+            "chip": null,
+            "transfer_cost": 0,
+            "gross_pl": 6,
+            "net_pl": 6,
+            "transfers": [
+              {
+                "in": "Konsa",
+                "out": "Mosquera",
+                "gross_pl": 6
+              }
+            ]
+          },
+          {
+            "gameweek": 5,
+            "count": 2,
+            "chip": null,
+            "transfer_cost": 0,
+            "gross_pl": -2,
+            "net_pl": -2,
+            "transfers": [
+              {
+                "in": "N.Williams",
+                "out": "Shaw",
+                "gross_pl": 0
+              },
+              {
+                "in": "M.Sangaré",
+                "out": "Szoboszlai",
+                "gross_pl": -2
+              }
+            ]
+          },
+          {
+            "gameweek": 6,
+            "count": 2,
+            "chip": null,
+            "transfer_cost": 4,
+            "gross_pl": 5,
+            "net_pl": 1,
+            "transfers": [
+              {
+                "in": "Groß",
+                "out": "Tzolis",
+                "gross_pl": 6
+              },
+              {
+                "in": "Gyökeres",
+                "out": "Wissa",
+                "gross_pl": -1
+              }
+            ]
+          },
+          {
+            "gameweek": 7,
+            "count": 2,
+            "chip": null,
+            "transfer_cost": 4,
+            "gross_pl": -1,
+            "net_pl": -5,
+            "transfers": [
+              {
+                "in": "Brobbey",
+                "out": "Gyökeres",
+                "gross_pl": -1
+              },
+              {
+                "in": "Semenyo",
+                "out": "M.Sangaré",
+                "gross_pl": 0
+              }
+            ]
+          },
+          {
+            "gameweek": 8,
+            "count": 1,
+            "chip": null,
+            "transfer_cost": 0,
+            "gross_pl": 0,
+            "net_pl": 0,
+            "transfers": [
+              {
+                "in": "Madueke",
+                "out": "Semenyo",
+                "gross_pl": 0
+              }
+            ]
+          }
+        ],
+        "gross_player_points_all": -2,
+        "gross_player_points_normal": 8,
+        "hit_cost": 8,
+        "hit_count_equivalent": 2,
+        "net_pl_all": -10,
+        "net_pl_normal": 0,
+        "best_normal_transfer": {
+          "gameweek": 4,
+          "chip": null,
+          "in": "Konsa",
+          "in_id": 31,
+          "in_points": 6,
+          "in_minutes": 90,
+          "out": "Mosquera",
+          "out_id": 11,
+          "out_points": 0,
+          "out_minutes": 0,
+          "gross_pl": 6,
+          "time": "2026-09-06T14:32:36.225700Z"
+        },
+        "worst_normal_transfer": {
+          "gameweek": 5,
+          "chip": null,
+          "in": "M.Sangaré",
+          "in_id": 565,
+          "in_points": 0,
+          "in_minutes": 21,
+          "out": "Szoboszlai",
+          "out_id": 368,
+          "out_points": 2,
+          "out_minutes": 80,
+          "gross_pl": -2,
+          "time": "2026-09-18T16:48:40.870355Z"
+        },
+        "sub_60_minute_buys": 5,
+        "sub_60_minute_buy_details": [
+          {
+            "gameweek": 5,
+            "chip": null,
+            "in": "M.Sangaré",
+            "in_id": 565,
+            "in_points": 0,
+            "in_minutes": 21,
+            "out": "Szoboszlai",
+            "out_id": 368,
+            "out_points": 2,
+            "out_minutes": 80,
+            "gross_pl": -2,
+            "time": "2026-09-18T16:48:40.870355Z"
+          },
+          {
+            "gameweek": 6,
+            "chip": null,
+            "in": "Gyökeres",
+            "in_id": 25,
+            "in_points": 1,
+            "in_minutes": 27,
+            "out": "Wissa",
+            "out_id": 464,
+            "out_points": 2,
+            "out_minutes": 77,
+            "gross_pl": -1,
+            "time": "2026-10-03T22:20:24.617244Z"
+          },
+          {
+            "gameweek": 7,
+            "chip": null,
+            "in": "Brobbey",
+            "in_id": 552,
+            "in_points": 0,
+            "in_minutes": 0,
+            "out": "Gyökeres",
+            "out_id": 25,
+            "out_points": 1,
+            "out_minutes": 24,
+            "gross_pl": -1,
+            "time": "2026-10-16T17:38:54.800831Z"
+          },
+          {
+            "gameweek": 7,
+            "chip": null,
+            "in": "Semenyo",
+            "in_id": 397,
+            "in_points": 1,
+            "in_minutes": 13,
+            "out": "M.Sangaré",
+            "out_id": 565,
+            "out_points": 1,
+            "out_minutes": 45,
+            "gross_pl": 0,
+            "time": "2026-10-16T17:38:54.804629Z"
+          },
+          {
+            "gameweek": 8,
+            "chip": null,
+            "in": "Madueke",
+            "in_id": 16,
+            "in_points": 0,
+            "in_minutes": 0,
+            "out": "Semenyo",
+            "out_id": 397,
+            "out_points": 0,
+            "out_minutes": 0,
+            "gross_pl": 0,
+            "time": "2026-10-23T15:30:06.076392Z"
+          }
+        ]
+      },
+      "transfer_pl": {
+        "gross_player_points": -2,
+        "hit_cost": 8,
+        "net": -10
+      },
+      "captain_history": [
+        {
+          "gameweek": 1,
+          "captain": "Haaland",
+          "captain_points": 2,
+          "captain_minutes": 90,
+          "vice_captain": "Raya",
+          "vice_points": 6,
+          "vice_minutes": 90,
+          "best_starting_player": "Raya",
+          "best_starting_points": 6,
+          "captain_points_missed_vs_best_starter": 4,
+          "chip": null
+        },
+        {
+          "gameweek": 2,
+          "captain": "Tzolis",
+          "captain_points": 0,
+          "captain_minutes": 45,
+          "vice_captain": "Haaland",
+          "vice_points": 13,
+          "vice_minutes": 90,
+          "best_starting_player": "Haaland",
+          "best_starting_points": 13,
+          "captain_points_missed_vs_best_starter": 13,
+          "chip": null
+        },
+        {
+          "gameweek": 3,
+          "captain": "Haaland",
+          "captain_points": 9,
+          "captain_minutes": 90,
+          "vice_captain": "Tzolis",
+          "vice_points": 5,
+          "vice_minutes": 90,
+          "best_starting_player": "Haaland",
+          "best_starting_points": 9,
+          "captain_points_missed_vs_best_starter": 0,
+          "chip": "wildcard"
+        },
+        {
+          "gameweek": 4,
+          "captain": "Calafiori",
+          "captain_points": 6,
+          "captain_minutes": 90,
+          "vice_captain": "Tzolis",
+          "vice_points": 3,
+          "vice_minutes": 80,
+          "best_starting_player": "Schade",
+          "best_starting_points": 15,
+          "captain_points_missed_vs_best_starter": 9,
+          "chip": null
+        },
+        {
+          "gameweek": 5,
+          "captain": "Haaland",
+          "captain_points": 6,
+          "captain_minutes": 90,
+          "vice_captain": "Tzolis",
+          "vice_points": 2,
+          "vice_minutes": 72,
+          "best_starting_player": "Schade",
+          "best_starting_points": 9,
+          "captain_points_missed_vs_best_starter": 3,
+          "chip": null
+        },
+        {
+          "gameweek": 6,
+          "captain": "Gyökeres",
+          "captain_points": 1,
+          "captain_minutes": 27,
+          "vice_captain": "Groß",
+          "vice_points": 6,
+          "vice_minutes": 90,
+          "best_starting_player": "Calafiori",
+          "best_starting_points": 9,
+          "captain_points_missed_vs_best_starter": 8,
+          "chip": null
+        },
+        {
+          "gameweek": 7,
+          "captain": "Haaland",
+          "captain_points": 13,
+          "captain_minutes": 90,
+          "vice_captain": "Semenyo",
+          "vice_points": 1,
+          "vice_minutes": 13,
+          "best_starting_player": "Haaland",
+          "best_starting_points": 13,
+          "captain_points_missed_vs_best_starter": 0,
+          "chip": null
+        },
+        {
+          "gameweek": 8,
+          "captain": "Haaland",
+          "captain_points": 0,
+          "captain_minutes": 0,
+          "vice_captain": "Madueke",
+          "vice_points": 0,
+          "vice_minutes": 0,
+          "best_starting_player": "Horníček",
+          "best_starting_points": 0,
+          "captain_points_missed_vs_best_starter": 0,
+          "chip": null
+        }
+      ],
+      "season_insights": {
+        "gameweeks_played": 8,
+        "average_net_gw_score": 42.3,
+        "best_gameweek": {
+          "gameweek": 4,
+          "points": 70,
+          "hit": 0,
+          "net_points": 70
+        },
+        "worst_gameweek": {
+          "gameweek": 8,
+          "points": 0,
+          "hit": 0,
+          "net_points": 0
+        },
+        "total_bench_points": 79,
+        "average_bench_points": 9.9,
+        "captain_raw_points": 37,
+        "captain_efficiency_pct_vs_best_starter": 50,
+        "captain_points_missed_vs_best_starter": 37,
+        "chips_used": [
+          {
+            "name": "wildcard",
+            "time": "2026-09-04T15:13:08.708794Z",
+            "event": 3
+          }
+        ]
+      },
+      "bench": [
+        {
+          "player": "Kinsky",
+          "player_id": 496,
+          "position": 12,
+          "raw_points": 0,
+          "multiplier": 0,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": true,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Muharemović",
+          "player_id": 334,
+          "position": 13,
+          "raw_points": 0,
+          "multiplier": 0,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": true,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "N.Williams",
+          "player_id": 469,
+          "position": 14,
+          "raw_points": 8,
+          "multiplier": 0,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": true,
+          "minutes": 83,
+          "goals": 1,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Stach",
+          "player_id": 335,
+          "position": 15,
+          "raw_points": 0,
+          "multiplier": 0,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": true,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        }
+      ],
+      "squad": [
+        {
+          "player": "Horníček",
+          "player_id": 567,
+          "position": 1,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Calafiori",
+          "player_id": 8,
+          "position": 2,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Robinson",
+          "player_id": 254,
+          "position": 3,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Konsa",
+          "player_id": 31,
+          "position": 4,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Groß",
+          "player_id": 124,
+          "position": 5,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Madueke",
+          "player_id": 16,
+          "position": 6,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": true,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Schade",
+          "player_id": 94,
+          "position": 7,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "B.Fernandes",
+          "player_id": 426,
+          "position": 8,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Brobbey",
+          "player_id": 552,
+          "position": 9,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Haaland",
+          "player_id": 411,
+          "position": 10,
+          "raw_points": 0,
+          "multiplier": 2,
+          "counted_points": 0,
+          "captain": true,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Calvert-Lewin",
+          "player_id": 346,
+          "position": 11,
+          "raw_points": 0,
+          "multiplier": 1,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Kinsky",
+          "player_id": 496,
+          "position": 12,
+          "raw_points": 0,
+          "multiplier": 0,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": true,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Muharemović",
+          "player_id": 334,
+          "position": 13,
+          "raw_points": 0,
+          "multiplier": 0,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": true,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "N.Williams",
+          "player_id": 469,
+          "position": 14,
+          "raw_points": 8,
+          "multiplier": 0,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": true,
+          "minutes": 83,
+          "goals": 1,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Stach",
+          "player_id": 335,
+          "position": 15,
+          "raw_points": 0,
+          "multiplier": 0,
+          "counted_points": 0,
+          "captain": false,
+          "vice_captain": false,
+          "bench": true,
+          "minutes": 0,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        }
+      ],
+      "previous_gameweek": {
+        "gameweek": 7,
+        "points": 71,
+        "total_points": 338,
+        "overall_rank": 8707402,
+        "transfer_cost": 4,
+        "points_on_bench": 7
+      },
+      "gameweek_history": [
+        {
+          "gameweek": 1,
+          "points": 33,
+          "net_points": 33,
+          "total_points": 33,
+          "overall_rank": 8210941,
+          "transfer_cost": 0,
+          "points_on_bench": 12,
+          "chip": null
+        },
+        {
+          "gameweek": 2,
+          "points": 61,
+          "net_points": 61,
+          "total_points": 94,
+          "overall_rank": 8394700,
+          "transfer_cost": 0,
+          "points_on_bench": 5,
+          "chip": null
+        },
+        {
+          "gameweek": 3,
+          "points": 44,
+          "net_points": 44,
+          "total_points": 138,
+          "overall_rank": 8546492,
+          "transfer_cost": 0,
+          "points_on_bench": 9,
+          "chip": "wildcard"
+        },
+        {
+          "gameweek": 4,
+          "points": 70,
+          "net_points": 70,
+          "total_points": 208,
+          "overall_rank": 8013975,
+          "transfer_cost": 0,
+          "points_on_bench": 16,
+          "chip": null
+        },
+        {
+          "gameweek": 5,
+          "points": 34,
+          "net_points": 34,
+          "total_points": 242,
+          "overall_rank": 8552512,
+          "transfer_cost": 0,
+          "points_on_bench": 15,
+          "chip": null
+        },
+        {
+          "gameweek": 6,
+          "points": 33,
+          "net_points": 29,
+          "total_points": 271,
+          "overall_rank": 9182435,
+          "transfer_cost": 4,
+          "points_on_bench": 7,
+          "chip": null
+        },
+        {
+          "gameweek": 7,
+          "points": 71,
+          "net_points": 67,
+          "total_points": 338,
+          "overall_rank": 8707402,
+          "transfer_cost": 4,
+          "points_on_bench": 7,
+          "chip": null
+        },
+        {
+          "gameweek": 8,
+          "points": 0,
+          "net_points": 0,
+          "total_points": 338,
+          "overall_rank": 8721930,
+          "transfer_cost": 0,
+          "points_on_bench": 8,
+          "chip": null
+        }
+      ]
+    }
+  ]
+}
