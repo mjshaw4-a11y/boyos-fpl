@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-10-24T16:28:26.562Z",
+  "generated_at": "2026-10-24T18:57:37.201Z",
   "latest_gameweek": 8,
   "events": [
     {
@@ -282,8 +282,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 523,
-      "overall_rank": 579350,
+      "total_points": 522,
+      "overall_rank": 642167,
       "previous_league_rank": 1,
       "rank_change": 0
     },
@@ -295,8 +295,8 @@
       "gameweek_points": 2,
       "transfer_cost": 0,
       "net_gameweek_points": 2,
-      "total_points": 507,
-      "overall_rank": 1104989,
+      "total_points": 509,
+      "overall_rank": 1083563,
       "previous_league_rank": 2,
       "rank_change": 0
     },
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 380,
-      "overall_rank": 7976418,
+      "overall_rank": 8038336,
       "previous_league_rank": 3,
       "rank_change": 0
     }
@@ -346,7 +346,7 @@
     "transfer_pnl_normal": [
       {
         "name": "George",
-        "value": 5
+        "value": 4
       },
       {
         "name": "Curlo",
@@ -580,8 +580,8 @@
       "manager": "George Lane",
       "entry_id": 8848218,
       "team_name": "TheRoseGardeb",
-      "total_points": 523,
-      "overall_rank": 579350,
+      "total_points": 522,
+      "overall_rank": 642167,
       "latest_gameweek": 8,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -605,13 +605,13 @@
           "chip": null,
           "in": "Palmer",
           "in_id": 154,
-          "in_points": 0,
-          "in_minutes": 0,
+          "in_points": -1,
+          "in_minutes": 79,
           "out": "Semenyo",
           "out_id": 397,
           "out_points": 0,
           "out_minutes": 0,
-          "gross_pl": 0,
+          "gross_pl": -1,
           "time": "2026-10-20T15:40:43.436551Z"
         },
         {
@@ -663,13 +663,13 @@
           "chip": null,
           "in": "Palmer",
           "in_id": 154,
-          "in_points": 0,
-          "in_minutes": 0,
+          "in_points": -1,
+          "in_minutes": 79,
           "out": "Semenyo",
           "out_id": 397,
           "out_points": 0,
           "out_minutes": 0,
-          "gross_pl": 0,
+          "gross_pl": -1,
           "time": "2026-10-20T15:40:43.436551Z"
         },
         {
@@ -718,13 +718,13 @@
             "count": 2,
             "chip": null,
             "transfer_cost": 0,
-            "gross_pl": 6,
-            "net_pl": 6,
+            "gross_pl": 5,
+            "net_pl": 5,
             "transfers": [
               {
                 "in": "Palmer",
                 "out": "Semenyo",
-                "gross_pl": 0
+                "gross_pl": -1
               },
               {
                 "in": "King",
@@ -734,12 +734,12 @@
             ]
           }
         ],
-        "gross_player_points_all": 5,
-        "gross_player_points_normal": 5,
+        "gross_player_points_all": 4,
+        "gross_player_points_normal": 4,
         "hit_cost": 0,
         "hit_count_equivalent": 0,
-        "net_pl_all": 5,
-        "net_pl_normal": 5,
+        "net_pl_all": 4,
+        "net_pl_normal": 4,
         "best_normal_transfer": {
           "gameweek": 8,
           "chip": null,
@@ -768,7 +768,7 @@
           "gross_pl": -2,
           "time": "2026-09-02T05:49:09.309664Z"
         },
-        "sub_60_minute_buys": 2,
+        "sub_60_minute_buys": 1,
         "sub_60_minute_buy_details": [
           {
             "gameweek": 3,
@@ -783,27 +783,13 @@
             "out_minutes": 0,
             "gross_pl": 1,
             "time": "2026-09-02T05:49:09.304050Z"
-          },
-          {
-            "gameweek": 8,
-            "chip": null,
-            "in": "Palmer",
-            "in_id": 154,
-            "in_points": 0,
-            "in_minutes": 0,
-            "out": "Semenyo",
-            "out_id": 397,
-            "out_points": 0,
-            "out_minutes": 0,
-            "gross_pl": 0,
-            "time": "2026-10-20T15:40:43.436551Z"
           }
         ]
       },
       "transfer_pl": {
-        "gross_player_points": 5,
+        "gross_player_points": 4,
         "hit_cost": 0,
-        "net": 5
+        "net": 4
       },
       "captain_history": [
         {
@@ -944,17 +930,17 @@
           "player": "Kinsky",
           "player_id": 496,
           "position": 12,
-          "raw_points": 0,
+          "raw_points": 9,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
-          "bonus": 0
+          "clean_sheets": 1,
+          "bonus": 2
         },
         {
           "player": "King",
@@ -1122,13 +1108,13 @@
           "player": "Palmer",
           "player_id": 154,
           "position": 8,
-          "raw_points": 0,
+          "raw_points": -1,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": -1,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 79,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -1186,17 +1172,17 @@
           "player": "Kinsky",
           "player_id": 496,
           "position": 12,
-          "raw_points": 0,
+          "raw_points": 9,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
-          "bonus": 0
+          "clean_sheets": 1,
+          "bonus": 2
         },
         {
           "player": "King",
@@ -1343,8 +1329,8 @@
       "manager": "Joe Burke",
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
-      "total_points": 507,
-      "overall_rank": 1104989,
+      "total_points": 509,
+      "overall_rank": 1083563,
       "latest_gameweek": 8,
       "gameweek_points": 2,
       "transfer_cost": 0,
@@ -2060,13 +2046,13 @@
           "player": "Rogers",
           "player_id": 40,
           "position": 6,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 1,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -2108,13 +2094,13 @@
           "player": "Solanke",
           "player_id": 526,
           "position": 9,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 1,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 25,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -2314,7 +2300,7 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 380,
-      "overall_rank": 7976418,
+      "overall_rank": 8038336,
       "latest_gameweek": 8,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -3016,17 +3002,17 @@
           "player": "Kinsky",
           "player_id": 496,
           "position": 12,
-          "raw_points": 0,
+          "raw_points": 9,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
-          "bonus": 0
+          "clean_sheets": 1,
+          "bonus": 2
         },
         {
           "player": "Muharemović",
@@ -3258,17 +3244,17 @@
           "player": "Kinsky",
           "player_id": 496,
           "position": 12,
-          "raw_points": 0,
+          "raw_points": 9,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
-          "bonus": 0
+          "clean_sheets": 1,
+          "bonus": 2
         },
         {
           "player": "Muharemović",
