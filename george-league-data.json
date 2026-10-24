@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-10-24T21:31:24.622Z",
+  "generated_at": "2026-10-24T23:41:13.449Z",
   "latest_gameweek": 8,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 23,
       "total_points": 522,
-      "overall_rank": 642166,
+      "overall_rank": 632221,
       "previous_league_rank": 1,
       "rank_change": 0
     },
@@ -295,8 +295,8 @@
       "gameweek_points": 30,
       "transfer_cost": 0,
       "net_gameweek_points": 30,
-      "total_points": 509,
-      "overall_rank": 1083561,
+      "total_points": 508,
+      "overall_rank": 1113384,
       "previous_league_rank": 2,
       "rank_change": 0
     },
@@ -308,8 +308,8 @@
       "gameweek_points": 42,
       "transfer_cost": 0,
       "net_gameweek_points": 42,
-      "total_points": 380,
-      "overall_rank": 8038283,
+      "total_points": 379,
+      "overall_rank": 8083280,
       "previous_league_rank": 3,
       "rank_change": 0
     }
@@ -392,21 +392,21 @@
       },
       {
         "name": "Curlo",
-        "value": 50.6
+        "value": 51.1
       },
       {
         "name": "Joe",
-        "value": 45.5
+        "value": 45.9
       }
     ],
     "captain_regret": [
       {
         "name": "Joe",
-        "value": 54
+        "value": 53
       },
       {
         "name": "Curlo",
-        "value": 44
+        "value": 43
       },
       {
         "name": "George",
@@ -581,7 +581,7 @@
       "entry_id": 8848218,
       "team_name": "TheRoseGardeb",
       "total_points": 522,
-      "overall_rank": 642166,
+      "overall_rank": 632221,
       "latest_gameweek": 8,
       "gameweek_points": 23,
       "transfer_cost": 0,
@@ -1329,8 +1329,8 @@
       "manager": "Joe Burke",
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
-      "total_points": 509,
-      "overall_rank": 1083561,
+      "total_points": 508,
+      "overall_rank": 1113384,
       "latest_gameweek": 8,
       "gameweek_points": 30,
       "transfer_cost": 0,
@@ -1857,8 +1857,8 @@
           "vice_points": 1,
           "vice_minutes": 22,
           "best_starting_player": "Konsa",
-          "best_starting_points": 15,
-          "captain_points_missed_vs_best_starter": 15,
+          "best_starting_points": 14,
+          "captain_points_missed_vs_best_starter": 14,
           "chip": null
         }
       ],
@@ -1880,8 +1880,8 @@
         "total_bench_points": 52,
         "average_bench_points": 6.5,
         "captain_raw_points": 45,
-        "captain_efficiency_pct_vs_best_starter": 45.5,
-        "captain_points_missed_vs_best_starter": 54,
+        "captain_efficiency_pct_vs_best_starter": 45.9,
+        "captain_points_missed_vs_best_starter": 53,
         "chips_used": [
           {
             "name": "3xc",
@@ -1982,9 +1982,9 @@
           "player": "Konsa",
           "player_id": 31,
           "position": 2,
-          "raw_points": 15,
+          "raw_points": 14,
           "multiplier": 1,
-          "counted_points": 15,
+          "counted_points": 14,
           "captain": false,
           "vice_captain": false,
           "bench": false,
@@ -1992,7 +1992,7 @@
           "goals": 1,
           "assists": 0,
           "clean_sheets": 1,
-          "bonus": 3
+          "bonus": 2
         },
         {
           "player": "Calafiori",
@@ -2299,8 +2299,8 @@
       "manager": "Matthew Shaw",
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
-      "total_points": 380,
-      "overall_rank": 8038283,
+      "total_points": 379,
+      "overall_rank": 8083280,
       "latest_gameweek": 8,
       "gameweek_points": 42,
       "transfer_cost": 0,
@@ -2964,8 +2964,8 @@
           "vice_points": 3,
           "vice_minutes": 90,
           "best_starting_player": "Konsa",
-          "best_starting_points": 15,
-          "captain_points_missed_vs_best_starter": 7,
+          "best_starting_points": 14,
+          "captain_points_missed_vs_best_starter": 6,
           "chip": null
         }
       ],
@@ -2987,8 +2987,8 @@
         "total_bench_points": 88,
         "average_bench_points": 11,
         "captain_raw_points": 45,
-        "captain_efficiency_pct_vs_best_starter": 50.6,
-        "captain_points_missed_vs_best_starter": 44,
+        "captain_efficiency_pct_vs_best_starter": 51.1,
+        "captain_points_missed_vs_best_starter": 43,
         "chips_used": [
           {
             "name": "wildcard",
@@ -3116,9 +3116,9 @@
           "player": "Konsa",
           "player_id": 31,
           "position": 4,
-          "raw_points": 15,
+          "raw_points": 14,
           "multiplier": 1,
-          "counted_points": 15,
+          "counted_points": 14,
           "captain": false,
           "vice_captain": false,
           "bench": false,
@@ -3126,7 +3126,7 @@
           "goals": 1,
           "assists": 0,
           "clean_sheets": 1,
-          "bonus": 3
+          "bonus": 2
         },
         {
           "player": "Groß",
