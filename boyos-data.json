@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-10-25T14:33:36.943Z",
+  "generated_at": "2026-10-25T14:37:54.169Z",
   "latest_gameweek": 8,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 30,
       "total_points": 508,
-      "overall_rank": 1272542,
+      "overall_rank": 1223125,
       "previous_boyos_rank": 1,
       "rank_change": 0
     },
@@ -295,8 +295,8 @@
       "gameweek_points": 32,
       "transfer_cost": 0,
       "net_gameweek_points": 32,
-      "total_points": 484,
-      "overall_rank": 2478841,
+      "total_points": 482,
+      "overall_rank": 2533241,
       "previous_boyos_rank": 2,
       "rank_change": 0
     },
@@ -308,8 +308,8 @@
       "gameweek_points": 25,
       "transfer_cost": 0,
       "net_gameweek_points": 25,
-      "total_points": 477,
-      "overall_rank": 2921752,
+      "total_points": 475,
+      "overall_rank": 2981246,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -321,8 +321,8 @@
       "gameweek_points": 20,
       "transfer_cost": 0,
       "net_gameweek_points": 20,
-      "total_points": 396,
-      "overall_rank": 7606898,
+      "total_points": 394,
+      "overall_rank": 7662145,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -334,12 +334,1128 @@
       "gameweek_points": 42,
       "transfer_cost": 0,
       "net_gameweek_points": 42,
-      "total_points": 385,
-      "overall_rank": 8064100,
+      "total_points": 383,
+      "overall_rank": 8112931,
       "previous_boyos_rank": 5,
       "rank_change": 0
     }
   ],
+  "live_gameweek": {
+    "Joe": {
+      "played": [],
+      "playing_now": [
+        {
+          "player": "Konsa",
+          "team": "ARS",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "EVE",
+          "home": true,
+          "kickoff_time": "2026-10-24T14:00:00Z",
+          "minutes": 90,
+          "points": 14,
+          "counted_points": 14
+        },
+        {
+          "player": "Calafiori",
+          "team": "ARS",
+          "bench": false,
+          "captain": false,
+          "vice_captain": true,
+          "status": "playing",
+          "opponent": "EVE",
+          "home": true,
+          "kickoff_time": "2026-10-24T14:00:00Z",
+          "minutes": 22,
+          "points": 1,
+          "counted_points": 1
+        },
+        {
+          "player": "De Cuyper",
+          "team": "BHA",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "LIV",
+          "home": false,
+          "kickoff_time": "2026-10-25T14:00:00Z",
+          "minutes": 36,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Gibbs-White",
+          "team": "NFO",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "IPS",
+          "home": false,
+          "kickoff_time": "2026-10-23T19:00:00Z",
+          "minutes": 90,
+          "points": 2,
+          "counted_points": 2
+        },
+        {
+          "player": "Rogers",
+          "team": "CHE",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "TOT",
+          "home": true,
+          "kickoff_time": "2026-10-24T16:30:00Z",
+          "minutes": 90,
+          "points": 1,
+          "counted_points": 1
+        },
+        {
+          "player": "Rudoni",
+          "team": "COV",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "FUL",
+          "home": true,
+          "kickoff_time": "2026-10-24T14:00:00Z",
+          "minutes": 90,
+          "points": 2,
+          "counted_points": 2
+        },
+        {
+          "player": "Cherki",
+          "team": "MCI",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "AVL",
+          "home": false,
+          "kickoff_time": "2026-10-24T11:30:00Z",
+          "minutes": 45,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Solanke",
+          "team": "TOT",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "CHE",
+          "home": false,
+          "kickoff_time": "2026-10-24T16:30:00Z",
+          "minutes": 25,
+          "points": 1,
+          "counted_points": 1
+        },
+        {
+          "player": "Haaland",
+          "team": "MCI",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "AVL",
+          "home": false,
+          "kickoff_time": "2026-10-24T11:30:00Z",
+          "minutes": 90,
+          "points": 8,
+          "counted_points": 8
+        },
+        {
+          "player": "João Pedro",
+          "team": "CHE",
+          "bench": false,
+          "captain": true,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "TOT",
+          "home": true,
+          "kickoff_time": "2026-10-24T16:30:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Verbruggen",
+          "team": "BHA",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "LIV",
+          "home": false,
+          "kickoff_time": "2026-10-25T14:00:00Z",
+          "minutes": 36,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Cunha",
+          "team": "MUN",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "BOU",
+          "home": true,
+          "kickoff_time": "2026-10-25T14:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Gvardiol",
+          "team": "MCI",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "AVL",
+          "home": false,
+          "kickoff_time": "2026-10-24T11:30:00Z",
+          "minutes": 90,
+          "points": 1,
+          "counted_points": 0
+        },
+        {
+          "player": "Mykolenko",
+          "team": "EVE",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "ARS",
+          "home": false,
+          "kickoff_time": "2026-10-24T14:00:00Z",
+          "minutes": 73,
+          "points": 0,
+          "counted_points": 0
+        }
+      ],
+      "still_to_play": [
+        {
+          "player": "Trafford",
+          "team": "LEE",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "to_play",
+          "opponent": "SUN",
+          "home": false,
+          "kickoff_time": "2026-10-25T16:30:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        }
+      ],
+      "captain": "João Pedro",
+      "gameweek_points": 30,
+      "bench_points": 1,
+      "starters_played": 0,
+      "starters_playing_now": 10,
+      "starters_still_to_play": 1
+    },
+    "Manny": {
+      "played": [],
+      "playing_now": [
+        {
+          "player": "Verbruggen",
+          "team": "BHA",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "LIV",
+          "home": false,
+          "kickoff_time": "2026-10-25T14:00:00Z",
+          "minutes": 36,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Konsa",
+          "team": "ARS",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "EVE",
+          "home": true,
+          "kickoff_time": "2026-10-24T14:00:00Z",
+          "minutes": 90,
+          "points": 14,
+          "counted_points": 14
+        },
+        {
+          "player": "Gvardiol",
+          "team": "MCI",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "AVL",
+          "home": false,
+          "kickoff_time": "2026-10-24T11:30:00Z",
+          "minutes": 90,
+          "points": 1,
+          "counted_points": 1
+        },
+        {
+          "player": "Calafiori",
+          "team": "ARS",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "EVE",
+          "home": true,
+          "kickoff_time": "2026-10-24T14:00:00Z",
+          "minutes": 22,
+          "points": 1,
+          "counted_points": 1
+        },
+        {
+          "player": "M.Sangaré",
+          "team": "BRE",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "HUL",
+          "home": false,
+          "kickoff_time": "2026-10-25T14:00:00Z",
+          "minutes": 35,
+          "points": 1,
+          "counted_points": 1
+        },
+        {
+          "player": "Palmer",
+          "team": "CHE",
+          "bench": false,
+          "captain": false,
+          "vice_captain": true,
+          "status": "playing",
+          "opponent": "TOT",
+          "home": true,
+          "kickoff_time": "2026-10-24T16:30:00Z",
+          "minutes": 79,
+          "points": -1,
+          "counted_points": -1
+        },
+        {
+          "player": "Groß",
+          "team": "BHA",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "LIV",
+          "home": false,
+          "kickoff_time": "2026-10-25T14:00:00Z",
+          "minutes": 36,
+          "points": -1,
+          "counted_points": -1
+        },
+        {
+          "player": "B.Fernandes",
+          "team": "MUN",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "BOU",
+          "home": true,
+          "kickoff_time": "2026-10-25T14:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Haaland",
+          "team": "MCI",
+          "bench": false,
+          "captain": true,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "AVL",
+          "home": false,
+          "kickoff_time": "2026-10-24T11:30:00Z",
+          "minutes": 90,
+          "points": 8,
+          "counted_points": 16
+        },
+        {
+          "player": "Wissa",
+          "team": "NEW",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "CRY",
+          "home": false,
+          "kickoff_time": "2026-10-25T14:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "João Pedro",
+          "team": "CHE",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "TOT",
+          "home": true,
+          "kickoff_time": "2026-10-24T16:30:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Dubravka",
+          "team": "TOT",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "CHE",
+          "home": false,
+          "kickoff_time": "2026-10-24T16:30:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Shaw",
+          "team": "MUN",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "BOU",
+          "home": true,
+          "kickoff_time": "2026-10-25T14:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Diop",
+          "team": "IPS",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "NFO",
+          "home": true,
+          "kickoff_time": "2026-10-23T19:00:00Z",
+          "minutes": 90,
+          "points": 1,
+          "counted_points": 0
+        },
+        {
+          "player": "Hughes",
+          "team": "CRY",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "NEW",
+          "home": true,
+          "kickoff_time": "2026-10-25T14:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        }
+      ],
+      "still_to_play": [],
+      "captain": "Haaland",
+      "gameweek_points": 32,
+      "bench_points": 1,
+      "starters_played": 0,
+      "starters_playing_now": 11,
+      "starters_still_to_play": 0
+    },
+    "Dave": {
+      "played": [],
+      "playing_now": [
+        {
+          "player": "Verbruggen",
+          "team": "BHA",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "LIV",
+          "home": false,
+          "kickoff_time": "2026-10-25T14:00:00Z",
+          "minutes": 36,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Calafiori",
+          "team": "ARS",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "EVE",
+          "home": true,
+          "kickoff_time": "2026-10-24T14:00:00Z",
+          "minutes": 22,
+          "points": 1,
+          "counted_points": 1
+        },
+        {
+          "player": "Konsa",
+          "team": "ARS",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "EVE",
+          "home": true,
+          "kickoff_time": "2026-10-24T14:00:00Z",
+          "minutes": 90,
+          "points": 14,
+          "counted_points": 14
+        },
+        {
+          "player": "Groß",
+          "team": "BHA",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "LIV",
+          "home": false,
+          "kickoff_time": "2026-10-25T14:00:00Z",
+          "minutes": 36,
+          "points": -1,
+          "counted_points": -1
+        },
+        {
+          "player": "Cherki",
+          "team": "MCI",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "AVL",
+          "home": false,
+          "kickoff_time": "2026-10-24T11:30:00Z",
+          "minutes": 45,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Palmer",
+          "team": "CHE",
+          "bench": false,
+          "captain": false,
+          "vice_captain": true,
+          "status": "playing",
+          "opponent": "TOT",
+          "home": true,
+          "kickoff_time": "2026-10-24T16:30:00Z",
+          "minutes": 79,
+          "points": -1,
+          "counted_points": -1
+        },
+        {
+          "player": "Barnes",
+          "team": "NEW",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "CRY",
+          "home": false,
+          "kickoff_time": "2026-10-25T14:00:00Z",
+          "minutes": 36,
+          "points": 1,
+          "counted_points": 1
+        },
+        {
+          "player": "Gonzalo",
+          "team": "FUL",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "COV",
+          "home": false,
+          "kickoff_time": "2026-10-24T14:00:00Z",
+          "minutes": 73,
+          "points": 2,
+          "counted_points": 2
+        },
+        {
+          "player": "Haaland",
+          "team": "MCI",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "AVL",
+          "home": false,
+          "kickoff_time": "2026-10-24T11:30:00Z",
+          "minutes": 90,
+          "points": 8,
+          "counted_points": 8
+        },
+        {
+          "player": "João Pedro",
+          "team": "CHE",
+          "bench": false,
+          "captain": true,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "TOT",
+          "home": true,
+          "kickoff_time": "2026-10-24T16:30:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Kinsky",
+          "team": "TOT",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "CHE",
+          "home": false,
+          "kickoff_time": "2026-10-24T16:30:00Z",
+          "minutes": 90,
+          "points": 9,
+          "counted_points": 0
+        },
+        {
+          "player": "Manzambi",
+          "team": "AVL",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "MCI",
+          "home": true,
+          "kickoff_time": "2026-10-24T11:30:00Z",
+          "minutes": 65,
+          "points": 1,
+          "counted_points": 0
+        },
+        {
+          "player": "De Cuyper",
+          "team": "BHA",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "LIV",
+          "home": false,
+          "kickoff_time": "2026-10-25T14:00:00Z",
+          "minutes": 36,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Gvardiol",
+          "team": "MCI",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "AVL",
+          "home": false,
+          "kickoff_time": "2026-10-24T11:30:00Z",
+          "minutes": 90,
+          "points": 1,
+          "counted_points": 0
+        }
+      ],
+      "still_to_play": [
+        {
+          "player": "Muharemović",
+          "team": "LEE",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "to_play",
+          "opponent": "SUN",
+          "home": false,
+          "kickoff_time": "2026-10-25T16:30:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        }
+      ],
+      "captain": "João Pedro",
+      "gameweek_points": 25,
+      "bench_points": 11,
+      "starters_played": 0,
+      "starters_playing_now": 10,
+      "starters_still_to_play": 1
+    },
+    "Ben": {
+      "played": [],
+      "playing_now": [
+        {
+          "player": "A.Becker",
+          "team": "LIV",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "BHA",
+          "home": true,
+          "kickoff_time": "2026-10-25T14:00:00Z",
+          "minutes": 36,
+          "points": 1,
+          "counted_points": 1
+        },
+        {
+          "player": "De Cuyper",
+          "team": "BHA",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "LIV",
+          "home": false,
+          "kickoff_time": "2026-10-25T14:00:00Z",
+          "minutes": 36,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Hill",
+          "team": "BOU",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "MUN",
+          "home": false,
+          "kickoff_time": "2026-10-25T14:00:00Z",
+          "minutes": 36,
+          "points": 3,
+          "counted_points": 3
+        },
+        {
+          "player": "Guéhi",
+          "team": "MCI",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "AVL",
+          "home": false,
+          "kickoff_time": "2026-10-24T11:30:00Z",
+          "minutes": 45,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "O'Reilly",
+          "team": "MCI",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "AVL",
+          "home": false,
+          "kickoff_time": "2026-10-24T11:30:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Rogers",
+          "team": "CHE",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "TOT",
+          "home": true,
+          "kickoff_time": "2026-10-24T16:30:00Z",
+          "minutes": 90,
+          "points": 1,
+          "counted_points": 1
+        },
+        {
+          "player": "Ødegaard",
+          "team": "ARS",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "EVE",
+          "home": true,
+          "kickoff_time": "2026-10-24T14:00:00Z",
+          "minutes": 90,
+          "points": 3,
+          "counted_points": 3
+        },
+        {
+          "player": "Groß",
+          "team": "BHA",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "LIV",
+          "home": false,
+          "kickoff_time": "2026-10-25T14:00:00Z",
+          "minutes": 36,
+          "points": -1,
+          "counted_points": -1
+        },
+        {
+          "player": "Haaland",
+          "team": "MCI",
+          "bench": false,
+          "captain": true,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "AVL",
+          "home": false,
+          "kickoff_time": "2026-10-24T11:30:00Z",
+          "minutes": 90,
+          "points": 8,
+          "counted_points": 16
+        },
+        {
+          "player": "João Pedro",
+          "team": "CHE",
+          "bench": false,
+          "captain": false,
+          "vice_captain": true,
+          "status": "playing",
+          "opponent": "TOT",
+          "home": true,
+          "kickoff_time": "2026-10-24T16:30:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Dewsbury-Hall",
+          "team": "EVE",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "ARS",
+          "home": false,
+          "kickoff_time": "2026-10-24T14:00:00Z",
+          "minutes": 85,
+          "points": 2,
+          "counted_points": 0
+        },
+        {
+          "player": "Barry",
+          "team": "EVE",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "ARS",
+          "home": false,
+          "kickoff_time": "2026-10-24T14:00:00Z",
+          "minutes": 90,
+          "points": 2,
+          "counted_points": 0
+        }
+      ],
+      "still_to_play": [
+        {
+          "player": "Stach",
+          "team": "LEE",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "to_play",
+          "opponent": "SUN",
+          "home": false,
+          "kickoff_time": "2026-10-25T16:30:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Trafford",
+          "team": "LEE",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "to_play",
+          "opponent": "SUN",
+          "home": false,
+          "kickoff_time": "2026-10-25T16:30:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Rodon",
+          "team": "LEE",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "to_play",
+          "opponent": "SUN",
+          "home": false,
+          "kickoff_time": "2026-10-25T16:30:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        }
+      ],
+      "captain": "Haaland",
+      "gameweek_points": 20,
+      "bench_points": 4,
+      "starters_played": 0,
+      "starters_playing_now": 10,
+      "starters_still_to_play": 1
+    },
+    "Curlo": {
+      "played": [],
+      "playing_now": [
+        {
+          "player": "Horníček",
+          "team": "NEW",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "CRY",
+          "home": false,
+          "kickoff_time": "2026-10-25T14:00:00Z",
+          "minutes": 36,
+          "points": 4,
+          "counted_points": 4
+        },
+        {
+          "player": "Calafiori",
+          "team": "ARS",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "EVE",
+          "home": true,
+          "kickoff_time": "2026-10-24T14:00:00Z",
+          "minutes": 22,
+          "points": 1,
+          "counted_points": 1
+        },
+        {
+          "player": "Robinson",
+          "team": "FUL",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "COV",
+          "home": false,
+          "kickoff_time": "2026-10-24T14:00:00Z",
+          "minutes": 90,
+          "points": 7,
+          "counted_points": 7
+        },
+        {
+          "player": "Konsa",
+          "team": "ARS",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "EVE",
+          "home": true,
+          "kickoff_time": "2026-10-24T14:00:00Z",
+          "minutes": 90,
+          "points": 14,
+          "counted_points": 14
+        },
+        {
+          "player": "Groß",
+          "team": "BHA",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "LIV",
+          "home": false,
+          "kickoff_time": "2026-10-25T14:00:00Z",
+          "minutes": 36,
+          "points": -1,
+          "counted_points": -1
+        },
+        {
+          "player": "Madueke",
+          "team": "ARS",
+          "bench": false,
+          "captain": false,
+          "vice_captain": true,
+          "status": "playing",
+          "opponent": "EVE",
+          "home": true,
+          "kickoff_time": "2026-10-24T14:00:00Z",
+          "minutes": 90,
+          "points": 3,
+          "counted_points": 3
+        },
+        {
+          "player": "Schade",
+          "team": "BRE",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "HUL",
+          "home": false,
+          "kickoff_time": "2026-10-25T14:00:00Z",
+          "minutes": 35,
+          "points": 1,
+          "counted_points": 1
+        },
+        {
+          "player": "B.Fernandes",
+          "team": "MUN",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "BOU",
+          "home": true,
+          "kickoff_time": "2026-10-25T14:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Haaland",
+          "team": "MCI",
+          "bench": false,
+          "captain": true,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "AVL",
+          "home": false,
+          "kickoff_time": "2026-10-24T11:30:00Z",
+          "minutes": 90,
+          "points": 8,
+          "counted_points": 16
+        },
+        {
+          "player": "Kinsky",
+          "team": "TOT",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "CHE",
+          "home": false,
+          "kickoff_time": "2026-10-24T16:30:00Z",
+          "minutes": 90,
+          "points": 9,
+          "counted_points": 0
+        },
+        {
+          "player": "N.Williams",
+          "team": "NFO",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "IPS",
+          "home": false,
+          "kickoff_time": "2026-10-23T19:00:00Z",
+          "minutes": 83,
+          "points": 8,
+          "counted_points": 0
+        }
+      ],
+      "still_to_play": [
+        {
+          "player": "Brobbey",
+          "team": "SUN",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "to_play",
+          "opponent": "LEE",
+          "home": true,
+          "kickoff_time": "2026-10-25T16:30:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Calvert-Lewin",
+          "team": "LEE",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "to_play",
+          "opponent": "SUN",
+          "home": false,
+          "kickoff_time": "2026-10-25T16:30:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Muharemović",
+          "team": "LEE",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "to_play",
+          "opponent": "SUN",
+          "home": false,
+          "kickoff_time": "2026-10-25T16:30:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Stach",
+          "team": "LEE",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "to_play",
+          "opponent": "SUN",
+          "home": false,
+          "kickoff_time": "2026-10-25T16:30:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        }
+      ],
+      "captain": "Haaland",
+      "gameweek_points": 42,
+      "bench_points": 17,
+      "starters_played": 0,
+      "starters_playing_now": 9,
+      "starters_still_to_play": 2
+    }
+  },
   "league_insights": {
     "transfer_count": [
       {
@@ -731,7 +1847,7 @@
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
       "total_points": 508,
-      "overall_rank": 1272542,
+      "overall_rank": 1223125,
       "latest_gameweek": 8,
       "gameweek_points": 30,
       "transfer_cost": 0,
@@ -749,6 +1865,229 @@
         "minutes": 22
       },
       "active_chip": null,
+      "live_summary": {
+        "played": [],
+        "playing_now": [
+          {
+            "player": "Konsa",
+            "team": "ARS",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "EVE",
+            "home": true,
+            "kickoff_time": "2026-10-24T14:00:00Z",
+            "minutes": 90,
+            "points": 14,
+            "counted_points": 14
+          },
+          {
+            "player": "Calafiori",
+            "team": "ARS",
+            "bench": false,
+            "captain": false,
+            "vice_captain": true,
+            "status": "playing",
+            "opponent": "EVE",
+            "home": true,
+            "kickoff_time": "2026-10-24T14:00:00Z",
+            "minutes": 22,
+            "points": 1,
+            "counted_points": 1
+          },
+          {
+            "player": "De Cuyper",
+            "team": "BHA",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "LIV",
+            "home": false,
+            "kickoff_time": "2026-10-25T14:00:00Z",
+            "minutes": 36,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Gibbs-White",
+            "team": "NFO",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "IPS",
+            "home": false,
+            "kickoff_time": "2026-10-23T19:00:00Z",
+            "minutes": 90,
+            "points": 2,
+            "counted_points": 2
+          },
+          {
+            "player": "Rogers",
+            "team": "CHE",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "TOT",
+            "home": true,
+            "kickoff_time": "2026-10-24T16:30:00Z",
+            "minutes": 90,
+            "points": 1,
+            "counted_points": 1
+          },
+          {
+            "player": "Rudoni",
+            "team": "COV",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "FUL",
+            "home": true,
+            "kickoff_time": "2026-10-24T14:00:00Z",
+            "minutes": 90,
+            "points": 2,
+            "counted_points": 2
+          },
+          {
+            "player": "Cherki",
+            "team": "MCI",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "AVL",
+            "home": false,
+            "kickoff_time": "2026-10-24T11:30:00Z",
+            "minutes": 45,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Solanke",
+            "team": "TOT",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "CHE",
+            "home": false,
+            "kickoff_time": "2026-10-24T16:30:00Z",
+            "minutes": 25,
+            "points": 1,
+            "counted_points": 1
+          },
+          {
+            "player": "Haaland",
+            "team": "MCI",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "AVL",
+            "home": false,
+            "kickoff_time": "2026-10-24T11:30:00Z",
+            "minutes": 90,
+            "points": 8,
+            "counted_points": 8
+          },
+          {
+            "player": "João Pedro",
+            "team": "CHE",
+            "bench": false,
+            "captain": true,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "TOT",
+            "home": true,
+            "kickoff_time": "2026-10-24T16:30:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Verbruggen",
+            "team": "BHA",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "LIV",
+            "home": false,
+            "kickoff_time": "2026-10-25T14:00:00Z",
+            "minutes": 36,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Cunha",
+            "team": "MUN",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "BOU",
+            "home": true,
+            "kickoff_time": "2026-10-25T14:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Gvardiol",
+            "team": "MCI",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "AVL",
+            "home": false,
+            "kickoff_time": "2026-10-24T11:30:00Z",
+            "minutes": 90,
+            "points": 1,
+            "counted_points": 0
+          },
+          {
+            "player": "Mykolenko",
+            "team": "EVE",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "ARS",
+            "home": false,
+            "kickoff_time": "2026-10-24T14:00:00Z",
+            "minutes": 73,
+            "points": 0,
+            "counted_points": 0
+          }
+        ],
+        "still_to_play": [
+          {
+            "player": "Trafford",
+            "team": "LEE",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "to_play",
+            "opponent": "SUN",
+            "home": false,
+            "kickoff_time": "2026-10-25T16:30:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          }
+        ],
+        "captain": "João Pedro",
+        "gameweek_points": 30,
+        "bench_points": 1,
+        "starters_played": 0,
+        "starters_playing_now": 10,
+        "starters_still_to_play": 1
+      },
       "transfers": [
         {
           "gameweek": 8,
@@ -966,196 +2305,11 @@
       "transfer_summary": {
         "total_transfers": 14,
         "normal_transfers": 6,
-        "wildcard_freehit_transfers": 8,
-        "active_transfer_gameweeks": 6,
-        "transfer_gameweeks": [
-          {
-            "gameweek": 3,
-            "count": 2,
-            "chip": "3xc",
-            "transfer_cost": 0,
-            "gross_pl": -9,
-            "net_pl": -9,
-            "transfers": [
-              {
-                "in": "Dedić",
-                "out": "Kerkez",
-                "gross_pl": -4
-              },
-              {
-                "in": "M.Sangaré",
-                "out": "Tzolis",
-                "gross_pl": -5
-              }
-            ]
-          },
-          {
-            "gameweek": 4,
-            "count": 1,
-            "chip": null,
-            "transfer_cost": 0,
-            "gross_pl": 3,
-            "net_pl": 3,
-            "transfers": [
-              {
-                "in": "Palmer",
-                "out": "Cunha",
-                "gross_pl": 3
-              }
-            ]
-          },
-          {
-            "gameweek": 5,
-            "count": 8,
-            "chip": "wildcard",
-            "transfer_cost": 0,
-            "gross_pl": 16,
-            "net_pl": 16,
-            "transfers": [
-              {
-                "in": "Trafford",
-                "out": "Lammens",
-                "gross_pl": 6
-              },
-              {
-                "in": "Mykolenko",
-                "out": "Gusto",
-                "gross_pl": 5
-              },
-              {
-                "in": "De Cuyper",
-                "out": "Robertson",
-                "gross_pl": 2
-              },
-              {
-                "in": "Konsa",
-                "out": "Dedić",
-                "gross_pl": 1
-              },
-              {
-                "in": "Gibbs-White",
-                "out": "Rayan",
-                "gross_pl": 0
-              },
-              {
-                "in": "Rogers",
-                "out": "Palmer",
-                "gross_pl": 0
-              },
-              {
-                "in": "Gakpo",
-                "out": "Szoboszlai",
-                "gross_pl": 1
-              },
-              {
-                "in": "Yalcouyé",
-                "out": "M.Sangaré",
-                "gross_pl": 1
-              }
-            ]
-          },
-          {
-            "gameweek": 6,
-            "count": 1,
-            "chip": null,
-            "transfer_cost": 0,
-            "gross_pl": 10,
-            "net_pl": 10,
-            "transfers": [
-              {
-                "in": "Cunha",
-                "out": "Gakpo",
-                "gross_pl": 10
-              }
-            ]
-          },
-          {
-            "gameweek": 7,
-            "count": 1,
-            "chip": null,
-            "transfer_cost": 0,
-            "gross_pl": -5,
-            "net_pl": -5,
-            "transfers": [
-              {
-                "in": "Solanke",
-                "out": "Calvert-Lewin",
-                "gross_pl": -5
-              }
-            ]
-          },
-          {
-            "gameweek": 8,
-            "count": 1,
-            "chip": null,
-            "transfer_cost": 0,
-            "gross_pl": 2,
-            "net_pl": 2,
-            "transfers": [
-              {
-                "in": "Rudoni",
-                "out": "Yalcouyé",
-                "gross_pl": 2
-              }
-            ]
-          }
-        ],
+        "hit_cost": 0,
         "gross_player_points_all": 17,
         "gross_player_points_normal": 1,
-        "hit_cost": 0,
-        "hit_count_equivalent": 0,
         "net_pl_all": 17,
-        "net_pl_normal": 1,
-        "best_normal_transfer": {
-          "gameweek": 6,
-          "chip": null,
-          "in": "Cunha",
-          "in_id": 428,
-          "in_points": 10,
-          "in_minutes": 90,
-          "out": "Gakpo",
-          "out_id": 367,
-          "out_points": 0,
-          "out_minutes": 0,
-          "gross_pl": 10,
-          "time": "2026-10-09T23:35:57.748384Z"
-        },
-        "worst_normal_transfer": {
-          "gameweek": 3,
-          "chip": "3xc",
-          "in": "M.Sangaré",
-          "in_id": 565,
-          "in_points": 0,
-          "in_minutes": 45,
-          "out": "Tzolis",
-          "out_id": 557,
-          "out_points": 5,
-          "out_minutes": 90,
-          "gross_pl": -5,
-          "time": "2026-09-02T22:30:50.071610Z"
-        },
-        "sub_60_minute_buys": 1,
-        "sub_60_minute_buy_details": [
-          {
-            "gameweek": 3,
-            "chip": "3xc",
-            "in": "M.Sangaré",
-            "in_id": 565,
-            "in_points": 0,
-            "in_minutes": 45,
-            "out": "Tzolis",
-            "out_id": 557,
-            "out_points": 5,
-            "out_minutes": 90,
-            "gross_pl": -5,
-            "time": "2026-09-02T22:30:50.071610Z"
-          }
-        ]
-      },
-      "transfer_pl": {
-        "gross_player_points": 17,
-        "hit_cost": 0,
-        "net": 17
+        "net_pl_normal": 1
       },
       "captain_history": [
         {
@@ -1165,7 +2319,6 @@
           "captain_minutes": 79,
           "vice_captain": "Tzolis",
           "vice_points": 6,
-          "vice_minutes": 75,
           "best_starting_player": "João Pedro",
           "best_starting_points": 11,
           "captain_points_missed_vs_best_starter": 9,
@@ -1178,7 +2331,6 @@
           "captain_minutes": 90,
           "vice_captain": "João Pedro",
           "vice_points": 9,
-          "vice_minutes": 90,
           "best_starting_player": "Cherki",
           "best_starting_points": 14,
           "captain_points_missed_vs_best_starter": 1,
@@ -1191,7 +2343,6 @@
           "captain_minutes": 90,
           "vice_captain": "Cherki",
           "vice_points": 3,
-          "vice_minutes": 65,
           "best_starting_player": "Haaland",
           "best_starting_points": 9,
           "captain_points_missed_vs_best_starter": 0,
@@ -1204,7 +2355,6 @@
           "captain_minutes": 90,
           "vice_captain": "João Pedro",
           "vice_points": 12,
-          "vice_minutes": 90,
           "best_starting_player": "João Pedro",
           "best_starting_points": 12,
           "captain_points_missed_vs_best_starter": 7,
@@ -1217,7 +2367,6 @@
           "captain_minutes": 90,
           "vice_captain": "Gibbs-White",
           "vice_points": 2,
-          "vice_minutes": 90,
           "best_starting_player": "Trafford",
           "best_starting_points": 10,
           "captain_points_missed_vs_best_starter": 8,
@@ -1230,7 +2379,6 @@
           "captain_minutes": 90,
           "vice_captain": "João Pedro",
           "vice_points": 12,
-          "vice_minutes": 71,
           "best_starting_player": "De Cuyper",
           "best_starting_points": 15,
           "captain_points_missed_vs_best_starter": 5,
@@ -1243,7 +2391,6 @@
           "captain_minutes": 90,
           "vice_captain": "Haaland",
           "vice_points": 13,
-          "vice_minutes": 90,
           "best_starting_player": "Haaland",
           "best_starting_points": 13,
           "captain_points_missed_vs_best_starter": 9,
@@ -1256,7 +2403,6 @@
           "captain_minutes": 0,
           "vice_captain": "Calafiori",
           "vice_points": 1,
-          "vice_minutes": 22,
           "best_starting_player": "Konsa",
           "best_starting_points": 14,
           "captain_points_missed_vs_best_starter": 14,
@@ -1300,6 +2446,7 @@
         {
           "player": "Verbruggen",
           "player_id": 109,
+          "team": "BHA",
           "position": 12,
           "raw_points": 0,
           "multiplier": 0,
@@ -1307,7 +2454,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 30,
+          "minutes": 36,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -1316,6 +2463,7 @@
         {
           "player": "Cunha",
           "player_id": 428,
+          "team": "MUN",
           "position": 13,
           "raw_points": 0,
           "multiplier": 0,
@@ -1332,6 +2480,7 @@
         {
           "player": "Gvardiol",
           "player_id": 391,
+          "team": "MCI",
           "position": 14,
           "raw_points": 1,
           "multiplier": 0,
@@ -1348,6 +2497,7 @@
         {
           "player": "Mykolenko",
           "player_id": 233,
+          "team": "EVE",
           "position": 15,
           "raw_points": 0,
           "multiplier": 0,
@@ -1366,6 +2516,7 @@
         {
           "player": "Trafford",
           "player_id": 385,
+          "team": "LEE",
           "position": 1,
           "raw_points": 0,
           "multiplier": 1,
@@ -1382,6 +2533,7 @@
         {
           "player": "Konsa",
           "player_id": 31,
+          "team": "ARS",
           "position": 2,
           "raw_points": 14,
           "multiplier": 1,
@@ -1398,6 +2550,7 @@
         {
           "player": "Calafiori",
           "player_id": 8,
+          "team": "ARS",
           "position": 3,
           "raw_points": 1,
           "multiplier": 1,
@@ -1414,6 +2567,7 @@
         {
           "player": "De Cuyper",
           "player_id": 115,
+          "team": "BHA",
           "position": 4,
           "raw_points": 0,
           "multiplier": 1,
@@ -1421,7 +2575,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 30,
+          "minutes": 36,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -1430,6 +2584,7 @@
         {
           "player": "Gibbs-White",
           "player_id": 480,
+          "team": "NFO",
           "position": 5,
           "raw_points": 2,
           "multiplier": 1,
@@ -1446,6 +2601,7 @@
         {
           "player": "Rogers",
           "player_id": 40,
+          "team": "CHE",
           "position": 6,
           "raw_points": 1,
           "multiplier": 1,
@@ -1462,6 +2618,7 @@
         {
           "player": "Rudoni",
           "player_id": 183,
+          "team": "COV",
           "position": 7,
           "raw_points": 2,
           "multiplier": 1,
@@ -1478,6 +2635,7 @@
         {
           "player": "Cherki",
           "player_id": 399,
+          "team": "MCI",
           "position": 8,
           "raw_points": 0,
           "multiplier": 1,
@@ -1494,6 +2652,7 @@
         {
           "player": "Solanke",
           "player_id": 526,
+          "team": "TOT",
           "position": 9,
           "raw_points": 1,
           "multiplier": 1,
@@ -1510,6 +2669,7 @@
         {
           "player": "Haaland",
           "player_id": 411,
+          "team": "MCI",
           "position": 10,
           "raw_points": 8,
           "multiplier": 1,
@@ -1526,6 +2686,7 @@
         {
           "player": "João Pedro",
           "player_id": 165,
+          "team": "CHE",
           "position": 11,
           "raw_points": 0,
           "multiplier": 2,
@@ -1542,6 +2703,7 @@
         {
           "player": "Verbruggen",
           "player_id": 109,
+          "team": "BHA",
           "position": 12,
           "raw_points": 0,
           "multiplier": 0,
@@ -1549,7 +2711,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 30,
+          "minutes": 36,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -1558,6 +2720,7 @@
         {
           "player": "Cunha",
           "player_id": 428,
+          "team": "MUN",
           "position": 13,
           "raw_points": 0,
           "multiplier": 0,
@@ -1574,6 +2737,7 @@
         {
           "player": "Gvardiol",
           "player_id": 391,
+          "team": "MCI",
           "position": 14,
           "raw_points": 1,
           "multiplier": 0,
@@ -1590,6 +2754,7 @@
         {
           "player": "Mykolenko",
           "player_id": 233,
+          "team": "EVE",
           "position": 15,
           "raw_points": 0,
           "multiplier": 0,
@@ -1700,8 +2865,8 @@
       "manager": "Manny Jandu",
       "entry_id": 2368930,
       "team_name": "The Regent",
-      "total_points": 484,
-      "overall_rank": 2478841,
+      "total_points": 482,
+      "overall_rank": 2533241,
       "latest_gameweek": 8,
       "gameweek_points": 32,
       "transfer_cost": 0,
@@ -1719,6 +2884,228 @@
         "minutes": 79
       },
       "active_chip": null,
+      "live_summary": {
+        "played": [],
+        "playing_now": [
+          {
+            "player": "Verbruggen",
+            "team": "BHA",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "LIV",
+            "home": false,
+            "kickoff_time": "2026-10-25T14:00:00Z",
+            "minutes": 36,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Konsa",
+            "team": "ARS",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "EVE",
+            "home": true,
+            "kickoff_time": "2026-10-24T14:00:00Z",
+            "minutes": 90,
+            "points": 14,
+            "counted_points": 14
+          },
+          {
+            "player": "Gvardiol",
+            "team": "MCI",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "AVL",
+            "home": false,
+            "kickoff_time": "2026-10-24T11:30:00Z",
+            "minutes": 90,
+            "points": 1,
+            "counted_points": 1
+          },
+          {
+            "player": "Calafiori",
+            "team": "ARS",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "EVE",
+            "home": true,
+            "kickoff_time": "2026-10-24T14:00:00Z",
+            "minutes": 22,
+            "points": 1,
+            "counted_points": 1
+          },
+          {
+            "player": "M.Sangaré",
+            "team": "BRE",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "HUL",
+            "home": false,
+            "kickoff_time": "2026-10-25T14:00:00Z",
+            "minutes": 35,
+            "points": 1,
+            "counted_points": 1
+          },
+          {
+            "player": "Palmer",
+            "team": "CHE",
+            "bench": false,
+            "captain": false,
+            "vice_captain": true,
+            "status": "playing",
+            "opponent": "TOT",
+            "home": true,
+            "kickoff_time": "2026-10-24T16:30:00Z",
+            "minutes": 79,
+            "points": -1,
+            "counted_points": -1
+          },
+          {
+            "player": "Groß",
+            "team": "BHA",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "LIV",
+            "home": false,
+            "kickoff_time": "2026-10-25T14:00:00Z",
+            "minutes": 36,
+            "points": -1,
+            "counted_points": -1
+          },
+          {
+            "player": "B.Fernandes",
+            "team": "MUN",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "BOU",
+            "home": true,
+            "kickoff_time": "2026-10-25T14:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Haaland",
+            "team": "MCI",
+            "bench": false,
+            "captain": true,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "AVL",
+            "home": false,
+            "kickoff_time": "2026-10-24T11:30:00Z",
+            "minutes": 90,
+            "points": 8,
+            "counted_points": 16
+          },
+          {
+            "player": "Wissa",
+            "team": "NEW",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "CRY",
+            "home": false,
+            "kickoff_time": "2026-10-25T14:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "João Pedro",
+            "team": "CHE",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "TOT",
+            "home": true,
+            "kickoff_time": "2026-10-24T16:30:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Dubravka",
+            "team": "TOT",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "CHE",
+            "home": false,
+            "kickoff_time": "2026-10-24T16:30:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Shaw",
+            "team": "MUN",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "BOU",
+            "home": true,
+            "kickoff_time": "2026-10-25T14:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Diop",
+            "team": "IPS",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "NFO",
+            "home": true,
+            "kickoff_time": "2026-10-23T19:00:00Z",
+            "minutes": 90,
+            "points": 1,
+            "counted_points": 0
+          },
+          {
+            "player": "Hughes",
+            "team": "CRY",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "NEW",
+            "home": true,
+            "kickoff_time": "2026-10-25T14:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          }
+        ],
+        "still_to_play": [],
+        "captain": "Haaland",
+        "gameweek_points": 32,
+        "bench_points": 1,
+        "starters_played": 0,
+        "starters_playing_now": 11,
+        "starters_still_to_play": 0
+      },
       "transfers": [],
       "transfer_history": [
         {
@@ -1893,180 +3280,11 @@
       "transfer_summary": {
         "total_transfers": 12,
         "normal_transfers": 4,
-        "wildcard_freehit_transfers": 8,
-        "active_transfer_gameweeks": 4,
-        "transfer_gameweeks": [
-          {
-            "gameweek": 3,
-            "count": 2,
-            "chip": "3xc",
-            "transfer_cost": 0,
-            "gross_pl": -3,
-            "net_pl": -3,
-            "transfers": [
-              {
-                "in": "O'Reilly",
-                "out": "Gabriel",
-                "gross_pl": -2
-              },
-              {
-                "in": "Wissa",
-                "out": "Brobbey",
-                "gross_pl": -1
-              }
-            ]
-          },
-          {
-            "gameweek": 4,
-            "count": 1,
-            "chip": null,
-            "transfer_cost": 0,
-            "gross_pl": 2,
-            "net_pl": 2,
-            "transfers": [
-              {
-                "in": "Palmer",
-                "out": "Semenyo",
-                "gross_pl": 2
-              }
-            ]
-          },
-          {
-            "gameweek": 5,
-            "count": 8,
-            "chip": "freehit",
-            "transfer_cost": 0,
-            "gross_pl": -1,
-            "net_pl": -1,
-            "transfers": [
-              {
-                "in": "Gvardiol",
-                "out": "Konsa",
-                "gross_pl": 3
-              },
-              {
-                "in": "Bogle",
-                "out": "O'Reilly",
-                "gross_pl": 4
-              },
-              {
-                "in": "Gibbs-White",
-                "out": "M.Sangaré",
-                "gross_pl": 2
-              },
-              {
-                "in": "Calvert-Lewin",
-                "out": "João Pedro",
-                "gross_pl": 2
-              },
-              {
-                "in": "Rogers",
-                "out": "Groß",
-                "gross_pl": -12
-              },
-              {
-                "in": "Sels",
-                "out": "Verbruggen",
-                "gross_pl": -4
-              },
-              {
-                "in": "Dewsbury-Hall",
-                "out": "Palmer",
-                "gross_pl": 1
-              },
-              {
-                "in": "Mykolenko",
-                "out": "Shaw",
-                "gross_pl": 3
-              }
-            ]
-          },
-          {
-            "gameweek": 6,
-            "count": 1,
-            "chip": null,
-            "transfer_cost": 0,
-            "gross_pl": -1,
-            "net_pl": -1,
-            "transfers": [
-              {
-                "in": "Gvardiol",
-                "out": "O'Reilly",
-                "gross_pl": -1
-              }
-            ]
-          }
-        ],
+        "hit_cost": 0,
         "gross_player_points_all": -3,
         "gross_player_points_normal": -2,
-        "hit_cost": 0,
-        "hit_count_equivalent": 0,
         "net_pl_all": -3,
-        "net_pl_normal": -2,
-        "best_normal_transfer": {
-          "gameweek": 4,
-          "chip": null,
-          "in": "Palmer",
-          "in_id": 154,
-          "in_points": 5,
-          "in_minutes": 90,
-          "out": "Semenyo",
-          "out_id": 397,
-          "out_points": 3,
-          "out_minutes": 90,
-          "gross_pl": 2,
-          "time": "2026-09-12T07:26:32.714632Z"
-        },
-        "worst_normal_transfer": {
-          "gameweek": 3,
-          "chip": "3xc",
-          "in": "O'Reilly",
-          "in_id": 387,
-          "in_points": 0,
-          "in_minutes": 0,
-          "out": "Gabriel",
-          "out_id": 4,
-          "out_points": 2,
-          "out_minutes": 90,
-          "gross_pl": -2,
-          "time": "2026-09-04T17:19:18.921660Z"
-        },
-        "sub_60_minute_buys": 2,
-        "sub_60_minute_buy_details": [
-          {
-            "gameweek": 3,
-            "chip": "3xc",
-            "in": "O'Reilly",
-            "in_id": 387,
-            "in_points": 0,
-            "in_minutes": 0,
-            "out": "Gabriel",
-            "out_id": 4,
-            "out_points": 2,
-            "out_minutes": 90,
-            "gross_pl": -2,
-            "time": "2026-09-04T17:19:18.921660Z"
-          },
-          {
-            "gameweek": 6,
-            "chip": null,
-            "in": "Gvardiol",
-            "in_id": 391,
-            "in_points": 4,
-            "in_minutes": 24,
-            "out": "O'Reilly",
-            "out_id": 387,
-            "out_points": 5,
-            "out_minutes": 65,
-            "gross_pl": -1,
-            "time": "2026-10-10T09:31:05.087733Z"
-          }
-        ]
-      },
-      "transfer_pl": {
-        "gross_player_points": -3,
-        "hit_cost": 0,
-        "net": -3
+        "net_pl_normal": -2
       },
       "captain_history": [
         {
@@ -2076,7 +3294,6 @@
           "captain_minutes": 90,
           "vice_captain": "B.Fernandes",
           "vice_points": 2,
-          "vice_minutes": 90,
           "best_starting_player": "M.Sangaré",
           "best_starting_points": 14,
           "captain_points_missed_vs_best_starter": 12,
@@ -2089,7 +3306,6 @@
           "captain_minutes": 90,
           "vice_captain": "B.Fernandes",
           "vice_points": 23,
-          "vice_minutes": 90,
           "best_starting_player": "B.Fernandes",
           "best_starting_points": 23,
           "captain_points_missed_vs_best_starter": 10,
@@ -2102,7 +3318,6 @@
           "captain_minutes": 90,
           "vice_captain": "B.Fernandes",
           "vice_points": 2,
-          "vice_minutes": 90,
           "best_starting_player": "Haaland",
           "best_starting_points": 9,
           "captain_points_missed_vs_best_starter": 0,
@@ -2115,7 +3330,6 @@
           "captain_minutes": 90,
           "vice_captain": "Haaland",
           "vice_points": 9,
-          "vice_minutes": 90,
           "best_starting_player": "Groß",
           "best_starting_points": 17,
           "captain_points_missed_vs_best_starter": 12,
@@ -2128,7 +3342,6 @@
           "captain_minutes": 90,
           "vice_captain": "Dewsbury-Hall",
           "vice_points": 3,
-          "vice_minutes": 90,
           "best_starting_player": "Haaland",
           "best_starting_points": 6,
           "captain_points_missed_vs_best_starter": 0,
@@ -2141,7 +3354,6 @@
           "captain_minutes": 79,
           "vice_captain": "Palmer",
           "vice_points": 8,
-          "vice_minutes": 87,
           "best_starting_player": "João Pedro",
           "best_starting_points": 12,
           "captain_points_missed_vs_best_starter": 6,
@@ -2154,7 +3366,6 @@
           "captain_minutes": 90,
           "vice_captain": "Palmer",
           "vice_points": 2,
-          "vice_minutes": 90,
           "best_starting_player": "Haaland",
           "best_starting_points": 13,
           "captain_points_missed_vs_best_starter": 0,
@@ -2167,7 +3378,6 @@
           "captain_minutes": 90,
           "vice_captain": "Palmer",
           "vice_points": -1,
-          "vice_minutes": 79,
           "best_starting_player": "Konsa",
           "best_starting_points": 14,
           "captain_points_missed_vs_best_starter": 6,
@@ -2211,6 +3421,7 @@
         {
           "player": "Dubravka",
           "player_id": 497,
+          "team": "TOT",
           "position": 12,
           "raw_points": 0,
           "multiplier": 0,
@@ -2227,6 +3438,7 @@
         {
           "player": "Shaw",
           "player_id": 423,
+          "team": "MUN",
           "position": 13,
           "raw_points": 0,
           "multiplier": 0,
@@ -2243,6 +3455,7 @@
         {
           "player": "Diop",
           "player_id": 259,
+          "team": "IPS",
           "position": 14,
           "raw_points": 1,
           "multiplier": 0,
@@ -2259,6 +3472,7 @@
         {
           "player": "Hughes",
           "player_id": 212,
+          "team": "CRY",
           "position": 15,
           "raw_points": 0,
           "multiplier": 0,
@@ -2277,6 +3491,7 @@
         {
           "player": "Verbruggen",
           "player_id": 109,
+          "team": "BHA",
           "position": 1,
           "raw_points": 0,
           "multiplier": 1,
@@ -2284,7 +3499,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 30,
+          "minutes": 36,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -2293,6 +3508,7 @@
         {
           "player": "Konsa",
           "player_id": 31,
+          "team": "ARS",
           "position": 2,
           "raw_points": 14,
           "multiplier": 1,
@@ -2309,6 +3525,7 @@
         {
           "player": "Gvardiol",
           "player_id": 391,
+          "team": "MCI",
           "position": 3,
           "raw_points": 1,
           "multiplier": 1,
@@ -2325,6 +3542,7 @@
         {
           "player": "Calafiori",
           "player_id": 8,
+          "team": "ARS",
           "position": 4,
           "raw_points": 1,
           "multiplier": 1,
@@ -2341,6 +3559,7 @@
         {
           "player": "M.Sangaré",
           "player_id": 565,
+          "team": "BRE",
           "position": 5,
           "raw_points": 1,
           "multiplier": 1,
@@ -2348,7 +3567,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 30,
+          "minutes": 35,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -2357,6 +3576,7 @@
         {
           "player": "Palmer",
           "player_id": 154,
+          "team": "CHE",
           "position": 6,
           "raw_points": -1,
           "multiplier": 1,
@@ -2373,6 +3593,7 @@
         {
           "player": "Groß",
           "player_id": 124,
+          "team": "BHA",
           "position": 7,
           "raw_points": -1,
           "multiplier": 1,
@@ -2380,7 +3601,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 30,
+          "minutes": 36,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -2389,6 +3610,7 @@
         {
           "player": "B.Fernandes",
           "player_id": 426,
+          "team": "MUN",
           "position": 8,
           "raw_points": 0,
           "multiplier": 1,
@@ -2405,6 +3627,7 @@
         {
           "player": "Haaland",
           "player_id": 411,
+          "team": "MCI",
           "position": 9,
           "raw_points": 8,
           "multiplier": 2,
@@ -2421,6 +3644,7 @@
         {
           "player": "Wissa",
           "player_id": 464,
+          "team": "NEW",
           "position": 10,
           "raw_points": 0,
           "multiplier": 1,
@@ -2437,6 +3661,7 @@
         {
           "player": "João Pedro",
           "player_id": 165,
+          "team": "CHE",
           "position": 11,
           "raw_points": 0,
           "multiplier": 1,
@@ -2453,6 +3678,7 @@
         {
           "player": "Dubravka",
           "player_id": 497,
+          "team": "TOT",
           "position": 12,
           "raw_points": 0,
           "multiplier": 0,
@@ -2469,6 +3695,7 @@
         {
           "player": "Shaw",
           "player_id": 423,
+          "team": "MUN",
           "position": 13,
           "raw_points": 0,
           "multiplier": 0,
@@ -2485,6 +3712,7 @@
         {
           "player": "Diop",
           "player_id": 259,
+          "team": "IPS",
           "position": 14,
           "raw_points": 1,
           "multiplier": 0,
@@ -2501,6 +3729,7 @@
         {
           "player": "Hughes",
           "player_id": 212,
+          "team": "CRY",
           "position": 15,
           "raw_points": 0,
           "multiplier": 0,
@@ -2611,8 +3840,8 @@
       "manager": "David Eyre",
       "entry_id": 5568090,
       "team_name": "Insufferable FC",
-      "total_points": 477,
-      "overall_rank": 2921752,
+      "total_points": 475,
+      "overall_rank": 2981246,
       "latest_gameweek": 8,
       "gameweek_points": 25,
       "transfer_cost": 0,
@@ -2630,6 +3859,229 @@
         "minutes": 79
       },
       "active_chip": null,
+      "live_summary": {
+        "played": [],
+        "playing_now": [
+          {
+            "player": "Verbruggen",
+            "team": "BHA",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "LIV",
+            "home": false,
+            "kickoff_time": "2026-10-25T14:00:00Z",
+            "minutes": 36,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Calafiori",
+            "team": "ARS",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "EVE",
+            "home": true,
+            "kickoff_time": "2026-10-24T14:00:00Z",
+            "minutes": 22,
+            "points": 1,
+            "counted_points": 1
+          },
+          {
+            "player": "Konsa",
+            "team": "ARS",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "EVE",
+            "home": true,
+            "kickoff_time": "2026-10-24T14:00:00Z",
+            "minutes": 90,
+            "points": 14,
+            "counted_points": 14
+          },
+          {
+            "player": "Groß",
+            "team": "BHA",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "LIV",
+            "home": false,
+            "kickoff_time": "2026-10-25T14:00:00Z",
+            "minutes": 36,
+            "points": -1,
+            "counted_points": -1
+          },
+          {
+            "player": "Cherki",
+            "team": "MCI",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "AVL",
+            "home": false,
+            "kickoff_time": "2026-10-24T11:30:00Z",
+            "minutes": 45,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Palmer",
+            "team": "CHE",
+            "bench": false,
+            "captain": false,
+            "vice_captain": true,
+            "status": "playing",
+            "opponent": "TOT",
+            "home": true,
+            "kickoff_time": "2026-10-24T16:30:00Z",
+            "minutes": 79,
+            "points": -1,
+            "counted_points": -1
+          },
+          {
+            "player": "Barnes",
+            "team": "NEW",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "CRY",
+            "home": false,
+            "kickoff_time": "2026-10-25T14:00:00Z",
+            "minutes": 36,
+            "points": 1,
+            "counted_points": 1
+          },
+          {
+            "player": "Gonzalo",
+            "team": "FUL",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "COV",
+            "home": false,
+            "kickoff_time": "2026-10-24T14:00:00Z",
+            "minutes": 73,
+            "points": 2,
+            "counted_points": 2
+          },
+          {
+            "player": "Haaland",
+            "team": "MCI",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "AVL",
+            "home": false,
+            "kickoff_time": "2026-10-24T11:30:00Z",
+            "minutes": 90,
+            "points": 8,
+            "counted_points": 8
+          },
+          {
+            "player": "João Pedro",
+            "team": "CHE",
+            "bench": false,
+            "captain": true,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "TOT",
+            "home": true,
+            "kickoff_time": "2026-10-24T16:30:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Kinsky",
+            "team": "TOT",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "CHE",
+            "home": false,
+            "kickoff_time": "2026-10-24T16:30:00Z",
+            "minutes": 90,
+            "points": 9,
+            "counted_points": 0
+          },
+          {
+            "player": "Manzambi",
+            "team": "AVL",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "MCI",
+            "home": true,
+            "kickoff_time": "2026-10-24T11:30:00Z",
+            "minutes": 65,
+            "points": 1,
+            "counted_points": 0
+          },
+          {
+            "player": "De Cuyper",
+            "team": "BHA",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "LIV",
+            "home": false,
+            "kickoff_time": "2026-10-25T14:00:00Z",
+            "minutes": 36,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Gvardiol",
+            "team": "MCI",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "AVL",
+            "home": false,
+            "kickoff_time": "2026-10-24T11:30:00Z",
+            "minutes": 90,
+            "points": 1,
+            "counted_points": 0
+          }
+        ],
+        "still_to_play": [
+          {
+            "player": "Muharemović",
+            "team": "LEE",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "to_play",
+            "opponent": "SUN",
+            "home": false,
+            "kickoff_time": "2026-10-25T16:30:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          }
+        ],
+        "captain": "João Pedro",
+        "gameweek_points": 25,
+        "bench_points": 11,
+        "starters_played": 0,
+        "starters_playing_now": 10,
+        "starters_still_to_play": 1
+      },
       "transfers": [],
       "transfer_history": [
         {
@@ -2888,191 +4340,11 @@
       "transfer_summary": {
         "total_transfers": 18,
         "normal_transfers": 7,
-        "wildcard_freehit_transfers": 11,
-        "active_transfer_gameweeks": 5,
-        "transfer_gameweeks": [
-          {
-            "gameweek": 3,
-            "count": 1,
-            "chip": "3xc",
-            "transfer_cost": 0,
-            "gross_pl": 4,
-            "net_pl": 4,
-            "transfers": [
-              {
-                "in": "Hall",
-                "out": "Rodon",
-                "gross_pl": 4
-              }
-            ]
-          },
-          {
-            "gameweek": 4,
-            "count": 3,
-            "chip": null,
-            "transfer_cost": 4,
-            "gross_pl": 16,
-            "net_pl": 12,
-            "transfers": [
-              {
-                "in": "Dunk",
-                "out": "Shaw",
-                "gross_pl": 12
-              },
-              {
-                "in": "Palmer",
-                "out": "Cunha",
-                "gross_pl": 3
-              },
-              {
-                "in": "Wissa",
-                "out": "Thiago",
-                "gross_pl": 1
-              }
-            ]
-          },
-          {
-            "gameweek": 5,
-            "count": 1,
-            "chip": null,
-            "transfer_cost": 0,
-            "gross_pl": 1,
-            "net_pl": 1,
-            "transfers": [
-              {
-                "in": "Delap",
-                "out": "João Pedro",
-                "gross_pl": 1
-              }
-            ]
-          },
-          {
-            "gameweek": 6,
-            "count": 2,
-            "chip": null,
-            "transfer_cost": 4,
-            "gross_pl": 5,
-            "net_pl": 1,
-            "transfers": [
-              {
-                "in": "Groß",
-                "out": "Ndiaye",
-                "gross_pl": 5
-              },
-              {
-                "in": "King",
-                "out": "Slater",
-                "gross_pl": 0
-              }
-            ]
-          },
-          {
-            "gameweek": 7,
-            "count": 11,
-            "chip": "wildcard",
-            "transfer_cost": 0,
-            "gross_pl": 12,
-            "net_pl": 12,
-            "transfers": [
-              {
-                "in": "Vuskovic",
-                "out": "Dunk",
-                "gross_pl": 5
-              },
-              {
-                "in": "Cherki",
-                "out": "Gibbs-White",
-                "gross_pl": 0
-              },
-              {
-                "in": "Kinsky",
-                "out": "Lammens",
-                "gross_pl": -1
-              },
-              {
-                "in": "Konsa",
-                "out": "Gabriel",
-                "gross_pl": 1
-              },
-              {
-                "in": "De Cuyper",
-                "out": "van Ewijk",
-                "gross_pl": 5
-              },
-              {
-                "in": "Gvardiol",
-                "out": "Hall",
-                "gross_pl": -4
-              },
-              {
-                "in": "Muharemović",
-                "out": "Vuskovic",
-                "gross_pl": -6
-              },
-              {
-                "in": "Barnes",
-                "out": "King",
-                "gross_pl": 0
-              },
-              {
-                "in": "Gonzalo",
-                "out": "Delap",
-                "gross_pl": 0
-              },
-              {
-                "in": "João Pedro",
-                "out": "Wissa",
-                "gross_pl": 1
-              },
-              {
-                "in": "Manzambi",
-                "out": "Schade",
-                "gross_pl": 11
-              }
-            ]
-          }
-        ],
+        "hit_cost": 8,
         "gross_player_points_all": 38,
         "gross_player_points_normal": 26,
-        "hit_cost": 8,
-        "hit_count_equivalent": 2,
         "net_pl_all": 30,
-        "net_pl_normal": 18,
-        "best_normal_transfer": {
-          "gameweek": 4,
-          "chip": null,
-          "in": "Dunk",
-          "in_id": 116,
-          "in_points": 12,
-          "in_minutes": 90,
-          "out": "Shaw",
-          "out_id": 423,
-          "out_points": 0,
-          "out_minutes": 0,
-          "gross_pl": 12,
-          "time": "2026-09-06T21:58:49.102245Z"
-        },
-        "worst_normal_transfer": {
-          "gameweek": 6,
-          "chip": null,
-          "in": "King",
-          "in_id": 268,
-          "in_points": 2,
-          "in_minutes": 75,
-          "out": "Slater",
-          "out_id": 290,
-          "out_points": 2,
-          "out_minutes": 74,
-          "gross_pl": 0,
-          "time": "2026-10-10T08:43:55.570452Z"
-        },
-        "sub_60_minute_buys": 0,
-        "sub_60_minute_buy_details": []
-      },
-      "transfer_pl": {
-        "gross_player_points": 38,
-        "hit_cost": 8,
-        "net": 30
+        "net_pl_normal": 18
       },
       "captain_history": [
         {
@@ -3082,7 +4354,6 @@
           "captain_minutes": 90,
           "vice_captain": "Thiago",
           "vice_points": 0,
-          "vice_minutes": 82,
           "best_starting_player": "João Pedro",
           "best_starting_points": 11,
           "captain_points_missed_vs_best_starter": 9,
@@ -3095,7 +4366,6 @@
           "captain_minutes": 90,
           "vice_captain": "João Pedro",
           "vice_points": 9,
-          "vice_minutes": 90,
           "best_starting_player": "Gibbs-White",
           "best_starting_points": 13,
           "captain_points_missed_vs_best_starter": 0,
@@ -3108,7 +4378,6 @@
           "captain_minutes": 90,
           "vice_captain": "Thiago",
           "vice_points": 2,
-          "vice_minutes": 90,
           "best_starting_player": "Haaland",
           "best_starting_points": 9,
           "captain_points_missed_vs_best_starter": 0,
@@ -3121,7 +4390,6 @@
           "captain_minutes": 90,
           "vice_captain": "João Pedro",
           "vice_points": 12,
-          "vice_minutes": 90,
           "best_starting_player": "Schade",
           "best_starting_points": 15,
           "captain_points_missed_vs_best_starter": 10,
@@ -3134,7 +4402,6 @@
           "captain_minutes": 90,
           "vice_captain": "Haaland",
           "vice_points": 6,
-          "vice_minutes": 90,
           "best_starting_player": "Hall",
           "best_starting_points": 13,
           "captain_points_missed_vs_best_starter": 11,
@@ -3147,7 +4414,6 @@
           "captain_minutes": 87,
           "vice_captain": "Gibbs-White",
           "vice_points": 2,
-          "vice_minutes": 90,
           "best_starting_player": "Verbruggen",
           "best_starting_points": 9,
           "captain_points_missed_vs_best_starter": 1,
@@ -3160,7 +4426,6 @@
           "captain_minutes": 90,
           "vice_captain": "Cherki",
           "vice_points": 0,
-          "vice_minutes": 0,
           "best_starting_player": "Haaland",
           "best_starting_points": 13,
           "captain_points_missed_vs_best_starter": 0,
@@ -3173,7 +4438,6 @@
           "captain_minutes": 0,
           "vice_captain": "Palmer",
           "vice_points": -1,
-          "vice_minutes": 79,
           "best_starting_player": "Konsa",
           "best_starting_points": 14,
           "captain_points_missed_vs_best_starter": 14,
@@ -3217,6 +4481,7 @@
         {
           "player": "Kinsky",
           "player_id": 496,
+          "team": "TOT",
           "position": 12,
           "raw_points": 9,
           "multiplier": 0,
@@ -3233,6 +4498,7 @@
         {
           "player": "Manzambi",
           "player_id": 53,
+          "team": "AVL",
           "position": 13,
           "raw_points": 1,
           "multiplier": 0,
@@ -3249,6 +4515,7 @@
         {
           "player": "De Cuyper",
           "player_id": 115,
+          "team": "BHA",
           "position": 14,
           "raw_points": 0,
           "multiplier": 0,
@@ -3256,7 +4523,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 30,
+          "minutes": 36,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3265,6 +4532,7 @@
         {
           "player": "Gvardiol",
           "player_id": 391,
+          "team": "MCI",
           "position": 15,
           "raw_points": 1,
           "multiplier": 0,
@@ -3283,6 +4551,7 @@
         {
           "player": "Verbruggen",
           "player_id": 109,
+          "team": "BHA",
           "position": 1,
           "raw_points": 0,
           "multiplier": 1,
@@ -3290,7 +4559,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 30,
+          "minutes": 36,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3299,6 +4568,7 @@
         {
           "player": "Muharemović",
           "player_id": 334,
+          "team": "LEE",
           "position": 2,
           "raw_points": 0,
           "multiplier": 1,
@@ -3315,6 +4585,7 @@
         {
           "player": "Calafiori",
           "player_id": 8,
+          "team": "ARS",
           "position": 3,
           "raw_points": 1,
           "multiplier": 1,
@@ -3331,6 +4602,7 @@
         {
           "player": "Konsa",
           "player_id": 31,
+          "team": "ARS",
           "position": 4,
           "raw_points": 14,
           "multiplier": 1,
@@ -3347,6 +4619,7 @@
         {
           "player": "Groß",
           "player_id": 124,
+          "team": "BHA",
           "position": 5,
           "raw_points": -1,
           "multiplier": 1,
@@ -3354,7 +4627,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 30,
+          "minutes": 36,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3363,6 +4636,7 @@
         {
           "player": "Cherki",
           "player_id": 399,
+          "team": "MCI",
           "position": 6,
           "raw_points": 0,
           "multiplier": 1,
@@ -3379,6 +4653,7 @@
         {
           "player": "Palmer",
           "player_id": 154,
+          "team": "CHE",
           "position": 7,
           "raw_points": -1,
           "multiplier": 1,
@@ -3395,6 +4670,7 @@
         {
           "player": "Barnes",
           "player_id": 453,
+          "team": "NEW",
           "position": 8,
           "raw_points": 1,
           "multiplier": 1,
@@ -3402,7 +4678,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 30,
+          "minutes": 36,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3411,6 +4687,7 @@
         {
           "player": "Gonzalo",
           "player_id": 569,
+          "team": "FUL",
           "position": 9,
           "raw_points": 2,
           "multiplier": 1,
@@ -3427,6 +4704,7 @@
         {
           "player": "Haaland",
           "player_id": 411,
+          "team": "MCI",
           "position": 10,
           "raw_points": 8,
           "multiplier": 1,
@@ -3443,6 +4721,7 @@
         {
           "player": "João Pedro",
           "player_id": 165,
+          "team": "CHE",
           "position": 11,
           "raw_points": 0,
           "multiplier": 2,
@@ -3459,6 +4738,7 @@
         {
           "player": "Kinsky",
           "player_id": 496,
+          "team": "TOT",
           "position": 12,
           "raw_points": 9,
           "multiplier": 0,
@@ -3475,6 +4755,7 @@
         {
           "player": "Manzambi",
           "player_id": 53,
+          "team": "AVL",
           "position": 13,
           "raw_points": 1,
           "multiplier": 0,
@@ -3491,6 +4772,7 @@
         {
           "player": "De Cuyper",
           "player_id": 115,
+          "team": "BHA",
           "position": 14,
           "raw_points": 0,
           "multiplier": 0,
@@ -3498,7 +4780,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 30,
+          "minutes": 36,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3507,6 +4789,7 @@
         {
           "player": "Gvardiol",
           "player_id": 391,
+          "team": "MCI",
           "position": 15,
           "raw_points": 1,
           "multiplier": 0,
@@ -3617,8 +4900,8 @@
       "manager": "Ben Burt",
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
-      "total_points": 396,
-      "overall_rank": 7606898,
+      "total_points": 394,
+      "overall_rank": 7662145,
       "latest_gameweek": 8,
       "gameweek_points": 20,
       "transfer_cost": 0,
@@ -3636,6 +4919,229 @@
         "minutes": 0
       },
       "active_chip": null,
+      "live_summary": {
+        "played": [],
+        "playing_now": [
+          {
+            "player": "A.Becker",
+            "team": "LIV",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "BHA",
+            "home": true,
+            "kickoff_time": "2026-10-25T14:00:00Z",
+            "minutes": 36,
+            "points": 1,
+            "counted_points": 1
+          },
+          {
+            "player": "De Cuyper",
+            "team": "BHA",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "LIV",
+            "home": false,
+            "kickoff_time": "2026-10-25T14:00:00Z",
+            "minutes": 36,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Hill",
+            "team": "BOU",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "MUN",
+            "home": false,
+            "kickoff_time": "2026-10-25T14:00:00Z",
+            "minutes": 36,
+            "points": 3,
+            "counted_points": 3
+          },
+          {
+            "player": "Guéhi",
+            "team": "MCI",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "AVL",
+            "home": false,
+            "kickoff_time": "2026-10-24T11:30:00Z",
+            "minutes": 45,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "O'Reilly",
+            "team": "MCI",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "AVL",
+            "home": false,
+            "kickoff_time": "2026-10-24T11:30:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Rogers",
+            "team": "CHE",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "TOT",
+            "home": true,
+            "kickoff_time": "2026-10-24T16:30:00Z",
+            "minutes": 90,
+            "points": 1,
+            "counted_points": 1
+          },
+          {
+            "player": "Ødegaard",
+            "team": "ARS",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "EVE",
+            "home": true,
+            "kickoff_time": "2026-10-24T14:00:00Z",
+            "minutes": 90,
+            "points": 3,
+            "counted_points": 3
+          },
+          {
+            "player": "Groß",
+            "team": "BHA",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "LIV",
+            "home": false,
+            "kickoff_time": "2026-10-25T14:00:00Z",
+            "minutes": 36,
+            "points": -1,
+            "counted_points": -1
+          },
+          {
+            "player": "Haaland",
+            "team": "MCI",
+            "bench": false,
+            "captain": true,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "AVL",
+            "home": false,
+            "kickoff_time": "2026-10-24T11:30:00Z",
+            "minutes": 90,
+            "points": 8,
+            "counted_points": 16
+          },
+          {
+            "player": "João Pedro",
+            "team": "CHE",
+            "bench": false,
+            "captain": false,
+            "vice_captain": true,
+            "status": "playing",
+            "opponent": "TOT",
+            "home": true,
+            "kickoff_time": "2026-10-24T16:30:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Dewsbury-Hall",
+            "team": "EVE",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "ARS",
+            "home": false,
+            "kickoff_time": "2026-10-24T14:00:00Z",
+            "minutes": 85,
+            "points": 2,
+            "counted_points": 0
+          },
+          {
+            "player": "Barry",
+            "team": "EVE",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "ARS",
+            "home": false,
+            "kickoff_time": "2026-10-24T14:00:00Z",
+            "minutes": 90,
+            "points": 2,
+            "counted_points": 0
+          }
+        ],
+        "still_to_play": [
+          {
+            "player": "Stach",
+            "team": "LEE",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "to_play",
+            "opponent": "SUN",
+            "home": false,
+            "kickoff_time": "2026-10-25T16:30:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Trafford",
+            "team": "LEE",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "to_play",
+            "opponent": "SUN",
+            "home": false,
+            "kickoff_time": "2026-10-25T16:30:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Rodon",
+            "team": "LEE",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "to_play",
+            "opponent": "SUN",
+            "home": false,
+            "kickoff_time": "2026-10-25T16:30:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          }
+        ],
+        "captain": "Haaland",
+        "gameweek_points": 20,
+        "bench_points": 4,
+        "starters_played": 0,
+        "starters_playing_now": 10,
+        "starters_still_to_play": 1
+      },
       "transfers": [],
       "transfer_history": [
         {
@@ -3712,106 +5218,11 @@
       "transfer_summary": {
         "total_transfers": 5,
         "normal_transfers": 5,
-        "wildcard_freehit_transfers": 0,
-        "active_transfer_gameweeks": 3,
-        "transfer_gameweeks": [
-          {
-            "gameweek": 4,
-            "count": 2,
-            "chip": null,
-            "transfer_cost": 0,
-            "gross_pl": 15,
-            "net_pl": 15,
-            "transfers": [
-              {
-                "in": "Groß",
-                "out": "Wirtz",
-                "gross_pl": 14
-              },
-              {
-                "in": "Isak",
-                "out": "Havertz",
-                "gross_pl": 1
-              }
-            ]
-          },
-          {
-            "gameweek": 6,
-            "count": 2,
-            "chip": null,
-            "transfer_cost": 0,
-            "gross_pl": 14,
-            "net_pl": 14,
-            "transfers": [
-              {
-                "in": "João Pedro",
-                "out": "Isak",
-                "gross_pl": 12
-              },
-              {
-                "in": "Rogers",
-                "out": "Rice",
-                "gross_pl": 2
-              }
-            ]
-          },
-          {
-            "gameweek": 7,
-            "count": 1,
-            "chip": null,
-            "transfer_cost": 0,
-            "gross_pl": 5,
-            "net_pl": 5,
-            "transfers": [
-              {
-                "in": "De Cuyper",
-                "out": "Kayode",
-                "gross_pl": 5
-              }
-            ]
-          }
-        ],
+        "hit_cost": 0,
         "gross_player_points_all": 34,
         "gross_player_points_normal": 34,
-        "hit_cost": 0,
-        "hit_count_equivalent": 0,
         "net_pl_all": 34,
-        "net_pl_normal": 34,
-        "best_normal_transfer": {
-          "gameweek": 4,
-          "chip": null,
-          "in": "Groß",
-          "in_id": 124,
-          "in_points": 17,
-          "in_minutes": 90,
-          "out": "Wirtz",
-          "out_id": 366,
-          "out_points": 3,
-          "out_minutes": 90,
-          "gross_pl": 14,
-          "time": "2026-09-11T09:17:14.224144Z"
-        },
-        "worst_normal_transfer": {
-          "gameweek": 4,
-          "chip": null,
-          "in": "Isak",
-          "in_id": 379,
-          "in_points": 2,
-          "in_minutes": 90,
-          "out": "Havertz",
-          "out_id": 26,
-          "out_points": 1,
-          "out_minutes": 90,
-          "gross_pl": 1,
-          "time": "2026-09-11T09:17:14.229710Z"
-        },
-        "sub_60_minute_buys": 0,
-        "sub_60_minute_buy_details": []
-      },
-      "transfer_pl": {
-        "gross_player_points": 34,
-        "hit_cost": 0,
-        "net": 34
+        "net_pl_normal": 34
       },
       "captain_history": [
         {
@@ -3821,7 +5232,6 @@
           "captain_minutes": 90,
           "vice_captain": "Trafford",
           "vice_points": 3,
-          "vice_minutes": 90,
           "best_starting_player": "Haaland",
           "best_starting_points": 13,
           "captain_points_missed_vs_best_starter": 0,
@@ -3834,7 +5244,6 @@
           "captain_minutes": 90,
           "vice_captain": "Trafford",
           "vice_points": 3,
-          "vice_minutes": 90,
           "best_starting_player": "Ødegaard",
           "best_starting_points": 10,
           "captain_points_missed_vs_best_starter": 1,
@@ -3847,7 +5256,6 @@
           "captain_minutes": 90,
           "vice_captain": "A.Becker",
           "vice_points": 9,
-          "vice_minutes": 90,
           "best_starting_player": "Groß",
           "best_starting_points": 17,
           "captain_points_missed_vs_best_starter": 15,
@@ -3860,7 +5268,6 @@
           "captain_minutes": 80,
           "vice_captain": "A.Becker",
           "vice_points": 8,
-          "vice_minutes": 90,
           "best_starting_player": "Groß",
           "best_starting_points": 14,
           "captain_points_missed_vs_best_starter": 6,
@@ -3873,7 +5280,6 @@
           "captain_minutes": 79,
           "vice_captain": "A.Becker",
           "vice_points": 1,
-          "vice_minutes": 90,
           "best_starting_player": "Dewsbury-Hall",
           "best_starting_points": 13,
           "captain_points_missed_vs_best_starter": 7,
@@ -3886,7 +5292,6 @@
           "captain_minutes": 90,
           "vice_captain": "João Pedro",
           "vice_points": 2,
-          "vice_minutes": 90,
           "best_starting_player": "Haaland",
           "best_starting_points": 13,
           "captain_points_missed_vs_best_starter": 0,
@@ -3899,7 +5304,6 @@
           "captain_minutes": 90,
           "vice_captain": "João Pedro",
           "vice_points": 0,
-          "vice_minutes": 0,
           "best_starting_player": "Haaland",
           "best_starting_points": 8,
           "captain_points_missed_vs_best_starter": 0,
@@ -3932,6 +5336,7 @@
         {
           "player": "Trafford",
           "player_id": 385,
+          "team": "LEE",
           "position": 12,
           "raw_points": 0,
           "multiplier": 0,
@@ -3948,6 +5353,7 @@
         {
           "player": "Dewsbury-Hall",
           "player_id": 236,
+          "team": "EVE",
           "position": 13,
           "raw_points": 2,
           "multiplier": 0,
@@ -3964,6 +5370,7 @@
         {
           "player": "Rodon",
           "player_id": 329,
+          "team": "LEE",
           "position": 14,
           "raw_points": 0,
           "multiplier": 0,
@@ -3980,6 +5387,7 @@
         {
           "player": "Barry",
           "player_id": 249,
+          "team": "EVE",
           "position": 15,
           "raw_points": 2,
           "multiplier": 0,
@@ -3998,6 +5406,7 @@
         {
           "player": "A.Becker",
           "player_id": 350,
+          "team": "LIV",
           "position": 1,
           "raw_points": 1,
           "multiplier": 1,
@@ -4005,7 +5414,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 30,
+          "minutes": 36,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4014,6 +5423,7 @@
         {
           "player": "De Cuyper",
           "player_id": 115,
+          "team": "BHA",
           "position": 2,
           "raw_points": 0,
           "multiplier": 1,
@@ -4021,7 +5431,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 30,
+          "minutes": 36,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4030,6 +5440,7 @@
         {
           "player": "Hill",
           "player_id": 60,
+          "team": "BOU",
           "position": 3,
           "raw_points": 3,
           "multiplier": 1,
@@ -4037,7 +5448,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 30,
+          "minutes": 36,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4046,6 +5457,7 @@
         {
           "player": "Guéhi",
           "player_id": 388,
+          "team": "MCI",
           "position": 4,
           "raw_points": 0,
           "multiplier": 1,
@@ -4062,6 +5474,7 @@
         {
           "player": "O'Reilly",
           "player_id": 387,
+          "team": "MCI",
           "position": 5,
           "raw_points": 0,
           "multiplier": 1,
@@ -4078,6 +5491,7 @@
         {
           "player": "Rogers",
           "player_id": 40,
+          "team": "CHE",
           "position": 6,
           "raw_points": 1,
           "multiplier": 1,
@@ -4094,6 +5508,7 @@
         {
           "player": "Ødegaard",
           "player_id": 15,
+          "team": "ARS",
           "position": 7,
           "raw_points": 3,
           "multiplier": 1,
@@ -4110,6 +5525,7 @@
         {
           "player": "Groß",
           "player_id": 124,
+          "team": "BHA",
           "position": 8,
           "raw_points": -1,
           "multiplier": 1,
@@ -4117,7 +5533,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 30,
+          "minutes": 36,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4126,6 +5542,7 @@
         {
           "player": "Stach",
           "player_id": 335,
+          "team": "LEE",
           "position": 9,
           "raw_points": 0,
           "multiplier": 1,
@@ -4142,6 +5559,7 @@
         {
           "player": "Haaland",
           "player_id": 411,
+          "team": "MCI",
           "position": 10,
           "raw_points": 8,
           "multiplier": 2,
@@ -4158,6 +5576,7 @@
         {
           "player": "João Pedro",
           "player_id": 165,
+          "team": "CHE",
           "position": 11,
           "raw_points": 0,
           "multiplier": 1,
@@ -4174,6 +5593,7 @@
         {
           "player": "Trafford",
           "player_id": 385,
+          "team": "LEE",
           "position": 12,
           "raw_points": 0,
           "multiplier": 0,
@@ -4190,6 +5610,7 @@
         {
           "player": "Dewsbury-Hall",
           "player_id": 236,
+          "team": "EVE",
           "position": 13,
           "raw_points": 2,
           "multiplier": 0,
@@ -4206,6 +5627,7 @@
         {
           "player": "Rodon",
           "player_id": 329,
+          "team": "LEE",
           "position": 14,
           "raw_points": 0,
           "multiplier": 0,
@@ -4222,6 +5644,7 @@
         {
           "player": "Barry",
           "player_id": 249,
+          "team": "EVE",
           "position": 15,
           "raw_points": 2,
           "multiplier": 0,
@@ -4322,8 +5745,8 @@
       "manager": "Matthew Shaw",
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
-      "total_points": 385,
-      "overall_rank": 8064100,
+      "total_points": 383,
+      "overall_rank": 8112931,
       "latest_gameweek": 8,
       "gameweek_points": 42,
       "transfer_cost": 0,
@@ -4341,6 +5764,229 @@
         "minutes": 90
       },
       "active_chip": null,
+      "live_summary": {
+        "played": [],
+        "playing_now": [
+          {
+            "player": "Horníček",
+            "team": "NEW",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "CRY",
+            "home": false,
+            "kickoff_time": "2026-10-25T14:00:00Z",
+            "minutes": 36,
+            "points": 4,
+            "counted_points": 4
+          },
+          {
+            "player": "Calafiori",
+            "team": "ARS",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "EVE",
+            "home": true,
+            "kickoff_time": "2026-10-24T14:00:00Z",
+            "minutes": 22,
+            "points": 1,
+            "counted_points": 1
+          },
+          {
+            "player": "Robinson",
+            "team": "FUL",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "COV",
+            "home": false,
+            "kickoff_time": "2026-10-24T14:00:00Z",
+            "minutes": 90,
+            "points": 7,
+            "counted_points": 7
+          },
+          {
+            "player": "Konsa",
+            "team": "ARS",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "EVE",
+            "home": true,
+            "kickoff_time": "2026-10-24T14:00:00Z",
+            "minutes": 90,
+            "points": 14,
+            "counted_points": 14
+          },
+          {
+            "player": "Groß",
+            "team": "BHA",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "LIV",
+            "home": false,
+            "kickoff_time": "2026-10-25T14:00:00Z",
+            "minutes": 36,
+            "points": -1,
+            "counted_points": -1
+          },
+          {
+            "player": "Madueke",
+            "team": "ARS",
+            "bench": false,
+            "captain": false,
+            "vice_captain": true,
+            "status": "playing",
+            "opponent": "EVE",
+            "home": true,
+            "kickoff_time": "2026-10-24T14:00:00Z",
+            "minutes": 90,
+            "points": 3,
+            "counted_points": 3
+          },
+          {
+            "player": "Schade",
+            "team": "BRE",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "HUL",
+            "home": false,
+            "kickoff_time": "2026-10-25T14:00:00Z",
+            "minutes": 35,
+            "points": 1,
+            "counted_points": 1
+          },
+          {
+            "player": "B.Fernandes",
+            "team": "MUN",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "BOU",
+            "home": true,
+            "kickoff_time": "2026-10-25T14:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Haaland",
+            "team": "MCI",
+            "bench": false,
+            "captain": true,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "AVL",
+            "home": false,
+            "kickoff_time": "2026-10-24T11:30:00Z",
+            "minutes": 90,
+            "points": 8,
+            "counted_points": 16
+          },
+          {
+            "player": "Kinsky",
+            "team": "TOT",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "CHE",
+            "home": false,
+            "kickoff_time": "2026-10-24T16:30:00Z",
+            "minutes": 90,
+            "points": 9,
+            "counted_points": 0
+          },
+          {
+            "player": "N.Williams",
+            "team": "NFO",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "IPS",
+            "home": false,
+            "kickoff_time": "2026-10-23T19:00:00Z",
+            "minutes": 83,
+            "points": 8,
+            "counted_points": 0
+          }
+        ],
+        "still_to_play": [
+          {
+            "player": "Brobbey",
+            "team": "SUN",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "to_play",
+            "opponent": "LEE",
+            "home": true,
+            "kickoff_time": "2026-10-25T16:30:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Calvert-Lewin",
+            "team": "LEE",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "to_play",
+            "opponent": "SUN",
+            "home": false,
+            "kickoff_time": "2026-10-25T16:30:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Muharemović",
+            "team": "LEE",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "to_play",
+            "opponent": "SUN",
+            "home": false,
+            "kickoff_time": "2026-10-25T16:30:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Stach",
+            "team": "LEE",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "to_play",
+            "opponent": "SUN",
+            "home": false,
+            "kickoff_time": "2026-10-25T16:30:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          }
+        ],
+        "captain": "Haaland",
+        "gameweek_points": 42,
+        "bench_points": 17,
+        "starters_played": 0,
+        "starters_playing_now": 9,
+        "starters_still_to_play": 2
+      },
       "transfers": [
         {
           "gameweek": 8,
@@ -4628,263 +6274,11 @@
       "transfer_summary": {
         "total_transfers": 19,
         "normal_transfers": 8,
-        "wildcard_freehit_transfers": 11,
-        "active_transfer_gameweeks": 6,
-        "transfer_gameweeks": [
-          {
-            "gameweek": 3,
-            "count": 11,
-            "chip": "wildcard",
-            "transfer_cost": 0,
-            "gross_pl": -10,
-            "net_pl": -10,
-            "transfers": [
-              {
-                "in": "Horníček",
-                "out": "Raya",
-                "gross_pl": -1
-              },
-              {
-                "in": "Kinsky",
-                "out": "Dubravka",
-                "gross_pl": 6
-              },
-              {
-                "in": "Calafiori",
-                "out": "Gabriel",
-                "gross_pl": 0
-              },
-              {
-                "in": "Mosquera",
-                "out": "van Ewijk",
-                "gross_pl": -3
-              },
-              {
-                "in": "Muharemović",
-                "out": "O'Reilly",
-                "gross_pl": 4
-              },
-              {
-                "in": "Robinson",
-                "out": "Gvardiol",
-                "gross_pl": -7
-              },
-              {
-                "in": "B.Fernandes",
-                "out": "Rayan",
-                "gross_pl": 0
-              },
-              {
-                "in": "Schade",
-                "out": "Wirtz",
-                "gross_pl": -1
-              },
-              {
-                "in": "Stach",
-                "out": "Mbeumo",
-                "gross_pl": -6
-              },
-              {
-                "in": "Szoboszlai",
-                "out": "Tonali",
-                "gross_pl": -2
-              },
-              {
-                "in": "Wissa",
-                "out": "Igor Jesus",
-                "gross_pl": 0
-              }
-            ]
-          },
-          {
-            "gameweek": 4,
-            "count": 1,
-            "chip": null,
-            "transfer_cost": 0,
-            "gross_pl": 6,
-            "net_pl": 6,
-            "transfers": [
-              {
-                "in": "Konsa",
-                "out": "Mosquera",
-                "gross_pl": 6
-              }
-            ]
-          },
-          {
-            "gameweek": 5,
-            "count": 2,
-            "chip": null,
-            "transfer_cost": 0,
-            "gross_pl": -2,
-            "net_pl": -2,
-            "transfers": [
-              {
-                "in": "N.Williams",
-                "out": "Shaw",
-                "gross_pl": 0
-              },
-              {
-                "in": "M.Sangaré",
-                "out": "Szoboszlai",
-                "gross_pl": -2
-              }
-            ]
-          },
-          {
-            "gameweek": 6,
-            "count": 2,
-            "chip": null,
-            "transfer_cost": 4,
-            "gross_pl": 5,
-            "net_pl": 1,
-            "transfers": [
-              {
-                "in": "Groß",
-                "out": "Tzolis",
-                "gross_pl": 6
-              },
-              {
-                "in": "Gyökeres",
-                "out": "Wissa",
-                "gross_pl": -1
-              }
-            ]
-          },
-          {
-            "gameweek": 7,
-            "count": 2,
-            "chip": null,
-            "transfer_cost": 4,
-            "gross_pl": -1,
-            "net_pl": -5,
-            "transfers": [
-              {
-                "in": "Brobbey",
-                "out": "Gyökeres",
-                "gross_pl": -1
-              },
-              {
-                "in": "Semenyo",
-                "out": "M.Sangaré",
-                "gross_pl": 0
-              }
-            ]
-          },
-          {
-            "gameweek": 8,
-            "count": 1,
-            "chip": null,
-            "transfer_cost": 0,
-            "gross_pl": 3,
-            "net_pl": 3,
-            "transfers": [
-              {
-                "in": "Madueke",
-                "out": "Semenyo",
-                "gross_pl": 3
-              }
-            ]
-          }
-        ],
+        "hit_cost": 8,
         "gross_player_points_all": 1,
         "gross_player_points_normal": 11,
-        "hit_cost": 8,
-        "hit_count_equivalent": 2,
         "net_pl_all": -7,
-        "net_pl_normal": 3,
-        "best_normal_transfer": {
-          "gameweek": 4,
-          "chip": null,
-          "in": "Konsa",
-          "in_id": 31,
-          "in_points": 6,
-          "in_minutes": 90,
-          "out": "Mosquera",
-          "out_id": 11,
-          "out_points": 0,
-          "out_minutes": 0,
-          "gross_pl": 6,
-          "time": "2026-09-06T14:32:36.225700Z"
-        },
-        "worst_normal_transfer": {
-          "gameweek": 5,
-          "chip": null,
-          "in": "M.Sangaré",
-          "in_id": 565,
-          "in_points": 0,
-          "in_minutes": 21,
-          "out": "Szoboszlai",
-          "out_id": 368,
-          "out_points": 2,
-          "out_minutes": 80,
-          "gross_pl": -2,
-          "time": "2026-09-18T16:48:40.870355Z"
-        },
-        "sub_60_minute_buys": 4,
-        "sub_60_minute_buy_details": [
-          {
-            "gameweek": 5,
-            "chip": null,
-            "in": "M.Sangaré",
-            "in_id": 565,
-            "in_points": 0,
-            "in_minutes": 21,
-            "out": "Szoboszlai",
-            "out_id": 368,
-            "out_points": 2,
-            "out_minutes": 80,
-            "gross_pl": -2,
-            "time": "2026-09-18T16:48:40.870355Z"
-          },
-          {
-            "gameweek": 6,
-            "chip": null,
-            "in": "Gyökeres",
-            "in_id": 25,
-            "in_points": 1,
-            "in_minutes": 27,
-            "out": "Wissa",
-            "out_id": 464,
-            "out_points": 2,
-            "out_minutes": 77,
-            "gross_pl": -1,
-            "time": "2026-10-03T22:20:24.617244Z"
-          },
-          {
-            "gameweek": 7,
-            "chip": null,
-            "in": "Brobbey",
-            "in_id": 552,
-            "in_points": 0,
-            "in_minutes": 0,
-            "out": "Gyökeres",
-            "out_id": 25,
-            "out_points": 1,
-            "out_minutes": 24,
-            "gross_pl": -1,
-            "time": "2026-10-16T17:38:54.800831Z"
-          },
-          {
-            "gameweek": 7,
-            "chip": null,
-            "in": "Semenyo",
-            "in_id": 397,
-            "in_points": 1,
-            "in_minutes": 13,
-            "out": "M.Sangaré",
-            "out_id": 565,
-            "out_points": 1,
-            "out_minutes": 45,
-            "gross_pl": 0,
-            "time": "2026-10-16T17:38:54.804629Z"
-          }
-        ]
-      },
-      "transfer_pl": {
-        "gross_player_points": 1,
-        "hit_cost": 8,
-        "net": -7
+        "net_pl_normal": 3
       },
       "captain_history": [
         {
@@ -4894,7 +6288,6 @@
           "captain_minutes": 90,
           "vice_captain": "Raya",
           "vice_points": 6,
-          "vice_minutes": 90,
           "best_starting_player": "Raya",
           "best_starting_points": 6,
           "captain_points_missed_vs_best_starter": 4,
@@ -4907,7 +6300,6 @@
           "captain_minutes": 45,
           "vice_captain": "Haaland",
           "vice_points": 13,
-          "vice_minutes": 90,
           "best_starting_player": "Haaland",
           "best_starting_points": 13,
           "captain_points_missed_vs_best_starter": 13,
@@ -4920,7 +6312,6 @@
           "captain_minutes": 90,
           "vice_captain": "Tzolis",
           "vice_points": 5,
-          "vice_minutes": 90,
           "best_starting_player": "Haaland",
           "best_starting_points": 9,
           "captain_points_missed_vs_best_starter": 0,
@@ -4933,7 +6324,6 @@
           "captain_minutes": 90,
           "vice_captain": "Tzolis",
           "vice_points": 3,
-          "vice_minutes": 80,
           "best_starting_player": "Schade",
           "best_starting_points": 15,
           "captain_points_missed_vs_best_starter": 9,
@@ -4946,7 +6336,6 @@
           "captain_minutes": 90,
           "vice_captain": "Tzolis",
           "vice_points": 2,
-          "vice_minutes": 72,
           "best_starting_player": "Schade",
           "best_starting_points": 9,
           "captain_points_missed_vs_best_starter": 3,
@@ -4959,7 +6348,6 @@
           "captain_minutes": 27,
           "vice_captain": "Groß",
           "vice_points": 6,
-          "vice_minutes": 90,
           "best_starting_player": "Calafiori",
           "best_starting_points": 9,
           "captain_points_missed_vs_best_starter": 8,
@@ -4972,7 +6360,6 @@
           "captain_minutes": 90,
           "vice_captain": "Semenyo",
           "vice_points": 1,
-          "vice_minutes": 13,
           "best_starting_player": "Haaland",
           "best_starting_points": 13,
           "captain_points_missed_vs_best_starter": 0,
@@ -4985,7 +6372,6 @@
           "captain_minutes": 90,
           "vice_captain": "Madueke",
           "vice_points": 3,
-          "vice_minutes": 90,
           "best_starting_player": "Konsa",
           "best_starting_points": 14,
           "captain_points_missed_vs_best_starter": 6,
@@ -5024,6 +6410,7 @@
         {
           "player": "Kinsky",
           "player_id": 496,
+          "team": "TOT",
           "position": 12,
           "raw_points": 9,
           "multiplier": 0,
@@ -5040,6 +6427,7 @@
         {
           "player": "Muharemović",
           "player_id": 334,
+          "team": "LEE",
           "position": 13,
           "raw_points": 0,
           "multiplier": 0,
@@ -5056,6 +6444,7 @@
         {
           "player": "N.Williams",
           "player_id": 469,
+          "team": "NFO",
           "position": 14,
           "raw_points": 8,
           "multiplier": 0,
@@ -5072,6 +6461,7 @@
         {
           "player": "Stach",
           "player_id": 335,
+          "team": "LEE",
           "position": 15,
           "raw_points": 0,
           "multiplier": 0,
@@ -5090,6 +6480,7 @@
         {
           "player": "Horníček",
           "player_id": 567,
+          "team": "NEW",
           "position": 1,
           "raw_points": 4,
           "multiplier": 1,
@@ -5097,7 +6488,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 30,
+          "minutes": 36,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -5106,6 +6497,7 @@
         {
           "player": "Calafiori",
           "player_id": 8,
+          "team": "ARS",
           "position": 2,
           "raw_points": 1,
           "multiplier": 1,
@@ -5122,6 +6514,7 @@
         {
           "player": "Robinson",
           "player_id": 254,
+          "team": "FUL",
           "position": 3,
           "raw_points": 7,
           "multiplier": 1,
@@ -5138,6 +6531,7 @@
         {
           "player": "Konsa",
           "player_id": 31,
+          "team": "ARS",
           "position": 4,
           "raw_points": 14,
           "multiplier": 1,
@@ -5154,6 +6548,7 @@
         {
           "player": "Groß",
           "player_id": 124,
+          "team": "BHA",
           "position": 5,
           "raw_points": -1,
           "multiplier": 1,
@@ -5161,7 +6556,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 30,
+          "minutes": 36,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -5170,6 +6565,7 @@
         {
           "player": "Madueke",
           "player_id": 16,
+          "team": "ARS",
           "position": 6,
           "raw_points": 3,
           "multiplier": 1,
@@ -5186,6 +6582,7 @@
         {
           "player": "Schade",
           "player_id": 94,
+          "team": "BRE",
           "position": 7,
           "raw_points": 1,
           "multiplier": 1,
@@ -5193,7 +6590,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 30,
+          "minutes": 35,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -5202,6 +6599,7 @@
         {
           "player": "B.Fernandes",
           "player_id": 426,
+          "team": "MUN",
           "position": 8,
           "raw_points": 0,
           "multiplier": 1,
@@ -5218,6 +6616,7 @@
         {
           "player": "Brobbey",
           "player_id": 552,
+          "team": "SUN",
           "position": 9,
           "raw_points": 0,
           "multiplier": 1,
@@ -5234,6 +6633,7 @@
         {
           "player": "Haaland",
           "player_id": 411,
+          "team": "MCI",
           "position": 10,
           "raw_points": 8,
           "multiplier": 2,
@@ -5250,6 +6650,7 @@
         {
           "player": "Calvert-Lewin",
           "player_id": 346,
+          "team": "LEE",
           "position": 11,
           "raw_points": 0,
           "multiplier": 1,
@@ -5266,6 +6667,7 @@
         {
           "player": "Kinsky",
           "player_id": 496,
+          "team": "TOT",
           "position": 12,
           "raw_points": 9,
           "multiplier": 0,
@@ -5282,6 +6684,7 @@
         {
           "player": "Muharemović",
           "player_id": 334,
+          "team": "LEE",
           "position": 13,
           "raw_points": 0,
           "multiplier": 0,
@@ -5298,6 +6701,7 @@
         {
           "player": "N.Williams",
           "player_id": 469,
+          "team": "NFO",
           "position": 14,
           "raw_points": 8,
           "multiplier": 0,
@@ -5314,6 +6718,7 @@
         {
           "player": "Stach",
           "player_id": 335,
+          "team": "LEE",
           "position": 15,
           "raw_points": 0,
           "multiplier": 0,
