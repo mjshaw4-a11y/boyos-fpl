@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-10-25T19:22:24.904Z",
+  "generated_at": "2026-10-25T21:59:02.182Z",
   "latest_gameweek": 8,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 23,
       "total_points": 537,
-      "overall_rank": 546595,
+      "overall_rank": 547503,
       "previous_league_rank": 1,
       "rank_change": 0
     },
@@ -296,7 +296,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 30,
       "total_points": 519,
-      "overall_rank": 1143709,
+      "overall_rank": 1145570,
       "previous_league_rank": 2,
       "rank_change": 0
     },
@@ -308,8 +308,8 @@
       "gameweek_points": 42,
       "transfer_cost": 0,
       "net_gameweek_points": 42,
-      "total_points": 394,
-      "overall_rank": 8061828,
+      "total_points": 393,
+      "overall_rank": 8101493,
       "previous_league_rank": 3,
       "rank_change": 0
     }
@@ -581,7 +581,7 @@
       "entry_id": 8848218,
       "team_name": "TheRoseGardeb",
       "total_points": 537,
-      "overall_rank": 546595,
+      "overall_rank": 547503,
       "latest_gameweek": 8,
       "gameweek_points": 23,
       "transfer_cost": 0,
@@ -1330,7 +1330,7 @@
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
       "total_points": 519,
-      "overall_rank": 1143709,
+      "overall_rank": 1145570,
       "latest_gameweek": 8,
       "gameweek_points": 30,
       "transfer_cost": 0,
@@ -2299,8 +2299,8 @@
       "manager": "Matthew Shaw",
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
-      "total_points": 394,
-      "overall_rank": 8061828,
+      "total_points": 393,
+      "overall_rank": 8101493,
       "latest_gameweek": 8,
       "gameweek_points": 42,
       "transfer_cost": 0,
@@ -3068,9 +3068,9 @@
           "player": "Horníček",
           "player_id": 567,
           "position": 1,
-          "raw_points": 9,
+          "raw_points": 8,
           "multiplier": 1,
-          "counted_points": 9,
+          "counted_points": 8,
           "captain": false,
           "vice_captain": false,
           "bench": false,
@@ -3078,7 +3078,7 @@
           "goals": 0,
           "assists": 0,
           "clean_sheets": 1,
-          "bonus": 2
+          "bonus": 1
         },
         {
           "player": "Calafiori",
