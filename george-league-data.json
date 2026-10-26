@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-10-26T10:58:28.750Z",
+  "generated_at": "2026-10-26T17:17:06.055Z",
   "latest_gameweek": 8,
   "events": [
     {
@@ -59,8 +59,8 @@
       "id": 8,
       "name": "Gameweek 8",
       "deadline_time": "2026-10-23T17:30:00Z",
-      "finished": false,
-      "data_checked": false
+      "finished": true,
+      "data_checked": true
     },
     {
       "id": 9,
@@ -279,9 +279,9 @@
       "name": "George",
       "manager": "George Lane",
       "team_name": "TheRoseGardeb",
-      "gameweek_points": 23,
+      "gameweek_points": 44,
       "transfer_cost": 0,
-      "net_gameweek_points": 23,
+      "net_gameweek_points": 44,
       "total_points": 543,
       "overall_rank": 501871,
       "previous_league_rank": 1,
@@ -292,11 +292,11 @@
       "name": "Joe",
       "manager": "Joe Burke",
       "team_name": "Roper To Beat",
-      "gameweek_points": 30,
+      "gameweek_points": 42,
       "transfer_cost": 0,
-      "net_gameweek_points": 30,
+      "net_gameweek_points": 42,
       "total_points": 521,
-      "overall_rank": 1239252,
+      "overall_rank": 1239251,
       "previous_league_rank": 2,
       "rank_change": 0
     },
@@ -305,11 +305,11 @@
       "name": "Curlo",
       "manager": "Matthew Shaw",
       "team_name": "Victor Moses Lawn",
-      "gameweek_points": 42,
+      "gameweek_points": 64,
       "transfer_cost": 0,
-      "net_gameweek_points": 42,
+      "net_gameweek_points": 64,
       "total_points": 402,
-      "overall_rank": 7980317,
+      "overall_rank": 7980300,
       "previous_league_rank": 3,
       "rank_change": 0
     }
@@ -373,16 +373,16 @@
     ],
     "bench_points": [
       {
-        "name": "George",
+        "name": "Curlo",
         "value": 89
       },
       {
-        "name": "Curlo",
-        "value": 88
+        "name": "George",
+        "value": 83
       },
       {
         "name": "Joe",
-        "value": 52
+        "value": 54
       }
     ],
     "captain_efficiency": [
@@ -556,19 +556,19 @@
       },
       "8": {
         "winner": "Curlo",
-        "score": 42,
+        "score": 64,
         "rankings": [
           {
             "name": "Curlo",
-            "net_points": 42
-          },
-          {
-            "name": "Joe",
-            "net_points": 30
+            "net_points": 64
           },
           {
             "name": "George",
-            "net_points": 23
+            "net_points": 44
+          },
+          {
+            "name": "Joe",
+            "net_points": 42
           }
         ]
       }
@@ -583,10 +583,10 @@
       "total_points": 543,
       "overall_rank": 501871,
       "latest_gameweek": 8,
-      "gameweek_points": 23,
+      "gameweek_points": 44,
       "transfer_cost": 0,
-      "net_gameweek_points": 23,
-      "points_on_bench": 17,
+      "net_gameweek_points": 44,
+      "points_on_bench": 11,
       "captain": {
         "player": "Haaland",
         "raw_points": 8,
@@ -899,7 +899,7 @@
       ],
       "season_insights": {
         "gameweeks_played": 8,
-        "average_net_gw_score": 65.3,
+        "average_net_gw_score": 67.9,
         "best_gameweek": {
           "gameweek": 7,
           "points": 87,
@@ -908,12 +908,12 @@
         },
         "worst_gameweek": {
           "gameweek": 8,
-          "points": 23,
+          "points": 44,
           "hit": 0,
-          "net_points": 23
+          "net_points": 44
         },
-        "total_bench_points": 89,
-        "average_bench_points": 11.1,
+        "total_bench_points": 83,
+        "average_bench_points": 10.4,
         "captain_raw_points": 66,
         "captain_efficiency_pct_vs_best_starter": 67.3,
         "captain_points_missed_vs_best_starter": 32,
@@ -943,19 +943,19 @@
           "bonus": 2
         },
         {
-          "player": "King",
-          "player_id": 268,
+          "player": "Strand Larsen",
+          "player_id": 222,
           "position": 13,
-          "raw_points": 6,
+          "raw_points": 0,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 80,
+          "minutes": 0,
           "goals": 0,
-          "assists": 1,
-          "clean_sheets": 1,
+          "assists": 0,
+          "clean_sheets": 0,
           "bonus": 0
         },
         {
@@ -1057,14 +1057,14 @@
           "bonus": 0
         },
         {
-          "player": "Mbeumo",
-          "player_id": 427,
+          "player": "Groß",
+          "player_id": 124,
           "position": 5,
-          "raw_points": 2,
+          "raw_points": 0,
           "multiplier": 1,
-          "counted_points": 2,
+          "counted_points": 0,
           "captain": false,
-          "vice_captain": true,
+          "vice_captain": false,
           "bench": false,
           "minutes": 90,
           "goals": 0,
@@ -1073,14 +1073,14 @@
           "bonus": 0
         },
         {
-          "player": "Groß",
-          "player_id": 124,
+          "player": "Mbeumo",
+          "player_id": 427,
           "position": 6,
-          "raw_points": 0,
+          "raw_points": 2,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 2,
           "captain": false,
-          "vice_captain": false,
+          "vice_captain": true,
           "bench": false,
           "minutes": 90,
           "goals": 0,
@@ -1121,9 +1121,25 @@
           "bonus": 0
         },
         {
+          "player": "King",
+          "player_id": 268,
+          "position": 9,
+          "raw_points": 6,
+          "multiplier": 1,
+          "counted_points": 6,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 80,
+          "goals": 0,
+          "assists": 1,
+          "clean_sheets": 1,
+          "bonus": 0
+        },
+        {
           "player": "Haaland",
           "player_id": 411,
-          "position": 9,
+          "position": 10,
           "raw_points": 8,
           "multiplier": 2,
           "counted_points": 16,
@@ -1135,22 +1151,6 @@
           "assists": 0,
           "clean_sheets": 0,
           "bonus": 2
-        },
-        {
-          "player": "Strand Larsen",
-          "player_id": 222,
-          "position": 10,
-          "raw_points": 0,
-          "multiplier": 1,
-          "counted_points": 0,
-          "captain": false,
-          "vice_captain": false,
-          "bench": false,
-          "minutes": 0,
-          "goals": 0,
-          "assists": 0,
-          "clean_sheets": 0,
-          "bonus": 0
         },
         {
           "player": "Calvert-Lewin",
@@ -1185,19 +1185,19 @@
           "bonus": 2
         },
         {
-          "player": "King",
-          "player_id": 268,
+          "player": "Strand Larsen",
+          "player_id": 222,
           "position": 13,
-          "raw_points": 6,
+          "raw_points": 0,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 80,
+          "minutes": 0,
           "goals": 0,
-          "assists": 1,
-          "clean_sheets": 1,
+          "assists": 0,
+          "clean_sheets": 0,
           "bonus": 0
         },
         {
@@ -1314,12 +1314,12 @@
         },
         {
           "gameweek": 8,
-          "points": 23,
-          "net_points": 23,
-          "total_points": 522,
-          "overall_rank": 642167,
+          "points": 44,
+          "net_points": 44,
+          "total_points": 543,
+          "overall_rank": 501871,
           "transfer_cost": 0,
-          "points_on_bench": 17,
+          "points_on_bench": 11,
           "chip": null
         }
       ]
@@ -1330,12 +1330,12 @@
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
       "total_points": 521,
-      "overall_rank": 1239252,
+      "overall_rank": 1239251,
       "latest_gameweek": 8,
-      "gameweek_points": 30,
+      "gameweek_points": 42,
       "transfer_cost": 0,
-      "net_gameweek_points": 30,
-      "points_on_bench": 1,
+      "net_gameweek_points": 42,
+      "points_on_bench": 3,
       "captain": {
         "player": "João Pedro",
         "raw_points": 0,
@@ -1864,7 +1864,7 @@
       ],
       "season_insights": {
         "gameweeks_played": 8,
-        "average_net_gw_score": 63.6,
+        "average_net_gw_score": 65.1,
         "best_gameweek": {
           "gameweek": 6,
           "points": 100,
@@ -1873,12 +1873,12 @@
         },
         "worst_gameweek": {
           "gameweek": 8,
-          "points": 30,
+          "points": 42,
           "hit": 0,
-          "net_points": 30
+          "net_points": 42
         },
-        "total_bench_points": 52,
-        "average_bench_points": 6.5,
+        "total_bench_points": 54,
+        "average_bench_points": 6.8,
         "captain_raw_points": 45,
         "captain_efficiency_pct_vs_best_starter": 45.9,
         "captain_points_missed_vs_best_starter": 53,
@@ -1913,16 +1913,16 @@
           "bonus": 0
         },
         {
-          "player": "Cunha",
-          "player_id": 428,
+          "player": "João Pedro",
+          "player_id": 165,
           "position": 13,
-          "raw_points": 1,
+          "raw_points": 0,
           "multiplier": 0,
           "counted_points": 0,
-          "captain": false,
+          "captain": true,
           "vice_captain": false,
           "bench": true,
-          "minutes": 45,
+          "minutes": 0,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -1979,9 +1979,41 @@
           "bonus": 3
         },
         {
+          "player": "De Cuyper",
+          "player_id": 115,
+          "position": 2,
+          "raw_points": 1,
+          "multiplier": 1,
+          "counted_points": 1,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
+          "player": "Calafiori",
+          "player_id": 8,
+          "position": 3,
+          "raw_points": 1,
+          "multiplier": 2,
+          "counted_points": 2,
+          "captain": false,
+          "vice_captain": true,
+          "bench": false,
+          "minutes": 22,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "bonus": 0
+        },
+        {
           "player": "Konsa",
           "player_id": 31,
-          "position": 2,
+          "position": 4,
           "raw_points": 14,
           "multiplier": 1,
           "counted_points": 14,
@@ -1995,28 +2027,28 @@
           "bonus": 2
         },
         {
-          "player": "Calafiori",
-          "player_id": 8,
-          "position": 3,
-          "raw_points": 1,
+          "player": "Cherki",
+          "player_id": 399,
+          "position": 5,
+          "raw_points": 0,
           "multiplier": 1,
-          "counted_points": 1,
+          "counted_points": 0,
           "captain": false,
-          "vice_captain": true,
+          "vice_captain": false,
           "bench": false,
-          "minutes": 22,
+          "minutes": 45,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
           "bonus": 0
         },
         {
-          "player": "De Cuyper",
-          "player_id": 115,
-          "position": 4,
-          "raw_points": 1,
+          "player": "Rudoni",
+          "player_id": 183,
+          "position": 6,
+          "raw_points": 2,
           "multiplier": 1,
-          "counted_points": 1,
+          "counted_points": 2,
           "captain": false,
           "vice_captain": false,
           "bench": false,
@@ -2029,7 +2061,7 @@
         {
           "player": "Gibbs-White",
           "player_id": 480,
-          "position": 5,
+          "position": 7,
           "raw_points": 2,
           "multiplier": 1,
           "counted_points": 2,
@@ -2045,7 +2077,7 @@
         {
           "player": "Rogers",
           "player_id": 40,
-          "position": 6,
+          "position": 8,
           "raw_points": 1,
           "multiplier": 1,
           "counted_points": 1,
@@ -2059,40 +2091,8 @@
           "bonus": 0
         },
         {
-          "player": "Rudoni",
-          "player_id": 183,
-          "position": 7,
-          "raw_points": 2,
-          "multiplier": 1,
-          "counted_points": 2,
-          "captain": false,
-          "vice_captain": false,
-          "bench": false,
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "clean_sheets": 0,
-          "bonus": 0
-        },
-        {
-          "player": "Cherki",
-          "player_id": 399,
-          "position": 8,
-          "raw_points": 0,
-          "multiplier": 1,
-          "counted_points": 0,
-          "captain": false,
-          "vice_captain": false,
-          "bench": false,
-          "minutes": 45,
-          "goals": 0,
-          "assists": 0,
-          "clean_sheets": 0,
-          "bonus": 0
-        },
-        {
-          "player": "Solanke",
-          "player_id": 526,
+          "player": "Cunha",
+          "player_id": 428,
           "position": 9,
           "raw_points": 1,
           "multiplier": 1,
@@ -2100,7 +2100,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 25,
+          "minutes": 45,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -2123,16 +2123,16 @@
           "bonus": 2
         },
         {
-          "player": "João Pedro",
-          "player_id": 165,
+          "player": "Solanke",
+          "player_id": 526,
           "position": 11,
-          "raw_points": 0,
-          "multiplier": 2,
-          "counted_points": 0,
-          "captain": true,
+          "raw_points": 1,
+          "multiplier": 1,
+          "counted_points": 1,
+          "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 25,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -2155,16 +2155,16 @@
           "bonus": 0
         },
         {
-          "player": "Cunha",
-          "player_id": 428,
+          "player": "João Pedro",
+          "player_id": 165,
           "position": 13,
-          "raw_points": 1,
+          "raw_points": 0,
           "multiplier": 0,
           "counted_points": 0,
-          "captain": false,
+          "captain": true,
           "vice_captain": false,
           "bench": true,
-          "minutes": 45,
+          "minutes": 0,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -2284,12 +2284,12 @@
         },
         {
           "gameweek": 8,
-          "points": 30,
-          "net_points": 30,
-          "total_points": 509,
-          "overall_rank": 1083563,
+          "points": 42,
+          "net_points": 42,
+          "total_points": 521,
+          "overall_rank": 1239252,
           "transfer_cost": 0,
-          "points_on_bench": 1,
+          "points_on_bench": 3,
           "chip": null
         }
       ]
@@ -2300,12 +2300,12 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 402,
-      "overall_rank": 7980317,
+      "overall_rank": 7980300,
       "latest_gameweek": 8,
-      "gameweek_points": 42,
+      "gameweek_points": 64,
       "transfer_cost": 0,
-      "net_gameweek_points": 42,
-      "points_on_bench": 17,
+      "net_gameweek_points": 64,
+      "points_on_bench": 18,
       "captain": {
         "player": "Haaland",
         "raw_points": 8,
@@ -2971,7 +2971,7 @@
       ],
       "season_insights": {
         "gameweeks_played": 8,
-        "average_net_gw_score": 47.5,
+        "average_net_gw_score": 50.3,
         "best_gameweek": {
           "gameweek": 4,
           "points": 70,
@@ -2984,8 +2984,8 @@
           "hit": 4,
           "net_points": 29
         },
-        "total_bench_points": 88,
-        "average_bench_points": 11,
+        "total_bench_points": 89,
+        "average_bench_points": 11.1,
         "captain_raw_points": 45,
         "captain_efficiency_pct_vs_best_starter": 51.1,
         "captain_points_missed_vs_best_starter": 43,
@@ -3015,20 +3015,20 @@
           "bonus": 2
         },
         {
-          "player": "Muharemović",
-          "player_id": 334,
+          "player": "B.Fernandes",
+          "player_id": 426,
           "position": 13,
-          "raw_points": 9,
+          "raw_points": 0,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 90,
+          "minutes": 0,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 1,
-          "bonus": 1
+          "clean_sheets": 0,
+          "bonus": 0
         },
         {
           "player": "N.Williams",
@@ -3097,25 +3097,9 @@
           "bonus": 0
         },
         {
-          "player": "Robinson",
-          "player_id": 254,
-          "position": 3,
-          "raw_points": 7,
-          "multiplier": 1,
-          "counted_points": 7,
-          "captain": false,
-          "vice_captain": false,
-          "bench": false,
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "clean_sheets": 1,
-          "bonus": 0
-        },
-        {
           "player": "Konsa",
           "player_id": 31,
-          "position": 4,
+          "position": 3,
           "raw_points": 14,
           "multiplier": 1,
           "counted_points": 14,
@@ -3129,9 +3113,41 @@
           "bonus": 2
         },
         {
+          "player": "Robinson",
+          "player_id": 254,
+          "position": 4,
+          "raw_points": 7,
+          "multiplier": 1,
+          "counted_points": 7,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 1,
+          "bonus": 0
+        },
+        {
+          "player": "Muharemović",
+          "player_id": 334,
+          "position": 5,
+          "raw_points": 9,
+          "multiplier": 1,
+          "counted_points": 9,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 90,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 1,
+          "bonus": 1
+        },
+        {
           "player": "Groß",
           "player_id": 124,
-          "position": 5,
+          "position": 6,
           "raw_points": 0,
           "multiplier": 1,
           "counted_points": 0,
@@ -3142,22 +3158,6 @@
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
-          "bonus": 0
-        },
-        {
-          "player": "Madueke",
-          "player_id": 16,
-          "position": 6,
-          "raw_points": 3,
-          "multiplier": 1,
-          "counted_points": 3,
-          "captain": false,
-          "vice_captain": true,
-          "bench": false,
-          "minutes": 90,
-          "goals": 0,
-          "assists": 0,
-          "clean_sheets": 1,
           "bonus": 0
         },
         {
@@ -3177,32 +3177,16 @@
           "bonus": 0
         },
         {
-          "player": "B.Fernandes",
-          "player_id": 426,
+          "player": "Madueke",
+          "player_id": 16,
           "position": 8,
-          "raw_points": 0,
+          "raw_points": 3,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 3,
           "captain": false,
-          "vice_captain": false,
+          "vice_captain": true,
           "bench": false,
-          "minutes": 0,
-          "goals": 0,
-          "assists": 0,
-          "clean_sheets": 0,
-          "bonus": 0
-        },
-        {
-          "player": "Brobbey",
-          "player_id": 552,
-          "position": 9,
-          "raw_points": 2,
-          "multiplier": 1,
-          "counted_points": 2,
-          "captain": false,
-          "vice_captain": false,
-          "bench": false,
-          "minutes": 64,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 1,
@@ -3211,7 +3195,7 @@
         {
           "player": "Haaland",
           "player_id": 411,
-          "position": 10,
+          "position": 9,
           "raw_points": 8,
           "multiplier": 2,
           "counted_points": 16,
@@ -3227,7 +3211,7 @@
         {
           "player": "Calvert-Lewin",
           "player_id": 346,
-          "position": 11,
+          "position": 10,
           "raw_points": 2,
           "multiplier": 1,
           "counted_points": 2,
@@ -3235,6 +3219,22 @@
           "vice_captain": false,
           "bench": false,
           "minutes": 84,
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 1,
+          "bonus": 0
+        },
+        {
+          "player": "Brobbey",
+          "player_id": 552,
+          "position": 11,
+          "raw_points": 2,
+          "multiplier": 1,
+          "counted_points": 2,
+          "captain": false,
+          "vice_captain": false,
+          "bench": false,
+          "minutes": 64,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 1,
@@ -3257,20 +3257,20 @@
           "bonus": 2
         },
         {
-          "player": "Muharemović",
-          "player_id": 334,
+          "player": "B.Fernandes",
+          "player_id": 426,
           "position": 13,
-          "raw_points": 9,
+          "raw_points": 0,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 90,
+          "minutes": 0,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 1,
-          "bonus": 1
+          "clean_sheets": 0,
+          "bonus": 0
         },
         {
           "player": "N.Williams",
@@ -3386,12 +3386,12 @@
         },
         {
           "gameweek": 8,
-          "points": 42,
-          "net_points": 42,
-          "total_points": 380,
-          "overall_rank": 8038315,
+          "points": 64,
+          "net_points": 64,
+          "total_points": 402,
+          "overall_rank": 7980316,
           "transfer_cost": 0,
-          "points_on_bench": 17,
+          "points_on_bench": 18,
           "chip": null
         }
       ]
