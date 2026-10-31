@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-10-31T13:05:08.451Z",
+  "generated_at": "2026-10-31T13:08:33.828Z",
   "latest_gameweek": 9,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 522,
-      "overall_rank": 1254759,
+      "overall_rank": 1232102,
       "previous_boyos_rank": 1,
       "rank_change": 0
     },
@@ -296,7 +296,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 496,
-      "overall_rank": 2613028,
+      "overall_rank": 2581707,
       "previous_boyos_rank": 2,
       "rank_change": 0
     },
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 492,
-      "overall_rank": 2839993,
+      "overall_rank": 2808240,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -322,7 +322,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 415,
-      "overall_rank": 7466539,
+      "overall_rank": 7444290,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -335,7 +335,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 403,
-      "overall_rank": 7990533,
+      "overall_rank": 7972010,
       "previous_boyos_rank": 5,
       "rank_change": 0
     }
@@ -354,7 +354,7 @@
           "opponent": "MUN",
           "home": true,
           "kickoff_time": "2026-10-31T12:30:00Z",
-          "minutes": 32,
+          "minutes": 36,
           "points": 1,
           "counted_points": 1
         },
@@ -368,7 +368,7 @@
           "opponent": "MUN",
           "home": true,
           "kickoff_time": "2026-10-31T12:30:00Z",
-          "minutes": 32,
+          "minutes": 36,
           "points": 1,
           "counted_points": 0
         }
@@ -577,7 +577,7 @@
           "opponent": "MUN",
           "home": true,
           "kickoff_time": "2026-10-31T12:30:00Z",
-          "minutes": 32,
+          "minutes": 36,
           "points": 1,
           "counted_points": 2
         }
@@ -800,7 +800,7 @@
           "opponent": "MUN",
           "home": true,
           "kickoff_time": "2026-10-31T12:30:00Z",
-          "minutes": 32,
+          "minutes": 36,
           "points": 1,
           "counted_points": 1
         },
@@ -814,7 +814,7 @@
           "opponent": "CHE",
           "home": false,
           "kickoff_time": "2026-10-31T12:30:00Z",
-          "minutes": 32,
+          "minutes": 36,
           "points": 1,
           "counted_points": 1
         }
@@ -1023,7 +1023,7 @@
           "opponent": "MUN",
           "home": true,
           "kickoff_time": "2026-10-31T12:30:00Z",
-          "minutes": 32,
+          "minutes": 36,
           "points": 1,
           "counted_points": 1
         }
@@ -1246,7 +1246,7 @@
           "opponent": "CHE",
           "home": false,
           "kickoff_time": "2026-10-31T12:30:00Z",
-          "minutes": 32,
+          "minutes": 36,
           "points": 1,
           "counted_points": 1
         }
@@ -1874,7 +1874,7 @@
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
       "total_points": 522,
-      "overall_rank": 1254759,
+      "overall_rank": 1232102,
       "latest_gameweek": 9,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -1905,7 +1905,7 @@
             "opponent": "MUN",
             "home": true,
             "kickoff_time": "2026-10-31T12:30:00Z",
-            "minutes": 32,
+            "minutes": 36,
             "points": 1,
             "counted_points": 1
           },
@@ -1919,7 +1919,7 @@
             "opponent": "MUN",
             "home": true,
             "kickoff_time": "2026-10-31T12:30:00Z",
-            "minutes": 32,
+            "minutes": 36,
             "points": 1,
             "counted_points": 0
           }
@@ -2178,7 +2178,7 @@
           "in": "Colwill",
           "in_id": 149,
           "in_points": 1,
-          "in_minutes": 32,
+          "in_minutes": 36,
           "out": "De Cuyper",
           "out_id": 115,
           "out_points": 0,
@@ -2210,7 +2210,7 @@
           "out": "Rogers",
           "out_id": 40,
           "out_points": 1,
-          "out_minutes": 32,
+          "out_minutes": 36,
           "gross_pl": -1,
           "time": "2026-10-30T18:52:10.979888Z"
         },
@@ -2234,7 +2234,7 @@
           "in": "Palmer",
           "in_id": 154,
           "in_points": 1,
-          "in_minutes": 32,
+          "in_minutes": 36,
           "out": "Cherki",
           "out_id": 399,
           "out_points": 0,
@@ -2252,7 +2252,7 @@
           "out": "Cunha",
           "out_id": 428,
           "out_points": 1,
-          "out_minutes": 32,
+          "out_minutes": 36,
           "gross_pl": -1,
           "time": "2026-10-30T18:52:10.980207Z"
         },
@@ -2600,7 +2600,7 @@
           "in": "Colwill",
           "in_id": 149,
           "in_points": 1,
-          "in_minutes": 32,
+          "in_minutes": 36,
           "out": "De Cuyper",
           "out_id": 115,
           "out_points": 0,
@@ -2632,7 +2632,7 @@
           "out": "Rogers",
           "out_id": 40,
           "out_points": 1,
-          "out_minutes": 32,
+          "out_minutes": 36,
           "gross_pl": -1,
           "time": "2026-10-30T18:52:10.979888Z"
         },
@@ -2656,7 +2656,7 @@
           "in": "Palmer",
           "in_id": 154,
           "in_points": 1,
-          "in_minutes": 32,
+          "in_minutes": 36,
           "out": "Cherki",
           "out_id": 399,
           "out_points": 0,
@@ -2674,7 +2674,7 @@
           "out": "Cunha",
           "out_id": 428,
           "out_points": 1,
-          "out_minutes": 32,
+          "out_minutes": 36,
           "gross_pl": -1,
           "time": "2026-10-30T18:52:10.980207Z"
         },
@@ -2983,7 +2983,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 32,
+          "minutes": 36,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3121,7 +3121,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 32,
+          "minutes": 36,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3240,7 +3240,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 32,
+          "minutes": 36,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3354,7 +3354,7 @@
       "entry_id": 5568090,
       "team_name": "Insufferable FC",
       "total_points": 496,
-      "overall_rank": 2613028,
+      "overall_rank": 2581707,
       "latest_gameweek": 9,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -3364,7 +3364,7 @@
         "player": "Palmer",
         "raw_points": 1,
         "counted_points": 2,
-        "minutes": 32
+        "minutes": 36
       },
       "vice_captain": {
         "player": "Haaland",
@@ -3385,7 +3385,7 @@
             "opponent": "MUN",
             "home": true,
             "kickoff_time": "2026-10-31T12:30:00Z",
-            "minutes": 32,
+            "minutes": 36,
             "points": 1,
             "counted_points": 2
           }
@@ -3989,7 +3989,7 @@
           "gameweek": 9,
           "captain": "Palmer",
           "captain_points": 1,
-          "captain_minutes": 32,
+          "captain_minutes": 36,
           "vice_captain": "Haaland",
           "vice_points": 0,
           "best_starting_player": "Palmer",
@@ -4215,7 +4215,7 @@
           "captain": true,
           "vice_captain": false,
           "bench": false,
-          "minutes": 32,
+          "minutes": 36,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4465,7 +4465,7 @@
       "entry_id": 2368930,
       "team_name": "The Regent",
       "total_points": 492,
-      "overall_rank": 2839993,
+      "overall_rank": 2808240,
       "latest_gameweek": 9,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -4480,7 +4480,7 @@
       "vice_captain": {
         "player": "Palmer",
         "raw_points": 1,
-        "minutes": 32
+        "minutes": 36
       },
       "active_chip": null,
       "live_summary": {
@@ -4496,7 +4496,7 @@
             "opponent": "MUN",
             "home": true,
             "kickoff_time": "2026-10-31T12:30:00Z",
-            "minutes": 32,
+            "minutes": 36,
             "points": 1,
             "counted_points": 1
           },
@@ -4510,7 +4510,7 @@
             "opponent": "CHE",
             "home": false,
             "kickoff_time": "2026-10-31T12:30:00Z",
-            "minutes": 32,
+            "minutes": 36,
             "points": 1,
             "counted_points": 1
           }
@@ -5281,7 +5281,7 @@
           "captain": false,
           "vice_captain": true,
           "bench": false,
-          "minutes": 32,
+          "minutes": 36,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -5315,7 +5315,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 32,
+          "minutes": 36,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -5548,7 +5548,7 @@
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
       "total_points": 415,
-      "overall_rank": 7466539,
+      "overall_rank": 7444290,
       "latest_gameweek": 9,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -5579,7 +5579,7 @@
             "opponent": "MUN",
             "home": true,
             "kickoff_time": "2026-10-31T12:30:00Z",
-            "minutes": 32,
+            "minutes": 36,
             "points": 1,
             "counted_points": 1
           }
@@ -6215,7 +6215,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 32,
+          "minutes": 36,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -6472,7 +6472,7 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 403,
-      "overall_rank": 7990533,
+      "overall_rank": 7972010,
       "latest_gameweek": 9,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -6503,7 +6503,7 @@
             "opponent": "CHE",
             "home": false,
             "kickoff_time": "2026-10-31T12:30:00Z",
-            "minutes": 32,
+            "minutes": 36,
             "points": 1,
             "counted_points": 1
           }
@@ -7359,7 +7359,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 32,
+          "minutes": 36,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
