@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-01T13:44:44.082Z",
+  "generated_at": "2026-11-01T18:32:51.075Z",
   "latest_gameweek": 9,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 67,
       "total_points": 588,
-      "overall_rank": 497978,
+      "overall_rank": 753167,
       "previous_boyos_rank": 1,
       "rank_change": 0
     },
@@ -295,8 +295,8 @@
       "gameweek_points": 48,
       "transfer_cost": 0,
       "net_gameweek_points": 48,
-      "total_points": 542,
-      "overall_rank": 2065939,
+      "total_points": 550,
+      "overall_rank": 2198609,
       "previous_boyos_rank": 2,
       "rank_change": 0
     },
@@ -308,8 +308,8 @@
       "gameweek_points": 44,
       "transfer_cost": 0,
       "net_gameweek_points": 44,
-      "total_points": 534,
-      "overall_rank": 2438949,
+      "total_points": 542,
+      "overall_rank": 2584080,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -321,8 +321,8 @@
       "gameweek_points": 49,
       "transfer_cost": 0,
       "net_gameweek_points": 49,
-      "total_points": 463,
-      "overall_rank": 6342516,
+      "total_points": 476,
+      "overall_rank": 6247424,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -334,8 +334,8 @@
       "gameweek_points": 25,
       "transfer_cost": 0,
       "net_gameweek_points": 25,
-      "total_points": 427,
-      "overall_rank": 7957097,
+      "total_points": 448,
+      "overall_rank": 7569434,
       "previous_boyos_rank": 5,
       "rank_change": 0
     }
@@ -595,6 +595,20 @@
           "counted_points": 3
         },
         {
+          "player": "Calafiori",
+          "team": "ARS",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "LIV",
+          "home": false,
+          "kickoff_time": "2026-11-01T16:30:00Z",
+          "minutes": 90,
+          "points": 8,
+          "counted_points": 8
+        },
+        {
           "player": "Gvardiol",
           "team": "MCI",
           "bench": false,
@@ -733,23 +747,23 @@
           "minutes": 90,
           "points": 2,
           "counted_points": 0
-        }
-      ],
-      "still_to_play": [
+        },
         {
-          "player": "Calafiori",
+          "player": "Konsa",
           "team": "ARS",
-          "bench": false,
+          "bench": true,
           "captain": false,
           "vice_captain": false,
-          "status": "to_play",
+          "status": "playing",
           "opponent": "LIV",
           "home": false,
           "kickoff_time": "2026-11-01T16:30:00Z",
-          "minutes": 0,
-          "points": 0,
+          "minutes": 90,
+          "points": 10,
           "counted_points": 0
-        },
+        }
+      ],
+      "still_to_play": [
         {
           "player": "Barnes",
           "team": "NEW",
@@ -763,28 +777,14 @@
           "minutes": 0,
           "points": 0,
           "counted_points": 0
-        },
-        {
-          "player": "Konsa",
-          "team": "ARS",
-          "bench": true,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "LIV",
-          "home": false,
-          "kickoff_time": "2026-11-01T16:30:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
         }
       ],
       "captain": "Palmer",
       "gameweek_points": 48,
       "bench_points": 22,
       "starters_played": 0,
-      "starters_playing_now": 9,
-      "starters_still_to_play": 2
+      "starters_playing_now": 10,
+      "starters_still_to_play": 1
     },
     "Manny": {
       "played": [],
@@ -830,6 +830,20 @@
           "minutes": 78,
           "points": 2,
           "counted_points": 2
+        },
+        {
+          "player": "Calafiori",
+          "team": "ARS",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "LIV",
+          "home": false,
+          "kickoff_time": "2026-11-01T16:30:00Z",
+          "minutes": 90,
+          "points": 8,
+          "counted_points": 8
         },
         {
           "player": "M.Sangaré",
@@ -930,6 +944,20 @@
           "counted_points": 0
         },
         {
+          "player": "Konsa",
+          "team": "ARS",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "LIV",
+          "home": false,
+          "kickoff_time": "2026-11-01T16:30:00Z",
+          "minutes": 90,
+          "points": 10,
+          "counted_points": 0
+        },
+        {
           "player": "Diop",
           "team": "IPS",
           "bench": true,
@@ -960,20 +988,6 @@
       ],
       "still_to_play": [
         {
-          "player": "Calafiori",
-          "team": "ARS",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "LIV",
-          "home": false,
-          "kickoff_time": "2026-11-01T16:30:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
           "player": "Wissa",
           "team": "NEW",
           "bench": false,
@@ -986,28 +1000,14 @@
           "minutes": 0,
           "points": 0,
           "counted_points": 0
-        },
-        {
-          "player": "Konsa",
-          "team": "ARS",
-          "bench": true,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "LIV",
-          "home": false,
-          "kickoff_time": "2026-11-01T16:30:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
         }
       ],
       "captain": "Haaland",
       "gameweek_points": 44,
       "bench_points": 14,
       "starters_played": 0,
-      "starters_playing_now": 9,
-      "starters_still_to_play": 2
+      "starters_playing_now": 10,
+      "starters_still_to_play": 1
     },
     "Ben": {
       "played": [],
@@ -1055,6 +1055,20 @@
           "counted_points": 6
         },
         {
+          "player": "Konsa",
+          "team": "ARS",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "LIV",
+          "home": false,
+          "kickoff_time": "2026-11-01T16:30:00Z",
+          "minutes": 90,
+          "points": 10,
+          "counted_points": 10
+        },
+        {
           "player": "O'Reilly",
           "team": "MCI",
           "bench": false,
@@ -1081,6 +1095,20 @@
           "minutes": 90,
           "points": 9,
           "counted_points": 9
+        },
+        {
+          "player": "Ødegaard",
+          "team": "ARS",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "LIV",
+          "home": false,
+          "kickoff_time": "2026-11-01T16:30:00Z",
+          "minutes": 87,
+          "points": 3,
+          "counted_points": 3
         },
         {
           "player": "Groß",
@@ -1125,6 +1153,20 @@
           "counted_points": 18
         },
         {
+          "player": "A.Becker",
+          "team": "LIV",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "ARS",
+          "home": true,
+          "kickoff_time": "2026-11-01T16:30:00Z",
+          "minutes": 90,
+          "points": 2,
+          "counted_points": 0
+        },
+        {
           "player": "Rodon",
           "team": "LEE",
           "bench": true,
@@ -1155,34 +1197,6 @@
       ],
       "still_to_play": [
         {
-          "player": "Konsa",
-          "team": "ARS",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "LIV",
-          "home": false,
-          "kickoff_time": "2026-11-01T16:30:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Ødegaard",
-          "team": "ARS",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "LIV",
-          "home": false,
-          "kickoff_time": "2026-11-01T16:30:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
           "player": "Barry",
           "team": "EVE",
           "bench": false,
@@ -1192,20 +1206,6 @@
           "opponent": "NEW",
           "home": false,
           "kickoff_time": "2026-11-02T20:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "A.Becker",
-          "team": "LIV",
-          "bench": true,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "ARS",
-          "home": true,
-          "kickoff_time": "2026-11-01T16:30:00Z",
           "minutes": 0,
           "points": 0,
           "counted_points": 0
@@ -1229,8 +1229,8 @@
       "gameweek_points": 49,
       "bench_points": 1,
       "starters_played": 0,
-      "starters_playing_now": 8,
-      "starters_still_to_play": 3
+      "starters_playing_now": 10,
+      "starters_still_to_play": 1
     },
     "Curlo": {
       "played": [],
@@ -1250,6 +1250,20 @@
           "counted_points": 6
         },
         {
+          "player": "Calafiori",
+          "team": "ARS",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "LIV",
+          "home": false,
+          "kickoff_time": "2026-11-01T16:30:00Z",
+          "minutes": 90,
+          "points": 8,
+          "counted_points": 8
+        },
+        {
           "player": "Robinson",
           "team": "FUL",
           "bench": false,
@@ -1264,6 +1278,20 @@
           "counted_points": 4
         },
         {
+          "player": "Konsa",
+          "team": "ARS",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "LIV",
+          "home": false,
+          "kickoff_time": "2026-11-01T16:30:00Z",
+          "minutes": 90,
+          "points": 10,
+          "counted_points": 10
+        },
+        {
           "player": "Groß",
           "team": "BHA",
           "bench": false,
@@ -1276,6 +1304,20 @@
           "minutes": 90,
           "points": 2,
           "counted_points": 2
+        },
+        {
+          "player": "Ødegaard",
+          "team": "ARS",
+          "bench": false,
+          "captain": false,
+          "vice_captain": true,
+          "status": "playing",
+          "opponent": "LIV",
+          "home": false,
+          "kickoff_time": "2026-11-01T16:30:00Z",
+          "minutes": 87,
+          "points": 3,
+          "counted_points": 3
         },
         {
           "player": "Schade",
@@ -1392,48 +1434,6 @@
       ],
       "still_to_play": [
         {
-          "player": "Calafiori",
-          "team": "ARS",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "LIV",
-          "home": false,
-          "kickoff_time": "2026-11-01T16:30:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Konsa",
-          "team": "ARS",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "LIV",
-          "home": false,
-          "kickoff_time": "2026-11-01T16:30:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Ødegaard",
-          "team": "ARS",
-          "bench": false,
-          "captain": false,
-          "vice_captain": true,
-          "status": "to_play",
-          "opponent": "LIV",
-          "home": false,
-          "kickoff_time": "2026-11-01T16:30:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
           "player": "Horníček",
           "team": "NEW",
           "bench": true,
@@ -1452,8 +1452,8 @@
       "gameweek_points": 25,
       "bench_points": 5,
       "starters_played": 0,
-      "starters_playing_now": 8,
-      "starters_still_to_play": 3
+      "starters_playing_now": 11,
+      "starters_still_to_play": 0
     }
   },
   "league_insights": {
@@ -1504,7 +1504,7 @@
     "transfer_pnl_normal": [
       {
         "name": "Ben",
-        "value": 43
+        "value": 53
       },
       {
         "name": "Dave",
@@ -1516,7 +1516,7 @@
       },
       {
         "name": "Curlo",
-        "value": 3
+        "value": 4
       },
       {
         "name": "Joe",
@@ -1570,7 +1570,7 @@
     "captain_efficiency": [
       {
         "name": "Ben",
-        "value": 68
+        "value": 67.3
       },
       {
         "name": "Dave",
@@ -1586,7 +1586,7 @@
       },
       {
         "name": "Curlo",
-        "value": 50
+        "value": 48
       }
     ],
     "captain_regret": [
@@ -1600,7 +1600,7 @@
       },
       {
         "name": "Curlo",
-        "value": 47
+        "value": 51
       },
       {
         "name": "Dave",
@@ -1608,7 +1608,7 @@
       },
       {
         "name": "Ben",
-        "value": 32
+        "value": 33
       }
     ],
     "weekly_wins": [
@@ -1873,7 +1873,7 @@
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
       "total_points": 588,
-      "overall_rank": 497978,
+      "overall_rank": 753167,
       "latest_gameweek": 9,
       "gameweek_points": 67,
       "transfer_cost": 0,
@@ -2151,9 +2151,9 @@
           "in_minutes": 90,
           "out": "Calafiori",
           "out_id": 8,
-          "out_points": 0,
-          "out_minutes": 0,
-          "gross_pl": 6,
+          "out_points": 8,
+          "out_minutes": 90,
+          "gross_pl": -2,
           "time": "2026-10-30T18:52:10.979472Z"
         },
         {
@@ -2165,9 +2165,9 @@
           "in_minutes": 90,
           "out": "Konsa",
           "out_id": 31,
-          "out_points": 0,
-          "out_minutes": 0,
-          "gross_pl": 5,
+          "out_points": 10,
+          "out_minutes": 90,
+          "gross_pl": -5,
           "time": "2026-10-30T18:52:10.979578Z"
         },
         {
@@ -2301,13 +2301,13 @@
           "chip": "freehit",
           "in": "Isak",
           "in_id": 379,
-          "in_points": 0,
-          "in_minutes": 0,
+          "in_points": 2,
+          "in_minutes": 90,
           "out": "Solanke",
           "out_id": 526,
           "out_points": 2,
           "out_minutes": 65,
-          "gross_pl": -2,
+          "gross_pl": 0,
           "time": "2026-10-30T18:52:10.980611Z"
         },
         {
@@ -2333,9 +2333,9 @@
           "in_minutes": 65,
           "out": "Isak",
           "out_id": 379,
-          "out_points": 0,
-          "out_minutes": 0,
-          "gross_pl": 2,
+          "out_points": 2,
+          "out_minutes": 90,
+          "gross_pl": 0,
           "time": "2026-10-31T08:56:45.079204Z"
         }
       ],
@@ -2573,9 +2573,9 @@
           "in_minutes": 90,
           "out": "Calafiori",
           "out_id": 8,
-          "out_points": 0,
-          "out_minutes": 0,
-          "gross_pl": 6,
+          "out_points": 8,
+          "out_minutes": 90,
+          "gross_pl": -2,
           "time": "2026-10-30T18:52:10.979472Z"
         },
         {
@@ -2587,9 +2587,9 @@
           "in_minutes": 90,
           "out": "Konsa",
           "out_id": 31,
-          "out_points": 0,
-          "out_minutes": 0,
-          "gross_pl": 5,
+          "out_points": 10,
+          "out_minutes": 90,
+          "gross_pl": -5,
           "time": "2026-10-30T18:52:10.979578Z"
         },
         {
@@ -2723,13 +2723,13 @@
           "chip": "freehit",
           "in": "Isak",
           "in_id": 379,
-          "in_points": 0,
-          "in_minutes": 0,
+          "in_points": 2,
+          "in_minutes": 90,
           "out": "Solanke",
           "out_id": 526,
           "out_points": 2,
           "out_minutes": 65,
-          "gross_pl": -2,
+          "gross_pl": 0,
           "time": "2026-10-30T18:52:10.980611Z"
         },
         {
@@ -2755,9 +2755,9 @@
           "in_minutes": 65,
           "out": "Isak",
           "out_id": 379,
-          "out_points": 0,
-          "out_minutes": 0,
-          "gross_pl": 2,
+          "out_points": 2,
+          "out_minutes": 90,
+          "gross_pl": 0,
           "time": "2026-10-31T08:56:45.079204Z"
         }
       ],
@@ -2765,9 +2765,9 @@
         "total_transfers": 30,
         "normal_transfers": 6,
         "hit_cost": 0,
-        "gross_player_points_all": 49,
+        "gross_player_points_all": 31,
         "gross_player_points_normal": 0,
-        "net_pl_all": 49,
+        "net_pl_all": 31,
         "net_pl_normal": 0
       },
       "captain_history": [
@@ -3351,8 +3351,8 @@
       "manager": "David Eyre",
       "entry_id": 5568090,
       "team_name": "Insufferable FC",
-      "total_points": 542,
-      "overall_rank": 2065939,
+      "total_points": 550,
+      "overall_rank": 2198609,
       "latest_gameweek": 9,
       "gameweek_points": 48,
       "transfer_cost": 0,
@@ -3400,6 +3400,20 @@
             "minutes": 90,
             "points": 3,
             "counted_points": 3
+          },
+          {
+            "player": "Calafiori",
+            "team": "ARS",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "LIV",
+            "home": false,
+            "kickoff_time": "2026-11-01T16:30:00Z",
+            "minutes": 90,
+            "points": 8,
+            "counted_points": 8
           },
           {
             "player": "Gvardiol",
@@ -3540,23 +3554,23 @@
             "minutes": 90,
             "points": 2,
             "counted_points": 0
-          }
-        ],
-        "still_to_play": [
+          },
           {
-            "player": "Calafiori",
+            "player": "Konsa",
             "team": "ARS",
-            "bench": false,
+            "bench": true,
             "captain": false,
             "vice_captain": false,
-            "status": "to_play",
+            "status": "playing",
             "opponent": "LIV",
             "home": false,
             "kickoff_time": "2026-11-01T16:30:00Z",
-            "minutes": 0,
-            "points": 0,
+            "minutes": 90,
+            "points": 10,
             "counted_points": 0
-          },
+          }
+        ],
+        "still_to_play": [
           {
             "player": "Barnes",
             "team": "NEW",
@@ -3570,28 +3584,14 @@
             "minutes": 0,
             "points": 0,
             "counted_points": 0
-          },
-          {
-            "player": "Konsa",
-            "team": "ARS",
-            "bench": true,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "LIV",
-            "home": false,
-            "kickoff_time": "2026-11-01T16:30:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
           }
         ],
         "captain": "Palmer",
         "gameweek_points": 48,
         "bench_points": 22,
         "starters_played": 0,
-        "starters_playing_now": 9,
-        "starters_still_to_play": 2
+        "starters_playing_now": 10,
+        "starters_still_to_play": 1
       },
       "transfers": [
         {
@@ -4086,17 +4086,17 @@
           "player_id": 31,
           "team": "ARS",
           "position": 15,
-          "raw_points": 0,
+          "raw_points": 10,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
-          "bonus": 0
+          "clean_sheets": 1,
+          "bonus": 2
         }
       ],
       "squad": [
@@ -4139,16 +4139,16 @@
           "player_id": 8,
           "team": "ARS",
           "position": 3,
-          "raw_points": 0,
+          "raw_points": 8,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 8,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
+          "clean_sheets": 1,
           "bonus": 0
         },
         {
@@ -4343,17 +4343,17 @@
           "player_id": 31,
           "team": "ARS",
           "position": 15,
-          "raw_points": 0,
+          "raw_points": 10,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
-          "bonus": 0
+          "clean_sheets": 1,
+          "bonus": 2
         }
       ],
       "previous_gameweek": {
@@ -4462,8 +4462,8 @@
       "manager": "Manny Jandu",
       "entry_id": 2368930,
       "team_name": "The Regent",
-      "total_points": 534,
-      "overall_rank": 2438949,
+      "total_points": 542,
+      "overall_rank": 2584080,
       "latest_gameweek": 9,
       "gameweek_points": 44,
       "transfer_cost": 0,
@@ -4525,6 +4525,20 @@
             "minutes": 78,
             "points": 2,
             "counted_points": 2
+          },
+          {
+            "player": "Calafiori",
+            "team": "ARS",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "LIV",
+            "home": false,
+            "kickoff_time": "2026-11-01T16:30:00Z",
+            "minutes": 90,
+            "points": 8,
+            "counted_points": 8
           },
           {
             "player": "M.Sangaré",
@@ -4625,6 +4639,20 @@
             "counted_points": 0
           },
           {
+            "player": "Konsa",
+            "team": "ARS",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "LIV",
+            "home": false,
+            "kickoff_time": "2026-11-01T16:30:00Z",
+            "minutes": 90,
+            "points": 10,
+            "counted_points": 0
+          },
+          {
             "player": "Diop",
             "team": "IPS",
             "bench": true,
@@ -4655,20 +4683,6 @@
         ],
         "still_to_play": [
           {
-            "player": "Calafiori",
-            "team": "ARS",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "LIV",
-            "home": false,
-            "kickoff_time": "2026-11-01T16:30:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
             "player": "Wissa",
             "team": "NEW",
             "bench": false,
@@ -4681,28 +4695,14 @@
             "minutes": 0,
             "points": 0,
             "counted_points": 0
-          },
-          {
-            "player": "Konsa",
-            "team": "ARS",
-            "bench": true,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "LIV",
-            "home": false,
-            "kickoff_time": "2026-11-01T16:30:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
           }
         ],
         "captain": "Haaland",
         "gameweek_points": 44,
         "bench_points": 14,
         "starters_played": 0,
-        "starters_playing_now": 9,
-        "starters_still_to_play": 2
+        "starters_playing_now": 10,
+        "starters_still_to_play": 1
       },
       "transfers": [
         {
@@ -5135,17 +5135,17 @@
           "player_id": 31,
           "team": "ARS",
           "position": 13,
-          "raw_points": 0,
+          "raw_points": 10,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
-          "bonus": 0
+          "clean_sheets": 1,
+          "bonus": 2
         },
         {
           "player": "Diop",
@@ -5239,16 +5239,16 @@
           "player_id": 8,
           "team": "ARS",
           "position": 4,
-          "raw_points": 0,
+          "raw_points": 8,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 8,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
+          "clean_sheets": 1,
           "bonus": 0
         },
         {
@@ -5392,17 +5392,17 @@
           "player_id": 31,
           "team": "ARS",
           "position": 13,
-          "raw_points": 0,
+          "raw_points": 10,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
-          "bonus": 0
+          "clean_sheets": 1,
+          "bonus": 2
         },
         {
           "player": "Diop",
@@ -5545,8 +5545,8 @@
       "manager": "Ben Burt",
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
-      "total_points": 463,
-      "overall_rank": 6342516,
+      "total_points": 476,
+      "overall_rank": 6247424,
       "latest_gameweek": 9,
       "gameweek_points": 49,
       "transfer_cost": 0,
@@ -5610,6 +5610,20 @@
             "counted_points": 6
           },
           {
+            "player": "Konsa",
+            "team": "ARS",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "LIV",
+            "home": false,
+            "kickoff_time": "2026-11-01T16:30:00Z",
+            "minutes": 90,
+            "points": 10,
+            "counted_points": 10
+          },
+          {
             "player": "O'Reilly",
             "team": "MCI",
             "bench": false,
@@ -5636,6 +5650,20 @@
             "minutes": 90,
             "points": 9,
             "counted_points": 9
+          },
+          {
+            "player": "Ødegaard",
+            "team": "ARS",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "LIV",
+            "home": false,
+            "kickoff_time": "2026-11-01T16:30:00Z",
+            "minutes": 87,
+            "points": 3,
+            "counted_points": 3
           },
           {
             "player": "Groß",
@@ -5680,6 +5708,20 @@
             "counted_points": 18
           },
           {
+            "player": "A.Becker",
+            "team": "LIV",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "ARS",
+            "home": true,
+            "kickoff_time": "2026-11-01T16:30:00Z",
+            "minutes": 90,
+            "points": 2,
+            "counted_points": 0
+          },
+          {
             "player": "Rodon",
             "team": "LEE",
             "bench": true,
@@ -5710,34 +5752,6 @@
         ],
         "still_to_play": [
           {
-            "player": "Konsa",
-            "team": "ARS",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "LIV",
-            "home": false,
-            "kickoff_time": "2026-11-01T16:30:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Ødegaard",
-            "team": "ARS",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "LIV",
-            "home": false,
-            "kickoff_time": "2026-11-01T16:30:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
             "player": "Barry",
             "team": "EVE",
             "bench": false,
@@ -5747,20 +5761,6 @@
             "opponent": "NEW",
             "home": false,
             "kickoff_time": "2026-11-02T20:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "A.Becker",
-            "team": "LIV",
-            "bench": true,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "ARS",
-            "home": true,
-            "kickoff_time": "2026-11-01T16:30:00Z",
             "minutes": 0,
             "points": 0,
             "counted_points": 0
@@ -5784,8 +5784,8 @@
         "gameweek_points": 49,
         "bench_points": 1,
         "starters_played": 0,
-        "starters_playing_now": 8,
-        "starters_still_to_play": 3
+        "starters_playing_now": 10,
+        "starters_still_to_play": 1
       },
       "transfers": [
         {
@@ -5807,13 +5807,13 @@
           "chip": null,
           "in": "Konsa",
           "in_id": 31,
-          "in_points": 0,
-          "in_minutes": 0,
+          "in_points": 10,
+          "in_minutes": 90,
           "out": "Guéhi",
           "out_id": 388,
           "out_points": 0,
           "out_minutes": 0,
-          "gross_pl": 0,
+          "gross_pl": 10,
           "time": "2026-10-31T10:59:01.963030Z"
         }
       ],
@@ -5907,13 +5907,13 @@
           "chip": null,
           "in": "Konsa",
           "in_id": 31,
-          "in_points": 0,
-          "in_minutes": 0,
+          "in_points": 10,
+          "in_minutes": 90,
           "out": "Guéhi",
           "out_id": 388,
           "out_points": 0,
           "out_minutes": 0,
-          "gross_pl": 0,
+          "gross_pl": 10,
           "time": "2026-10-31T10:59:01.963030Z"
         }
       ],
@@ -5921,10 +5921,10 @@
         "total_transfers": 7,
         "normal_transfers": 7,
         "hit_cost": 0,
-        "gross_player_points_all": 43,
-        "gross_player_points_normal": 43,
-        "net_pl_all": 43,
-        "net_pl_normal": 43
+        "gross_player_points_all": 53,
+        "gross_player_points_normal": 53,
+        "net_pl_all": 53,
+        "net_pl_normal": 53
       },
       "captain_history": [
         {
@@ -6018,9 +6018,9 @@
           "captain_minutes": 90,
           "vice_captain": "Haaland",
           "vice_points": 2,
-          "best_starting_player": "De Cuyper",
-          "best_starting_points": 9,
-          "captain_points_missed_vs_best_starter": 0,
+          "best_starting_player": "Konsa",
+          "best_starting_points": 10,
+          "captain_points_missed_vs_best_starter": 1,
           "chip": null
         }
       ],
@@ -6042,8 +6042,8 @@
         "total_bench_points": 68,
         "average_bench_points": 8.5,
         "captain_raw_points": 68,
-        "captain_efficiency_pct_vs_best_starter": 68,
-        "captain_points_missed_vs_best_starter": 32,
+        "captain_efficiency_pct_vs_best_starter": 67.3,
+        "captain_points_missed_vs_best_starter": 33,
         "chips_used": []
       },
       "bench": [
@@ -6052,13 +6052,13 @@
           "player_id": 350,
           "team": "LIV",
           "position": 12,
-          "raw_points": 0,
+          "raw_points": 2,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -6173,17 +6173,17 @@
           "player_id": 31,
           "team": "ARS",
           "position": 4,
-          "raw_points": 0,
+          "raw_points": 10,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 10,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
-          "bonus": 0
+          "clean_sheets": 1,
+          "bonus": 2
         },
         {
           "player": "O'Reilly",
@@ -6224,16 +6224,16 @@
           "player_id": 15,
           "team": "ARS",
           "position": 7,
-          "raw_points": 0,
+          "raw_points": 3,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 3,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 87,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
+          "clean_sheets": 1,
           "bonus": 0
         },
         {
@@ -6309,13 +6309,13 @@
           "player_id": 350,
           "team": "LIV",
           "position": 12,
-          "raw_points": 0,
+          "raw_points": 2,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -6469,8 +6469,8 @@
       "manager": "Matthew Shaw",
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
-      "total_points": 427,
-      "overall_rank": 7957097,
+      "total_points": 448,
+      "overall_rank": 7569434,
       "latest_gameweek": 9,
       "gameweek_points": 25,
       "transfer_cost": 0,
@@ -6484,8 +6484,8 @@
       },
       "vice_captain": {
         "player": "Ødegaard",
-        "raw_points": 0,
-        "minutes": 0
+        "raw_points": 3,
+        "minutes": 87
       },
       "active_chip": null,
       "live_summary": {
@@ -6506,6 +6506,20 @@
             "counted_points": 6
           },
           {
+            "player": "Calafiori",
+            "team": "ARS",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "LIV",
+            "home": false,
+            "kickoff_time": "2026-11-01T16:30:00Z",
+            "minutes": 90,
+            "points": 8,
+            "counted_points": 8
+          },
+          {
             "player": "Robinson",
             "team": "FUL",
             "bench": false,
@@ -6520,6 +6534,20 @@
             "counted_points": 4
           },
           {
+            "player": "Konsa",
+            "team": "ARS",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "LIV",
+            "home": false,
+            "kickoff_time": "2026-11-01T16:30:00Z",
+            "minutes": 90,
+            "points": 10,
+            "counted_points": 10
+          },
+          {
             "player": "Groß",
             "team": "BHA",
             "bench": false,
@@ -6532,6 +6560,20 @@
             "minutes": 90,
             "points": 2,
             "counted_points": 2
+          },
+          {
+            "player": "Ødegaard",
+            "team": "ARS",
+            "bench": false,
+            "captain": false,
+            "vice_captain": true,
+            "status": "playing",
+            "opponent": "LIV",
+            "home": false,
+            "kickoff_time": "2026-11-01T16:30:00Z",
+            "minutes": 87,
+            "points": 3,
+            "counted_points": 3
           },
           {
             "player": "Schade",
@@ -6648,48 +6690,6 @@
         ],
         "still_to_play": [
           {
-            "player": "Calafiori",
-            "team": "ARS",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "LIV",
-            "home": false,
-            "kickoff_time": "2026-11-01T16:30:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Konsa",
-            "team": "ARS",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "LIV",
-            "home": false,
-            "kickoff_time": "2026-11-01T16:30:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Ødegaard",
-            "team": "ARS",
-            "bench": false,
-            "captain": false,
-            "vice_captain": true,
-            "status": "to_play",
-            "opponent": "LIV",
-            "home": false,
-            "kickoff_time": "2026-11-01T16:30:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
             "player": "Horníček",
             "team": "NEW",
             "bench": true,
@@ -6708,8 +6708,8 @@
         "gameweek_points": 25,
         "bench_points": 5,
         "starters_played": 0,
-        "starters_playing_now": 8,
-        "starters_still_to_play": 3
+        "starters_playing_now": 11,
+        "starters_still_to_play": 0
       },
       "transfers": [
         {
@@ -6717,13 +6717,13 @@
           "chip": null,
           "in": "Ødegaard",
           "in_id": 15,
-          "in_points": 0,
-          "in_minutes": 0,
+          "in_points": 3,
+          "in_minutes": 87,
           "out": "Madueke",
           "out_id": 16,
-          "out_points": 0,
-          "out_minutes": 0,
-          "gross_pl": 0,
+          "out_points": 2,
+          "out_minutes": 90,
+          "gross_pl": 1,
           "time": "2026-10-30T21:56:21.186071Z"
         }
       ],
@@ -6999,13 +6999,13 @@
           "chip": null,
           "in": "Ødegaard",
           "in_id": 15,
-          "in_points": 0,
-          "in_minutes": 0,
+          "in_points": 3,
+          "in_minutes": 87,
           "out": "Madueke",
           "out_id": 16,
-          "out_points": 0,
-          "out_minutes": 0,
-          "gross_pl": 0,
+          "out_points": 2,
+          "out_minutes": 90,
+          "gross_pl": 1,
           "time": "2026-10-30T21:56:21.186071Z"
         }
       ],
@@ -7013,10 +7013,10 @@
         "total_transfers": 20,
         "normal_transfers": 9,
         "hit_cost": 8,
-        "gross_player_points_all": 1,
-        "gross_player_points_normal": 11,
-        "net_pl_all": -7,
-        "net_pl_normal": 3
+        "gross_player_points_all": 2,
+        "gross_player_points_normal": 12,
+        "net_pl_all": -6,
+        "net_pl_normal": 4
       },
       "captain_history": [
         {
@@ -7121,10 +7121,10 @@
           "captain_points": 2,
           "captain_minutes": 90,
           "vice_captain": "Ødegaard",
-          "vice_points": 0,
-          "best_starting_player": "Kinsky",
-          "best_starting_points": 6,
-          "captain_points_missed_vs_best_starter": 4,
+          "vice_points": 3,
+          "best_starting_player": "Konsa",
+          "best_starting_points": 10,
+          "captain_points_missed_vs_best_starter": 8,
           "chip": null
         }
       ],
@@ -7146,8 +7146,8 @@
         "total_bench_points": 94,
         "average_bench_points": 10.4,
         "captain_raw_points": 47,
-        "captain_efficiency_pct_vs_best_starter": 50,
-        "captain_points_missed_vs_best_starter": 47,
+        "captain_efficiency_pct_vs_best_starter": 48,
+        "captain_points_missed_vs_best_starter": 51,
         "chips_used": [
           {
             "name": "wildcard",
@@ -7249,16 +7249,16 @@
           "player_id": 8,
           "team": "ARS",
           "position": 2,
-          "raw_points": 0,
+          "raw_points": 8,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 8,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
+          "clean_sheets": 1,
           "bonus": 0
         },
         {
@@ -7283,17 +7283,17 @@
           "player_id": 31,
           "team": "ARS",
           "position": 4,
-          "raw_points": 0,
+          "raw_points": 10,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 10,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
-          "bonus": 0
+          "clean_sheets": 1,
+          "bonus": 2
         },
         {
           "player": "Groß",
@@ -7317,16 +7317,16 @@
           "player_id": 15,
           "team": "ARS",
           "position": 6,
-          "raw_points": 0,
+          "raw_points": 3,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 3,
           "captain": false,
           "vice_captain": true,
           "bench": false,
-          "minutes": 0,
+          "minutes": 87,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
+          "clean_sheets": 1,
           "bonus": 0
         },
         {
