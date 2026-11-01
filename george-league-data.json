@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-11-01T18:32:51.727Z",
+  "generated_at": "2026-11-01T18:37:42.680Z",
   "latest_gameweek": 9,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 55,
       "total_points": 604,
-      "overall_rank": 396510,
+      "overall_rank": 396522,
       "previous_league_rank": 1,
       "rank_change": 0
     },
@@ -296,7 +296,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 67,
       "total_points": 588,
-      "overall_rank": 753167,
+      "overall_rank": 753175,
       "previous_league_rank": 2,
       "rank_change": 0
     },
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 25,
       "total_points": 448,
-      "overall_rank": 7569434,
+      "overall_rank": 7567578,
       "previous_league_rank": 3,
       "rank_change": 0
     }
@@ -599,7 +599,7 @@
       "entry_id": 8848218,
       "team_name": "TheRoseGardeb",
       "total_points": 604,
-      "overall_rank": 396510,
+      "overall_rank": 396522,
       "latest_gameweek": 9,
       "gameweek_points": 55,
       "transfer_cost": 0,
@@ -683,9 +683,9 @@
           "in_minutes": 90,
           "out": "Virgil",
           "out_id": 356,
-          "out_points": 2,
+          "out_points": 1,
           "out_minutes": 90,
-          "gross_pl": 4,
+          "gross_pl": 5,
           "time": "2026-10-31T09:37:00.870979Z"
         },
         {
@@ -881,9 +881,9 @@
           "in_minutes": 90,
           "out": "Virgil",
           "out_id": 356,
-          "out_points": 2,
+          "out_points": 1,
           "out_minutes": 90,
-          "gross_pl": 4,
+          "gross_pl": 5,
           "time": "2026-10-31T09:37:00.870979Z"
         },
         {
@@ -1008,8 +1008,8 @@
             "count": 10,
             "chip": "wildcard",
             "transfer_cost": 0,
-            "gross_pl": 28,
-            "net_pl": 28,
+            "gross_pl": 29,
+            "net_pl": 29,
             "transfers": [
               {
                 "in": "Yalcouyé",
@@ -1034,7 +1034,7 @@
               {
                 "in": "Gabriel",
                 "out": "Virgil",
-                "gross_pl": 4
+                "gross_pl": 5
               },
               {
                 "in": "Hill",
@@ -1064,11 +1064,11 @@
             ]
           }
         ],
-        "gross_player_points_all": 32,
+        "gross_player_points_all": 33,
         "gross_player_points_normal": 4,
         "hit_cost": 0,
         "hit_count_equivalent": 0,
-        "net_pl_all": 32,
+        "net_pl_all": 33,
         "net_pl_normal": 4,
         "best_normal_transfer": {
           "gameweek": 8,
@@ -1117,9 +1117,9 @@
         ]
       },
       "transfer_pl": {
-        "gross_player_points": 32,
+        "gross_player_points": 33,
         "hit_cost": 0,
-        "net": 32
+        "net": 33
       },
       "captain_history": [
         {
@@ -1688,7 +1688,7 @@
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
       "total_points": 588,
-      "overall_rank": 753167,
+      "overall_rank": 753175,
       "latest_gameweek": 9,
       "gameweek_points": 67,
       "transfer_cost": 0,
@@ -3210,7 +3210,7 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 448,
-      "overall_rank": 7569434,
+      "overall_rank": 7567578,
       "latest_gameweek": 9,
       "gameweek_points": 25,
       "transfer_cost": 0,
