@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-11-02T15:36:04.793Z",
+  "generated_at": "2026-11-02T23:25:37.777Z",
   "latest_gameweek": 9,
   "events": [
     {
@@ -279,11 +279,11 @@
       "name": "George",
       "manager": "George Lane",
       "team_name": "TheRoseGardeb",
-      "gameweek_points": 61,
+      "gameweek_points": 63,
       "transfer_cost": 0,
-      "net_gameweek_points": 61,
-      "total_points": 604,
-      "overall_rank": 383560,
+      "net_gameweek_points": 63,
+      "total_points": 606,
+      "overall_rank": 389048,
       "previous_league_rank": 1,
       "rank_change": 0
     },
@@ -296,7 +296,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 67,
       "total_points": 588,
-      "overall_rank": 732918,
+      "overall_rank": 796675,
       "previous_league_rank": 2,
       "rank_change": 0
     },
@@ -305,11 +305,11 @@
       "name": "Curlo",
       "manager": "Matthew Shaw",
       "team_name": "Victor Moses Lawn",
-      "gameweek_points": 46,
+      "gameweek_points": 44,
       "transfer_cost": 0,
-      "net_gameweek_points": 46,
+      "net_gameweek_points": 44,
       "total_points": 446,
-      "overall_rank": 7627469,
+      "overall_rank": 7747490,
       "previous_league_rank": 3,
       "rank_change": 0
     }
@@ -378,7 +378,7 @@
       },
       {
         "name": "Curlo",
-        "value": 94
+        "value": 97
       },
       {
         "name": "Joe",
@@ -582,11 +582,11 @@
           },
           {
             "name": "George",
-            "net_points": 61
+            "net_points": 63
           },
           {
             "name": "Curlo",
-            "net_points": 46
+            "net_points": 44
           }
         ]
       }
@@ -598,12 +598,12 @@
       "manager": "George Lane",
       "entry_id": 8848218,
       "team_name": "TheRoseGardeb",
-      "total_points": 604,
-      "overall_rank": 383560,
+      "total_points": 606,
+      "overall_rank": 389048,
       "latest_gameweek": 9,
-      "gameweek_points": 61,
+      "gameweek_points": 63,
       "transfer_cost": 0,
-      "net_gameweek_points": 61,
+      "net_gameweek_points": 63,
       "points_on_bench": 17,
       "captain": {
         "player": "Haaland",
@@ -651,13 +651,13 @@
           "chip": "wildcard",
           "in": "Barnes",
           "in_id": 453,
-          "in_points": 0,
-          "in_minutes": 0,
+          "in_points": 2,
+          "in_minutes": 90,
           "out": "Groß",
           "out_id": 124,
           "out_points": 2,
           "out_minutes": 90,
-          "gross_pl": -2,
+          "gross_pl": 0,
           "time": "2026-10-31T09:37:00.870775Z"
         },
         {
@@ -849,13 +849,13 @@
           "chip": "wildcard",
           "in": "Barnes",
           "in_id": 453,
-          "in_points": 0,
-          "in_minutes": 0,
+          "in_points": 2,
+          "in_minutes": 90,
           "out": "Groß",
           "out_id": 124,
           "out_points": 2,
           "out_minutes": 90,
-          "gross_pl": -2,
+          "gross_pl": 0,
           "time": "2026-10-31T09:37:00.870775Z"
         },
         {
@@ -1008,8 +1008,8 @@
             "count": 10,
             "chip": "wildcard",
             "transfer_cost": 0,
-            "gross_pl": 31,
-            "net_pl": 31,
+            "gross_pl": 33,
+            "net_pl": 33,
             "transfers": [
               {
                 "in": "Yalcouyé",
@@ -1024,7 +1024,7 @@
               {
                 "in": "Barnes",
                 "out": "Groß",
-                "gross_pl": -2
+                "gross_pl": 0
               },
               {
                 "in": "Tavernier",
@@ -1064,11 +1064,11 @@
             ]
           }
         ],
-        "gross_player_points_all": 35,
+        "gross_player_points_all": 37,
         "gross_player_points_normal": 4,
         "hit_cost": 0,
         "hit_count_equivalent": 0,
-        "net_pl_all": 35,
+        "net_pl_all": 37,
         "net_pl_normal": 4,
         "best_normal_transfer": {
           "gameweek": 8,
@@ -1117,9 +1117,9 @@
         ]
       },
       "transfer_pl": {
-        "gross_player_points": 35,
+        "gross_player_points": 37,
         "hit_cost": 0,
-        "net": 35
+        "net": 37
       },
       "captain_history": [
         {
@@ -1242,7 +1242,7 @@
       ],
       "season_insights": {
         "gameweeks_played": 9,
-        "average_net_gw_score": 67.1,
+        "average_net_gw_score": 67.3,
         "best_gameweek": {
           "gameweek": 7,
           "points": 87,
@@ -1440,13 +1440,13 @@
           "player": "Barnes",
           "player_id": 453,
           "position": 7,
-          "raw_points": 0,
+          "raw_points": 2,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 2,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -1672,10 +1672,10 @@
         },
         {
           "gameweek": 9,
-          "points": 61,
-          "net_points": 61,
-          "total_points": 604,
-          "overall_rank": 396519,
+          "points": 63,
+          "net_points": 63,
+          "total_points": 606,
+          "overall_rank": 389045,
           "transfer_cost": 0,
           "points_on_bench": 17,
           "chip": "wildcard"
@@ -1688,7 +1688,7 @@
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
       "total_points": 588,
-      "overall_rank": 732918,
+      "overall_rank": 796675,
       "latest_gameweek": 9,
       "gameweek_points": 67,
       "transfer_cost": 0,
@@ -1786,9 +1786,9 @@
           "in_minutes": 90,
           "out": "Mykolenko",
           "out_id": 233,
-          "out_points": 0,
-          "out_minutes": 0,
-          "gross_pl": 8,
+          "out_points": 8,
+          "out_minutes": 90,
+          "gross_pl": 0,
           "time": "2026-10-30T18:52:10.979786Z"
         },
         {
@@ -2208,9 +2208,9 @@
           "in_minutes": 90,
           "out": "Mykolenko",
           "out_id": 233,
-          "out_points": 0,
-          "out_minutes": 0,
-          "gross_pl": 8,
+          "out_points": 8,
+          "out_minutes": 90,
+          "gross_pl": 0,
           "time": "2026-10-30T18:52:10.979786Z"
         },
         {
@@ -2495,8 +2495,8 @@
             "count": 16,
             "chip": "freehit",
             "transfer_cost": 0,
-            "gross_pl": 17,
-            "net_pl": 17,
+            "gross_pl": 9,
+            "net_pl": 9,
             "transfers": [
               {
                 "in": "Suzuki",
@@ -2526,7 +2526,7 @@
               {
                 "in": "Silva",
                 "out": "Mykolenko",
-                "gross_pl": 8
+                "gross_pl": 0
               },
               {
                 "in": "Manzambi",
@@ -2581,11 +2581,11 @@
             ]
           }
         ],
-        "gross_player_points_all": 33,
+        "gross_player_points_all": 25,
         "gross_player_points_normal": 0,
         "hit_cost": 0,
         "hit_count_equivalent": 0,
-        "net_pl_all": 33,
+        "net_pl_all": 25,
         "net_pl_normal": 0,
         "best_normal_transfer": {
           "gameweek": 6,
@@ -2634,9 +2634,9 @@
         ]
       },
       "transfer_pl": {
-        "gross_player_points": 33,
+        "gross_player_points": 25,
         "hit_cost": 0,
-        "net": 33
+        "net": 25
       },
       "captain_history": [
         {
@@ -3197,7 +3197,7 @@
           "points": 67,
           "net_points": 67,
           "total_points": 588,
-          "overall_rank": 753169,
+          "overall_rank": 796669,
           "transfer_cost": 0,
           "points_on_bench": 26,
           "chip": "freehit"
@@ -3210,12 +3210,12 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 446,
-      "overall_rank": 7627469,
+      "overall_rank": 7747490,
       "latest_gameweek": 9,
-      "gameweek_points": 46,
+      "gameweek_points": 44,
       "transfer_cost": 0,
-      "net_gameweek_points": 46,
-      "points_on_bench": 5,
+      "net_gameweek_points": 44,
+      "points_on_bench": 8,
       "captain": {
         "player": "Haaland",
         "raw_points": 2,
@@ -3923,7 +3923,7 @@
       ],
       "season_insights": {
         "gameweeks_played": 9,
-        "average_net_gw_score": 49.8,
+        "average_net_gw_score": 49.6,
         "best_gameweek": {
           "gameweek": 4,
           "points": 70,
@@ -3936,8 +3936,8 @@
           "hit": 4,
           "net_points": 29
         },
-        "total_bench_points": 94,
-        "average_bench_points": 10.4,
+        "total_bench_points": 97,
+        "average_bench_points": 10.8,
         "captain_raw_points": 47,
         "captain_efficiency_pct_vs_best_starter": 48,
         "captain_points_missed_vs_best_starter": 51,
@@ -3954,13 +3954,13 @@
           "player": "Horníček",
           "player_id": 567,
           "position": 12,
-          "raw_points": 0,
+          "raw_points": 3,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4196,13 +4196,13 @@
           "player": "Horníček",
           "player_id": 567,
           "position": 12,
-          "raw_points": 0,
+          "raw_points": 3,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4348,12 +4348,12 @@
         },
         {
           "gameweek": 9,
-          "points": 46,
-          "net_points": 46,
-          "total_points": 448,
-          "overall_rank": 7567554,
+          "points": 44,
+          "net_points": 44,
+          "total_points": 446,
+          "overall_rank": 7747467,
           "transfer_cost": 0,
-          "points_on_bench": 5,
+          "points_on_bench": 8,
           "chip": null
         }
       ]

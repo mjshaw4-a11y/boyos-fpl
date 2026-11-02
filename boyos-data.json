@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-02T15:36:04.272Z",
+  "generated_at": "2026-11-02T23:25:37.162Z",
   "latest_gameweek": 9,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 67,
       "total_points": 588,
-      "overall_rank": 732918,
+      "overall_rank": 796675,
       "previous_boyos_rank": 1,
       "rank_change": 0
     },
@@ -295,8 +295,8 @@
       "gameweek_points": 56,
       "transfer_cost": 0,
       "net_gameweek_points": 56,
-      "total_points": 548,
-      "overall_rank": 2257499,
+      "total_points": 550,
+      "overall_rank": 2283733,
       "previous_boyos_rank": 2,
       "rank_change": 0
     },
@@ -305,11 +305,11 @@
       "name": "Manny",
       "manager": "Manny Jandu",
       "team_name": "The Regent",
-      "gameweek_points": 52,
+      "gameweek_points": 51,
       "transfer_cost": 0,
-      "net_gameweek_points": 52,
-      "total_points": 540,
-      "overall_rank": 2647159,
+      "net_gameweek_points": 51,
+      "total_points": 541,
+      "overall_rank": 2728968,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -318,11 +318,11 @@
       "name": "Ben",
       "manager": "Ben Burt",
       "team_name": "20 packs of ciggosss",
-      "gameweek_points": 62,
+      "gameweek_points": 71,
       "transfer_cost": 0,
-      "net_gameweek_points": 62,
-      "total_points": 476,
-      "overall_rank": 6213540,
+      "net_gameweek_points": 71,
+      "total_points": 485,
+      "overall_rank": 5886104,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -331,11 +331,11 @@
       "name": "Curlo",
       "manager": "Matthew Shaw",
       "team_name": "Victor Moses Lawn",
-      "gameweek_points": 46,
+      "gameweek_points": 44,
       "transfer_cost": 0,
-      "net_gameweek_points": 46,
+      "net_gameweek_points": 44,
       "total_points": 446,
-      "overall_rank": 7627469,
+      "overall_rank": 7747490,
       "previous_boyos_rank": 5,
       "rank_change": 0
     }
@@ -665,6 +665,20 @@
           "counted_points": 16
         },
         {
+          "player": "Barnes",
+          "team": "NEW",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "EVE",
+          "home": true,
+          "kickoff_time": "2026-11-02T20:00:00Z",
+          "minutes": 90,
+          "points": 2,
+          "counted_points": 2
+        },
+        {
           "player": "Gonzalo",
           "team": "FUL",
           "bench": false,
@@ -763,28 +777,13 @@
           "counted_points": 0
         }
       ],
-      "still_to_play": [
-        {
-          "player": "Barnes",
-          "team": "NEW",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "EVE",
-          "home": true,
-          "kickoff_time": "2026-11-02T20:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        }
-      ],
+      "still_to_play": [],
       "captain": "Palmer",
       "gameweek_points": 56,
       "bench_points": 32,
       "starters_played": 0,
-      "starters_playing_now": 10,
-      "starters_still_to_play": 1
+      "starters_playing_now": 11,
+      "starters_still_to_play": 0
     },
     "Manny": {
       "played": [],
@@ -916,6 +915,20 @@
           "counted_points": 4
         },
         {
+          "player": "Wissa",
+          "team": "NEW",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "EVE",
+          "home": true,
+          "kickoff_time": "2026-11-02T20:00:00Z",
+          "minutes": 26,
+          "points": 1,
+          "counted_points": 1
+        },
+        {
           "player": "N.Jackson",
           "team": "AVL",
           "bench": false,
@@ -986,28 +999,13 @@
           "counted_points": 0
         }
       ],
-      "still_to_play": [
-        {
-          "player": "Wissa",
-          "team": "NEW",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "EVE",
-          "home": true,
-          "kickoff_time": "2026-11-02T20:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        }
-      ],
+      "still_to_play": [],
       "captain": "Haaland",
-      "gameweek_points": 52,
+      "gameweek_points": 51,
       "bench_points": 24,
       "starters_played": 0,
-      "starters_playing_now": 10,
-      "starters_still_to_play": 1
+      "starters_playing_now": 11,
+      "starters_still_to_play": 0
     },
     "Ben": {
       "played": [],
@@ -1153,6 +1151,20 @@
           "counted_points": 18
         },
         {
+          "player": "Barry",
+          "team": "EVE",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "NEW",
+          "home": false,
+          "kickoff_time": "2026-11-02T20:00:00Z",
+          "minutes": 79,
+          "points": 9,
+          "counted_points": 9
+        },
+        {
           "player": "A.Becker",
           "team": "LIV",
           "bench": true,
@@ -1164,6 +1176,20 @@
           "kickoff_time": "2026-11-01T16:30:00Z",
           "minutes": 90,
           "points": 2,
+          "counted_points": 0
+        },
+        {
+          "player": "Dewsbury-Hall",
+          "team": "EVE",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "NEW",
+          "home": false,
+          "kickoff_time": "2026-11-02T20:00:00Z",
+          "minutes": 90,
+          "points": 3,
           "counted_points": 0
         },
         {
@@ -1195,42 +1221,13 @@
           "counted_points": 0
         }
       ],
-      "still_to_play": [
-        {
-          "player": "Barry",
-          "team": "EVE",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "NEW",
-          "home": false,
-          "kickoff_time": "2026-11-02T20:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Dewsbury-Hall",
-          "team": "EVE",
-          "bench": true,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "NEW",
-          "home": false,
-          "kickoff_time": "2026-11-02T20:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        }
-      ],
+      "still_to_play": [],
       "captain": "N.Jackson",
-      "gameweek_points": 62,
-      "bench_points": 3,
+      "gameweek_points": 71,
+      "bench_points": 6,
       "starters_played": 0,
-      "starters_playing_now": 10,
-      "starters_still_to_play": 1
+      "starters_playing_now": 11,
+      "starters_still_to_play": 0
     },
     "Curlo": {
       "played": [],
@@ -1390,6 +1387,20 @@
           "counted_points": 2
         },
         {
+          "player": "Horníček",
+          "team": "NEW",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "EVE",
+          "home": true,
+          "kickoff_time": "2026-11-02T20:00:00Z",
+          "minutes": 90,
+          "points": 3,
+          "counted_points": 0
+        },
+        {
           "player": "Muharemović",
           "team": "LEE",
           "bench": true,
@@ -1432,25 +1443,10 @@
           "counted_points": 0
         }
       ],
-      "still_to_play": [
-        {
-          "player": "Horníček",
-          "team": "NEW",
-          "bench": true,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "EVE",
-          "home": true,
-          "kickoff_time": "2026-11-02T20:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        }
-      ],
+      "still_to_play": [],
       "captain": "Haaland",
-      "gameweek_points": 46,
-      "bench_points": 5,
+      "gameweek_points": 44,
+      "bench_points": 8,
       "starters_played": 0,
       "starters_playing_now": 11,
       "starters_still_to_play": 0
@@ -1552,7 +1548,7 @@
       },
       {
         "name": "Curlo",
-        "value": 94
+        "value": 97
       },
       {
         "name": "Joe",
@@ -1560,7 +1556,7 @@
       },
       {
         "name": "Ben",
-        "value": 70
+        "value": 73
       },
       {
         "name": "Manny",
@@ -1613,11 +1609,11 @@
     ],
     "weekly_wins": [
       {
-        "name": "Joe",
+        "name": "Ben",
         "wins": 3
       },
       {
-        "name": "Ben",
+        "name": "Joe",
         "wins": 2
       },
       {
@@ -1839,16 +1835,16 @@
         ]
       },
       "9": {
-        "winner": "Joe",
-        "score": 67,
+        "winner": "Ben",
+        "score": 71,
         "rankings": [
+          {
+            "name": "Ben",
+            "net_points": 71
+          },
           {
             "name": "Joe",
             "net_points": 67
-          },
-          {
-            "name": "Ben",
-            "net_points": 62
           },
           {
             "name": "Dave",
@@ -1856,11 +1852,11 @@
           },
           {
             "name": "Manny",
-            "net_points": 52
+            "net_points": 51
           },
           {
             "name": "Curlo",
-            "net_points": 46
+            "net_points": 44
           }
         ]
       }
@@ -1873,7 +1869,7 @@
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
       "total_points": 588,
-      "overall_rank": 732918,
+      "overall_rank": 796675,
       "latest_gameweek": 9,
       "gameweek_points": 67,
       "transfer_cost": 0,
@@ -2193,9 +2189,9 @@
           "in_minutes": 90,
           "out": "Mykolenko",
           "out_id": 233,
-          "out_points": 0,
-          "out_minutes": 0,
-          "gross_pl": 8,
+          "out_points": 8,
+          "out_minutes": 90,
+          "gross_pl": 0,
           "time": "2026-10-30T18:52:10.979786Z"
         },
         {
@@ -2615,9 +2611,9 @@
           "in_minutes": 90,
           "out": "Mykolenko",
           "out_id": 233,
-          "out_points": 0,
-          "out_minutes": 0,
-          "gross_pl": 8,
+          "out_points": 8,
+          "out_minutes": 90,
+          "gross_pl": 0,
           "time": "2026-10-30T18:52:10.979786Z"
         },
         {
@@ -2765,9 +2761,9 @@
         "total_transfers": 30,
         "normal_transfers": 6,
         "hit_cost": 0,
-        "gross_player_points_all": 33,
+        "gross_player_points_all": 25,
         "gross_player_points_normal": 0,
-        "net_pl_all": 33,
+        "net_pl_all": 25,
         "net_pl_normal": 0
       },
       "captain_history": [
@@ -3339,7 +3335,7 @@
           "points": 67,
           "net_points": 67,
           "total_points": 588,
-          "overall_rank": 753169,
+          "overall_rank": 796669,
           "transfer_cost": 0,
           "points_on_bench": 26,
           "chip": "freehit"
@@ -3351,8 +3347,8 @@
       "manager": "David Eyre",
       "entry_id": 5568090,
       "team_name": "Insufferable FC",
-      "total_points": 548,
-      "overall_rank": 2257499,
+      "total_points": 550,
+      "overall_rank": 2283733,
       "latest_gameweek": 9,
       "gameweek_points": 56,
       "transfer_cost": 0,
@@ -3472,6 +3468,20 @@
             "counted_points": 16
           },
           {
+            "player": "Barnes",
+            "team": "NEW",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "EVE",
+            "home": true,
+            "kickoff_time": "2026-11-02T20:00:00Z",
+            "minutes": 90,
+            "points": 2,
+            "counted_points": 2
+          },
+          {
             "player": "Gonzalo",
             "team": "FUL",
             "bench": false,
@@ -3570,28 +3580,13 @@
             "counted_points": 0
           }
         ],
-        "still_to_play": [
-          {
-            "player": "Barnes",
-            "team": "NEW",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "EVE",
-            "home": true,
-            "kickoff_time": "2026-11-02T20:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          }
-        ],
+        "still_to_play": [],
         "captain": "Palmer",
         "gameweek_points": 56,
         "bench_points": 32,
         "starters_played": 0,
-        "starters_playing_now": 10,
-        "starters_still_to_play": 1
+        "starters_playing_now": 11,
+        "starters_still_to_play": 0
       },
       "transfers": [
         {
@@ -4224,13 +4219,13 @@
           "player_id": 453,
           "team": "NEW",
           "position": 8,
-          "raw_points": 0,
+          "raw_points": 2,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 2,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4450,7 +4445,7 @@
           "points": 56,
           "net_points": 56,
           "total_points": 550,
-          "overall_rank": 2198509,
+          "overall_rank": 2283720,
           "transfer_cost": 0,
           "points_on_bench": 32,
           "chip": null
@@ -4462,12 +4457,12 @@
       "manager": "Manny Jandu",
       "entry_id": 2368930,
       "team_name": "The Regent",
-      "total_points": 540,
-      "overall_rank": 2647159,
+      "total_points": 541,
+      "overall_rank": 2728968,
       "latest_gameweek": 9,
-      "gameweek_points": 52,
+      "gameweek_points": 51,
       "transfer_cost": 0,
-      "net_gameweek_points": 52,
+      "net_gameweek_points": 51,
       "points_on_bench": 24,
       "captain": {
         "player": "Haaland",
@@ -4611,6 +4606,20 @@
             "counted_points": 4
           },
           {
+            "player": "Wissa",
+            "team": "NEW",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "EVE",
+            "home": true,
+            "kickoff_time": "2026-11-02T20:00:00Z",
+            "minutes": 26,
+            "points": 1,
+            "counted_points": 1
+          },
+          {
             "player": "N.Jackson",
             "team": "AVL",
             "bench": false,
@@ -4681,28 +4690,13 @@
             "counted_points": 0
           }
         ],
-        "still_to_play": [
-          {
-            "player": "Wissa",
-            "team": "NEW",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "EVE",
-            "home": true,
-            "kickoff_time": "2026-11-02T20:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          }
-        ],
+        "still_to_play": [],
         "captain": "Haaland",
-        "gameweek_points": 52,
+        "gameweek_points": 51,
         "bench_points": 24,
         "starters_played": 0,
-        "starters_playing_now": 10,
-        "starters_still_to_play": 1
+        "starters_playing_now": 11,
+        "starters_still_to_play": 0
       },
       "transfers": [
         {
@@ -5081,7 +5075,7 @@
       ],
       "season_insights": {
         "gameweeks_played": 9,
-        "average_net_gw_score": 60.2,
+        "average_net_gw_score": 60.1,
         "best_gameweek": {
           "gameweek": 2,
           "points": 103,
@@ -5341,13 +5335,13 @@
           "player_id": 464,
           "team": "NEW",
           "position": 10,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 1,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 26,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -5530,10 +5524,10 @@
         },
         {
           "gameweek": 9,
-          "points": 52,
-          "net_points": 52,
-          "total_points": 542,
-          "overall_rank": 2583803,
+          "points": 51,
+          "net_points": 51,
+          "total_points": 541,
+          "overall_rank": 2728954,
           "transfer_cost": 0,
           "points_on_bench": 24,
           "chip": null
@@ -5545,13 +5539,13 @@
       "manager": "Ben Burt",
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
-      "total_points": 476,
-      "overall_rank": 6213540,
+      "total_points": 485,
+      "overall_rank": 5886104,
       "latest_gameweek": 9,
-      "gameweek_points": 62,
+      "gameweek_points": 71,
       "transfer_cost": 0,
-      "net_gameweek_points": 62,
-      "points_on_bench": 3,
+      "net_gameweek_points": 71,
+      "points_on_bench": 6,
       "captain": {
         "player": "N.Jackson",
         "raw_points": 9,
@@ -5708,6 +5702,20 @@
             "counted_points": 18
           },
           {
+            "player": "Barry",
+            "team": "EVE",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "NEW",
+            "home": false,
+            "kickoff_time": "2026-11-02T20:00:00Z",
+            "minutes": 79,
+            "points": 9,
+            "counted_points": 9
+          },
+          {
             "player": "A.Becker",
             "team": "LIV",
             "bench": true,
@@ -5719,6 +5727,20 @@
             "kickoff_time": "2026-11-01T16:30:00Z",
             "minutes": 90,
             "points": 2,
+            "counted_points": 0
+          },
+          {
+            "player": "Dewsbury-Hall",
+            "team": "EVE",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "NEW",
+            "home": false,
+            "kickoff_time": "2026-11-02T20:00:00Z",
+            "minutes": 90,
+            "points": 3,
             "counted_points": 0
           },
           {
@@ -5750,42 +5772,13 @@
             "counted_points": 0
           }
         ],
-        "still_to_play": [
-          {
-            "player": "Barry",
-            "team": "EVE",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "NEW",
-            "home": false,
-            "kickoff_time": "2026-11-02T20:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Dewsbury-Hall",
-            "team": "EVE",
-            "bench": true,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "NEW",
-            "home": false,
-            "kickoff_time": "2026-11-02T20:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          }
-        ],
+        "still_to_play": [],
         "captain": "N.Jackson",
-        "gameweek_points": 62,
-        "bench_points": 3,
+        "gameweek_points": 71,
+        "bench_points": 6,
         "starters_played": 0,
-        "starters_playing_now": 10,
-        "starters_still_to_play": 1
+        "starters_playing_now": 11,
+        "starters_still_to_play": 0
       },
       "transfers": [
         {
@@ -6026,12 +6019,12 @@
       ],
       "season_insights": {
         "gameweeks_played": 8,
-        "average_net_gw_score": 59.5,
+        "average_net_gw_score": 60.6,
         "best_gameweek": {
-          "gameweek": 5,
-          "points": 69,
+          "gameweek": 9,
+          "points": 71,
           "hit": 0,
-          "net_points": 69
+          "net_points": 71
         },
         "worst_gameweek": {
           "gameweek": 8,
@@ -6039,8 +6032,8 @@
           "hit": 0,
           "net_points": 43
         },
-        "total_bench_points": 70,
-        "average_bench_points": 8.8,
+        "total_bench_points": 73,
+        "average_bench_points": 9.1,
         "captain_raw_points": 68,
         "captain_efficiency_pct_vs_best_starter": 67.3,
         "captain_points_missed_vs_best_starter": 33,
@@ -6069,16 +6062,16 @@
           "player_id": 236,
           "team": "EVE",
           "position": 13,
-          "raw_points": 0,
+          "raw_points": 3,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
+          "clean_sheets": 1,
           "bonus": 0
         },
         {
@@ -6292,17 +6285,17 @@
           "player_id": 249,
           "team": "EVE",
           "position": 11,
-          "raw_points": 0,
+          "raw_points": 9,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 9,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
-          "goals": 0,
+          "minutes": 79,
+          "goals": 1,
           "assists": 0,
-          "clean_sheets": 0,
-          "bonus": 0
+          "clean_sheets": 1,
+          "bonus": 3
         },
         {
           "player": "A.Becker",
@@ -6326,16 +6319,16 @@
           "player_id": 236,
           "team": "EVE",
           "position": 13,
-          "raw_points": 0,
+          "raw_points": 3,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
+          "clean_sheets": 1,
           "bonus": 0
         },
         {
@@ -6454,12 +6447,12 @@
         },
         {
           "gameweek": 9,
-          "points": 62,
-          "net_points": 62,
-          "total_points": 476,
-          "overall_rank": 6245726,
+          "points": 71,
+          "net_points": 71,
+          "total_points": 485,
+          "overall_rank": 5886078,
           "transfer_cost": 0,
-          "points_on_bench": 3,
+          "points_on_bench": 6,
           "chip": null
         }
       ]
@@ -6470,12 +6463,12 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 446,
-      "overall_rank": 7627469,
+      "overall_rank": 7747490,
       "latest_gameweek": 9,
-      "gameweek_points": 46,
+      "gameweek_points": 44,
       "transfer_cost": 0,
-      "net_gameweek_points": 46,
-      "points_on_bench": 5,
+      "net_gameweek_points": 44,
+      "points_on_bench": 8,
       "captain": {
         "player": "Haaland",
         "raw_points": 2,
@@ -6646,6 +6639,20 @@
             "counted_points": 2
           },
           {
+            "player": "Horníček",
+            "team": "NEW",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "EVE",
+            "home": true,
+            "kickoff_time": "2026-11-02T20:00:00Z",
+            "minutes": 90,
+            "points": 3,
+            "counted_points": 0
+          },
+          {
             "player": "Muharemović",
             "team": "LEE",
             "bench": true,
@@ -6688,25 +6695,10 @@
             "counted_points": 0
           }
         ],
-        "still_to_play": [
-          {
-            "player": "Horníček",
-            "team": "NEW",
-            "bench": true,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "EVE",
-            "home": true,
-            "kickoff_time": "2026-11-02T20:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          }
-        ],
+        "still_to_play": [],
         "captain": "Haaland",
-        "gameweek_points": 46,
-        "bench_points": 5,
+        "gameweek_points": 44,
+        "bench_points": 8,
         "starters_played": 0,
         "starters_playing_now": 11,
         "starters_still_to_play": 0
@@ -7130,7 +7122,7 @@
       ],
       "season_insights": {
         "gameweeks_played": 9,
-        "average_net_gw_score": 49.8,
+        "average_net_gw_score": 49.6,
         "best_gameweek": {
           "gameweek": 4,
           "points": 70,
@@ -7143,8 +7135,8 @@
           "hit": 4,
           "net_points": 29
         },
-        "total_bench_points": 94,
-        "average_bench_points": 10.4,
+        "total_bench_points": 97,
+        "average_bench_points": 10.8,
         "captain_raw_points": 47,
         "captain_efficiency_pct_vs_best_starter": 48,
         "captain_points_missed_vs_best_starter": 51,
@@ -7162,13 +7154,13 @@
           "player_id": 567,
           "team": "NEW",
           "position": 12,
-          "raw_points": 0,
+          "raw_points": 3,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -7419,13 +7411,13 @@
           "player_id": 567,
           "team": "NEW",
           "position": 12,
-          "raw_points": 0,
+          "raw_points": 3,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -7574,12 +7566,12 @@
         },
         {
           "gameweek": 9,
-          "points": 46,
-          "net_points": 46,
-          "total_points": 448,
-          "overall_rank": 7567554,
+          "points": 44,
+          "net_points": 44,
+          "total_points": 446,
+          "overall_rank": 7747467,
           "transfer_cost": 0,
-          "points_on_bench": 5,
+          "points_on_bench": 8,
           "chip": null
         }
       ]
