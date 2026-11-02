@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-01T22:27:16.729Z",
+  "generated_at": "2026-11-02T01:45:17.966Z",
   "latest_gameweek": 9,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 67,
       "total_points": 588,
-      "overall_rank": 753169,
+      "overall_rank": 732920,
       "previous_boyos_rank": 1,
       "rank_change": 0
     },
@@ -295,8 +295,8 @@
       "gameweek_points": 56,
       "transfer_cost": 0,
       "net_gameweek_points": 56,
-      "total_points": 550,
-      "overall_rank": 2198507,
+      "total_points": 548,
+      "overall_rank": 2257509,
       "previous_boyos_rank": 2,
       "rank_change": 0
     },
@@ -308,8 +308,8 @@
       "gameweek_points": 52,
       "transfer_cost": 0,
       "net_gameweek_points": 52,
-      "total_points": 542,
-      "overall_rank": 2583799,
+      "total_points": 540,
+      "overall_rank": 2647169,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -322,7 +322,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 62,
       "total_points": 476,
-      "overall_rank": 6245712,
+      "overall_rank": 6213569,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -334,8 +334,8 @@
       "gameweek_points": 46,
       "transfer_cost": 0,
       "net_gameweek_points": 46,
-      "total_points": 448,
-      "overall_rank": 7567537,
+      "total_points": 446,
+      "overall_rank": 7627507,
       "previous_boyos_rank": 5,
       "rank_change": 0
     }
@@ -605,8 +605,8 @@
           "home": false,
           "kickoff_time": "2026-11-01T16:30:00Z",
           "minutes": 90,
-          "points": 8,
-          "counted_points": 8
+          "points": 6,
+          "counted_points": 6
         },
         {
           "player": "Gvardiol",
@@ -842,8 +842,8 @@
           "home": false,
           "kickoff_time": "2026-11-01T16:30:00Z",
           "minutes": 90,
-          "points": 8,
-          "counted_points": 8
+          "points": 6,
+          "counted_points": 6
         },
         {
           "player": "M.Sangaré",
@@ -1260,8 +1260,8 @@
           "home": false,
           "kickoff_time": "2026-11-01T16:30:00Z",
           "minutes": 90,
-          "points": 8,
-          "counted_points": 8
+          "points": 6,
+          "counted_points": 6
         },
         {
           "player": "Robinson",
@@ -1873,7 +1873,7 @@
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
       "total_points": 588,
-      "overall_rank": 753169,
+      "overall_rank": 732920,
       "latest_gameweek": 9,
       "gameweek_points": 67,
       "transfer_cost": 0,
@@ -2151,9 +2151,9 @@
           "in_minutes": 90,
           "out": "Calafiori",
           "out_id": 8,
-          "out_points": 8,
+          "out_points": 6,
           "out_minutes": 90,
-          "gross_pl": -2,
+          "gross_pl": 0,
           "time": "2026-10-30T18:52:10.979472Z"
         },
         {
@@ -2573,9 +2573,9 @@
           "in_minutes": 90,
           "out": "Calafiori",
           "out_id": 8,
-          "out_points": 8,
+          "out_points": 6,
           "out_minutes": 90,
-          "gross_pl": -2,
+          "gross_pl": 0,
           "time": "2026-10-30T18:52:10.979472Z"
         },
         {
@@ -2765,9 +2765,9 @@
         "total_transfers": 30,
         "normal_transfers": 6,
         "hit_cost": 0,
-        "gross_player_points_all": 31,
+        "gross_player_points_all": 33,
         "gross_player_points_normal": 0,
-        "net_pl_all": 31,
+        "net_pl_all": 33,
         "net_pl_normal": 0
       },
       "captain_history": [
@@ -3351,8 +3351,8 @@
       "manager": "David Eyre",
       "entry_id": 5568090,
       "team_name": "Insufferable FC",
-      "total_points": 550,
-      "overall_rank": 2198507,
+      "total_points": 548,
+      "overall_rank": 2257509,
       "latest_gameweek": 9,
       "gameweek_points": 56,
       "transfer_cost": 0,
@@ -3412,8 +3412,8 @@
             "home": false,
             "kickoff_time": "2026-11-01T16:30:00Z",
             "minutes": 90,
-            "points": 8,
-            "counted_points": 8
+            "points": 6,
+            "counted_points": 6
           },
           {
             "player": "Gvardiol",
@@ -4139,9 +4139,9 @@
           "player_id": 8,
           "team": "ARS",
           "position": 3,
-          "raw_points": 8,
+          "raw_points": 6,
           "multiplier": 1,
-          "counted_points": 8,
+          "counted_points": 6,
           "captain": false,
           "vice_captain": false,
           "bench": false,
@@ -4462,8 +4462,8 @@
       "manager": "Manny Jandu",
       "entry_id": 2368930,
       "team_name": "The Regent",
-      "total_points": 542,
-      "overall_rank": 2583799,
+      "total_points": 540,
+      "overall_rank": 2647169,
       "latest_gameweek": 9,
       "gameweek_points": 52,
       "transfer_cost": 0,
@@ -4537,8 +4537,8 @@
             "home": false,
             "kickoff_time": "2026-11-01T16:30:00Z",
             "minutes": 90,
-            "points": 8,
-            "counted_points": 8
+            "points": 6,
+            "counted_points": 6
           },
           {
             "player": "M.Sangaré",
@@ -5239,9 +5239,9 @@
           "player_id": 8,
           "team": "ARS",
           "position": 4,
-          "raw_points": 8,
+          "raw_points": 6,
           "multiplier": 1,
-          "counted_points": 8,
+          "counted_points": 6,
           "captain": false,
           "vice_captain": false,
           "bench": false,
@@ -5546,7 +5546,7 @@
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
       "total_points": 476,
-      "overall_rank": 6245712,
+      "overall_rank": 6213569,
       "latest_gameweek": 9,
       "gameweek_points": 62,
       "transfer_cost": 0,
@@ -6469,8 +6469,8 @@
       "manager": "Matthew Shaw",
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
-      "total_points": 448,
-      "overall_rank": 7567537,
+      "total_points": 446,
+      "overall_rank": 7627507,
       "latest_gameweek": 9,
       "gameweek_points": 46,
       "transfer_cost": 0,
@@ -6516,8 +6516,8 @@
             "home": false,
             "kickoff_time": "2026-11-01T16:30:00Z",
             "minutes": 90,
-            "points": 8,
-            "counted_points": 8
+            "points": 6,
+            "counted_points": 6
           },
           {
             "player": "Robinson",
@@ -7249,9 +7249,9 @@
           "player_id": 8,
           "team": "ARS",
           "position": 2,
-          "raw_points": 8,
+          "raw_points": 6,
           "multiplier": 1,
-          "counted_points": 8,
+          "counted_points": 6,
           "captain": false,
           "vice_captain": false,
           "bench": false,

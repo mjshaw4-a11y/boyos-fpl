@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-11-01T22:27:17.443Z",
+  "generated_at": "2026-11-02T01:45:19.306Z",
   "latest_gameweek": 9,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 61,
       "total_points": 604,
-      "overall_rank": 396519,
+      "overall_rank": 383559,
       "previous_league_rank": 1,
       "rank_change": 0
     },
@@ -296,7 +296,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 67,
       "total_points": 588,
-      "overall_rank": 753169,
+      "overall_rank": 732920,
       "previous_league_rank": 2,
       "rank_change": 0
     },
@@ -308,8 +308,8 @@
       "gameweek_points": 46,
       "transfer_cost": 0,
       "net_gameweek_points": 46,
-      "total_points": 448,
-      "overall_rank": 7567537,
+      "total_points": 446,
+      "overall_rank": 7627507,
       "previous_league_rank": 3,
       "rank_change": 0
     }
@@ -599,7 +599,7 @@
       "entry_id": 8848218,
       "team_name": "TheRoseGardeb",
       "total_points": 604,
-      "overall_rank": 396519,
+      "overall_rank": 383559,
       "latest_gameweek": 9,
       "gameweek_points": 61,
       "transfer_cost": 0,
@@ -697,9 +697,9 @@
           "in_minutes": 90,
           "out": "Calafiori",
           "out_id": 8,
-          "out_points": 8,
+          "out_points": 6,
           "out_minutes": 90,
-          "gross_pl": -2,
+          "gross_pl": 0,
           "time": "2026-10-31T09:37:00.871082Z"
         },
         {
@@ -895,9 +895,9 @@
           "in_minutes": 90,
           "out": "Calafiori",
           "out_id": 8,
-          "out_points": 8,
+          "out_points": 6,
           "out_minutes": 90,
-          "gross_pl": -2,
+          "gross_pl": 0,
           "time": "2026-10-31T09:37:00.871082Z"
         },
         {
@@ -1008,8 +1008,8 @@
             "count": 10,
             "chip": "wildcard",
             "transfer_cost": 0,
-            "gross_pl": 29,
-            "net_pl": 29,
+            "gross_pl": 31,
+            "net_pl": 31,
             "transfers": [
               {
                 "in": "Yalcouyé",
@@ -1039,7 +1039,7 @@
               {
                 "in": "Hill",
                 "out": "Calafiori",
-                "gross_pl": -2
+                "gross_pl": 0
               },
               {
                 "in": "Van Hecke",
@@ -1064,11 +1064,11 @@
             ]
           }
         ],
-        "gross_player_points_all": 33,
+        "gross_player_points_all": 35,
         "gross_player_points_normal": 4,
         "hit_cost": 0,
         "hit_count_equivalent": 0,
-        "net_pl_all": 33,
+        "net_pl_all": 35,
         "net_pl_normal": 4,
         "best_normal_transfer": {
           "gameweek": 8,
@@ -1117,9 +1117,9 @@
         ]
       },
       "transfer_pl": {
-        "gross_player_points": 33,
+        "gross_player_points": 35,
         "hit_cost": 0,
-        "net": 33
+        "net": 35
       },
       "captain_history": [
         {
@@ -1688,7 +1688,7 @@
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
       "total_points": 588,
-      "overall_rank": 753169,
+      "overall_rank": 732920,
       "latest_gameweek": 9,
       "gameweek_points": 67,
       "transfer_cost": 0,
@@ -1744,9 +1744,9 @@
           "in_minutes": 90,
           "out": "Calafiori",
           "out_id": 8,
-          "out_points": 8,
+          "out_points": 6,
           "out_minutes": 90,
-          "gross_pl": -2,
+          "gross_pl": 0,
           "time": "2026-10-30T18:52:10.979472Z"
         },
         {
@@ -2166,9 +2166,9 @@
           "in_minutes": 90,
           "out": "Calafiori",
           "out_id": 8,
-          "out_points": 8,
+          "out_points": 6,
           "out_minutes": 90,
-          "gross_pl": -2,
+          "gross_pl": 0,
           "time": "2026-10-30T18:52:10.979472Z"
         },
         {
@@ -2495,8 +2495,8 @@
             "count": 16,
             "chip": "freehit",
             "transfer_cost": 0,
-            "gross_pl": 15,
-            "net_pl": 15,
+            "gross_pl": 17,
+            "net_pl": 17,
             "transfers": [
               {
                 "in": "Suzuki",
@@ -2511,7 +2511,7 @@
               {
                 "in": "Van de Ven",
                 "out": "Calafiori",
-                "gross_pl": -2
+                "gross_pl": 0
               },
               {
                 "in": "Kayode",
@@ -2581,11 +2581,11 @@
             ]
           }
         ],
-        "gross_player_points_all": 31,
+        "gross_player_points_all": 33,
         "gross_player_points_normal": 0,
         "hit_cost": 0,
         "hit_count_equivalent": 0,
-        "net_pl_all": 31,
+        "net_pl_all": 33,
         "net_pl_normal": 0,
         "best_normal_transfer": {
           "gameweek": 6,
@@ -2634,9 +2634,9 @@
         ]
       },
       "transfer_pl": {
-        "gross_player_points": 31,
+        "gross_player_points": 33,
         "hit_cost": 0,
-        "net": 31
+        "net": 33
       },
       "captain_history": [
         {
@@ -3209,8 +3209,8 @@
       "manager": "Matthew Shaw",
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
-      "total_points": 448,
-      "overall_rank": 7567537,
+      "total_points": 446,
+      "overall_rank": 7627507,
       "latest_gameweek": 9,
       "gameweek_points": 46,
       "transfer_cost": 0,
@@ -4036,9 +4036,9 @@
           "player": "Calafiori",
           "player_id": 8,
           "position": 2,
-          "raw_points": 8,
+          "raw_points": 6,
           "multiplier": 1,
-          "counted_points": 8,
+          "counted_points": 6,
           "captain": false,
           "vice_captain": false,
           "bench": false,
