@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-03T14:59:41.074Z",
+  "generated_at": "2026-11-03T20:54:44.265Z",
   "latest_gameweek": 9,
   "events": [
     {
@@ -66,8 +66,8 @@
       "id": 9,
       "name": "Gameweek 9",
       "deadline_time": "2026-10-31T11:00:00Z",
-      "finished": false,
-      "data_checked": false
+      "finished": true,
+      "data_checked": true
     },
     {
       "id": 10,
@@ -296,7 +296,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 56,
       "total_points": 550,
-      "overall_rank": 2379845,
+      "overall_rank": 2379843,
       "previous_boyos_rank": 2,
       "rank_change": 0
     },
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 51,
       "total_points": 541,
-      "overall_rank": 2841958,
+      "overall_rank": 2841956,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -322,7 +322,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 71,
       "total_points": 485,
-      "overall_rank": 6069039,
+      "overall_rank": 6069036,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -335,7 +335,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 44,
       "total_points": 446,
-      "overall_rank": 7905688,
+      "overall_rank": 7905672,
       "previous_boyos_rank": 5,
       "rank_change": 0
     }
@@ -3348,7 +3348,7 @@
       "entry_id": 5568090,
       "team_name": "Insufferable FC",
       "total_points": 550,
-      "overall_rank": 2379845,
+      "overall_rank": 2379843,
       "latest_gameweek": 9,
       "gameweek_points": 56,
       "transfer_cost": 0,
@@ -4458,7 +4458,7 @@
       "entry_id": 2368930,
       "team_name": "The Regent",
       "total_points": 541,
-      "overall_rank": 2841958,
+      "overall_rank": 2841956,
       "latest_gameweek": 9,
       "gameweek_points": 51,
       "transfer_cost": 0,
@@ -5540,7 +5540,7 @@
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
       "total_points": 485,
-      "overall_rank": 6069039,
+      "overall_rank": 6069036,
       "latest_gameweek": 9,
       "gameweek_points": 71,
       "transfer_cost": 0,
@@ -6463,7 +6463,7 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 446,
-      "overall_rank": 7905688,
+      "overall_rank": 7905672,
       "latest_gameweek": 9,
       "gameweek_points": 44,
       "transfer_cost": 0,
