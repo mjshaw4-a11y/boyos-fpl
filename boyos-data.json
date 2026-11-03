@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-02T23:25:37.162Z",
+  "generated_at": "2026-11-03T06:33:35.978Z",
   "latest_gameweek": 9,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 67,
       "total_points": 588,
-      "overall_rank": 796675,
+      "overall_rank": 797200,
       "previous_boyos_rank": 1,
       "rank_change": 0
     },
@@ -296,7 +296,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 56,
       "total_points": 550,
-      "overall_rank": 2283733,
+      "overall_rank": 2284666,
       "previous_boyos_rank": 2,
       "rank_change": 0
     },
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 51,
       "total_points": 541,
-      "overall_rank": 2728968,
+      "overall_rank": 2729991,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -322,7 +322,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 71,
       "total_points": 485,
-      "overall_rank": 5886104,
+      "overall_rank": 5887106,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -335,7 +335,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 44,
       "total_points": 446,
-      "overall_rank": 7747490,
+      "overall_rank": 7748203,
       "previous_boyos_rank": 5,
       "rank_change": 0
     }
@@ -1189,7 +1189,7 @@
           "home": false,
           "kickoff_time": "2026-11-02T20:00:00Z",
           "minutes": 90,
-          "points": 3,
+          "points": 4,
           "counted_points": 0
         },
         {
@@ -1869,7 +1869,7 @@
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
       "total_points": 588,
-      "overall_rank": 796675,
+      "overall_rank": 797200,
       "latest_gameweek": 9,
       "gameweek_points": 67,
       "transfer_cost": 0,
@@ -2189,9 +2189,9 @@
           "in_minutes": 90,
           "out": "Mykolenko",
           "out_id": 233,
-          "out_points": 8,
+          "out_points": 6,
           "out_minutes": 90,
-          "gross_pl": 0,
+          "gross_pl": 2,
           "time": "2026-10-30T18:52:10.979786Z"
         },
         {
@@ -2611,9 +2611,9 @@
           "in_minutes": 90,
           "out": "Mykolenko",
           "out_id": 233,
-          "out_points": 8,
+          "out_points": 6,
           "out_minutes": 90,
-          "gross_pl": 0,
+          "gross_pl": 2,
           "time": "2026-10-30T18:52:10.979786Z"
         },
         {
@@ -2761,9 +2761,9 @@
         "total_transfers": 30,
         "normal_transfers": 6,
         "hit_cost": 0,
-        "gross_player_points_all": 25,
+        "gross_player_points_all": 27,
         "gross_player_points_normal": 0,
-        "net_pl_all": 25,
+        "net_pl_all": 27,
         "net_pl_normal": 0
       },
       "captain_history": [
@@ -3335,7 +3335,7 @@
           "points": 67,
           "net_points": 67,
           "total_points": 588,
-          "overall_rank": 796669,
+          "overall_rank": 796675,
           "transfer_cost": 0,
           "points_on_bench": 26,
           "chip": "freehit"
@@ -3348,7 +3348,7 @@
       "entry_id": 5568090,
       "team_name": "Insufferable FC",
       "total_points": 550,
-      "overall_rank": 2283733,
+      "overall_rank": 2284666,
       "latest_gameweek": 9,
       "gameweek_points": 56,
       "transfer_cost": 0,
@@ -4445,7 +4445,7 @@
           "points": 56,
           "net_points": 56,
           "total_points": 550,
-          "overall_rank": 2283720,
+          "overall_rank": 2283733,
           "transfer_cost": 0,
           "points_on_bench": 32,
           "chip": null
@@ -4458,7 +4458,7 @@
       "entry_id": 2368930,
       "team_name": "The Regent",
       "total_points": 541,
-      "overall_rank": 2728968,
+      "overall_rank": 2729991,
       "latest_gameweek": 9,
       "gameweek_points": 51,
       "transfer_cost": 0,
@@ -5527,7 +5527,7 @@
           "points": 51,
           "net_points": 51,
           "total_points": 541,
-          "overall_rank": 2728954,
+          "overall_rank": 2728968,
           "transfer_cost": 0,
           "points_on_bench": 24,
           "chip": null
@@ -5540,7 +5540,7 @@
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
       "total_points": 485,
-      "overall_rank": 5886104,
+      "overall_rank": 5887106,
       "latest_gameweek": 9,
       "gameweek_points": 71,
       "transfer_cost": 0,
@@ -5740,7 +5740,7 @@
             "home": false,
             "kickoff_time": "2026-11-02T20:00:00Z",
             "minutes": 90,
-            "points": 3,
+            "points": 4,
             "counted_points": 0
           },
           {
@@ -6062,7 +6062,7 @@
           "player_id": 236,
           "team": "EVE",
           "position": 13,
-          "raw_points": 3,
+          "raw_points": 4,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
@@ -6072,7 +6072,7 @@
           "goals": 0,
           "assists": 0,
           "clean_sheets": 1,
-          "bonus": 0
+          "bonus": 1
         },
         {
           "player": "Rodon",
@@ -6319,7 +6319,7 @@
           "player_id": 236,
           "team": "EVE",
           "position": 13,
-          "raw_points": 3,
+          "raw_points": 4,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
@@ -6329,7 +6329,7 @@
           "goals": 0,
           "assists": 0,
           "clean_sheets": 1,
-          "bonus": 0
+          "bonus": 1
         },
         {
           "player": "Rodon",
@@ -6450,7 +6450,7 @@
           "points": 71,
           "net_points": 71,
           "total_points": 485,
-          "overall_rank": 5886078,
+          "overall_rank": 5886104,
           "transfer_cost": 0,
           "points_on_bench": 6,
           "chip": null
@@ -6463,7 +6463,7 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 446,
-      "overall_rank": 7747490,
+      "overall_rank": 7748203,
       "latest_gameweek": 9,
       "gameweek_points": 44,
       "transfer_cost": 0,
@@ -7569,7 +7569,7 @@
           "points": 44,
           "net_points": 44,
           "total_points": 446,
-          "overall_rank": 7747467,
+          "overall_rank": 7747490,
           "transfer_cost": 0,
           "points_on_bench": 8,
           "chip": null
