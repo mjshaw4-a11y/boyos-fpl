@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-11-05T21:55:11.190Z",
+  "generated_at": "2026-11-06T02:15:17.552Z",
   "latest_gameweek": 9,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 63,
       "total_points": 606,
-      "overall_rank": 404803,
+      "overall_rank": 404802,
       "previous_league_rank": 1,
       "rank_change": 0
     },
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 44,
       "total_points": 446,
-      "overall_rank": 7905604,
+      "overall_rank": 7905596,
       "previous_league_rank": 3,
       "rank_change": 0
     }
@@ -599,7 +599,7 @@
       "entry_id": 8848218,
       "team_name": "TheRoseGardeb",
       "total_points": 606,
-      "overall_rank": 404803,
+      "overall_rank": 404802,
       "latest_gameweek": 9,
       "gameweek_points": 63,
       "transfer_cost": 0,
@@ -3210,7 +3210,7 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 446,
-      "overall_rank": 7905604,
+      "overall_rank": 7905596,
       "latest_gameweek": 9,
       "gameweek_points": 44,
       "transfer_cost": 0,
