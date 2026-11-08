@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-11-07T21:52:48.051Z",
+  "generated_at": "2026-11-08T01:09:45.264Z",
   "latest_gameweek": 10,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 49,
       "total_points": 637,
-      "overall_rank": 380276,
+      "overall_rank": 380292,
       "previous_league_rank": 2,
       "rank_change": 1
     },
@@ -296,7 +296,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 22,
       "total_points": 628,
-      "overall_rank": 545294,
+      "overall_rank": 545331,
       "previous_league_rank": 1,
       "rank_change": -1
     },
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 43,
       "total_points": 489,
-      "overall_rank": 7062477,
+      "overall_rank": 7064078,
       "previous_league_rank": 3,
       "rank_change": 0
     }
@@ -617,7 +617,7 @@
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
       "total_points": 637,
-      "overall_rank": 380276,
+      "overall_rank": 380292,
       "latest_gameweek": 10,
       "gameweek_points": 49,
       "transfer_cost": 0,
@@ -1981,7 +1981,7 @@
       "entry_id": 8848218,
       "team_name": "TheRoseGardeb",
       "total_points": 628,
-      "overall_rank": 545294,
+      "overall_rank": 545331,
       "latest_gameweek": 10,
       "gameweek_points": 22,
       "transfer_cost": 0,
@@ -2952,7 +2952,7 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 489,
-      "overall_rank": 7062477,
+      "overall_rank": 7064078,
       "latest_gameweek": 10,
       "gameweek_points": 43,
       "transfer_cost": 0,
