@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-10T22:18:33.269Z",
+  "generated_at": "2026-11-11T10:43:06.636Z",
   "latest_gameweek": 10,
   "events": [
     {
@@ -322,7 +322,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 92,
       "total_points": 577,
-      "overall_rank": 4011438,
+      "overall_rank": 4011436,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -335,7 +335,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 68,
       "total_points": 514,
-      "overall_rank": 7184641,
+      "overall_rank": 7184633,
       "previous_boyos_rank": 5,
       "rank_change": 0
     }
@@ -5435,7 +5435,7 @@
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
       "total_points": 577,
-      "overall_rank": 4011438,
+      "overall_rank": 4011436,
       "latest_gameweek": 10,
       "gameweek_points": 92,
       "transfer_cost": 0,
@@ -6351,7 +6351,7 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 514,
-      "overall_rank": 7184641,
+      "overall_rank": 7184633,
       "latest_gameweek": 10,
       "gameweek_points": 68,
       "transfer_cost": 0,
