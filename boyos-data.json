@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-14T01:25:58.735Z",
+  "generated_at": "2026-11-14T07:57:38.755Z",
   "latest_gameweek": 10,
   "events": [
     {
@@ -296,7 +296,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 62,
       "total_points": 612,
-      "overall_rank": 2256257,
+      "overall_rank": 2256258,
       "previous_boyos_rank": 2,
       "rank_change": 0
     },
@@ -322,7 +322,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 92,
       "total_points": 577,
-      "overall_rank": 4011383,
+      "overall_rank": 4011384,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -3200,7 +3200,7 @@
       "entry_id": 5568090,
       "team_name": "Insufferable FC",
       "total_points": 612,
-      "overall_rank": 2256257,
+      "overall_rank": 2256258,
       "latest_gameweek": 10,
       "gameweek_points": 62,
       "transfer_cost": 0,
@@ -5435,7 +5435,7 @@
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
       "total_points": 577,
-      "overall_rank": 4011383,
+      "overall_rank": 4011384,
       "latest_gameweek": 10,
       "gameweek_points": 92,
       "transfer_cost": 0,
