@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-11-21T15:15:30.649Z",
+  "generated_at": "2026-11-21T15:20:30.755Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 671,
-      "overall_rank": 557171,
+      "overall_rank": 557684,
       "previous_league_rank": 1,
       "rank_change": 0
     },
@@ -296,7 +296,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 670,
-      "overall_rank": 582704,
+      "overall_rank": 583243,
       "previous_league_rank": 2,
       "rank_change": 0
     },
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 522,
-      "overall_rank": 7138315,
+      "overall_rank": 7145411,
       "previous_league_rank": 3,
       "rank_change": 0
     }
@@ -350,7 +350,7 @@
       },
       {
         "name": "Curlo",
-        "value": 5
+        "value": 9
       },
       {
         "name": "George",
@@ -388,15 +388,15 @@
     "captain_efficiency": [
       {
         "name": "George",
-        "value": 57.1
-      },
-      {
-        "name": "Curlo",
-        "value": 45.9
+        "value": 55.8
       },
       {
         "name": "Joe",
         "value": 44.9
+      },
+      {
+        "name": "Curlo",
+        "value": 44.7
       }
     ],
     "captain_regret": [
@@ -406,11 +406,11 @@
       },
       {
         "name": "Curlo",
-        "value": 60
+        "value": 63
       },
       {
         "name": "George",
-        "value": 54
+        "value": 57
       }
     ],
     "weekly_wins": [
@@ -635,7 +635,7 @@
       "entry_id": 8848218,
       "team_name": "TheRoseGardeb",
       "total_points": 671,
-      "overall_rank": 557171,
+      "overall_rank": 557684,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -650,7 +650,7 @@
       "vice_captain": {
         "player": "Palmer",
         "raw_points": 1,
-        "minutes": 14
+        "minutes": 18
       },
       "active_chip": null,
       "transfers": [],
@@ -1154,10 +1154,10 @@
           "captain_minutes": 90,
           "vice_captain": "Palmer",
           "vice_points": 1,
-          "vice_minutes": 14,
-          "best_starting_player": "Haaland",
-          "best_starting_points": 2,
-          "captain_points_missed_vs_best_starter": 0,
+          "vice_minutes": 18,
+          "best_starting_player": "Evanilson",
+          "best_starting_points": 5,
+          "captain_points_missed_vs_best_starter": 3,
           "chip": null
         }
       ],
@@ -1179,8 +1179,8 @@
         "total_bench_points": 114,
         "average_bench_points": 10.4,
         "captain_raw_points": 72,
-        "captain_efficiency_pct_vs_best_starter": 57.1,
-        "captain_points_missed_vs_best_starter": 54,
+        "captain_efficiency_pct_vs_best_starter": 55.8,
+        "captain_points_missed_vs_best_starter": 57,
         "chips_used": [
           {
             "name": "3xc",
@@ -1221,7 +1221,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 14,
+          "minutes": 18,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -1271,7 +1271,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 13,
+          "minutes": 18,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -1287,7 +1287,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 14,
+          "minutes": 19,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -1319,7 +1319,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 13,
+          "minutes": 18,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -1335,7 +1335,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 13,
+          "minutes": 18,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -1351,7 +1351,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 14,
+          "minutes": 19,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -1383,7 +1383,7 @@
           "captain": false,
           "vice_captain": true,
           "bench": false,
-          "minutes": 14,
+          "minutes": 18,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -1415,7 +1415,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 13,
+          "minutes": 16,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -1425,14 +1425,14 @@
           "player": "Evanilson",
           "player_id": 79,
           "position": 11,
-          "raw_points": 1,
+          "raw_points": 5,
           "multiplier": 1,
-          "counted_points": 1,
+          "counted_points": 5,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 14,
-          "goals": 0,
+          "minutes": 19,
+          "goals": 1,
           "assists": 0,
           "clean_sheets": 0,
           "bonus": 0
@@ -1463,7 +1463,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 14,
+          "minutes": 18,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -1629,7 +1629,7 @@
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
       "total_points": 670,
-      "overall_rank": 582704,
+      "overall_rank": 583243,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -1639,7 +1639,7 @@
         "player": "N.Jackson",
         "raw_points": 1,
         "counted_points": 2,
-        "minutes": 13
+        "minutes": 16
       },
       "vice_captain": {
         "player": "Haaland",
@@ -1654,7 +1654,7 @@
           "in": "N.Jackson",
           "in_id": 166,
           "in_points": 1,
-          "in_minutes": 13,
+          "in_minutes": 16,
           "out": "João Pedro",
           "out_id": 165,
           "out_points": 0,
@@ -2104,7 +2104,7 @@
           "in": "N.Jackson",
           "in_id": 166,
           "in_points": 1,
-          "in_minutes": 13,
+          "in_minutes": 16,
           "out": "João Pedro",
           "out_id": 165,
           "out_points": 0,
@@ -2426,7 +2426,7 @@
             "in": "N.Jackson",
             "in_id": 166,
             "in_points": 1,
-            "in_minutes": 13,
+            "in_minutes": 16,
             "out": "João Pedro",
             "out_id": 165,
             "out_points": 0,
@@ -2576,7 +2576,7 @@
           "gameweek": 11,
           "captain": "N.Jackson",
           "captain_points": 1,
-          "captain_minutes": 13,
+          "captain_minutes": 16,
           "vice_captain": "Haaland",
           "vice_points": 2,
           "vice_minutes": 90,
@@ -2635,7 +2635,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 14,
+          "minutes": 18,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -2765,7 +2765,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 14,
+          "minutes": 19,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -2781,7 +2781,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 14,
+          "minutes": 18,
           "goals": 0,
           "assists": 1,
           "clean_sheets": 0,
@@ -2797,7 +2797,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 14,
+          "minutes": 18,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -2829,7 +2829,7 @@
           "captain": true,
           "vice_captain": false,
           "bench": false,
-          "minutes": 13,
+          "minutes": 16,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -2877,7 +2877,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 14,
+          "minutes": 18,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3059,7 +3059,7 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 522,
-      "overall_rank": 7138315,
+      "overall_rank": 7145411,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -3083,13 +3083,13 @@
           "chip": null,
           "in": "Evanilson",
           "in_id": 79,
-          "in_points": 1,
-          "in_minutes": 14,
+          "in_points": 5,
+          "in_minutes": 19,
           "out": "Brobbey",
           "out_id": 552,
           "out_points": 0,
           "out_minutes": 0,
-          "gross_pl": 1,
+          "gross_pl": 5,
           "time": "2026-11-21T10:09:04.392737Z"
         },
         {
@@ -3393,13 +3393,13 @@
           "chip": null,
           "in": "Evanilson",
           "in_id": 79,
-          "in_points": 1,
-          "in_minutes": 14,
+          "in_points": 5,
+          "in_minutes": 19,
           "out": "Brobbey",
           "out_id": 552,
           "out_points": 0,
           "out_minutes": 0,
-          "gross_pl": 1,
+          "gross_pl": 5,
           "time": "2026-11-21T10:09:04.392737Z"
         },
         {
@@ -3598,13 +3598,13 @@
             "count": 2,
             "chip": null,
             "transfer_cost": 0,
-            "gross_pl": 1,
-            "net_pl": 1,
+            "gross_pl": 5,
+            "net_pl": 5,
             "transfers": [
               {
                 "in": "Evanilson",
                 "out": "Brobbey",
-                "gross_pl": 1
+                "gross_pl": 5
               },
               {
                 "in": "Barcola",
@@ -3614,12 +3614,12 @@
             ]
           }
         ],
-        "gross_player_points_all": 3,
-        "gross_player_points_normal": 13,
+        "gross_player_points_all": 7,
+        "gross_player_points_normal": 17,
         "hit_cost": 8,
         "hit_count_equivalent": 2,
-        "net_pl_all": -5,
-        "net_pl_normal": 5,
+        "net_pl_all": -1,
+        "net_pl_normal": 9,
         "best_normal_transfer": {
           "gameweek": 4,
           "chip": null,
@@ -3711,13 +3711,13 @@
             "chip": null,
             "in": "Evanilson",
             "in_id": 79,
-            "in_points": 1,
-            "in_minutes": 14,
+            "in_points": 5,
+            "in_minutes": 19,
             "out": "Brobbey",
             "out_id": 552,
             "out_points": 0,
             "out_minutes": 0,
-            "gross_pl": 1,
+            "gross_pl": 5,
             "time": "2026-11-21T10:09:04.392737Z"
           },
           {
@@ -3737,9 +3737,9 @@
         ]
       },
       "transfer_pl": {
-        "gross_player_points": 3,
+        "gross_player_points": 7,
         "hit_cost": 8,
-        "net": -5
+        "net": -1
       },
       "captain_history": [
         {
@@ -3880,9 +3880,9 @@
           "vice_captain": "Ødegaard",
           "vice_points": 0,
           "vice_minutes": 0,
-          "best_starting_player": "Haaland",
-          "best_starting_points": 2,
-          "captain_points_missed_vs_best_starter": 0,
+          "best_starting_player": "Evanilson",
+          "best_starting_points": 5,
+          "captain_points_missed_vs_best_starter": 3,
           "chip": null
         }
       ],
@@ -3904,8 +3904,8 @@
         "total_bench_points": 104,
         "average_bench_points": 9.5,
         "captain_raw_points": 51,
-        "captain_efficiency_pct_vs_best_starter": 45.9,
-        "captain_points_missed_vs_best_starter": 60,
+        "captain_efficiency_pct_vs_best_starter": 44.7,
+        "captain_points_missed_vs_best_starter": 63,
         "chips_used": [
           {
             "name": "wildcard",
@@ -3957,7 +3957,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 14,
+          "minutes": 19,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3991,7 +3991,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 13,
+          "minutes": 18,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4023,7 +4023,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 14,
+          "minutes": 18,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4113,14 +4113,14 @@
           "player": "Evanilson",
           "player_id": 79,
           "position": 9,
-          "raw_points": 1,
+          "raw_points": 5,
           "multiplier": 1,
-          "counted_points": 1,
+          "counted_points": 5,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 14,
-          "goals": 0,
+          "minutes": 19,
+          "goals": 1,
           "assists": 0,
           "clean_sheets": 0,
           "bonus": 0
@@ -4151,7 +4151,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 14,
+          "minutes": 18,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4199,7 +4199,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 14,
+          "minutes": 19,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
