@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-21T19:20:33.341Z",
+  "generated_at": "2026-11-21T19:25:20.454Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 684,
-      "overall_rank": 707469,
+      "overall_rank": 704429,
       "previous_boyos_rank": 1,
       "rank_change": 0
     },
@@ -296,7 +296,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 625,
-      "overall_rank": 2814254,
+      "overall_rank": 2806243,
       "previous_boyos_rank": 2,
       "rank_change": 0
     },
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 621,
-      "overall_rank": 3009630,
+      "overall_rank": 3001484,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -321,8 +321,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 614,
-      "overall_rank": 3335627,
+      "total_points": 613,
+      "overall_rank": 3376271,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -334,8 +334,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 551,
-      "overall_rank": 6462485,
+      "total_points": 550,
+      "overall_rank": 6500236,
       "previous_boyos_rank": 5,
       "rank_change": 0
     }
@@ -1094,8 +1094,8 @@
           "home": false,
           "kickoff_time": "2026-11-21T17:30:00Z",
           "minutes": 90,
-          "points": 7,
-          "counted_points": 7
+          "points": 6,
+          "counted_points": 6
         },
         {
           "player": "Haaland",
@@ -1303,8 +1303,8 @@
           "home": false,
           "kickoff_time": "2026-11-21T17:30:00Z",
           "minutes": 90,
-          "points": 7,
-          "counted_points": 7
+          "points": 6,
+          "counted_points": 6
         },
         {
           "player": "Evanilson",
@@ -1926,7 +1926,7 @@
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
       "total_points": 684,
-      "overall_rank": 707469,
+      "overall_rank": 704429,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -3268,7 +3268,7 @@
       "entry_id": 5568090,
       "team_name": "Insufferable FC",
       "total_points": 625,
-      "overall_rank": 2814254,
+      "overall_rank": 2806243,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -4408,7 +4408,7 @@
       "entry_id": 2368930,
       "team_name": "The Regent",
       "total_points": 621,
-      "overall_rank": 3009630,
+      "overall_rank": 3001484,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -5519,8 +5519,8 @@
       "manager": "Ben Burt",
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
-      "total_points": 614,
-      "overall_rank": 3335627,
+      "total_points": 613,
+      "overall_rank": 3376271,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -5622,8 +5622,8 @@
             "home": false,
             "kickoff_time": "2026-11-21T17:30:00Z",
             "minutes": 90,
-            "points": 7,
-            "counted_points": 7
+            "points": 6,
+            "counted_points": 6
           },
           {
             "player": "Haaland",
@@ -6193,9 +6193,9 @@
           "player_id": 15,
           "team": "ARS",
           "position": 7,
-          "raw_points": 7,
+          "raw_points": 6,
           "multiplier": 1,
-          "counted_points": 7,
+          "counted_points": 6,
           "captain": false,
           "vice_captain": false,
           "bench": false,
@@ -6203,7 +6203,7 @@
           "goals": 0,
           "assists": 1,
           "clean_sheets": 0,
-          "bonus": 2
+          "bonus": 1
         },
         {
           "player": "Groß",
@@ -6458,8 +6458,8 @@
       "manager": "Matthew Shaw",
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
-      "total_points": 551,
-      "overall_rank": 6462485,
+      "total_points": 550,
+      "overall_rank": 6500236,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -6473,7 +6473,7 @@
       },
       "vice_captain": {
         "player": "Ødegaard",
-        "raw_points": 7,
+        "raw_points": 6,
         "minutes": 90
       },
       "active_chip": null,
@@ -6547,8 +6547,8 @@
             "home": false,
             "kickoff_time": "2026-11-21T17:30:00Z",
             "minutes": 90,
-            "points": 7,
-            "counted_points": 7
+            "points": 6,
+            "counted_points": 6
           },
           {
             "player": "Evanilson",
@@ -7176,7 +7176,7 @@
           "captain_points": 2,
           "captain_minutes": 90,
           "vice_captain": "Ødegaard",
-          "vice_points": 7,
+          "vice_points": 6,
           "best_starting_player": "Calvert-Lewin",
           "best_starting_points": 9,
           "captain_points_missed_vs_best_starter": 7,
@@ -7372,9 +7372,9 @@
           "player_id": 15,
           "team": "ARS",
           "position": 6,
-          "raw_points": 7,
+          "raw_points": 6,
           "multiplier": 1,
-          "counted_points": 7,
+          "counted_points": 6,
           "captain": false,
           "vice_captain": true,
           "bench": false,
@@ -7382,7 +7382,7 @@
           "goals": 0,
           "assists": 1,
           "clean_sheets": 0,
-          "bonus": 2
+          "bonus": 1
         },
         {
           "player": "Schade",
