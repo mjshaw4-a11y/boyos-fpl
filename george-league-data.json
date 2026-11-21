@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-11-21T13:05:23.848Z",
+  "generated_at": "2026-11-21T13:10:29.546Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 661,
-      "overall_rank": 626690,
+      "overall_rank": 626617,
       "previous_league_rank": 1,
       "rank_change": 0
     },
@@ -296,7 +296,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 659,
-      "overall_rank": 677611,
+      "overall_rank": 677524,
       "previous_league_rank": 2,
       "rank_change": 0
     },
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 516,
-      "overall_rank": 7165181,
+      "overall_rank": 7163283,
       "previous_league_rank": 3,
       "rank_change": 0
     }
@@ -635,7 +635,7 @@
       "entry_id": 8848218,
       "team_name": "TheRoseGardeb",
       "total_points": 661,
-      "overall_rank": 626690,
+      "overall_rank": 626617,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -645,7 +645,7 @@
         "player": "Haaland",
         "raw_points": 1,
         "counted_points": 2,
-        "minutes": 34
+        "minutes": 38
       },
       "vice_captain": {
         "player": "Palmer",
@@ -1151,7 +1151,7 @@
           "gameweek": 11,
           "captain": "Haaland",
           "captain_points": 1,
-          "captain_minutes": 34,
+          "captain_minutes": 38,
           "vice_captain": "Palmer",
           "vice_points": 0,
           "vice_minutes": 0,
@@ -1399,7 +1399,7 @@
           "captain": true,
           "vice_captain": false,
           "bench": false,
-          "minutes": 34,
+          "minutes": 38,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -1629,7 +1629,7 @@
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
       "total_points": 659,
-      "overall_rank": 677611,
+      "overall_rank": 677524,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -1644,7 +1644,7 @@
       "vice_captain": {
         "player": "Haaland",
         "raw_points": 1,
-        "minutes": 34
+        "minutes": 38
       },
       "active_chip": null,
       "transfers": [
@@ -2579,7 +2579,7 @@
           "captain_minutes": 0,
           "vice_captain": "Haaland",
           "vice_points": 1,
-          "vice_minutes": 34,
+          "vice_minutes": 38,
           "best_starting_player": "Haaland",
           "best_starting_points": 1,
           "captain_points_missed_vs_best_starter": 1,
@@ -2861,7 +2861,7 @@
           "captain": false,
           "vice_captain": true,
           "bench": false,
-          "minutes": 34,
+          "minutes": 38,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3059,7 +3059,7 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 516,
-      "overall_rank": 7165181,
+      "overall_rank": 7163283,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -3069,7 +3069,7 @@
         "player": "Haaland",
         "raw_points": 1,
         "counted_points": 2,
-        "minutes": 34
+        "minutes": 38
       },
       "vice_captain": {
         "player": "Ødegaard",
@@ -3876,7 +3876,7 @@
           "gameweek": 11,
           "captain": "Haaland",
           "captain_points": 1,
-          "captain_minutes": 34,
+          "captain_minutes": 38,
           "vice_captain": "Ødegaard",
           "vice_points": 0,
           "vice_minutes": 0,
@@ -4135,7 +4135,7 @@
           "captain": true,
           "vice_captain": false,
           "bench": false,
-          "minutes": 34,
+          "minutes": 38,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
