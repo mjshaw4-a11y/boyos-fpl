@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-21T23:50:30.635Z",
+  "generated_at": "2026-11-21T23:55:21.072Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 24,
       "total_points": 621,
-      "overall_rank": 2994666,
+      "overall_rank": 2994665,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -322,7 +322,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 35,
       "total_points": 612,
-      "overall_rank": 3418251,
+      "overall_rank": 3418250,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -335,7 +335,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 35,
       "total_points": 549,
-      "overall_rank": 6537192,
+      "overall_rank": 6537191,
       "previous_boyos_rank": 5,
       "rank_change": 0
     }
@@ -4408,7 +4408,7 @@
       "entry_id": 2368930,
       "team_name": "The Regent",
       "total_points": 621,
-      "overall_rank": 2994666,
+      "overall_rank": 2994665,
       "latest_gameweek": 11,
       "gameweek_points": 24,
       "transfer_cost": 0,
@@ -5520,7 +5520,7 @@
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
       "total_points": 612,
-      "overall_rank": 3418251,
+      "overall_rank": 3418250,
       "latest_gameweek": 11,
       "gameweek_points": 35,
       "transfer_cost": 0,
@@ -6459,7 +6459,7 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 549,
-      "overall_rank": 6537192,
+      "overall_rank": 6537191,
       "latest_gameweek": 11,
       "gameweek_points": 35,
       "transfer_cost": 0,
