@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-21T15:50:37.295Z",
+  "generated_at": "2026-11-21T15:55:26.474Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -282,8 +282,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 678,
-      "overall_rank": 602993,
+      "total_points": 677,
+      "overall_rank": 602926,
       "previous_boyos_rank": 1,
       "rank_change": 0
     },
@@ -295,8 +295,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 622,
-      "overall_rank": 2515198,
+      "total_points": 621,
+      "overall_rank": 2522615,
       "previous_boyos_rank": 2,
       "rank_change": 0
     },
@@ -308,8 +308,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 610,
-      "overall_rank": 3087600,
+      "total_points": 609,
+      "overall_rank": 3097682,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -321,8 +321,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 595,
-      "overall_rank": 3768589,
+      "total_points": 592,
+      "overall_rank": 3940589,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -334,8 +334,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 532,
-      "overall_rank": 6889469,
+      "total_points": 531,
+      "overall_rank": 6935699,
       "previous_boyos_rank": 5,
       "rank_change": 0
     }
@@ -397,8 +397,8 @@
           "home": true,
           "kickoff_time": "2026-11-21T15:00:00Z",
           "minutes": 45,
-          "points": 5,
-          "counted_points": 5
+          "points": 4,
+          "counted_points": 4
         },
         {
           "player": "Cherki",
@@ -578,8 +578,8 @@
           "home": true,
           "kickoff_time": "2026-11-21T15:00:00Z",
           "minutes": 45,
-          "points": 3,
-          "counted_points": 3
+          "points": 2,
+          "counted_points": 2
         },
         {
           "player": "Cherki",
@@ -843,8 +843,8 @@
           "home": true,
           "kickoff_time": "2026-11-21T15:00:00Z",
           "minutes": 45,
-          "points": 5,
-          "counted_points": 5
+          "points": 4,
+          "counted_points": 4
         },
         {
           "player": "Haaland",
@@ -1066,8 +1066,8 @@
           "home": true,
           "kickoff_time": "2026-11-21T15:00:00Z",
           "minutes": 45,
-          "points": 5,
-          "counted_points": 5
+          "points": 4,
+          "counted_points": 4
         },
         {
           "player": "Haaland",
@@ -1571,15 +1571,15 @@
     "captain_efficiency": [
       {
         "name": "Ben",
-        "value": 65.6
+        "value": 66.1
       },
       {
         "name": "Dave",
-        "value": 52.5
+        "value": 52.9
       },
       {
         "name": "Manny",
-        "value": 51.1
+        "value": 51.5
       },
       {
         "name": "Curlo",
@@ -1596,20 +1596,20 @@
         "value": 74
       },
       {
-        "name": "Manny",
-        "value": 65
-      },
-      {
         "name": "Curlo",
         "value": 65
       },
       {
+        "name": "Manny",
+        "value": 64
+      },
+      {
         "name": "Dave",
-        "value": 57
+        "value": 56
       },
       {
         "name": "Ben",
-        "value": 42
+        "value": 41
       }
     ],
     "weekly_wins": [
@@ -1925,8 +1925,8 @@
       "manager": "Joe Burke",
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
-      "total_points": 678,
-      "overall_rank": 602993,
+      "total_points": 677,
+      "overall_rank": 602926,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -2000,8 +2000,8 @@
             "home": true,
             "kickoff_time": "2026-11-21T15:00:00Z",
             "minutes": 45,
-            "points": 5,
-            "counted_points": 5
+            "points": 4,
+            "counted_points": 4
           },
           {
             "player": "Cherki",
@@ -2992,9 +2992,9 @@
           "player_id": 40,
           "team": "CHE",
           "position": 7,
-          "raw_points": 5,
+          "raw_points": 4,
           "multiplier": 1,
-          "counted_points": 5,
+          "counted_points": 4,
           "captain": false,
           "vice_captain": false,
           "bench": false,
@@ -3002,7 +3002,7 @@
           "goals": 0,
           "assists": 1,
           "clean_sheets": 0,
-          "bonus": 1
+          "bonus": 0
         },
         {
           "player": "Cherki",
@@ -3267,8 +3267,8 @@
       "manager": "David Eyre",
       "entry_id": 5568090,
       "team_name": "Insufferable FC",
-      "total_points": 622,
-      "overall_rank": 2515198,
+      "total_points": 621,
+      "overall_rank": 2522615,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -3300,8 +3300,8 @@
             "home": true,
             "kickoff_time": "2026-11-21T15:00:00Z",
             "minutes": 45,
-            "points": 3,
-            "counted_points": 3
+            "points": 2,
+            "counted_points": 2
           },
           {
             "player": "Cherki",
@@ -3916,8 +3916,8 @@
           "vice_captain": "Haaland",
           "vice_points": 2,
           "best_starting_player": "Manzambi",
-          "best_starting_points": 3,
-          "captain_points_missed_vs_best_starter": 2,
+          "best_starting_points": 2,
+          "captain_points_missed_vs_best_starter": 1,
           "chip": null
         }
       ],
@@ -3939,8 +3939,8 @@
         "total_bench_points": 133,
         "average_bench_points": 12.1,
         "captain_raw_points": 63,
-        "captain_efficiency_pct_vs_best_starter": 52.5,
-        "captain_points_missed_vs_best_starter": 57,
+        "captain_efficiency_pct_vs_best_starter": 52.9,
+        "captain_points_missed_vs_best_starter": 56,
         "chips_used": [
           {
             "name": "3xc",
@@ -4098,9 +4098,9 @@
           "player_id": 53,
           "team": "AVL",
           "position": 5,
-          "raw_points": 3,
+          "raw_points": 2,
           "multiplier": 1,
-          "counted_points": 3,
+          "counted_points": 2,
           "captain": false,
           "vice_captain": false,
           "bench": false,
@@ -4108,7 +4108,7 @@
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
-          "bonus": 2
+          "bonus": 1
         },
         {
           "player": "Cherki",
@@ -4407,8 +4407,8 @@
       "manager": "Manny Jandu",
       "entry_id": 2368930,
       "team_name": "The Regent",
-      "total_points": 610,
-      "overall_rank": 3087600,
+      "total_points": 609,
+      "overall_rank": 3097682,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -4482,8 +4482,8 @@
             "home": true,
             "kickoff_time": "2026-11-21T15:00:00Z",
             "minutes": 45,
-            "points": 5,
-            "counted_points": 5
+            "points": 4,
+            "counted_points": 4
           },
           {
             "player": "Haaland",
@@ -5028,8 +5028,8 @@
           "vice_captain": "Isak",
           "vice_points": 0,
           "best_starting_player": "Rogers",
-          "best_starting_points": 5,
-          "captain_points_missed_vs_best_starter": 3,
+          "best_starting_points": 4,
+          "captain_points_missed_vs_best_starter": 2,
           "chip": null
         }
       ],
@@ -5051,8 +5051,8 @@
         "total_bench_points": 57,
         "average_bench_points": 5.2,
         "captain_raw_points": 68,
-        "captain_efficiency_pct_vs_best_starter": 51.1,
-        "captain_points_missed_vs_best_starter": 65,
+        "captain_efficiency_pct_vs_best_starter": 51.5,
+        "captain_points_missed_vs_best_starter": 64,
         "chips_used": [
           {
             "name": "3xc",
@@ -5261,9 +5261,9 @@
           "player_id": 40,
           "team": "CHE",
           "position": 8,
-          "raw_points": 5,
+          "raw_points": 4,
           "multiplier": 1,
-          "counted_points": 5,
+          "counted_points": 4,
           "captain": false,
           "vice_captain": false,
           "bench": false,
@@ -5271,7 +5271,7 @@
           "goals": 0,
           "assists": 1,
           "clean_sheets": 0,
-          "bonus": 1
+          "bonus": 0
         },
         {
           "player": "Haaland",
@@ -5519,8 +5519,8 @@
       "manager": "Ben Burt",
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
-      "total_points": 595,
-      "overall_rank": 3768589,
+      "total_points": 592,
+      "overall_rank": 3940589,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -5594,8 +5594,8 @@
             "home": true,
             "kickoff_time": "2026-11-21T15:00:00Z",
             "minutes": 45,
-            "points": 5,
-            "counted_points": 5
+            "points": 4,
+            "counted_points": 4
           },
           {
             "player": "Haaland",
@@ -5987,9 +5987,9 @@
           "captain_minutes": 45,
           "vice_captain": "Haaland",
           "vice_points": 2,
-          "best_starting_player": "Rogers",
-          "best_starting_points": 5,
-          "captain_points_missed_vs_best_starter": 4,
+          "best_starting_player": "Hill",
+          "best_starting_points": 4,
+          "captain_points_missed_vs_best_starter": 3,
           "chip": null
         }
       ],
@@ -6011,8 +6011,8 @@
         "total_bench_points": 88,
         "average_bench_points": 8.8,
         "captain_raw_points": 80,
-        "captain_efficiency_pct_vs_best_starter": 65.6,
-        "captain_points_missed_vs_best_starter": 42,
+        "captain_efficiency_pct_vs_best_starter": 66.1,
+        "captain_points_missed_vs_best_starter": 41,
         "chips_used": []
       },
       "bench": [
@@ -6176,9 +6176,9 @@
           "player_id": 40,
           "team": "CHE",
           "position": 6,
-          "raw_points": 5,
+          "raw_points": 4,
           "multiplier": 1,
-          "counted_points": 5,
+          "counted_points": 4,
           "captain": false,
           "vice_captain": false,
           "bench": false,
@@ -6186,7 +6186,7 @@
           "goals": 0,
           "assists": 1,
           "clean_sheets": 0,
-          "bonus": 1
+          "bonus": 0
         },
         {
           "player": "Ødegaard",
@@ -6458,8 +6458,8 @@
       "manager": "Matthew Shaw",
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
-      "total_points": 532,
-      "overall_rank": 6889469,
+      "total_points": 531,
+      "overall_rank": 6935699,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,

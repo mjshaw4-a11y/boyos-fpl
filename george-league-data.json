@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-11-21T15:50:37.720Z",
+  "generated_at": "2026-11-21T15:55:27.062Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 684,
-      "overall_rank": 478716,
+      "overall_rank": 459897,
       "previous_league_rank": 1,
       "rank_change": 0
     },
@@ -295,8 +295,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 678,
-      "overall_rank": 602993,
+      "total_points": 677,
+      "overall_rank": 602926,
       "previous_league_rank": 2,
       "rank_change": 0
     },
@@ -308,8 +308,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 532,
-      "overall_rank": 6889469,
+      "total_points": 531,
+      "overall_rank": 6935699,
       "previous_league_rank": 3,
       "rank_change": 0
     }
@@ -635,7 +635,7 @@
       "entry_id": 8848218,
       "team_name": "TheRoseGardeb",
       "total_points": 684,
-      "overall_rank": 478716,
+      "overall_rank": 459897,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -1215,7 +1215,7 @@
           "player": "Justin",
           "player_id": 332,
           "position": 13,
-          "raw_points": 2,
+          "raw_points": 1,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
@@ -1225,7 +1225,7 @@
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
-          "bonus": 1
+          "bonus": 0
         },
         {
           "player": "Barnes",
@@ -1457,7 +1457,7 @@
           "player": "Justin",
           "player_id": 332,
           "position": 13,
-          "raw_points": 2,
+          "raw_points": 1,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
@@ -1467,7 +1467,7 @@
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
-          "bonus": 1
+          "bonus": 0
         },
         {
           "player": "Barnes",
@@ -1628,8 +1628,8 @@
       "manager": "Joe Burke",
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
-      "total_points": 678,
-      "overall_rank": 602993,
+      "total_points": 677,
+      "overall_rank": 602926,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -2791,9 +2791,9 @@
           "player": "Rogers",
           "player_id": 40,
           "position": 7,
-          "raw_points": 5,
+          "raw_points": 4,
           "multiplier": 1,
-          "counted_points": 5,
+          "counted_points": 4,
           "captain": false,
           "vice_captain": false,
           "bench": false,
@@ -2801,7 +2801,7 @@
           "goals": 0,
           "assists": 1,
           "clean_sheets": 0,
-          "bonus": 1
+          "bonus": 0
         },
         {
           "player": "Cherki",
@@ -3058,8 +3058,8 @@
       "manager": "Matthew Shaw",
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
-      "total_points": 532,
-      "overall_rank": 6889469,
+      "total_points": 531,
+      "overall_rank": 6935699,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
