@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-21T11:38:50.865Z",
+  "generated_at": "2026-11-21T11:40:30.501Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 597,
-      "overall_rank": 2983409,
+      "overall_rank": 2960698,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -4401,7 +4401,7 @@
       "entry_id": 2368930,
       "team_name": "The Regent",
       "total_points": 597,
-      "overall_rank": 2983409,
+      "overall_rank": 2960698,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
