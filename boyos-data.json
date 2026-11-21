@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-21T12:30:45.044Z",
+  "generated_at": "2026-11-21T12:35:22.299Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -282,8 +282,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 658,
-      "overall_rank": 655940,
+      "total_points": 659,
+      "overall_rank": 677510,
       "previous_boyos_rank": 1,
       "rank_change": 0
     },
@@ -295,8 +295,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 612,
-      "overall_rank": 2238592,
+      "total_points": 613,
+      "overall_rank": 2279191,
       "previous_boyos_rank": 2,
       "rank_change": 0
     },
@@ -308,8 +308,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 597,
-      "overall_rank": 2960696,
+      "total_points": 599,
+      "overall_rank": 2955237,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -321,8 +321,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 577,
-      "overall_rank": 3991631,
+      "total_points": 579,
+      "overall_rank": 3984951,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -334,8 +334,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 514,
-      "overall_rank": 7170718,
+      "total_points": 516,
+      "overall_rank": 7162752,
       "previous_boyos_rank": 5,
       "rank_change": 0
     }
@@ -343,7 +343,50 @@
   "live_gameweek": {
     "Joe": {
       "played": [],
-      "playing_now": [],
+      "playing_now": [
+        {
+          "player": "Gvardiol",
+          "team": "MCI",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "FUL",
+          "home": true,
+          "kickoff_time": "2026-11-21T12:30:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Cherki",
+          "team": "MCI",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "FUL",
+          "home": true,
+          "kickoff_time": "2026-11-21T12:30:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Haaland",
+          "team": "MCI",
+          "bench": false,
+          "captain": false,
+          "vice_captain": true,
+          "status": "playing",
+          "opponent": "FUL",
+          "home": true,
+          "kickoff_time": "2026-11-21T12:30:00Z",
+          "minutes": 4,
+          "points": 1,
+          "counted_points": 1
+        }
+      ],
       "still_to_play": [
         {
           "player": "Verbruggen",
@@ -383,20 +426,6 @@
           "opponent": "HUL",
           "home": false,
           "kickoff_time": "2026-11-22T14:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Gvardiol",
-          "team": "MCI",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "FUL",
-          "home": true,
-          "kickoff_time": "2026-11-21T12:30:00Z",
           "minutes": 0,
           "points": 0,
           "counted_points": 0
@@ -444,20 +473,6 @@
           "counted_points": 0
         },
         {
-          "player": "Cherki",
-          "team": "MCI",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "FUL",
-          "home": true,
-          "kickoff_time": "2026-11-21T12:30:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
           "player": "N.Jackson",
           "team": "AVL",
           "bench": false,
@@ -481,20 +496,6 @@
           "opponent": "BRE",
           "home": false,
           "kickoff_time": "2026-11-23T20:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Haaland",
-          "team": "MCI",
-          "bench": false,
-          "captain": false,
-          "vice_captain": true,
-          "status": "to_play",
-          "opponent": "FUL",
-          "home": true,
-          "kickoff_time": "2026-11-21T12:30:00Z",
           "minutes": 0,
           "points": 0,
           "counted_points": 0
@@ -560,12 +561,69 @@
       "gameweek_points": 0,
       "bench_points": 0,
       "starters_played": 0,
-      "starters_playing_now": 0,
-      "starters_still_to_play": 11
+      "starters_playing_now": 3,
+      "starters_still_to_play": 8
     },
     "Dave": {
       "played": [],
-      "playing_now": [],
+      "playing_now": [
+        {
+          "player": "Cherki",
+          "team": "MCI",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "FUL",
+          "home": true,
+          "kickoff_time": "2026-11-21T12:30:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Gonzalo",
+          "team": "FUL",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "MCI",
+          "home": false,
+          "kickoff_time": "2026-11-21T12:30:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Haaland",
+          "team": "MCI",
+          "bench": false,
+          "captain": false,
+          "vice_captain": true,
+          "status": "playing",
+          "opponent": "FUL",
+          "home": true,
+          "kickoff_time": "2026-11-21T12:30:00Z",
+          "minutes": 4,
+          "points": 1,
+          "counted_points": 1
+        },
+        {
+          "player": "Gvardiol",
+          "team": "MCI",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "FUL",
+          "home": true,
+          "kickoff_time": "2026-11-21T12:30:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        }
+      ],
       "still_to_play": [
         {
           "player": "Verbruggen",
@@ -638,20 +696,6 @@
           "counted_points": 0
         },
         {
-          "player": "Cherki",
-          "team": "MCI",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "FUL",
-          "home": true,
-          "kickoff_time": "2026-11-21T12:30:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
           "player": "Palmer",
           "team": "CHE",
           "bench": false,
@@ -675,34 +719,6 @@
           "opponent": "HUL",
           "home": false,
           "kickoff_time": "2026-11-22T14:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Gonzalo",
-          "team": "FUL",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "MCI",
-          "home": false,
-          "kickoff_time": "2026-11-21T12:30:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Haaland",
-          "team": "MCI",
-          "bench": false,
-          "captain": false,
-          "vice_captain": true,
-          "status": "to_play",
-          "opponent": "FUL",
-          "home": true,
-          "kickoff_time": "2026-11-21T12:30:00Z",
           "minutes": 0,
           "points": 0,
           "counted_points": 0
@@ -762,32 +778,47 @@
           "minutes": 0,
           "points": 0,
           "counted_points": 0
-        },
-        {
-          "player": "Gvardiol",
-          "team": "MCI",
-          "bench": true,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "FUL",
-          "home": true,
-          "kickoff_time": "2026-11-21T12:30:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
         }
       ],
       "captain": "Palmer",
       "gameweek_points": 0,
       "bench_points": 0,
       "starters_played": 0,
-      "starters_playing_now": 0,
-      "starters_still_to_play": 11
+      "starters_playing_now": 3,
+      "starters_still_to_play": 8
     },
     "Manny": {
       "played": [],
-      "playing_now": [],
+      "playing_now": [
+        {
+          "player": "Gvardiol",
+          "team": "MCI",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "FUL",
+          "home": true,
+          "kickoff_time": "2026-11-21T12:30:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Haaland",
+          "team": "MCI",
+          "bench": false,
+          "captain": true,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "FUL",
+          "home": true,
+          "kickoff_time": "2026-11-21T12:30:00Z",
+          "minutes": 4,
+          "points": 1,
+          "counted_points": 2
+        }
+      ],
       "still_to_play": [
         {
           "player": "Verbruggen",
@@ -813,20 +844,6 @@
           "opponent": "NFO",
           "home": true,
           "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Gvardiol",
-          "team": "MCI",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "FUL",
-          "home": true,
-          "kickoff_time": "2026-11-21T12:30:00Z",
           "minutes": 0,
           "points": 0,
           "counted_points": 0
@@ -897,20 +914,6 @@
           "opponent": "LEE",
           "home": true,
           "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Haaland",
-          "team": "MCI",
-          "bench": false,
-          "captain": true,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "FUL",
-          "home": true,
-          "kickoff_time": "2026-11-21T12:30:00Z",
           "minutes": 0,
           "points": 0,
           "counted_points": 0
@@ -1004,12 +1007,41 @@
       "gameweek_points": 0,
       "bench_points": 0,
       "starters_played": 0,
-      "starters_playing_now": 0,
-      "starters_still_to_play": 11
+      "starters_playing_now": 2,
+      "starters_still_to_play": 9
     },
     "Ben": {
       "played": [],
-      "playing_now": [],
+      "playing_now": [
+        {
+          "player": "O'Reilly",
+          "team": "MCI",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "FUL",
+          "home": true,
+          "kickoff_time": "2026-11-21T12:30:00Z",
+          "minutes": 4,
+          "points": 1,
+          "counted_points": 1
+        },
+        {
+          "player": "Haaland",
+          "team": "MCI",
+          "bench": false,
+          "captain": false,
+          "vice_captain": true,
+          "status": "playing",
+          "opponent": "FUL",
+          "home": true,
+          "kickoff_time": "2026-11-21T12:30:00Z",
+          "minutes": 4,
+          "points": 1,
+          "counted_points": 1
+        }
+      ],
       "still_to_play": [
         {
           "player": "Trafford",
@@ -1068,20 +1100,6 @@
           "counted_points": 0
         },
         {
-          "player": "O'Reilly",
-          "team": "MCI",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "FUL",
-          "home": true,
-          "kickoff_time": "2026-11-21T12:30:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
           "player": "Rogers",
           "team": "CHE",
           "bench": false,
@@ -1119,20 +1137,6 @@
           "opponent": "HUL",
           "home": false,
           "kickoff_time": "2026-11-22T14:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Haaland",
-          "team": "MCI",
-          "bench": false,
-          "captain": false,
-          "vice_captain": true,
-          "status": "to_play",
-          "opponent": "FUL",
-          "home": true,
-          "kickoff_time": "2026-11-21T12:30:00Z",
           "minutes": 0,
           "points": 0,
           "counted_points": 0
@@ -1226,12 +1230,41 @@
       "gameweek_points": 0,
       "bench_points": 0,
       "starters_played": 0,
-      "starters_playing_now": 0,
-      "starters_still_to_play": 11
+      "starters_playing_now": 2,
+      "starters_still_to_play": 9
     },
     "Curlo": {
       "played": [],
-      "playing_now": [],
+      "playing_now": [
+        {
+          "player": "Haaland",
+          "team": "MCI",
+          "bench": false,
+          "captain": true,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "FUL",
+          "home": true,
+          "kickoff_time": "2026-11-21T12:30:00Z",
+          "minutes": 4,
+          "points": 1,
+          "counted_points": 2
+        },
+        {
+          "player": "Robinson",
+          "team": "FUL",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "MCI",
+          "home": false,
+          "kickoff_time": "2026-11-21T12:30:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        }
+      ],
       "still_to_play": [
         {
           "player": "Kinsky",
@@ -1360,20 +1393,6 @@
           "counted_points": 0
         },
         {
-          "player": "Haaland",
-          "team": "MCI",
-          "bench": false,
-          "captain": true,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "FUL",
-          "home": true,
-          "kickoff_time": "2026-11-21T12:30:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
           "player": "Calvert-Lewin",
           "team": "LEE",
           "bench": false,
@@ -1397,20 +1416,6 @@
           "opponent": "ARS",
           "home": true,
           "kickoff_time": "2026-11-21T17:30:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Robinson",
-          "team": "FUL",
-          "bench": true,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "MCI",
-          "home": false,
-          "kickoff_time": "2026-11-21T12:30:00Z",
           "minutes": 0,
           "points": 0,
           "counted_points": 0
@@ -1448,8 +1453,8 @@
       "gameweek_points": 0,
       "bench_points": 0,
       "starters_played": 0,
-      "starters_playing_now": 0,
-      "starters_still_to_play": 11
+      "starters_playing_now": 1,
+      "starters_still_to_play": 10
     }
   },
   "league_insights": {
@@ -1566,29 +1571,29 @@
     "captain_efficiency": [
       {
         "name": "Ben",
-        "value": 67.5
+        "value": 66.9
       },
       {
         "name": "Dave",
-        "value": 53
+        "value": 52.5
       },
       {
         "name": "Manny",
-        "value": 51.6
-      },
-      {
-        "name": "Joe",
-        "value": 45.5
+        "value": 51.9
       },
       {
         "name": "Curlo",
-        "value": 45
+        "value": 45.5
+      },
+      {
+        "name": "Joe",
+        "value": 45.2
       }
     ],
     "captain_regret": [
       {
         "name": "Joe",
-        "value": 67
+        "value": 68
       },
       {
         "name": "Manny",
@@ -1600,11 +1605,11 @@
       },
       {
         "name": "Dave",
-        "value": 55
+        "value": 56
       },
       {
         "name": "Ben",
-        "value": 38
+        "value": 39
       }
     ],
     "weekly_wins": [
@@ -1920,8 +1925,8 @@
       "manager": "Joe Burke",
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
-      "total_points": 658,
-      "overall_rank": 655940,
+      "total_points": 659,
+      "overall_rank": 677510,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -1935,13 +1940,56 @@
       },
       "vice_captain": {
         "player": "Haaland",
-        "raw_points": 0,
-        "minutes": 0
+        "raw_points": 1,
+        "minutes": 4
       },
       "active_chip": null,
       "live_summary": {
         "played": [],
-        "playing_now": [],
+        "playing_now": [
+          {
+            "player": "Gvardiol",
+            "team": "MCI",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "FUL",
+            "home": true,
+            "kickoff_time": "2026-11-21T12:30:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Cherki",
+            "team": "MCI",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "FUL",
+            "home": true,
+            "kickoff_time": "2026-11-21T12:30:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Haaland",
+            "team": "MCI",
+            "bench": false,
+            "captain": false,
+            "vice_captain": true,
+            "status": "playing",
+            "opponent": "FUL",
+            "home": true,
+            "kickoff_time": "2026-11-21T12:30:00Z",
+            "minutes": 4,
+            "points": 1,
+            "counted_points": 1
+          }
+        ],
         "still_to_play": [
           {
             "player": "Verbruggen",
@@ -1981,20 +2029,6 @@
             "opponent": "HUL",
             "home": false,
             "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Gvardiol",
-            "team": "MCI",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "FUL",
-            "home": true,
-            "kickoff_time": "2026-11-21T12:30:00Z",
             "minutes": 0,
             "points": 0,
             "counted_points": 0
@@ -2042,20 +2076,6 @@
             "counted_points": 0
           },
           {
-            "player": "Cherki",
-            "team": "MCI",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "FUL",
-            "home": true,
-            "kickoff_time": "2026-11-21T12:30:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
             "player": "N.Jackson",
             "team": "AVL",
             "bench": false,
@@ -2079,20 +2099,6 @@
             "opponent": "BRE",
             "home": false,
             "kickoff_time": "2026-11-23T20:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Haaland",
-            "team": "MCI",
-            "bench": false,
-            "captain": false,
-            "vice_captain": true,
-            "status": "to_play",
-            "opponent": "FUL",
-            "home": true,
-            "kickoff_time": "2026-11-21T12:30:00Z",
             "minutes": 0,
             "points": 0,
             "counted_points": 0
@@ -2158,8 +2164,8 @@
         "gameweek_points": 0,
         "bench_points": 0,
         "starters_played": 0,
-        "starters_playing_now": 0,
-        "starters_still_to_play": 11
+        "starters_playing_now": 3,
+        "starters_still_to_play": 8
       },
       "transfers": [
         {
@@ -2763,10 +2769,10 @@
           "captain_points": 0,
           "captain_minutes": 0,
           "vice_captain": "Haaland",
-          "vice_points": 0,
-          "best_starting_player": "Verbruggen",
-          "best_starting_points": 0,
-          "captain_points_missed_vs_best_starter": 0,
+          "vice_points": 1,
+          "best_starting_player": "Haaland",
+          "best_starting_points": 1,
+          "captain_points_missed_vs_best_starter": 1,
           "chip": null
         }
       ],
@@ -2788,8 +2794,8 @@
         "total_bench_points": 97,
         "average_bench_points": 8.8,
         "captain_raw_points": 56,
-        "captain_efficiency_pct_vs_best_starter": 45.5,
-        "captain_points_missed_vs_best_starter": 67,
+        "captain_efficiency_pct_vs_best_starter": 45.2,
+        "captain_points_missed_vs_best_starter": 68,
         "chips_used": [
           {
             "name": "3xc",
@@ -3054,13 +3060,13 @@
           "player_id": 411,
           "team": "MCI",
           "position": 11,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 1,
           "captain": false,
           "vice_captain": true,
           "bench": false,
-          "minutes": 0,
+          "minutes": 4,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3261,8 +3267,8 @@
       "manager": "David Eyre",
       "entry_id": 5568090,
       "team_name": "Insufferable FC",
-      "total_points": 612,
-      "overall_rank": 2238592,
+      "total_points": 613,
+      "overall_rank": 2279191,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -3276,13 +3282,70 @@
       },
       "vice_captain": {
         "player": "Haaland",
-        "raw_points": 0,
-        "minutes": 0
+        "raw_points": 1,
+        "minutes": 4
       },
       "active_chip": null,
       "live_summary": {
         "played": [],
-        "playing_now": [],
+        "playing_now": [
+          {
+            "player": "Cherki",
+            "team": "MCI",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "FUL",
+            "home": true,
+            "kickoff_time": "2026-11-21T12:30:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Gonzalo",
+            "team": "FUL",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "MCI",
+            "home": false,
+            "kickoff_time": "2026-11-21T12:30:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Haaland",
+            "team": "MCI",
+            "bench": false,
+            "captain": false,
+            "vice_captain": true,
+            "status": "playing",
+            "opponent": "FUL",
+            "home": true,
+            "kickoff_time": "2026-11-21T12:30:00Z",
+            "minutes": 4,
+            "points": 1,
+            "counted_points": 1
+          },
+          {
+            "player": "Gvardiol",
+            "team": "MCI",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "FUL",
+            "home": true,
+            "kickoff_time": "2026-11-21T12:30:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          }
+        ],
         "still_to_play": [
           {
             "player": "Verbruggen",
@@ -3355,20 +3418,6 @@
             "counted_points": 0
           },
           {
-            "player": "Cherki",
-            "team": "MCI",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "FUL",
-            "home": true,
-            "kickoff_time": "2026-11-21T12:30:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
             "player": "Palmer",
             "team": "CHE",
             "bench": false,
@@ -3392,34 +3441,6 @@
             "opponent": "HUL",
             "home": false,
             "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Gonzalo",
-            "team": "FUL",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "MCI",
-            "home": false,
-            "kickoff_time": "2026-11-21T12:30:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Haaland",
-            "team": "MCI",
-            "bench": false,
-            "captain": false,
-            "vice_captain": true,
-            "status": "to_play",
-            "opponent": "FUL",
-            "home": true,
-            "kickoff_time": "2026-11-21T12:30:00Z",
             "minutes": 0,
             "points": 0,
             "counted_points": 0
@@ -3479,28 +3500,14 @@
             "minutes": 0,
             "points": 0,
             "counted_points": 0
-          },
-          {
-            "player": "Gvardiol",
-            "team": "MCI",
-            "bench": true,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "FUL",
-            "home": true,
-            "kickoff_time": "2026-11-21T12:30:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
           }
         ],
         "captain": "Palmer",
         "gameweek_points": 0,
         "bench_points": 0,
         "starters_played": 0,
-        "starters_playing_now": 0,
-        "starters_still_to_play": 11
+        "starters_playing_now": 3,
+        "starters_still_to_play": 8
       },
       "transfers": [],
       "transfer_history": [
@@ -3907,10 +3914,10 @@
           "captain_points": 0,
           "captain_minutes": 0,
           "vice_captain": "Haaland",
-          "vice_points": 0,
-          "best_starting_player": "Verbruggen",
-          "best_starting_points": 0,
-          "captain_points_missed_vs_best_starter": 0,
+          "vice_points": 1,
+          "best_starting_player": "Haaland",
+          "best_starting_points": 1,
+          "captain_points_missed_vs_best_starter": 1,
           "chip": null
         }
       ],
@@ -3932,8 +3939,8 @@
         "total_bench_points": 133,
         "average_bench_points": 12.1,
         "captain_raw_points": 62,
-        "captain_efficiency_pct_vs_best_starter": 53,
-        "captain_points_missed_vs_best_starter": 55,
+        "captain_efficiency_pct_vs_best_starter": 52.5,
+        "captain_points_missed_vs_best_starter": 56,
         "chips_used": [
           {
             "name": "3xc",
@@ -4176,13 +4183,13 @@
           "player_id": 411,
           "team": "MCI",
           "position": 10,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 1,
           "captain": false,
           "vice_captain": true,
           "bench": false,
-          "minutes": 0,
+          "minutes": 4,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4400,8 +4407,8 @@
       "manager": "Manny Jandu",
       "entry_id": 2368930,
       "team_name": "The Regent",
-      "total_points": 597,
-      "overall_rank": 2960696,
+      "total_points": 599,
+      "overall_rank": 2955237,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -4409,9 +4416,9 @@
       "points_on_bench": 0,
       "captain": {
         "player": "Haaland",
-        "raw_points": 0,
-        "counted_points": 0,
-        "minutes": 0
+        "raw_points": 1,
+        "counted_points": 2,
+        "minutes": 4
       },
       "vice_captain": {
         "player": "Isak",
@@ -4421,7 +4428,36 @@
       "active_chip": null,
       "live_summary": {
         "played": [],
-        "playing_now": [],
+        "playing_now": [
+          {
+            "player": "Gvardiol",
+            "team": "MCI",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "FUL",
+            "home": true,
+            "kickoff_time": "2026-11-21T12:30:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Haaland",
+            "team": "MCI",
+            "bench": false,
+            "captain": true,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "FUL",
+            "home": true,
+            "kickoff_time": "2026-11-21T12:30:00Z",
+            "minutes": 4,
+            "points": 1,
+            "counted_points": 2
+          }
+        ],
         "still_to_play": [
           {
             "player": "Verbruggen",
@@ -4447,20 +4483,6 @@
             "opponent": "NFO",
             "home": true,
             "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Gvardiol",
-            "team": "MCI",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "FUL",
-            "home": true,
-            "kickoff_time": "2026-11-21T12:30:00Z",
             "minutes": 0,
             "points": 0,
             "counted_points": 0
@@ -4531,20 +4553,6 @@
             "opponent": "LEE",
             "home": true,
             "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Haaland",
-            "team": "MCI",
-            "bench": false,
-            "captain": true,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "FUL",
-            "home": true,
-            "kickoff_time": "2026-11-21T12:30:00Z",
             "minutes": 0,
             "points": 0,
             "counted_points": 0
@@ -4638,8 +4646,8 @@
         "gameweek_points": 0,
         "bench_points": 0,
         "starters_played": 0,
-        "starters_playing_now": 0,
-        "starters_still_to_play": 11
+        "starters_playing_now": 2,
+        "starters_still_to_play": 9
       },
       "transfers": [],
       "transfer_history": [
@@ -5015,12 +5023,12 @@
         {
           "gameweek": 11,
           "captain": "Haaland",
-          "captain_points": 0,
-          "captain_minutes": 0,
+          "captain_points": 1,
+          "captain_minutes": 4,
           "vice_captain": "Isak",
           "vice_points": 0,
-          "best_starting_player": "Verbruggen",
-          "best_starting_points": 0,
+          "best_starting_player": "Haaland",
+          "best_starting_points": 1,
           "captain_points_missed_vs_best_starter": 0,
           "chip": null
         }
@@ -5042,8 +5050,8 @@
         },
         "total_bench_points": 57,
         "average_bench_points": 5.2,
-        "captain_raw_points": 66,
-        "captain_efficiency_pct_vs_best_starter": 51.6,
+        "captain_raw_points": 67,
+        "captain_efficiency_pct_vs_best_starter": 51.9,
         "captain_points_missed_vs_best_starter": 62,
         "chips_used": [
           {
@@ -5270,13 +5278,13 @@
           "player_id": 411,
           "team": "MCI",
           "position": 9,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 2,
-          "counted_points": 0,
+          "counted_points": 2,
           "captain": true,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 4,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -5511,8 +5519,8 @@
       "manager": "Ben Burt",
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
-      "total_points": 577,
-      "overall_rank": 3991631,
+      "total_points": 579,
+      "overall_rank": 3984951,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -5526,13 +5534,42 @@
       },
       "vice_captain": {
         "player": "Haaland",
-        "raw_points": 0,
-        "minutes": 0
+        "raw_points": 1,
+        "minutes": 4
       },
       "active_chip": null,
       "live_summary": {
         "played": [],
-        "playing_now": [],
+        "playing_now": [
+          {
+            "player": "O'Reilly",
+            "team": "MCI",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "FUL",
+            "home": true,
+            "kickoff_time": "2026-11-21T12:30:00Z",
+            "minutes": 4,
+            "points": 1,
+            "counted_points": 1
+          },
+          {
+            "player": "Haaland",
+            "team": "MCI",
+            "bench": false,
+            "captain": false,
+            "vice_captain": true,
+            "status": "playing",
+            "opponent": "FUL",
+            "home": true,
+            "kickoff_time": "2026-11-21T12:30:00Z",
+            "minutes": 4,
+            "points": 1,
+            "counted_points": 1
+          }
+        ],
         "still_to_play": [
           {
             "player": "Trafford",
@@ -5591,20 +5628,6 @@
             "counted_points": 0
           },
           {
-            "player": "O'Reilly",
-            "team": "MCI",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "FUL",
-            "home": true,
-            "kickoff_time": "2026-11-21T12:30:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
             "player": "Rogers",
             "team": "CHE",
             "bench": false,
@@ -5642,20 +5665,6 @@
             "opponent": "HUL",
             "home": false,
             "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Haaland",
-            "team": "MCI",
-            "bench": false,
-            "captain": false,
-            "vice_captain": true,
-            "status": "to_play",
-            "opponent": "FUL",
-            "home": true,
-            "kickoff_time": "2026-11-21T12:30:00Z",
             "minutes": 0,
             "points": 0,
             "counted_points": 0
@@ -5749,8 +5758,8 @@
         "gameweek_points": 0,
         "bench_points": 0,
         "starters_played": 0,
-        "starters_playing_now": 0,
-        "starters_still_to_play": 11
+        "starters_playing_now": 2,
+        "starters_still_to_play": 9
       },
       "transfers": [],
       "transfer_history": [
@@ -5977,10 +5986,10 @@
           "captain_points": 0,
           "captain_minutes": 0,
           "vice_captain": "Haaland",
-          "vice_points": 0,
-          "best_starting_player": "Trafford",
-          "best_starting_points": 0,
-          "captain_points_missed_vs_best_starter": 0,
+          "vice_points": 1,
+          "best_starting_player": "O'Reilly",
+          "best_starting_points": 1,
+          "captain_points_missed_vs_best_starter": 1,
           "chip": null
         }
       ],
@@ -6002,8 +6011,8 @@
         "total_bench_points": 88,
         "average_bench_points": 8.8,
         "captain_raw_points": 79,
-        "captain_efficiency_pct_vs_best_starter": 67.5,
-        "captain_points_missed_vs_best_starter": 38,
+        "captain_efficiency_pct_vs_best_starter": 66.9,
+        "captain_points_missed_vs_best_starter": 39,
         "chips_used": []
       },
       "bench": [
@@ -6150,13 +6159,13 @@
           "player_id": 387,
           "team": "MCI",
           "position": 5,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 1,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 4,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -6218,13 +6227,13 @@
           "player_id": 411,
           "team": "MCI",
           "position": 9,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 1,
           "captain": false,
           "vice_captain": true,
           "bench": false,
-          "minutes": 0,
+          "minutes": 4,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -6449,8 +6458,8 @@
       "manager": "Matthew Shaw",
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
-      "total_points": 514,
-      "overall_rank": 7170718,
+      "total_points": 516,
+      "overall_rank": 7162752,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -6458,9 +6467,9 @@
       "points_on_bench": 0,
       "captain": {
         "player": "Haaland",
-        "raw_points": 0,
-        "counted_points": 0,
-        "minutes": 0
+        "raw_points": 1,
+        "counted_points": 2,
+        "minutes": 4
       },
       "vice_captain": {
         "player": "Ødegaard",
@@ -6470,7 +6479,36 @@
       "active_chip": null,
       "live_summary": {
         "played": [],
-        "playing_now": [],
+        "playing_now": [
+          {
+            "player": "Haaland",
+            "team": "MCI",
+            "bench": false,
+            "captain": true,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "FUL",
+            "home": true,
+            "kickoff_time": "2026-11-21T12:30:00Z",
+            "minutes": 4,
+            "points": 1,
+            "counted_points": 2
+          },
+          {
+            "player": "Robinson",
+            "team": "FUL",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "MCI",
+            "home": false,
+            "kickoff_time": "2026-11-21T12:30:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          }
+        ],
         "still_to_play": [
           {
             "player": "Kinsky",
@@ -6599,20 +6637,6 @@
             "counted_points": 0
           },
           {
-            "player": "Haaland",
-            "team": "MCI",
-            "bench": false,
-            "captain": true,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "FUL",
-            "home": true,
-            "kickoff_time": "2026-11-21T12:30:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
             "player": "Calvert-Lewin",
             "team": "LEE",
             "bench": false,
@@ -6636,20 +6660,6 @@
             "opponent": "ARS",
             "home": true,
             "kickoff_time": "2026-11-21T17:30:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Robinson",
-            "team": "FUL",
-            "bench": true,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "MCI",
-            "home": false,
-            "kickoff_time": "2026-11-21T12:30:00Z",
             "minutes": 0,
             "points": 0,
             "counted_points": 0
@@ -6687,8 +6697,8 @@
         "gameweek_points": 0,
         "bench_points": 0,
         "starters_played": 0,
-        "starters_playing_now": 0,
-        "starters_still_to_play": 11
+        "starters_playing_now": 1,
+        "starters_still_to_play": 10
       },
       "transfers": [
         {
@@ -7163,12 +7173,12 @@
         {
           "gameweek": 11,
           "captain": "Haaland",
-          "captain_points": 0,
-          "captain_minutes": 0,
+          "captain_points": 1,
+          "captain_minutes": 4,
           "vice_captain": "Ødegaard",
           "vice_points": 0,
-          "best_starting_player": "Kinsky",
-          "best_starting_points": 0,
+          "best_starting_player": "Haaland",
+          "best_starting_points": 1,
           "captain_points_missed_vs_best_starter": 0,
           "chip": null
         }
@@ -7190,8 +7200,8 @@
         },
         "total_bench_points": 104,
         "average_bench_points": 9.5,
-        "captain_raw_points": 49,
-        "captain_efficiency_pct_vs_best_starter": 45,
+        "captain_raw_points": 50,
+        "captain_efficiency_pct_vs_best_starter": 45.5,
         "captain_points_missed_vs_best_starter": 60,
         "chips_used": [
           {
@@ -7430,13 +7440,13 @@
           "player_id": 411,
           "team": "MCI",
           "position": 10,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 2,
-          "counted_points": 0,
+          "counted_points": 2,
           "captain": true,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 4,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,

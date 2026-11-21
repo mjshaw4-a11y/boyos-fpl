@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-11-21T12:30:45.448Z",
+  "generated_at": "2026-11-21T12:35:23.470Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -282,8 +282,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 659,
-      "overall_rank": 628309,
+      "total_points": 661,
+      "overall_rank": 626589,
       "previous_league_rank": 1,
       "rank_change": 0
     },
@@ -295,8 +295,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 658,
-      "overall_rank": 655940,
+      "total_points": 659,
+      "overall_rank": 677510,
       "previous_league_rank": 2,
       "rank_change": 0
     },
@@ -308,8 +308,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 514,
-      "overall_rank": 7170718,
+      "total_points": 516,
+      "overall_rank": 7162752,
       "previous_league_rank": 3,
       "rank_change": 0
     }
@@ -388,21 +388,21 @@
     "captain_efficiency": [
       {
         "name": "George",
-        "value": 56.5
-      },
-      {
-        "name": "Joe",
-        "value": 45.5
+        "value": 56.8
       },
       {
         "name": "Curlo",
-        "value": 45
+        "value": 45.5
+      },
+      {
+        "name": "Joe",
+        "value": 45.2
       }
     ],
     "captain_regret": [
       {
         "name": "Joe",
-        "value": 67
+        "value": 68
       },
       {
         "name": "Curlo",
@@ -634,8 +634,8 @@
       "manager": "George Lane",
       "entry_id": 8848218,
       "team_name": "TheRoseGardeb",
-      "total_points": 659,
-      "overall_rank": 628309,
+      "total_points": 661,
+      "overall_rank": 626589,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -643,9 +643,9 @@
       "points_on_bench": 0,
       "captain": {
         "player": "Haaland",
-        "raw_points": 0,
-        "counted_points": 0,
-        "minutes": 0
+        "raw_points": 1,
+        "counted_points": 2,
+        "minutes": 4
       },
       "vice_captain": {
         "player": "Palmer",
@@ -1150,13 +1150,13 @@
         {
           "gameweek": 11,
           "captain": "Haaland",
-          "captain_points": 0,
-          "captain_minutes": 0,
+          "captain_points": 1,
+          "captain_minutes": 4,
           "vice_captain": "Palmer",
           "vice_points": 0,
           "vice_minutes": 0,
-          "best_starting_player": "Kinsky",
-          "best_starting_points": 0,
+          "best_starting_player": "Haaland",
+          "best_starting_points": 1,
           "captain_points_missed_vs_best_starter": 0,
           "chip": null
         }
@@ -1178,8 +1178,8 @@
         },
         "total_bench_points": 114,
         "average_bench_points": 10.4,
-        "captain_raw_points": 70,
-        "captain_efficiency_pct_vs_best_starter": 56.5,
+        "captain_raw_points": 71,
+        "captain_efficiency_pct_vs_best_starter": 56.8,
         "captain_points_missed_vs_best_starter": 54,
         "chips_used": [
           {
@@ -1393,13 +1393,13 @@
           "player": "Haaland",
           "player_id": 411,
           "position": 9,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 2,
-          "counted_points": 0,
+          "counted_points": 2,
           "captain": true,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 4,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -1628,8 +1628,8 @@
       "manager": "Joe Burke",
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
-      "total_points": 658,
-      "overall_rank": 655940,
+      "total_points": 659,
+      "overall_rank": 677510,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -1643,8 +1643,8 @@
       },
       "vice_captain": {
         "player": "Haaland",
-        "raw_points": 0,
-        "minutes": 0
+        "raw_points": 1,
+        "minutes": 4
       },
       "active_chip": null,
       "transfers": [
@@ -2578,11 +2578,11 @@
           "captain_points": 0,
           "captain_minutes": 0,
           "vice_captain": "Haaland",
-          "vice_points": 0,
-          "vice_minutes": 0,
-          "best_starting_player": "Verbruggen",
-          "best_starting_points": 0,
-          "captain_points_missed_vs_best_starter": 0,
+          "vice_points": 1,
+          "vice_minutes": 4,
+          "best_starting_player": "Haaland",
+          "best_starting_points": 1,
+          "captain_points_missed_vs_best_starter": 1,
           "chip": null
         }
       ],
@@ -2604,8 +2604,8 @@
         "total_bench_points": 97,
         "average_bench_points": 8.8,
         "captain_raw_points": 56,
-        "captain_efficiency_pct_vs_best_starter": 45.5,
-        "captain_points_missed_vs_best_starter": 67,
+        "captain_efficiency_pct_vs_best_starter": 45.2,
+        "captain_points_missed_vs_best_starter": 68,
         "chips_used": [
           {
             "name": "3xc",
@@ -2855,13 +2855,13 @@
           "player": "Haaland",
           "player_id": 411,
           "position": 11,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 1,
           "captain": false,
           "vice_captain": true,
           "bench": false,
-          "minutes": 0,
+          "minutes": 4,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3058,8 +3058,8 @@
       "manager": "Matthew Shaw",
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
-      "total_points": 514,
-      "overall_rank": 7170718,
+      "total_points": 516,
+      "overall_rank": 7162752,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -3067,9 +3067,9 @@
       "points_on_bench": 0,
       "captain": {
         "player": "Haaland",
-        "raw_points": 0,
-        "counted_points": 0,
-        "minutes": 0
+        "raw_points": 1,
+        "counted_points": 2,
+        "minutes": 4
       },
       "vice_captain": {
         "player": "Ødegaard",
@@ -3875,13 +3875,13 @@
         {
           "gameweek": 11,
           "captain": "Haaland",
-          "captain_points": 0,
-          "captain_minutes": 0,
+          "captain_points": 1,
+          "captain_minutes": 4,
           "vice_captain": "Ødegaard",
           "vice_points": 0,
           "vice_minutes": 0,
-          "best_starting_player": "Kinsky",
-          "best_starting_points": 0,
+          "best_starting_player": "Haaland",
+          "best_starting_points": 1,
           "captain_points_missed_vs_best_starter": 0,
           "chip": null
         }
@@ -3903,8 +3903,8 @@
         },
         "total_bench_points": 104,
         "average_bench_points": 9.5,
-        "captain_raw_points": 49,
-        "captain_efficiency_pct_vs_best_starter": 45,
+        "captain_raw_points": 50,
+        "captain_efficiency_pct_vs_best_starter": 45.5,
         "captain_points_missed_vs_best_starter": 60,
         "chips_used": [
           {
@@ -4129,13 +4129,13 @@
           "player": "Haaland",
           "player_id": 411,
           "position": 10,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 2,
-          "counted_points": 0,
+          "counted_points": 2,
           "captain": true,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 4,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
