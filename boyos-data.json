@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-21T18:35:21.529Z",
+  "generated_at": "2026-11-21T18:40:29.557Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 684,
-      "overall_rank": 690183,
+      "overall_rank": 690231,
       "previous_boyos_rank": 1,
       "rank_change": 0
     },
@@ -296,7 +296,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 625,
-      "overall_rank": 2763924,
+      "overall_rank": 2765810,
       "previous_boyos_rank": 2,
       "rank_change": 0
     },
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 621,
-      "overall_rank": 2957672,
+      "overall_rank": 2959334,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -321,8 +321,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 609,
-      "overall_rank": 3526601,
+      "total_points": 608,
+      "overall_rank": 3577820,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -334,8 +334,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 546,
-      "overall_rank": 6629732,
+      "total_points": 545,
+      "overall_rank": 6671828,
       "previous_boyos_rank": 5,
       "rank_change": 0
     }
@@ -354,7 +354,7 @@
           "opponent": "NEW",
           "home": false,
           "kickoff_time": "2026-11-21T17:30:00Z",
-          "minutes": 45,
+          "minutes": 51,
           "points": 1,
           "counted_points": 1
         },
@@ -480,7 +480,7 @@
           "opponent": "NEW",
           "home": false,
           "kickoff_time": "2026-11-21T17:30:00Z",
-          "minutes": 45,
+          "minutes": 51,
           "points": 1,
           "counted_points": 0
         }
@@ -577,7 +577,7 @@
           "opponent": "NEW",
           "home": false,
           "kickoff_time": "2026-11-21T17:30:00Z",
-          "minutes": 45,
+          "minutes": 51,
           "points": 1,
           "counted_points": 1
         },
@@ -591,7 +591,7 @@
           "opponent": "NEW",
           "home": false,
           "kickoff_time": "2026-11-21T17:30:00Z",
-          "minutes": 45,
+          "minutes": 51,
           "points": 1,
           "counted_points": 1
         },
@@ -717,8 +717,8 @@
           "opponent": "ARS",
           "home": true,
           "kickoff_time": "2026-11-21T17:30:00Z",
-          "minutes": 45,
-          "points": 1,
+          "minutes": 51,
+          "points": 8,
           "counted_points": 0
         },
         {
@@ -828,7 +828,7 @@
           "opponent": "NEW",
           "home": false,
           "kickoff_time": "2026-11-21T17:30:00Z",
-          "minutes": 45,
+          "minutes": 51,
           "points": 1,
           "counted_points": 1
         },
@@ -842,7 +842,7 @@
           "opponent": "NEW",
           "home": false,
           "kickoff_time": "2026-11-21T17:30:00Z",
-          "minutes": 45,
+          "minutes": 51,
           "points": 1,
           "counted_points": 1
         },
@@ -1051,7 +1051,7 @@
           "opponent": "NEW",
           "home": false,
           "kickoff_time": "2026-11-21T17:30:00Z",
-          "minutes": 45,
+          "minutes": 51,
           "points": 1,
           "counted_points": 1
         },
@@ -1093,9 +1093,9 @@
           "opponent": "NEW",
           "home": false,
           "kickoff_time": "2026-11-21T17:30:00Z",
-          "minutes": 45,
-          "points": 2,
-          "counted_points": 2
+          "minutes": 51,
+          "points": 1,
+          "counted_points": 1
         },
         {
           "player": "Haaland",
@@ -1260,7 +1260,7 @@
           "opponent": "NEW",
           "home": false,
           "kickoff_time": "2026-11-21T17:30:00Z",
-          "minutes": 45,
+          "minutes": 51,
           "points": 1,
           "counted_points": 1
         },
@@ -1288,7 +1288,7 @@
           "opponent": "NEW",
           "home": false,
           "kickoff_time": "2026-11-21T17:30:00Z",
-          "minutes": 45,
+          "minutes": 51,
           "points": 1,
           "counted_points": 1
         },
@@ -1302,9 +1302,9 @@
           "opponent": "NEW",
           "home": false,
           "kickoff_time": "2026-11-21T17:30:00Z",
-          "minutes": 45,
-          "points": 2,
-          "counted_points": 2
+          "minutes": 51,
+          "points": 1,
+          "counted_points": 1
         },
         {
           "player": "Evanilson",
@@ -1358,7 +1358,7 @@
           "opponent": "ARS",
           "home": true,
           "kickoff_time": "2026-11-21T17:30:00Z",
-          "minutes": 45,
+          "minutes": 51,
           "points": 1,
           "counted_points": 0
         },
@@ -1926,7 +1926,7 @@
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
       "total_points": 684,
-      "overall_rank": 690183,
+      "overall_rank": 690231,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -1957,7 +1957,7 @@
             "opponent": "NEW",
             "home": false,
             "kickoff_time": "2026-11-21T17:30:00Z",
-            "minutes": 45,
+            "minutes": 51,
             "points": 1,
             "counted_points": 1
           },
@@ -2083,7 +2083,7 @@
             "opponent": "NEW",
             "home": false,
             "kickoff_time": "2026-11-21T17:30:00Z",
-            "minutes": 45,
+            "minutes": 51,
             "points": 1,
             "counted_points": 0
           }
@@ -2843,7 +2843,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 45,
+          "minutes": 51,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -2913,7 +2913,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 45,
+          "minutes": 51,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3100,7 +3100,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 45,
+          "minutes": 51,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3268,7 +3268,7 @@
       "entry_id": 5568090,
       "team_name": "Insufferable FC",
       "total_points": 625,
-      "overall_rank": 2763924,
+      "overall_rank": 2765810,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -3299,7 +3299,7 @@
             "opponent": "NEW",
             "home": false,
             "kickoff_time": "2026-11-21T17:30:00Z",
-            "minutes": 45,
+            "minutes": 51,
             "points": 1,
             "counted_points": 1
           },
@@ -3313,7 +3313,7 @@
             "opponent": "NEW",
             "home": false,
             "kickoff_time": "2026-11-21T17:30:00Z",
-            "minutes": 45,
+            "minutes": 51,
             "points": 1,
             "counted_points": 1
           },
@@ -3439,8 +3439,8 @@
             "opponent": "ARS",
             "home": true,
             "kickoff_time": "2026-11-21T17:30:00Z",
-            "minutes": 45,
-            "points": 1,
+            "minutes": 51,
+            "points": 8,
             "counted_points": 0
           },
           {
@@ -3994,17 +3994,17 @@
           "player_id": 453,
           "team": "NEW",
           "position": 14,
-          "raw_points": 1,
+          "raw_points": 8,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 45,
-          "goals": 0,
+          "minutes": 51,
+          "goals": 1,
           "assists": 0,
           "clean_sheets": 0,
-          "bonus": 0
+          "bonus": 2
         },
         {
           "player": "Gvardiol",
@@ -4070,7 +4070,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 45,
+          "minutes": 51,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4087,7 +4087,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 45,
+          "minutes": 51,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4251,17 +4251,17 @@
           "player_id": 453,
           "team": "NEW",
           "position": 14,
-          "raw_points": 1,
+          "raw_points": 8,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 45,
-          "goals": 0,
+          "minutes": 51,
+          "goals": 1,
           "assists": 0,
           "clean_sheets": 0,
-          "bonus": 0
+          "bonus": 2
         },
         {
           "player": "Gvardiol",
@@ -4408,7 +4408,7 @@
       "entry_id": 2368930,
       "team_name": "The Regent",
       "total_points": 621,
-      "overall_rank": 2957672,
+      "overall_rank": 2959334,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -4467,7 +4467,7 @@
             "opponent": "NEW",
             "home": false,
             "kickoff_time": "2026-11-21T17:30:00Z",
-            "minutes": 45,
+            "minutes": 51,
             "points": 1,
             "counted_points": 1
           },
@@ -4481,7 +4481,7 @@
             "opponent": "NEW",
             "home": false,
             "kickoff_time": "2026-11-21T17:30:00Z",
-            "minutes": 45,
+            "minutes": 51,
             "points": 1,
             "counted_points": 1
           },
@@ -5199,7 +5199,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 45,
+          "minutes": 51,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -5216,7 +5216,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 45,
+          "minutes": 51,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -5519,8 +5519,8 @@
       "manager": "Ben Burt",
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
-      "total_points": 609,
-      "overall_rank": 3526601,
+      "total_points": 608,
+      "overall_rank": 3577820,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -5579,7 +5579,7 @@
             "opponent": "NEW",
             "home": false,
             "kickoff_time": "2026-11-21T17:30:00Z",
-            "minutes": 45,
+            "minutes": 51,
             "points": 1,
             "counted_points": 1
           },
@@ -5621,9 +5621,9 @@
             "opponent": "NEW",
             "home": false,
             "kickoff_time": "2026-11-21T17:30:00Z",
-            "minutes": 45,
-            "points": 2,
-            "counted_points": 2
+            "minutes": 51,
+            "points": 1,
+            "counted_points": 1
           },
           {
             "player": "Haaland",
@@ -6148,7 +6148,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 45,
+          "minutes": 51,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -6193,17 +6193,17 @@
           "player_id": 15,
           "team": "ARS",
           "position": 7,
-          "raw_points": 2,
+          "raw_points": 1,
           "multiplier": 1,
-          "counted_points": 2,
+          "counted_points": 1,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 45,
+          "minutes": 51,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
-          "bonus": 1
+          "bonus": 0
         },
         {
           "player": "Groß",
@@ -6458,8 +6458,8 @@
       "manager": "Matthew Shaw",
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
-      "total_points": 546,
-      "overall_rank": 6629732,
+      "total_points": 545,
+      "overall_rank": 6671828,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -6473,8 +6473,8 @@
       },
       "vice_captain": {
         "player": "Ødegaard",
-        "raw_points": 2,
-        "minutes": 45
+        "raw_points": 1,
+        "minutes": 51
       },
       "active_chip": null,
       "live_summary": {
@@ -6504,7 +6504,7 @@
             "opponent": "NEW",
             "home": false,
             "kickoff_time": "2026-11-21T17:30:00Z",
-            "minutes": 45,
+            "minutes": 51,
             "points": 1,
             "counted_points": 1
           },
@@ -6532,7 +6532,7 @@
             "opponent": "NEW",
             "home": false,
             "kickoff_time": "2026-11-21T17:30:00Z",
-            "minutes": 45,
+            "minutes": 51,
             "points": 1,
             "counted_points": 1
           },
@@ -6546,9 +6546,9 @@
             "opponent": "NEW",
             "home": false,
             "kickoff_time": "2026-11-21T17:30:00Z",
-            "minutes": 45,
-            "points": 2,
-            "counted_points": 2
+            "minutes": 51,
+            "points": 1,
+            "counted_points": 1
           },
           {
             "player": "Evanilson",
@@ -6602,7 +6602,7 @@
             "opponent": "ARS",
             "home": true,
             "kickoff_time": "2026-11-21T17:30:00Z",
-            "minutes": 45,
+            "minutes": 51,
             "points": 1,
             "counted_points": 0
           },
@@ -7176,7 +7176,7 @@
           "captain_points": 2,
           "captain_minutes": 90,
           "vice_captain": "Ødegaard",
-          "vice_points": 2,
+          "vice_points": 1,
           "best_starting_player": "Calvert-Lewin",
           "best_starting_points": 9,
           "captain_points_missed_vs_best_starter": 7,
@@ -7223,7 +7223,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 45,
+          "minutes": 51,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -7310,7 +7310,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 45,
+          "minutes": 51,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -7344,7 +7344,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 45,
+          "minutes": 51,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -7372,17 +7372,17 @@
           "player_id": 15,
           "team": "ARS",
           "position": 6,
-          "raw_points": 2,
+          "raw_points": 1,
           "multiplier": 1,
-          "counted_points": 2,
+          "counted_points": 1,
           "captain": false,
           "vice_captain": true,
           "bench": false,
-          "minutes": 45,
+          "minutes": 51,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
-          "bonus": 1
+          "bonus": 0
         },
         {
           "player": "Schade",
@@ -7480,7 +7480,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 45,
+          "minutes": 51,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
