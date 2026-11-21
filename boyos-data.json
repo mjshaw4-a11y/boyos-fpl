@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-21T14:05:21.356Z",
+  "generated_at": "2026-11-21T14:10:35.470Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -282,8 +282,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 661,
-      "overall_rank": 683163,
+      "total_points": 662,
+      "overall_rank": 661793,
       "previous_boyos_rank": 1,
       "rank_change": 0
     },
@@ -295,8 +295,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 615,
-      "overall_rank": 2296147,
+      "total_points": 616,
+      "overall_rank": 2256994,
       "previous_boyos_rank": 2,
       "rank_change": 0
     },
@@ -308,8 +308,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 601,
-      "overall_rank": 2976014,
+      "total_points": 602,
+      "overall_rank": 2933405,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -322,7 +322,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 581,
-      "overall_rank": 4010048,
+      "overall_rank": 4017957,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -335,7 +335,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 518,
-      "overall_rank": 7187563,
+      "overall_rank": 7192123,
       "previous_boyos_rank": 5,
       "rank_change": 0
     }
@@ -354,9 +354,9 @@
           "opponent": "FUL",
           "home": true,
           "kickoff_time": "2026-11-21T12:30:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
+          "minutes": 2,
+          "points": 1,
+          "counted_points": 1
         },
         {
           "player": "Cherki",
@@ -368,7 +368,7 @@
           "opponent": "FUL",
           "home": true,
           "kickoff_time": "2026-11-21T12:30:00Z",
-          "minutes": 6,
+          "minutes": 10,
           "points": 1,
           "counted_points": 1
         },
@@ -382,7 +382,7 @@
           "opponent": "FUL",
           "home": true,
           "kickoff_time": "2026-11-21T12:30:00Z",
-          "minutes": 76,
+          "minutes": 80,
           "points": 2,
           "counted_points": 2
         }
@@ -577,7 +577,7 @@
           "opponent": "FUL",
           "home": true,
           "kickoff_time": "2026-11-21T12:30:00Z",
-          "minutes": 6,
+          "minutes": 10,
           "points": 1,
           "counted_points": 1
         },
@@ -591,9 +591,9 @@
           "opponent": "MCI",
           "home": false,
           "kickoff_time": "2026-11-21T12:30:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
+          "minutes": 2,
+          "points": 1,
+          "counted_points": 1
         },
         {
           "player": "Haaland",
@@ -605,7 +605,7 @@
           "opponent": "FUL",
           "home": true,
           "kickoff_time": "2026-11-21T12:30:00Z",
-          "minutes": 76,
+          "minutes": 80,
           "points": 2,
           "counted_points": 2
         },
@@ -619,8 +619,8 @@
           "opponent": "FUL",
           "home": true,
           "kickoff_time": "2026-11-21T12:30:00Z",
-          "minutes": 0,
-          "points": 0,
+          "minutes": 2,
+          "points": 1,
           "counted_points": 0
         }
       ],
@@ -800,9 +800,9 @@
           "opponent": "FUL",
           "home": true,
           "kickoff_time": "2026-11-21T12:30:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
+          "minutes": 2,
+          "points": 1,
+          "counted_points": 1
         },
         {
           "player": "Haaland",
@@ -814,7 +814,7 @@
           "opponent": "FUL",
           "home": true,
           "kickoff_time": "2026-11-21T12:30:00Z",
-          "minutes": 76,
+          "minutes": 80,
           "points": 2,
           "counted_points": 4
         }
@@ -1023,7 +1023,7 @@
           "opponent": "FUL",
           "home": true,
           "kickoff_time": "2026-11-21T12:30:00Z",
-          "minutes": 76,
+          "minutes": 77,
           "points": 2,
           "counted_points": 2
         },
@@ -1037,7 +1037,7 @@
           "opponent": "FUL",
           "home": true,
           "kickoff_time": "2026-11-21T12:30:00Z",
-          "minutes": 76,
+          "minutes": 80,
           "points": 2,
           "counted_points": 2
         }
@@ -1246,7 +1246,7 @@
           "opponent": "FUL",
           "home": true,
           "kickoff_time": "2026-11-21T12:30:00Z",
-          "minutes": 76,
+          "minutes": 80,
           "points": 2,
           "counted_points": 4
         },
@@ -1260,7 +1260,7 @@
           "opponent": "MCI",
           "home": false,
           "kickoff_time": "2026-11-21T12:30:00Z",
-          "minutes": 6,
+          "minutes": 10,
           "points": 1,
           "counted_points": 0
         }
@@ -1925,8 +1925,8 @@
       "manager": "Joe Burke",
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
-      "total_points": 661,
-      "overall_rank": 683163,
+      "total_points": 662,
+      "overall_rank": 661793,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -1941,7 +1941,7 @@
       "vice_captain": {
         "player": "Haaland",
         "raw_points": 2,
-        "minutes": 76
+        "minutes": 80
       },
       "active_chip": null,
       "live_summary": {
@@ -1957,9 +1957,9 @@
             "opponent": "FUL",
             "home": true,
             "kickoff_time": "2026-11-21T12:30:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
+            "minutes": 2,
+            "points": 1,
+            "counted_points": 1
           },
           {
             "player": "Cherki",
@@ -1971,7 +1971,7 @@
             "opponent": "FUL",
             "home": true,
             "kickoff_time": "2026-11-21T12:30:00Z",
-            "minutes": 6,
+            "minutes": 10,
             "points": 1,
             "counted_points": 1
           },
@@ -1985,7 +1985,7 @@
             "opponent": "FUL",
             "home": true,
             "kickoff_time": "2026-11-21T12:30:00Z",
-            "minutes": 76,
+            "minutes": 80,
             "points": 2,
             "counted_points": 2
           }
@@ -2941,13 +2941,13 @@
           "player_id": 391,
           "team": "MCI",
           "position": 4,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 1,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 2,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3015,7 +3015,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 6,
+          "minutes": 10,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3066,7 +3066,7 @@
           "captain": false,
           "vice_captain": true,
           "bench": false,
-          "minutes": 76,
+          "minutes": 80,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3267,8 +3267,8 @@
       "manager": "David Eyre",
       "entry_id": 5568090,
       "team_name": "Insufferable FC",
-      "total_points": 615,
-      "overall_rank": 2296147,
+      "total_points": 616,
+      "overall_rank": 2256994,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -3283,7 +3283,7 @@
       "vice_captain": {
         "player": "Haaland",
         "raw_points": 2,
-        "minutes": 76
+        "minutes": 80
       },
       "active_chip": null,
       "live_summary": {
@@ -3299,7 +3299,7 @@
             "opponent": "FUL",
             "home": true,
             "kickoff_time": "2026-11-21T12:30:00Z",
-            "minutes": 6,
+            "minutes": 10,
             "points": 1,
             "counted_points": 1
           },
@@ -3313,9 +3313,9 @@
             "opponent": "MCI",
             "home": false,
             "kickoff_time": "2026-11-21T12:30:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
+            "minutes": 2,
+            "points": 1,
+            "counted_points": 1
           },
           {
             "player": "Haaland",
@@ -3327,7 +3327,7 @@
             "opponent": "FUL",
             "home": true,
             "kickoff_time": "2026-11-21T12:30:00Z",
-            "minutes": 76,
+            "minutes": 80,
             "points": 2,
             "counted_points": 2
           },
@@ -3341,8 +3341,8 @@
             "opponent": "FUL",
             "home": true,
             "kickoff_time": "2026-11-21T12:30:00Z",
-            "minutes": 0,
-            "points": 0,
+            "minutes": 2,
+            "points": 1,
             "counted_points": 0
           }
         ],
@@ -4011,13 +4011,13 @@
           "player_id": 391,
           "team": "MCI",
           "position": 15,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 2,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4121,7 +4121,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 6,
+          "minutes": 10,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4166,13 +4166,13 @@
           "player_id": 569,
           "team": "FUL",
           "position": 9,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 1,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 2,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4189,7 +4189,7 @@
           "captain": false,
           "vice_captain": true,
           "bench": false,
-          "minutes": 76,
+          "minutes": 80,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4268,13 +4268,13 @@
           "player_id": 391,
           "team": "MCI",
           "position": 15,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 2,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4407,8 +4407,8 @@
       "manager": "Manny Jandu",
       "entry_id": 2368930,
       "team_name": "The Regent",
-      "total_points": 601,
-      "overall_rank": 2976014,
+      "total_points": 602,
+      "overall_rank": 2933405,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -4418,7 +4418,7 @@
         "player": "Haaland",
         "raw_points": 2,
         "counted_points": 4,
-        "minutes": 76
+        "minutes": 80
       },
       "vice_captain": {
         "player": "Isak",
@@ -4439,9 +4439,9 @@
             "opponent": "FUL",
             "home": true,
             "kickoff_time": "2026-11-21T12:30:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
+            "minutes": 2,
+            "points": 1,
+            "counted_points": 1
           },
           {
             "player": "Haaland",
@@ -4453,7 +4453,7 @@
             "opponent": "FUL",
             "home": true,
             "kickoff_time": "2026-11-21T12:30:00Z",
-            "minutes": 76,
+            "minutes": 80,
             "points": 2,
             "counted_points": 4
           }
@@ -5024,7 +5024,7 @@
           "gameweek": 11,
           "captain": "Haaland",
           "captain_points": 2,
-          "captain_minutes": 76,
+          "captain_minutes": 80,
           "vice_captain": "Isak",
           "vice_points": 0,
           "best_starting_player": "Haaland",
@@ -5176,13 +5176,13 @@
           "player_id": 391,
           "team": "MCI",
           "position": 3,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 1,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 2,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -5284,7 +5284,7 @@
           "captain": true,
           "vice_captain": false,
           "bench": false,
-          "minutes": 76,
+          "minutes": 80,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -5520,7 +5520,7 @@
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
       "total_points": 581,
-      "overall_rank": 4010048,
+      "overall_rank": 4017957,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -5535,7 +5535,7 @@
       "vice_captain": {
         "player": "Haaland",
         "raw_points": 2,
-        "minutes": 76
+        "minutes": 80
       },
       "active_chip": null,
       "live_summary": {
@@ -5551,7 +5551,7 @@
             "opponent": "FUL",
             "home": true,
             "kickoff_time": "2026-11-21T12:30:00Z",
-            "minutes": 76,
+            "minutes": 77,
             "points": 2,
             "counted_points": 2
           },
@@ -5565,7 +5565,7 @@
             "opponent": "FUL",
             "home": true,
             "kickoff_time": "2026-11-21T12:30:00Z",
-            "minutes": 76,
+            "minutes": 80,
             "points": 2,
             "counted_points": 2
           }
@@ -6165,7 +6165,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 76,
+          "minutes": 77,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -6233,7 +6233,7 @@
           "captain": false,
           "vice_captain": true,
           "bench": false,
-          "minutes": 76,
+          "minutes": 80,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -6459,7 +6459,7 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 518,
-      "overall_rank": 7187563,
+      "overall_rank": 7192123,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -6469,7 +6469,7 @@
         "player": "Haaland",
         "raw_points": 2,
         "counted_points": 4,
-        "minutes": 76
+        "minutes": 80
       },
       "vice_captain": {
         "player": "Ødegaard",
@@ -6490,7 +6490,7 @@
             "opponent": "FUL",
             "home": true,
             "kickoff_time": "2026-11-21T12:30:00Z",
-            "minutes": 76,
+            "minutes": 80,
             "points": 2,
             "counted_points": 4
           },
@@ -6504,7 +6504,7 @@
             "opponent": "MCI",
             "home": false,
             "kickoff_time": "2026-11-21T12:30:00Z",
-            "minutes": 6,
+            "minutes": 10,
             "points": 1,
             "counted_points": 0
           }
@@ -7174,7 +7174,7 @@
           "gameweek": 11,
           "captain": "Haaland",
           "captain_points": 2,
-          "captain_minutes": 76,
+          "captain_minutes": 80,
           "vice_captain": "Ødegaard",
           "vice_points": 0,
           "best_starting_player": "Haaland",
@@ -7240,7 +7240,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 6,
+          "minutes": 10,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -7446,7 +7446,7 @@
           "captain": true,
           "vice_captain": false,
           "bench": false,
-          "minutes": 76,
+          "minutes": 80,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -7497,7 +7497,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 6,
+          "minutes": 10,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
