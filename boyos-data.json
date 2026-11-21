@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-21T14:55:22.282Z",
+  "generated_at": "2026-11-21T15:00:54.397Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -359,6 +359,48 @@
           "counted_points": 1
         },
         {
+          "player": "Gibbs-White",
+          "team": "NFO",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "BOU",
+          "home": false,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Rudoni",
+          "team": "COV",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "CRY",
+          "home": true,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Rogers",
+          "team": "CHE",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "LEE",
+          "home": true,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
           "player": "Cherki",
           "team": "MCI",
           "bench": false,
@@ -373,6 +415,20 @@
           "counted_points": 1
         },
         {
+          "player": "N.Jackson",
+          "team": "AVL",
+          "bench": false,
+          "captain": true,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "SUN",
+          "home": true,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
           "player": "Haaland",
           "team": "MCI",
           "bench": false,
@@ -385,6 +441,20 @@
           "minutes": 90,
           "points": 2,
           "counted_points": 2
+        },
+        {
+          "player": "Trafford",
+          "team": "LEE",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "CHE",
+          "home": false,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
         }
       ],
       "still_to_play": [
@@ -431,62 +501,6 @@
           "counted_points": 0
         },
         {
-          "player": "Gibbs-White",
-          "team": "NFO",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "BOU",
-          "home": false,
-          "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Rudoni",
-          "team": "COV",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "CRY",
-          "home": true,
-          "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Rogers",
-          "team": "CHE",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "LEE",
-          "home": true,
-          "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "N.Jackson",
-          "team": "AVL",
-          "bench": false,
-          "captain": true,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "SUN",
-          "home": true,
-          "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
           "player": "Barry",
           "team": "EVE",
           "bench": false,
@@ -496,20 +510,6 @@
           "opponent": "BRE",
           "home": false,
           "kickoff_time": "2026-11-23T20:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Trafford",
-          "team": "LEE",
-          "bench": true,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "CHE",
-          "home": false,
-          "kickoff_time": "2026-11-21T15:00:00Z",
           "minutes": 0,
           "points": 0,
           "counted_points": 0
@@ -561,12 +561,26 @@
       "gameweek_points": 0,
       "bench_points": 0,
       "starters_played": 0,
-      "starters_playing_now": 3,
-      "starters_still_to_play": 8
+      "starters_playing_now": 7,
+      "starters_still_to_play": 4
     },
     "Dave": {
       "played": [],
       "playing_now": [
+        {
+          "player": "Manzambi",
+          "team": "AVL",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "SUN",
+          "home": true,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
         {
           "player": "Cherki",
           "team": "MCI",
@@ -580,6 +594,20 @@
           "minutes": 20,
           "points": 1,
           "counted_points": 1
+        },
+        {
+          "player": "Palmer",
+          "team": "CHE",
+          "bench": false,
+          "captain": true,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "LEE",
+          "home": true,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
         },
         {
           "player": "Gonzalo",
@@ -610,6 +638,48 @@
           "counted_points": 2
         },
         {
+          "player": "N.Jackson",
+          "team": "AVL",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "SUN",
+          "home": true,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Kinsky",
+          "team": "TOT",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "IPS",
+          "home": true,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Muharemović",
+          "team": "LEE",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "CHE",
+          "home": false,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
           "player": "Gvardiol",
           "team": "MCI",
           "bench": true,
@@ -682,34 +752,6 @@
           "counted_points": 0
         },
         {
-          "player": "Manzambi",
-          "team": "AVL",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "SUN",
-          "home": true,
-          "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Palmer",
-          "team": "CHE",
-          "bench": false,
-          "captain": true,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "LEE",
-          "home": true,
-          "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
           "player": "Groß",
           "team": "BHA",
           "bench": false,
@@ -719,48 +761,6 @@
           "opponent": "HUL",
           "home": false,
           "kickoff_time": "2026-11-22T14:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "N.Jackson",
-          "team": "AVL",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "SUN",
-          "home": true,
-          "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Kinsky",
-          "team": "TOT",
-          "bench": true,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "IPS",
-          "home": true,
-          "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Muharemović",
-          "team": "LEE",
-          "bench": true,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "CHE",
-          "home": false,
-          "kickoff_time": "2026-11-21T15:00:00Z",
           "minutes": 0,
           "points": 0,
           "counted_points": 0
@@ -784,12 +784,26 @@
       "gameweek_points": 0,
       "bench_points": 0,
       "starters_played": 0,
-      "starters_playing_now": 3,
-      "starters_still_to_play": 8
+      "starters_playing_now": 6,
+      "starters_still_to_play": 5
     },
     "Manny": {
       "played": [],
       "playing_now": [
+        {
+          "player": "Silva",
+          "team": "BOU",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "NFO",
+          "home": true,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
         {
           "player": "Gvardiol",
           "team": "MCI",
@@ -805,6 +819,34 @@
           "counted_points": 1
         },
         {
+          "player": "Palmer",
+          "team": "CHE",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "LEE",
+          "home": true,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Rogers",
+          "team": "CHE",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "LEE",
+          "home": true,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
           "player": "Haaland",
           "team": "MCI",
           "bench": false,
@@ -817,6 +859,62 @@
           "minutes": 90,
           "points": 2,
           "counted_points": 4
+        },
+        {
+          "player": "N.Jackson",
+          "team": "AVL",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "SUN",
+          "home": true,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Kinsky",
+          "team": "TOT",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "IPS",
+          "home": true,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Diop",
+          "team": "IPS",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "TOT",
+          "home": false,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Hughes",
+          "team": "CRY",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "COV",
+          "home": false,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
         }
       ],
       "still_to_play": [
@@ -830,20 +928,6 @@
           "opponent": "HUL",
           "home": false,
           "kickoff_time": "2026-11-22T14:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Silva",
-          "team": "BOU",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "NFO",
-          "home": true,
-          "kickoff_time": "2026-11-21T15:00:00Z",
           "minutes": 0,
           "points": 0,
           "counted_points": 0
@@ -877,20 +961,6 @@
           "counted_points": 0
         },
         {
-          "player": "Palmer",
-          "team": "CHE",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "LEE",
-          "home": true,
-          "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
           "player": "Groß",
           "team": "BHA",
           "bench": false,
@@ -900,34 +970,6 @@
           "opponent": "HUL",
           "home": false,
           "kickoff_time": "2026-11-22T14:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Rogers",
-          "team": "CHE",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "LEE",
-          "home": true,
-          "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "N.Jackson",
-          "team": "AVL",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "SUN",
-          "home": true,
-          "kickoff_time": "2026-11-21T15:00:00Z",
           "minutes": 0,
           "points": 0,
           "counted_points": 0
@@ -947,34 +989,6 @@
           "counted_points": 0
         },
         {
-          "player": "Kinsky",
-          "team": "TOT",
-          "bench": true,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "IPS",
-          "home": true,
-          "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Diop",
-          "team": "IPS",
-          "bench": true,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "TOT",
-          "home": false,
-          "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
           "player": "M.Sangaré",
           "team": "BRE",
           "bench": true,
@@ -987,32 +1001,46 @@
           "minutes": 0,
           "points": 0,
           "counted_points": 0
-        },
-        {
-          "player": "Hughes",
-          "team": "CRY",
-          "bench": true,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "COV",
-          "home": false,
-          "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
         }
       ],
       "captain": "Haaland",
       "gameweek_points": 0,
       "bench_points": 0,
       "starters_played": 0,
-      "starters_playing_now": 2,
-      "starters_still_to_play": 9
+      "starters_playing_now": 6,
+      "starters_still_to_play": 5
     },
     "Ben": {
       "played": [],
       "playing_now": [
+        {
+          "player": "Trafford",
+          "team": "LEE",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "CHE",
+          "home": false,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Hill",
+          "team": "BOU",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "NFO",
+          "home": true,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
         {
           "player": "O'Reilly",
           "team": "MCI",
@@ -1028,6 +1056,20 @@
           "counted_points": 2
         },
         {
+          "player": "Rogers",
+          "team": "CHE",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "LEE",
+          "home": true,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
           "player": "Haaland",
           "team": "MCI",
           "bench": false,
@@ -1040,16 +1082,28 @@
           "minutes": 90,
           "points": 2,
           "counted_points": 2
-        }
-      ],
-      "still_to_play": [
+        },
         {
-          "player": "Trafford",
-          "team": "LEE",
+          "player": "N.Jackson",
+          "team": "AVL",
           "bench": false,
+          "captain": true,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "SUN",
+          "home": true,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Rodon",
+          "team": "LEE",
+          "bench": true,
           "captain": false,
           "vice_captain": false,
-          "status": "to_play",
+          "status": "playing",
           "opponent": "CHE",
           "home": false,
           "kickoff_time": "2026-11-21T15:00:00Z",
@@ -1057,6 +1111,22 @@
           "points": 0,
           "counted_points": 0
         },
+        {
+          "player": "Stach",
+          "team": "LEE",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "CHE",
+          "home": false,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        }
+      ],
+      "still_to_play": [
         {
           "player": "De Cuyper",
           "team": "BHA",
@@ -1072,20 +1142,6 @@
           "counted_points": 0
         },
         {
-          "player": "Hill",
-          "team": "BOU",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "NFO",
-          "home": true,
-          "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
           "player": "Konsa",
           "team": "ARS",
           "bench": false,
@@ -1095,20 +1151,6 @@
           "opponent": "NEW",
           "home": false,
           "kickoff_time": "2026-11-21T17:30:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Rogers",
-          "team": "CHE",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "LEE",
-          "home": true,
-          "kickoff_time": "2026-11-21T15:00:00Z",
           "minutes": 0,
           "points": 0,
           "counted_points": 0
@@ -1137,20 +1179,6 @@
           "opponent": "HUL",
           "home": false,
           "kickoff_time": "2026-11-22T14:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "N.Jackson",
-          "team": "AVL",
-          "bench": false,
-          "captain": true,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "SUN",
-          "home": true,
-          "kickoff_time": "2026-11-21T15:00:00Z",
           "minutes": 0,
           "points": 0,
           "counted_points": 0
@@ -1196,46 +1224,60 @@
           "minutes": 0,
           "points": 0,
           "counted_points": 0
-        },
-        {
-          "player": "Rodon",
-          "team": "LEE",
-          "bench": true,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "CHE",
-          "home": false,
-          "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Stach",
-          "team": "LEE",
-          "bench": true,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "CHE",
-          "home": false,
-          "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
         }
       ],
       "captain": "N.Jackson",
       "gameweek_points": 0,
       "bench_points": 0,
       "starters_played": 0,
-      "starters_playing_now": 2,
-      "starters_still_to_play": 9
+      "starters_playing_now": 6,
+      "starters_still_to_play": 5
     },
     "Curlo": {
       "played": [],
       "playing_now": [
+        {
+          "player": "Kinsky",
+          "team": "TOT",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "IPS",
+          "home": true,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Muharemović",
+          "team": "LEE",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "CHE",
+          "home": false,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "Evanilson",
+          "team": "BOU",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "NFO",
+          "home": true,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
         {
           "player": "Haaland",
           "team": "MCI",
@@ -1251,6 +1293,20 @@
           "counted_points": 4
         },
         {
+          "player": "Calvert-Lewin",
+          "team": "LEE",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "CHE",
+          "home": false,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
           "player": "Robinson",
           "team": "FUL",
           "bench": true,
@@ -1263,23 +1319,37 @@
           "minutes": 20,
           "points": 1,
           "counted_points": 0
-        }
-      ],
-      "still_to_play": [
+        },
         {
-          "player": "Kinsky",
-          "team": "TOT",
-          "bench": false,
+          "player": "N.Williams",
+          "team": "NFO",
+          "bench": true,
           "captain": false,
           "vice_captain": false,
-          "status": "to_play",
-          "opponent": "IPS",
-          "home": true,
+          "status": "playing",
+          "opponent": "BOU",
+          "home": false,
           "kickoff_time": "2026-11-21T15:00:00Z",
           "minutes": 0,
           "points": 0,
           "counted_points": 0
         },
+        {
+          "player": "Stach",
+          "team": "LEE",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "CHE",
+          "home": false,
+          "kickoff_time": "2026-11-21T15:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        }
+      ],
+      "still_to_play": [
         {
           "player": "Calafiori",
           "team": "ARS",
@@ -1290,20 +1360,6 @@
           "opponent": "NEW",
           "home": false,
           "kickoff_time": "2026-11-21T17:30:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Muharemović",
-          "team": "LEE",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "CHE",
-          "home": false,
-          "kickoff_time": "2026-11-21T15:00:00Z",
           "minutes": 0,
           "points": 0,
           "counted_points": 0
@@ -1379,34 +1435,6 @@
           "counted_points": 0
         },
         {
-          "player": "Evanilson",
-          "team": "BOU",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "NFO",
-          "home": true,
-          "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Calvert-Lewin",
-          "team": "LEE",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "CHE",
-          "home": false,
-          "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
           "player": "Horníček",
           "team": "NEW",
           "bench": true,
@@ -1419,42 +1447,14 @@
           "minutes": 0,
           "points": 0,
           "counted_points": 0
-        },
-        {
-          "player": "N.Williams",
-          "team": "NFO",
-          "bench": true,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "BOU",
-          "home": false,
-          "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Stach",
-          "team": "LEE",
-          "bench": true,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "CHE",
-          "home": false,
-          "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
         }
       ],
       "captain": "Haaland",
       "gameweek_points": 0,
       "bench_points": 0,
       "starters_played": 0,
-      "starters_playing_now": 1,
-      "starters_still_to_play": 10
+      "starters_playing_now": 5,
+      "starters_still_to_play": 6
     }
   },
   "league_insights": {
@@ -1962,6 +1962,48 @@
             "counted_points": 1
           },
           {
+            "player": "Gibbs-White",
+            "team": "NFO",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "BOU",
+            "home": false,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Rudoni",
+            "team": "COV",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "CRY",
+            "home": true,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Rogers",
+            "team": "CHE",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "LEE",
+            "home": true,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
             "player": "Cherki",
             "team": "MCI",
             "bench": false,
@@ -1976,6 +2018,20 @@
             "counted_points": 1
           },
           {
+            "player": "N.Jackson",
+            "team": "AVL",
+            "bench": false,
+            "captain": true,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "SUN",
+            "home": true,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
             "player": "Haaland",
             "team": "MCI",
             "bench": false,
@@ -1988,6 +2044,20 @@
             "minutes": 90,
             "points": 2,
             "counted_points": 2
+          },
+          {
+            "player": "Trafford",
+            "team": "LEE",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "CHE",
+            "home": false,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
           }
         ],
         "still_to_play": [
@@ -2034,62 +2104,6 @@
             "counted_points": 0
           },
           {
-            "player": "Gibbs-White",
-            "team": "NFO",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "BOU",
-            "home": false,
-            "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Rudoni",
-            "team": "COV",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "CRY",
-            "home": true,
-            "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Rogers",
-            "team": "CHE",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "LEE",
-            "home": true,
-            "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "N.Jackson",
-            "team": "AVL",
-            "bench": false,
-            "captain": true,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "SUN",
-            "home": true,
-            "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
             "player": "Barry",
             "team": "EVE",
             "bench": false,
@@ -2099,20 +2113,6 @@
             "opponent": "BRE",
             "home": false,
             "kickoff_time": "2026-11-23T20:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Trafford",
-            "team": "LEE",
-            "bench": true,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "CHE",
-            "home": false,
-            "kickoff_time": "2026-11-21T15:00:00Z",
             "minutes": 0,
             "points": 0,
             "counted_points": 0
@@ -2164,8 +2164,8 @@
         "gameweek_points": 0,
         "bench_points": 0,
         "starters_played": 0,
-        "starters_playing_now": 3,
-        "starters_still_to_play": 8
+        "starters_playing_now": 7,
+        "starters_still_to_play": 4
       },
       "transfers": [
         {
@@ -3290,6 +3290,20 @@
         "played": [],
         "playing_now": [
           {
+            "player": "Manzambi",
+            "team": "AVL",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "SUN",
+            "home": true,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
             "player": "Cherki",
             "team": "MCI",
             "bench": false,
@@ -3302,6 +3316,20 @@
             "minutes": 20,
             "points": 1,
             "counted_points": 1
+          },
+          {
+            "player": "Palmer",
+            "team": "CHE",
+            "bench": false,
+            "captain": true,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "LEE",
+            "home": true,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
           },
           {
             "player": "Gonzalo",
@@ -3330,6 +3358,48 @@
             "minutes": 90,
             "points": 2,
             "counted_points": 2
+          },
+          {
+            "player": "N.Jackson",
+            "team": "AVL",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "SUN",
+            "home": true,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Kinsky",
+            "team": "TOT",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "IPS",
+            "home": true,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Muharemović",
+            "team": "LEE",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "CHE",
+            "home": false,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
           },
           {
             "player": "Gvardiol",
@@ -3404,34 +3474,6 @@
             "counted_points": 0
           },
           {
-            "player": "Manzambi",
-            "team": "AVL",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "SUN",
-            "home": true,
-            "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Palmer",
-            "team": "CHE",
-            "bench": false,
-            "captain": true,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "LEE",
-            "home": true,
-            "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
             "player": "Groß",
             "team": "BHA",
             "bench": false,
@@ -3441,48 +3483,6 @@
             "opponent": "HUL",
             "home": false,
             "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "N.Jackson",
-            "team": "AVL",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "SUN",
-            "home": true,
-            "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Kinsky",
-            "team": "TOT",
-            "bench": true,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "IPS",
-            "home": true,
-            "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Muharemović",
-            "team": "LEE",
-            "bench": true,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "CHE",
-            "home": false,
-            "kickoff_time": "2026-11-21T15:00:00Z",
             "minutes": 0,
             "points": 0,
             "counted_points": 0
@@ -3506,8 +3506,8 @@
         "gameweek_points": 0,
         "bench_points": 0,
         "starters_played": 0,
-        "starters_playing_now": 3,
-        "starters_still_to_play": 8
+        "starters_playing_now": 6,
+        "starters_still_to_play": 5
       },
       "transfers": [],
       "transfer_history": [
@@ -4430,6 +4430,20 @@
         "played": [],
         "playing_now": [
           {
+            "player": "Silva",
+            "team": "BOU",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "NFO",
+            "home": true,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
             "player": "Gvardiol",
             "team": "MCI",
             "bench": false,
@@ -4444,6 +4458,34 @@
             "counted_points": 1
           },
           {
+            "player": "Palmer",
+            "team": "CHE",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "LEE",
+            "home": true,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Rogers",
+            "team": "CHE",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "LEE",
+            "home": true,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
             "player": "Haaland",
             "team": "MCI",
             "bench": false,
@@ -4456,6 +4498,62 @@
             "minutes": 90,
             "points": 2,
             "counted_points": 4
+          },
+          {
+            "player": "N.Jackson",
+            "team": "AVL",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "SUN",
+            "home": true,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Kinsky",
+            "team": "TOT",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "IPS",
+            "home": true,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Diop",
+            "team": "IPS",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "TOT",
+            "home": false,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Hughes",
+            "team": "CRY",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "COV",
+            "home": false,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
           }
         ],
         "still_to_play": [
@@ -4469,20 +4567,6 @@
             "opponent": "HUL",
             "home": false,
             "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Silva",
-            "team": "BOU",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "NFO",
-            "home": true,
-            "kickoff_time": "2026-11-21T15:00:00Z",
             "minutes": 0,
             "points": 0,
             "counted_points": 0
@@ -4516,20 +4600,6 @@
             "counted_points": 0
           },
           {
-            "player": "Palmer",
-            "team": "CHE",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "LEE",
-            "home": true,
-            "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
             "player": "Groß",
             "team": "BHA",
             "bench": false,
@@ -4539,34 +4609,6 @@
             "opponent": "HUL",
             "home": false,
             "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Rogers",
-            "team": "CHE",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "LEE",
-            "home": true,
-            "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "N.Jackson",
-            "team": "AVL",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "SUN",
-            "home": true,
-            "kickoff_time": "2026-11-21T15:00:00Z",
             "minutes": 0,
             "points": 0,
             "counted_points": 0
@@ -4586,34 +4628,6 @@
             "counted_points": 0
           },
           {
-            "player": "Kinsky",
-            "team": "TOT",
-            "bench": true,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "IPS",
-            "home": true,
-            "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Diop",
-            "team": "IPS",
-            "bench": true,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "TOT",
-            "home": false,
-            "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
             "player": "M.Sangaré",
             "team": "BRE",
             "bench": true,
@@ -4626,28 +4640,14 @@
             "minutes": 0,
             "points": 0,
             "counted_points": 0
-          },
-          {
-            "player": "Hughes",
-            "team": "CRY",
-            "bench": true,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "COV",
-            "home": false,
-            "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
           }
         ],
         "captain": "Haaland",
         "gameweek_points": 0,
         "bench_points": 0,
         "starters_played": 0,
-        "starters_playing_now": 2,
-        "starters_still_to_play": 9
+        "starters_playing_now": 6,
+        "starters_still_to_play": 5
       },
       "transfers": [],
       "transfer_history": [
@@ -5542,6 +5542,34 @@
         "played": [],
         "playing_now": [
           {
+            "player": "Trafford",
+            "team": "LEE",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "CHE",
+            "home": false,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Hill",
+            "team": "BOU",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "NFO",
+            "home": true,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
             "player": "O'Reilly",
             "team": "MCI",
             "bench": false,
@@ -5556,6 +5584,20 @@
             "counted_points": 2
           },
           {
+            "player": "Rogers",
+            "team": "CHE",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "LEE",
+            "home": true,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
             "player": "Haaland",
             "team": "MCI",
             "bench": false,
@@ -5568,16 +5610,28 @@
             "minutes": 90,
             "points": 2,
             "counted_points": 2
-          }
-        ],
-        "still_to_play": [
+          },
           {
-            "player": "Trafford",
-            "team": "LEE",
+            "player": "N.Jackson",
+            "team": "AVL",
             "bench": false,
+            "captain": true,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "SUN",
+            "home": true,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Rodon",
+            "team": "LEE",
+            "bench": true,
             "captain": false,
             "vice_captain": false,
-            "status": "to_play",
+            "status": "playing",
             "opponent": "CHE",
             "home": false,
             "kickoff_time": "2026-11-21T15:00:00Z",
@@ -5585,6 +5639,22 @@
             "points": 0,
             "counted_points": 0
           },
+          {
+            "player": "Stach",
+            "team": "LEE",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "CHE",
+            "home": false,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          }
+        ],
+        "still_to_play": [
           {
             "player": "De Cuyper",
             "team": "BHA",
@@ -5600,20 +5670,6 @@
             "counted_points": 0
           },
           {
-            "player": "Hill",
-            "team": "BOU",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "NFO",
-            "home": true,
-            "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
             "player": "Konsa",
             "team": "ARS",
             "bench": false,
@@ -5623,20 +5679,6 @@
             "opponent": "NEW",
             "home": false,
             "kickoff_time": "2026-11-21T17:30:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Rogers",
-            "team": "CHE",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "LEE",
-            "home": true,
-            "kickoff_time": "2026-11-21T15:00:00Z",
             "minutes": 0,
             "points": 0,
             "counted_points": 0
@@ -5665,20 +5707,6 @@
             "opponent": "HUL",
             "home": false,
             "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "N.Jackson",
-            "team": "AVL",
-            "bench": false,
-            "captain": true,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "SUN",
-            "home": true,
-            "kickoff_time": "2026-11-21T15:00:00Z",
             "minutes": 0,
             "points": 0,
             "counted_points": 0
@@ -5724,42 +5752,14 @@
             "minutes": 0,
             "points": 0,
             "counted_points": 0
-          },
-          {
-            "player": "Rodon",
-            "team": "LEE",
-            "bench": true,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "CHE",
-            "home": false,
-            "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Stach",
-            "team": "LEE",
-            "bench": true,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "CHE",
-            "home": false,
-            "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
           }
         ],
         "captain": "N.Jackson",
         "gameweek_points": 0,
         "bench_points": 0,
         "starters_played": 0,
-        "starters_playing_now": 2,
-        "starters_still_to_play": 9
+        "starters_playing_now": 6,
+        "starters_still_to_play": 5
       },
       "transfers": [],
       "transfer_history": [
@@ -6481,6 +6481,48 @@
         "played": [],
         "playing_now": [
           {
+            "player": "Kinsky",
+            "team": "TOT",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "IPS",
+            "home": true,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Muharemović",
+            "team": "LEE",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "CHE",
+            "home": false,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "Evanilson",
+            "team": "BOU",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "NFO",
+            "home": true,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
             "player": "Haaland",
             "team": "MCI",
             "bench": false,
@@ -6495,6 +6537,20 @@
             "counted_points": 4
           },
           {
+            "player": "Calvert-Lewin",
+            "team": "LEE",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "CHE",
+            "home": false,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
             "player": "Robinson",
             "team": "FUL",
             "bench": true,
@@ -6507,23 +6563,37 @@
             "minutes": 20,
             "points": 1,
             "counted_points": 0
-          }
-        ],
-        "still_to_play": [
+          },
           {
-            "player": "Kinsky",
-            "team": "TOT",
-            "bench": false,
+            "player": "N.Williams",
+            "team": "NFO",
+            "bench": true,
             "captain": false,
             "vice_captain": false,
-            "status": "to_play",
-            "opponent": "IPS",
-            "home": true,
+            "status": "playing",
+            "opponent": "BOU",
+            "home": false,
             "kickoff_time": "2026-11-21T15:00:00Z",
             "minutes": 0,
             "points": 0,
             "counted_points": 0
           },
+          {
+            "player": "Stach",
+            "team": "LEE",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "CHE",
+            "home": false,
+            "kickoff_time": "2026-11-21T15:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          }
+        ],
+        "still_to_play": [
           {
             "player": "Calafiori",
             "team": "ARS",
@@ -6534,20 +6604,6 @@
             "opponent": "NEW",
             "home": false,
             "kickoff_time": "2026-11-21T17:30:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Muharemović",
-            "team": "LEE",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "CHE",
-            "home": false,
-            "kickoff_time": "2026-11-21T15:00:00Z",
             "minutes": 0,
             "points": 0,
             "counted_points": 0
@@ -6623,34 +6679,6 @@
             "counted_points": 0
           },
           {
-            "player": "Evanilson",
-            "team": "BOU",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "NFO",
-            "home": true,
-            "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Calvert-Lewin",
-            "team": "LEE",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "CHE",
-            "home": false,
-            "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
             "player": "Horníček",
             "team": "NEW",
             "bench": true,
@@ -6663,42 +6691,14 @@
             "minutes": 0,
             "points": 0,
             "counted_points": 0
-          },
-          {
-            "player": "N.Williams",
-            "team": "NFO",
-            "bench": true,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "BOU",
-            "home": false,
-            "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Stach",
-            "team": "LEE",
-            "bench": true,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "CHE",
-            "home": false,
-            "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
           }
         ],
         "captain": "Haaland",
         "gameweek_points": 0,
         "bench_points": 0,
         "starters_played": 0,
-        "starters_playing_now": 1,
-        "starters_still_to_play": 10
+        "starters_playing_now": 5,
+        "starters_still_to_play": 6
       },
       "transfers": [
         {
