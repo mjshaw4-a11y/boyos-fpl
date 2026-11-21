@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-21T16:20:27.530Z",
+  "generated_at": "2026-11-21T16:25:20.906Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -282,8 +282,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 679,
-      "overall_rank": 605533,
+      "total_points": 682,
+      "overall_rank": 675521,
       "previous_boyos_rank": 1,
       "rank_change": 0
     },
@@ -295,8 +295,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 621,
-      "overall_rank": 2622290,
+      "total_points": 623,
+      "overall_rank": 2729798,
       "previous_boyos_rank": 2,
       "rank_change": 0
     },
@@ -308,8 +308,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 610,
-      "overall_rank": 3153622,
+      "total_points": 621,
+      "overall_rank": 2829310,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -321,8 +321,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 596,
-      "overall_rank": 3843080,
+      "total_points": 606,
+      "overall_rank": 3538749,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -334,8 +334,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 537,
-      "overall_rank": 6749591,
+      "total_points": 544,
+      "overall_rank": 6590899,
       "previous_boyos_rank": 5,
       "rank_change": 0
     }
@@ -368,9 +368,9 @@
           "opponent": "BOU",
           "home": false,
           "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 58,
-          "points": 1,
-          "counted_points": 1
+          "minutes": 64,
+          "points": 2,
+          "counted_points": 2
         },
         {
           "player": "Rudoni",
@@ -382,9 +382,9 @@
           "opponent": "CRY",
           "home": true,
           "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 56,
-          "points": 8,
-          "counted_points": 8
+          "minutes": 61,
+          "points": 9,
+          "counted_points": 9
         },
         {
           "player": "Rogers",
@@ -396,9 +396,9 @@
           "opponent": "LEE",
           "home": true,
           "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 57,
-          "points": 4,
-          "counted_points": 4
+          "minutes": 61,
+          "points": 5,
+          "counted_points": 5
         },
         {
           "player": "Cherki",
@@ -424,7 +424,7 @@
           "opponent": "SUN",
           "home": true,
           "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 61,
+          "minutes": 66,
           "points": 2,
           "counted_points": 4
         },
@@ -452,8 +452,8 @@
           "opponent": "CHE",
           "home": false,
           "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 57,
-          "points": 1,
+          "minutes": 61,
+          "points": 2,
           "counted_points": 0
         }
       ],
@@ -605,9 +605,9 @@
           "opponent": "LEE",
           "home": true,
           "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 57,
-          "points": 1,
-          "counted_points": 2
+          "minutes": 61,
+          "points": 2,
+          "counted_points": 4
         },
         {
           "player": "Gonzalo",
@@ -647,7 +647,7 @@
           "opponent": "SUN",
           "home": true,
           "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 61,
+          "minutes": 66,
           "points": 2,
           "counted_points": 2
         },
@@ -661,8 +661,8 @@
           "opponent": "IPS",
           "home": true,
           "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 59,
-          "points": 2,
+          "minutes": 65,
+          "points": 7,
           "counted_points": 0
         },
         {
@@ -675,8 +675,8 @@
           "opponent": "CHE",
           "home": false,
           "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 57,
-          "points": 1,
+          "minutes": 61,
+          "points": 2,
           "counted_points": 0
         },
         {
@@ -800,9 +800,9 @@
           "opponent": "NFO",
           "home": true,
           "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 58,
-          "points": 1,
-          "counted_points": 1
+          "minutes": 64,
+          "points": 10,
+          "counted_points": 10
         },
         {
           "player": "Gvardiol",
@@ -828,9 +828,9 @@
           "opponent": "LEE",
           "home": true,
           "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 57,
-          "points": 1,
-          "counted_points": 1
+          "minutes": 61,
+          "points": 2,
+          "counted_points": 2
         },
         {
           "player": "Rogers",
@@ -842,9 +842,9 @@
           "opponent": "LEE",
           "home": true,
           "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 57,
-          "points": 4,
-          "counted_points": 4
+          "minutes": 61,
+          "points": 5,
+          "counted_points": 5
         },
         {
           "player": "Haaland",
@@ -870,7 +870,7 @@
           "opponent": "SUN",
           "home": true,
           "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 61,
+          "minutes": 66,
           "points": 2,
           "counted_points": 2
         },
@@ -884,8 +884,8 @@
           "opponent": "IPS",
           "home": true,
           "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 59,
-          "points": 2,
+          "minutes": 65,
+          "points": 7,
           "counted_points": 0
         },
         {
@@ -898,8 +898,8 @@
           "opponent": "TOT",
           "home": false,
           "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 59,
-          "points": 0,
+          "minutes": 65,
+          "points": 1,
           "counted_points": 0
         },
         {
@@ -1023,9 +1023,9 @@
           "opponent": "CHE",
           "home": false,
           "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 57,
-          "points": 1,
-          "counted_points": 1
+          "minutes": 61,
+          "points": 2,
+          "counted_points": 2
         },
         {
           "player": "Hill",
@@ -1037,9 +1037,9 @@
           "opponent": "NFO",
           "home": true,
           "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 58,
-          "points": 6,
-          "counted_points": 6
+          "minutes": 64,
+          "points": 14,
+          "counted_points": 14
         },
         {
           "player": "O'Reilly",
@@ -1065,9 +1065,9 @@
           "opponent": "LEE",
           "home": true,
           "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 57,
-          "points": 4,
-          "counted_points": 4
+          "minutes": 61,
+          "points": 5,
+          "counted_points": 5
         },
         {
           "player": "Haaland",
@@ -1093,7 +1093,7 @@
           "opponent": "SUN",
           "home": true,
           "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 61,
+          "minutes": 66,
           "points": 2,
           "counted_points": 4
         },
@@ -1246,9 +1246,9 @@
           "opponent": "IPS",
           "home": true,
           "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 59,
-          "points": 2,
-          "counted_points": 2
+          "minutes": 65,
+          "points": 7,
+          "counted_points": 7
         },
         {
           "player": "Muharemović",
@@ -1260,9 +1260,9 @@
           "opponent": "CHE",
           "home": false,
           "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 57,
-          "points": 1,
-          "counted_points": 1
+          "minutes": 61,
+          "points": 2,
+          "counted_points": 2
         },
         {
           "player": "Evanilson",
@@ -1274,7 +1274,7 @@
           "opponent": "NFO",
           "home": true,
           "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 58,
+          "minutes": 64,
           "points": 7,
           "counted_points": 7
         },
@@ -1302,9 +1302,9 @@
           "opponent": "CHE",
           "home": false,
           "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 57,
-          "points": 9,
-          "counted_points": 9
+          "minutes": 61,
+          "points": 10,
+          "counted_points": 10
         },
         {
           "player": "Robinson",
@@ -1330,8 +1330,8 @@
           "opponent": "BOU",
           "home": false,
           "kickoff_time": "2026-11-21T15:00:00Z",
-          "minutes": 58,
-          "points": 0,
+          "minutes": 64,
+          "points": 1,
           "counted_points": 0
         },
         {
@@ -1571,45 +1571,45 @@
     "captain_efficiency": [
       {
         "name": "Ben",
-        "value": 65.9
+        "value": 61.8
       },
       {
         "name": "Dave",
-        "value": 52.9
+        "value": 53.8
       },
       {
         "name": "Manny",
-        "value": 51.5
+        "value": 49.3
       },
       {
         "name": "Joe",
-        "value": 44.3
+        "value": 43.9
       },
       {
         "name": "Curlo",
-        "value": 43.2
+        "value": 42.9
       }
     ],
     "captain_regret": [
       {
         "name": "Joe",
-        "value": 73
-      },
-      {
-        "name": "Curlo",
-        "value": 67
+        "value": 74
       },
       {
         "name": "Manny",
-        "value": 64
+        "value": 70
+      },
+      {
+        "name": "Curlo",
+        "value": 68
       },
       {
         "name": "Dave",
-        "value": 56
+        "value": 55
       },
       {
         "name": "Ben",
-        "value": 42
+        "value": 50
       }
     ],
     "weekly_wins": [
@@ -1925,8 +1925,8 @@
       "manager": "Joe Burke",
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
-      "total_points": 679,
-      "overall_rank": 605533,
+      "total_points": 682,
+      "overall_rank": 675521,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -1936,7 +1936,7 @@
         "player": "N.Jackson",
         "raw_points": 2,
         "counted_points": 4,
-        "minutes": 61
+        "minutes": 66
       },
       "vice_captain": {
         "player": "Haaland",
@@ -1971,9 +1971,9 @@
             "opponent": "BOU",
             "home": false,
             "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 58,
-            "points": 1,
-            "counted_points": 1
+            "minutes": 64,
+            "points": 2,
+            "counted_points": 2
           },
           {
             "player": "Rudoni",
@@ -1985,9 +1985,9 @@
             "opponent": "CRY",
             "home": true,
             "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 56,
-            "points": 8,
-            "counted_points": 8
+            "minutes": 61,
+            "points": 9,
+            "counted_points": 9
           },
           {
             "player": "Rogers",
@@ -1999,9 +1999,9 @@
             "opponent": "LEE",
             "home": true,
             "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 57,
-            "points": 4,
-            "counted_points": 4
+            "minutes": 61,
+            "points": 5,
+            "counted_points": 5
           },
           {
             "player": "Cherki",
@@ -2027,7 +2027,7 @@
             "opponent": "SUN",
             "home": true,
             "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 61,
+            "minutes": 66,
             "points": 2,
             "counted_points": 4
           },
@@ -2055,8 +2055,8 @@
             "opponent": "CHE",
             "home": false,
             "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 57,
-            "points": 1,
+            "minutes": 61,
+            "points": 2,
             "counted_points": 0
           }
         ],
@@ -2174,7 +2174,7 @@
           "in": "N.Jackson",
           "in_id": 166,
           "in_points": 2,
-          "in_minutes": 61,
+          "in_minutes": 66,
           "out": "João Pedro",
           "out_id": 165,
           "out_points": 0,
@@ -2624,7 +2624,7 @@
           "in": "N.Jackson",
           "in_id": 166,
           "in_points": 2,
-          "in_minutes": 61,
+          "in_minutes": 66,
           "out": "João Pedro",
           "out_id": 165,
           "out_points": 0,
@@ -2767,12 +2767,12 @@
           "gameweek": 11,
           "captain": "N.Jackson",
           "captain_points": 2,
-          "captain_minutes": 61,
+          "captain_minutes": 66,
           "vice_captain": "Haaland",
           "vice_points": 2,
           "best_starting_player": "Rudoni",
-          "best_starting_points": 8,
-          "captain_points_missed_vs_best_starter": 6,
+          "best_starting_points": 9,
+          "captain_points_missed_vs_best_starter": 7,
           "chip": null
         }
       ],
@@ -2794,8 +2794,8 @@
         "total_bench_points": 97,
         "average_bench_points": 8.8,
         "captain_raw_points": 58,
-        "captain_efficiency_pct_vs_best_starter": 44.3,
-        "captain_points_missed_vs_best_starter": 73,
+        "captain_efficiency_pct_vs_best_starter": 43.9,
+        "captain_points_missed_vs_best_starter": 74,
         "chips_used": [
           {
             "name": "3xc",
@@ -2820,13 +2820,13 @@
           "player_id": 385,
           "team": "LEE",
           "position": 12,
-          "raw_points": 1,
+          "raw_points": 2,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 57,
+          "minutes": 61,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -2958,13 +2958,13 @@
           "player_id": 480,
           "team": "NFO",
           "position": 5,
-          "raw_points": 1,
+          "raw_points": 2,
           "multiplier": 1,
-          "counted_points": 1,
+          "counted_points": 2,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 58,
+          "minutes": 64,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -2975,13 +2975,13 @@
           "player_id": 183,
           "team": "COV",
           "position": 6,
-          "raw_points": 8,
+          "raw_points": 9,
           "multiplier": 1,
-          "counted_points": 8,
+          "counted_points": 9,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 56,
+          "minutes": 61,
           "goals": 0,
           "assists": 2,
           "clean_sheets": 0,
@@ -2992,13 +2992,13 @@
           "player_id": 40,
           "team": "CHE",
           "position": 7,
-          "raw_points": 4,
+          "raw_points": 5,
           "multiplier": 1,
-          "counted_points": 4,
+          "counted_points": 5,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 57,
+          "minutes": 61,
           "goals": 0,
           "assists": 1,
           "clean_sheets": 0,
@@ -3032,7 +3032,7 @@
           "captain": true,
           "vice_captain": false,
           "bench": false,
-          "minutes": 61,
+          "minutes": 66,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 1,
@@ -3077,13 +3077,13 @@
           "player_id": 385,
           "team": "LEE",
           "position": 12,
-          "raw_points": 1,
+          "raw_points": 2,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 57,
+          "minutes": 61,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3267,8 +3267,8 @@
       "manager": "David Eyre",
       "entry_id": 5568090,
       "team_name": "Insufferable FC",
-      "total_points": 621,
-      "overall_rank": 2622290,
+      "total_points": 623,
+      "overall_rank": 2729798,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -3276,9 +3276,9 @@
       "points_on_bench": 0,
       "captain": {
         "player": "Palmer",
-        "raw_points": 1,
-        "counted_points": 2,
-        "minutes": 57
+        "raw_points": 2,
+        "counted_points": 4,
+        "minutes": 61
       },
       "vice_captain": {
         "player": "Haaland",
@@ -3327,9 +3327,9 @@
             "opponent": "LEE",
             "home": true,
             "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 57,
-            "points": 1,
-            "counted_points": 2
+            "minutes": 61,
+            "points": 2,
+            "counted_points": 4
           },
           {
             "player": "Gonzalo",
@@ -3369,7 +3369,7 @@
             "opponent": "SUN",
             "home": true,
             "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 61,
+            "minutes": 66,
             "points": 2,
             "counted_points": 2
           },
@@ -3383,8 +3383,8 @@
             "opponent": "IPS",
             "home": true,
             "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 59,
-            "points": 2,
+            "minutes": 65,
+            "points": 7,
             "counted_points": 0
           },
           {
@@ -3397,8 +3397,8 @@
             "opponent": "CHE",
             "home": false,
             "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 57,
-            "points": 1,
+            "minutes": 61,
+            "points": 2,
             "counted_points": 0
           },
           {
@@ -3911,13 +3911,13 @@
         {
           "gameweek": 11,
           "captain": "Palmer",
-          "captain_points": 1,
-          "captain_minutes": 57,
+          "captain_points": 2,
+          "captain_minutes": 61,
           "vice_captain": "Haaland",
           "vice_points": 2,
-          "best_starting_player": "Haaland",
+          "best_starting_player": "Palmer",
           "best_starting_points": 2,
-          "captain_points_missed_vs_best_starter": 1,
+          "captain_points_missed_vs_best_starter": 0,
           "chip": null
         }
       ],
@@ -3938,9 +3938,9 @@
         },
         "total_bench_points": 133,
         "average_bench_points": 12.1,
-        "captain_raw_points": 63,
-        "captain_efficiency_pct_vs_best_starter": 52.9,
-        "captain_points_missed_vs_best_starter": 56,
+        "captain_raw_points": 64,
+        "captain_efficiency_pct_vs_best_starter": 53.8,
+        "captain_points_missed_vs_best_starter": 55,
         "chips_used": [
           {
             "name": "3xc",
@@ -3960,16 +3960,16 @@
           "player_id": 496,
           "team": "TOT",
           "position": 12,
-          "raw_points": 2,
+          "raw_points": 7,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 59,
+          "minutes": 65,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
+          "clean_sheets": 1,
           "bonus": 0
         },
         {
@@ -3977,13 +3977,13 @@
           "player_id": 334,
           "team": "LEE",
           "position": 13,
-          "raw_points": 1,
+          "raw_points": 2,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 57,
+          "minutes": 61,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4132,13 +4132,13 @@
           "player_id": 154,
           "team": "CHE",
           "position": 7,
-          "raw_points": 1,
+          "raw_points": 2,
           "multiplier": 2,
-          "counted_points": 2,
+          "counted_points": 4,
           "captain": true,
           "vice_captain": false,
           "bench": false,
-          "minutes": 57,
+          "minutes": 61,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4206,7 +4206,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 61,
+          "minutes": 66,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 1,
@@ -4217,16 +4217,16 @@
           "player_id": 496,
           "team": "TOT",
           "position": 12,
-          "raw_points": 2,
+          "raw_points": 7,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 59,
+          "minutes": 65,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
+          "clean_sheets": 1,
           "bonus": 0
         },
         {
@@ -4234,13 +4234,13 @@
           "player_id": 334,
           "team": "LEE",
           "position": 13,
-          "raw_points": 1,
+          "raw_points": 2,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 57,
+          "minutes": 61,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4407,8 +4407,8 @@
       "manager": "Manny Jandu",
       "entry_id": 2368930,
       "team_name": "The Regent",
-      "total_points": 610,
-      "overall_rank": 3153622,
+      "total_points": 621,
+      "overall_rank": 2829310,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -4439,9 +4439,9 @@
             "opponent": "NFO",
             "home": true,
             "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 58,
-            "points": 1,
-            "counted_points": 1
+            "minutes": 64,
+            "points": 10,
+            "counted_points": 10
           },
           {
             "player": "Gvardiol",
@@ -4467,9 +4467,9 @@
             "opponent": "LEE",
             "home": true,
             "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 57,
-            "points": 1,
-            "counted_points": 1
+            "minutes": 61,
+            "points": 2,
+            "counted_points": 2
           },
           {
             "player": "Rogers",
@@ -4481,9 +4481,9 @@
             "opponent": "LEE",
             "home": true,
             "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 57,
-            "points": 4,
-            "counted_points": 4
+            "minutes": 61,
+            "points": 5,
+            "counted_points": 5
           },
           {
             "player": "Haaland",
@@ -4509,7 +4509,7 @@
             "opponent": "SUN",
             "home": true,
             "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 61,
+            "minutes": 66,
             "points": 2,
             "counted_points": 2
           },
@@ -4523,8 +4523,8 @@
             "opponent": "IPS",
             "home": true,
             "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 59,
-            "points": 2,
+            "minutes": 65,
+            "points": 7,
             "counted_points": 0
           },
           {
@@ -4537,8 +4537,8 @@
             "opponent": "TOT",
             "home": false,
             "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 59,
-            "points": 0,
+            "minutes": 65,
+            "points": 1,
             "counted_points": 0
           },
           {
@@ -5027,9 +5027,9 @@
           "captain_minutes": 90,
           "vice_captain": "Isak",
           "vice_points": 0,
-          "best_starting_player": "Rogers",
-          "best_starting_points": 4,
-          "captain_points_missed_vs_best_starter": 2,
+          "best_starting_player": "Silva",
+          "best_starting_points": 10,
+          "captain_points_missed_vs_best_starter": 8,
           "chip": null
         }
       ],
@@ -5051,8 +5051,8 @@
         "total_bench_points": 57,
         "average_bench_points": 5.2,
         "captain_raw_points": 68,
-        "captain_efficiency_pct_vs_best_starter": 51.5,
-        "captain_points_missed_vs_best_starter": 64,
+        "captain_efficiency_pct_vs_best_starter": 49.3,
+        "captain_points_missed_vs_best_starter": 70,
         "chips_used": [
           {
             "name": "3xc",
@@ -5072,16 +5072,16 @@
           "player_id": 496,
           "team": "TOT",
           "position": 12,
-          "raw_points": 2,
+          "raw_points": 7,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 59,
+          "minutes": 65,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
+          "clean_sheets": 1,
           "bonus": 0
         },
         {
@@ -5089,13 +5089,13 @@
           "player_id": 259,
           "team": "IPS",
           "position": 13,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 59,
+          "minutes": 65,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -5159,17 +5159,17 @@
           "player_id": 566,
           "team": "BOU",
           "position": 2,
-          "raw_points": 1,
+          "raw_points": 10,
           "multiplier": 1,
-          "counted_points": 1,
+          "counted_points": 10,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 58,
+          "minutes": 64,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
-          "bonus": 0
+          "clean_sheets": 1,
+          "bonus": 2
         },
         {
           "player": "Gvardiol",
@@ -5227,13 +5227,13 @@
           "player_id": 154,
           "team": "CHE",
           "position": 6,
-          "raw_points": 1,
+          "raw_points": 2,
           "multiplier": 1,
-          "counted_points": 1,
+          "counted_points": 2,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 57,
+          "minutes": 61,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -5261,13 +5261,13 @@
           "player_id": 40,
           "team": "CHE",
           "position": 8,
-          "raw_points": 4,
+          "raw_points": 5,
           "multiplier": 1,
-          "counted_points": 4,
+          "counted_points": 5,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 57,
+          "minutes": 61,
           "goals": 0,
           "assists": 1,
           "clean_sheets": 0,
@@ -5301,7 +5301,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 61,
+          "minutes": 66,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 1,
@@ -5329,16 +5329,16 @@
           "player_id": 496,
           "team": "TOT",
           "position": 12,
-          "raw_points": 2,
+          "raw_points": 7,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 59,
+          "minutes": 65,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
+          "clean_sheets": 1,
           "bonus": 0
         },
         {
@@ -5346,13 +5346,13 @@
           "player_id": 259,
           "team": "IPS",
           "position": 13,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 59,
+          "minutes": 65,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -5519,8 +5519,8 @@
       "manager": "Ben Burt",
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
-      "total_points": 596,
-      "overall_rank": 3843080,
+      "total_points": 606,
+      "overall_rank": 3538749,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -5530,7 +5530,7 @@
         "player": "N.Jackson",
         "raw_points": 2,
         "counted_points": 4,
-        "minutes": 61
+        "minutes": 66
       },
       "vice_captain": {
         "player": "Haaland",
@@ -5551,9 +5551,9 @@
             "opponent": "CHE",
             "home": false,
             "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 57,
-            "points": 1,
-            "counted_points": 1
+            "minutes": 61,
+            "points": 2,
+            "counted_points": 2
           },
           {
             "player": "Hill",
@@ -5565,9 +5565,9 @@
             "opponent": "NFO",
             "home": true,
             "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 58,
-            "points": 6,
-            "counted_points": 6
+            "minutes": 64,
+            "points": 14,
+            "counted_points": 14
           },
           {
             "player": "O'Reilly",
@@ -5593,9 +5593,9 @@
             "opponent": "LEE",
             "home": true,
             "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 57,
-            "points": 4,
-            "counted_points": 4
+            "minutes": 61,
+            "points": 5,
+            "counted_points": 5
           },
           {
             "player": "Haaland",
@@ -5621,7 +5621,7 @@
             "opponent": "SUN",
             "home": true,
             "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 61,
+            "minutes": 66,
             "points": 2,
             "counted_points": 4
           },
@@ -5984,12 +5984,12 @@
           "gameweek": 11,
           "captain": "N.Jackson",
           "captain_points": 2,
-          "captain_minutes": 61,
+          "captain_minutes": 66,
           "vice_captain": "Haaland",
           "vice_points": 2,
           "best_starting_player": "Hill",
-          "best_starting_points": 6,
-          "captain_points_missed_vs_best_starter": 4,
+          "best_starting_points": 14,
+          "captain_points_missed_vs_best_starter": 12,
           "chip": null
         }
       ],
@@ -6011,8 +6011,8 @@
         "total_bench_points": 88,
         "average_bench_points": 8.8,
         "captain_raw_points": 81,
-        "captain_efficiency_pct_vs_best_starter": 65.9,
-        "captain_points_missed_vs_best_starter": 42,
+        "captain_efficiency_pct_vs_best_starter": 61.8,
+        "captain_points_missed_vs_best_starter": 50,
         "chips_used": []
       },
       "bench": [
@@ -6091,13 +6091,13 @@
           "player_id": 385,
           "team": "LEE",
           "position": 1,
-          "raw_points": 1,
+          "raw_points": 2,
           "multiplier": 1,
-          "counted_points": 1,
+          "counted_points": 2,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 57,
+          "minutes": 61,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -6125,17 +6125,17 @@
           "player_id": 60,
           "team": "BOU",
           "position": 3,
-          "raw_points": 6,
+          "raw_points": 14,
           "multiplier": 1,
-          "counted_points": 6,
+          "counted_points": 14,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 58,
+          "minutes": 64,
           "goals": 0,
           "assists": 1,
-          "clean_sheets": 0,
-          "bonus": 0
+          "clean_sheets": 1,
+          "bonus": 3
         },
         {
           "player": "Konsa",
@@ -6176,13 +6176,13 @@
           "player_id": 40,
           "team": "CHE",
           "position": 6,
-          "raw_points": 4,
+          "raw_points": 5,
           "multiplier": 1,
-          "counted_points": 4,
+          "counted_points": 5,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 57,
+          "minutes": 61,
           "goals": 0,
           "assists": 1,
           "clean_sheets": 0,
@@ -6250,7 +6250,7 @@
           "captain": true,
           "vice_captain": false,
           "bench": false,
-          "minutes": 61,
+          "minutes": 66,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 1,
@@ -6458,8 +6458,8 @@
       "manager": "Matthew Shaw",
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
-      "total_points": 537,
-      "overall_rank": 6749591,
+      "total_points": 544,
+      "overall_rank": 6590899,
       "latest_gameweek": 11,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -6490,9 +6490,9 @@
             "opponent": "IPS",
             "home": true,
             "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 59,
-            "points": 2,
-            "counted_points": 2
+            "minutes": 65,
+            "points": 7,
+            "counted_points": 7
           },
           {
             "player": "Muharemović",
@@ -6504,9 +6504,9 @@
             "opponent": "CHE",
             "home": false,
             "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 57,
-            "points": 1,
-            "counted_points": 1
+            "minutes": 61,
+            "points": 2,
+            "counted_points": 2
           },
           {
             "player": "Evanilson",
@@ -6518,7 +6518,7 @@
             "opponent": "NFO",
             "home": true,
             "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 58,
+            "minutes": 64,
             "points": 7,
             "counted_points": 7
           },
@@ -6546,9 +6546,9 @@
             "opponent": "CHE",
             "home": false,
             "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 57,
-            "points": 9,
-            "counted_points": 9
+            "minutes": 61,
+            "points": 10,
+            "counted_points": 10
           },
           {
             "player": "Robinson",
@@ -6574,8 +6574,8 @@
             "opponent": "BOU",
             "home": false,
             "kickoff_time": "2026-11-21T15:00:00Z",
-            "minutes": 58,
-            "points": 0,
+            "minutes": 64,
+            "points": 1,
             "counted_points": 0
           },
           {
@@ -6707,7 +6707,7 @@
           "in": "Evanilson",
           "in_id": 79,
           "in_points": 7,
-          "in_minutes": 58,
+          "in_minutes": 64,
           "out": "Brobbey",
           "out_id": 552,
           "out_points": 0,
@@ -7017,7 +7017,7 @@
           "in": "Evanilson",
           "in_id": 79,
           "in_points": 7,
-          "in_minutes": 58,
+          "in_minutes": 64,
           "out": "Brobbey",
           "out_id": 552,
           "out_points": 0,
@@ -7178,8 +7178,8 @@
           "vice_captain": "Ødegaard",
           "vice_points": 0,
           "best_starting_player": "Calvert-Lewin",
-          "best_starting_points": 9,
-          "captain_points_missed_vs_best_starter": 7,
+          "best_starting_points": 10,
+          "captain_points_missed_vs_best_starter": 8,
           "chip": null
         }
       ],
@@ -7201,8 +7201,8 @@
         "total_bench_points": 104,
         "average_bench_points": 9.5,
         "captain_raw_points": 51,
-        "captain_efficiency_pct_vs_best_starter": 43.2,
-        "captain_points_missed_vs_best_starter": 67,
+        "captain_efficiency_pct_vs_best_starter": 42.9,
+        "captain_points_missed_vs_best_starter": 68,
         "chips_used": [
           {
             "name": "wildcard",
@@ -7251,13 +7251,13 @@
           "player_id": 469,
           "team": "NFO",
           "position": 14,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 58,
+          "minutes": 64,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -7287,16 +7287,16 @@
           "player_id": 496,
           "team": "TOT",
           "position": 1,
-          "raw_points": 2,
+          "raw_points": 7,
           "multiplier": 1,
-          "counted_points": 2,
+          "counted_points": 7,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 59,
+          "minutes": 65,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
+          "clean_sheets": 1,
           "bonus": 0
         },
         {
@@ -7321,13 +7321,13 @@
           "player_id": 334,
           "team": "LEE",
           "position": 3,
-          "raw_points": 1,
+          "raw_points": 2,
           "multiplier": 1,
-          "counted_points": 1,
+          "counted_points": 2,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 57,
+          "minutes": 61,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -7429,11 +7429,11 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 58,
+          "minutes": 64,
           "goals": 1,
           "assists": 0,
-          "clean_sheets": 0,
-          "bonus": 2
+          "clean_sheets": 1,
+          "bonus": 1
         },
         {
           "player": "Haaland",
@@ -7457,13 +7457,13 @@
           "player_id": 346,
           "team": "LEE",
           "position": 11,
-          "raw_points": 9,
+          "raw_points": 10,
           "multiplier": 1,
-          "counted_points": 9,
+          "counted_points": 10,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 57,
+          "minutes": 61,
           "goals": 1,
           "assists": 1,
           "clean_sheets": 0,
@@ -7508,13 +7508,13 @@
           "player_id": 469,
           "team": "NFO",
           "position": 14,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 58,
+          "minutes": 64,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
