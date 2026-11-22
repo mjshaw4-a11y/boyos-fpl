@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-22T14:50:28.565Z",
+  "generated_at": "2026-11-22T14:55:21.402Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -282,8 +282,8 @@
       "gameweek_points": 26,
       "transfer_cost": 0,
       "net_gameweek_points": 26,
-      "total_points": 688,
-      "overall_rank": 690898,
+      "total_points": 687,
+      "overall_rank": 725482,
       "previous_boyos_rank": 1,
       "rank_change": 0
     },
@@ -296,7 +296,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 13,
       "total_points": 631,
-      "overall_rank": 2670719,
+      "overall_rank": 2691033,
       "previous_boyos_rank": 2,
       "rank_change": 0
     },
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 24,
       "total_points": 626,
-      "overall_rank": 2907753,
+      "overall_rank": 2928289,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -321,8 +321,8 @@
       "gameweek_points": 35,
       "transfer_cost": 0,
       "net_gameweek_points": 35,
-      "total_points": 615,
-      "overall_rank": 3420640,
+      "total_points": 616,
+      "overall_rank": 3392931,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -334,8 +334,8 @@
       "gameweek_points": 35,
       "transfer_cost": 0,
       "net_gameweek_points": 35,
-      "total_points": 551,
-      "overall_rank": 6548571,
+      "total_points": 552,
+      "overall_rank": 6517464,
       "previous_boyos_rank": 5,
       "rank_change": 0
     }
@@ -355,8 +355,8 @@
           "home": false,
           "kickoff_time": "2026-11-22T14:00:00Z",
           "minutes": 45,
-          "points": 3,
-          "counted_points": 3
+          "points": 2,
+          "counted_points": 2
         },
         {
           "player": "Calafiori",
@@ -578,8 +578,8 @@
           "home": false,
           "kickoff_time": "2026-11-22T14:00:00Z",
           "minutes": 45,
-          "points": 3,
-          "counted_points": 3
+          "points": 2,
+          "counted_points": 2
         },
         {
           "player": "De Cuyper",
@@ -676,8 +676,8 @@
           "home": false,
           "kickoff_time": "2026-11-22T14:00:00Z",
           "minutes": 45,
-          "points": 2,
-          "counted_points": 2
+          "points": 3,
+          "counted_points": 3
         },
         {
           "player": "Gonzalo",
@@ -800,8 +800,8 @@
           "home": false,
           "kickoff_time": "2026-11-22T14:00:00Z",
           "minutes": 45,
-          "points": 3,
-          "counted_points": 3
+          "points": 2,
+          "counted_points": 2
         },
         {
           "player": "Silva",
@@ -884,8 +884,8 @@
           "home": false,
           "kickoff_time": "2026-11-22T14:00:00Z",
           "minutes": 45,
-          "points": 2,
-          "counted_points": 2
+          "points": 3,
+          "counted_points": 3
         },
         {
           "player": "Rogers",
@@ -1121,8 +1121,8 @@
           "home": false,
           "kickoff_time": "2026-11-22T14:00:00Z",
           "minutes": 45,
-          "points": 2,
-          "counted_points": 2
+          "points": 3,
+          "counted_points": 3
         },
         {
           "player": "Haaland",
@@ -1302,8 +1302,8 @@
           "home": false,
           "kickoff_time": "2026-11-22T14:00:00Z",
           "minutes": 45,
-          "points": 2,
-          "counted_points": 2
+          "points": 3,
+          "counted_points": 3
         },
         {
           "player": "Ødegaard",
@@ -1924,8 +1924,8 @@
       "manager": "Joe Burke",
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
-      "total_points": 688,
-      "overall_rank": 690898,
+      "total_points": 687,
+      "overall_rank": 725482,
       "latest_gameweek": 11,
       "gameweek_points": 26,
       "transfer_cost": 0,
@@ -1957,8 +1957,8 @@
             "home": false,
             "kickoff_time": "2026-11-22T14:00:00Z",
             "minutes": 45,
-            "points": 3,
-            "counted_points": 3
+            "points": 2,
+            "counted_points": 2
           },
           {
             "player": "Calafiori",
@@ -2889,9 +2889,9 @@
           "player_id": 109,
           "team": "BHA",
           "position": 1,
-          "raw_points": 3,
+          "raw_points": 2,
           "multiplier": 1,
-          "counted_points": 3,
+          "counted_points": 2,
           "captain": false,
           "vice_captain": false,
           "bench": false,
@@ -2899,7 +2899,7 @@
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
-          "bonus": 2
+          "bonus": 1
         },
         {
           "player": "Calafiori",
@@ -3267,7 +3267,7 @@
       "entry_id": 5568090,
       "team_name": "Insufferable FC",
       "total_points": 631,
-      "overall_rank": 2670719,
+      "overall_rank": 2691033,
       "latest_gameweek": 11,
       "gameweek_points": 13,
       "transfer_cost": 0,
@@ -3299,8 +3299,8 @@
             "home": false,
             "kickoff_time": "2026-11-22T14:00:00Z",
             "minutes": 45,
-            "points": 3,
-            "counted_points": 3
+            "points": 2,
+            "counted_points": 2
           },
           {
             "player": "De Cuyper",
@@ -3397,8 +3397,8 @@
             "home": false,
             "kickoff_time": "2026-11-22T14:00:00Z",
             "minutes": 45,
-            "points": 2,
-            "counted_points": 2
+            "points": 3,
+            "counted_points": 3
           },
           {
             "player": "Gonzalo",
@@ -3913,7 +3913,7 @@
           "captain_minutes": 90,
           "vice_captain": "Haaland",
           "vice_points": 2,
-          "best_starting_player": "Verbruggen",
+          "best_starting_player": "Groß",
           "best_starting_points": 3,
           "captain_points_missed_vs_best_starter": 1,
           "chip": null
@@ -4028,9 +4028,9 @@
           "player_id": 109,
           "team": "BHA",
           "position": 1,
-          "raw_points": 3,
+          "raw_points": 2,
           "multiplier": 1,
-          "counted_points": 3,
+          "counted_points": 2,
           "captain": false,
           "vice_captain": false,
           "bench": false,
@@ -4038,7 +4038,7 @@
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
-          "bonus": 2
+          "bonus": 1
         },
         {
           "player": "De Cuyper",
@@ -4147,9 +4147,9 @@
           "player_id": 124,
           "team": "BHA",
           "position": 8,
-          "raw_points": 2,
+          "raw_points": 3,
           "multiplier": 1,
-          "counted_points": 2,
+          "counted_points": 3,
           "captain": false,
           "vice_captain": false,
           "bench": false,
@@ -4157,7 +4157,7 @@
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
-          "bonus": 1
+          "bonus": 2
         },
         {
           "player": "Gonzalo",
@@ -4406,7 +4406,7 @@
       "entry_id": 2368930,
       "team_name": "The Regent",
       "total_points": 626,
-      "overall_rank": 2907753,
+      "overall_rank": 2928289,
       "latest_gameweek": 11,
       "gameweek_points": 24,
       "transfer_cost": 0,
@@ -4438,8 +4438,8 @@
             "home": false,
             "kickoff_time": "2026-11-22T14:00:00Z",
             "minutes": 45,
-            "points": 3,
-            "counted_points": 3
+            "points": 2,
+            "counted_points": 2
           },
           {
             "player": "Silva",
@@ -4522,8 +4522,8 @@
             "home": false,
             "kickoff_time": "2026-11-22T14:00:00Z",
             "minutes": 45,
-            "points": 2,
-            "counted_points": 2
+            "points": 3,
+            "counted_points": 3
           },
           {
             "player": "Rogers",
@@ -5140,9 +5140,9 @@
           "player_id": 109,
           "team": "BHA",
           "position": 1,
-          "raw_points": 3,
+          "raw_points": 2,
           "multiplier": 1,
-          "counted_points": 3,
+          "counted_points": 2,
           "captain": false,
           "vice_captain": false,
           "bench": false,
@@ -5150,7 +5150,7 @@
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
-          "bonus": 2
+          "bonus": 1
         },
         {
           "player": "Silva",
@@ -5242,9 +5242,9 @@
           "player_id": 124,
           "team": "BHA",
           "position": 7,
-          "raw_points": 2,
+          "raw_points": 3,
           "multiplier": 1,
-          "counted_points": 2,
+          "counted_points": 3,
           "captain": false,
           "vice_captain": false,
           "bench": false,
@@ -5252,7 +5252,7 @@
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
-          "bonus": 1
+          "bonus": 2
         },
         {
           "player": "Rogers",
@@ -5517,8 +5517,8 @@
       "manager": "Ben Burt",
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
-      "total_points": 615,
-      "overall_rank": 3420640,
+      "total_points": 616,
+      "overall_rank": 3392931,
       "latest_gameweek": 11,
       "gameweek_points": 35,
       "transfer_cost": 0,
@@ -5648,8 +5648,8 @@
             "home": false,
             "kickoff_time": "2026-11-22T14:00:00Z",
             "minutes": 45,
-            "points": 2,
-            "counted_points": 2
+            "points": 3,
+            "counted_points": 3
           },
           {
             "player": "Haaland",
@@ -6208,9 +6208,9 @@
           "player_id": 124,
           "team": "BHA",
           "position": 8,
-          "raw_points": 2,
+          "raw_points": 3,
           "multiplier": 1,
-          "counted_points": 2,
+          "counted_points": 3,
           "captain": false,
           "vice_captain": false,
           "bench": false,
@@ -6218,7 +6218,7 @@
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
-          "bonus": 1
+          "bonus": 2
         },
         {
           "player": "Haaland",
@@ -6456,8 +6456,8 @@
       "manager": "Matthew Shaw",
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
-      "total_points": 551,
-      "overall_rank": 6548571,
+      "total_points": 552,
+      "overall_rank": 6517464,
       "latest_gameweek": 11,
       "gameweek_points": 35,
       "transfer_cost": 0,
@@ -6545,8 +6545,8 @@
             "home": false,
             "kickoff_time": "2026-11-22T14:00:00Z",
             "minutes": 45,
-            "points": 2,
-            "counted_points": 2
+            "points": 3,
+            "counted_points": 3
           },
           {
             "player": "Ødegaard",
@@ -7353,9 +7353,9 @@
           "player_id": 124,
           "team": "BHA",
           "position": 5,
-          "raw_points": 2,
+          "raw_points": 3,
           "multiplier": 1,
-          "counted_points": 2,
+          "counted_points": 3,
           "captain": false,
           "vice_captain": false,
           "bench": false,
@@ -7363,7 +7363,7 @@
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
-          "bonus": 1
+          "bonus": 2
         },
         {
           "player": "Ødegaard",
