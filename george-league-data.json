@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-11-22T17:45:27.518Z",
+  "generated_at": "2026-11-22T17:50:26.831Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -3084,11 +3084,11 @@
           "in": "Barcola",
           "in_id": 627,
           "in_points": 1,
-          "in_minutes": 53,
+          "in_minutes": 58,
           "out": "B.Fernandes",
           "out_id": 426,
           "out_points": 1,
-          "out_minutes": 53,
+          "out_minutes": 58,
           "gross_pl": 0,
           "time": "2026-11-21T10:09:04.397247Z"
         }
@@ -3394,11 +3394,11 @@
           "in": "Barcola",
           "in_id": 627,
           "in_points": 1,
-          "in_minutes": 53,
+          "in_minutes": 58,
           "out": "B.Fernandes",
           "out_id": 426,
           "out_points": 1,
-          "out_minutes": 53,
+          "out_minutes": 58,
           "gross_pl": 0,
           "time": "2026-11-21T10:09:04.397247Z"
         }
@@ -3698,11 +3698,11 @@
             "in": "Barcola",
             "in_id": 627,
             "in_points": 1,
-            "in_minutes": 53,
+            "in_minutes": 58,
             "out": "B.Fernandes",
             "out_id": 426,
             "out_points": 1,
-            "out_minutes": 53,
+            "out_minutes": 58,
             "gross_pl": 0,
             "time": "2026-11-21T10:09:04.397247Z"
           }
@@ -4075,7 +4075,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 53,
+          "minutes": 58,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
