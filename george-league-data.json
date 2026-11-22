@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-11-22T18:15:31.710Z",
+  "generated_at": "2026-11-22T18:20:29.849Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -296,7 +296,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 26,
       "total_points": 687,
-      "overall_rank": 835608,
+      "overall_rank": 835611,
       "previous_league_rank": 2,
       "rank_change": 0
     },
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 35,
       "total_points": 558,
-      "overall_rank": 6643569,
+      "overall_rank": 6643665,
       "previous_league_rank": 3,
       "rank_change": 0
     }
@@ -1629,7 +1629,7 @@
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
       "total_points": 687,
-      "overall_rank": 835608,
+      "overall_rank": 835611,
       "latest_gameweek": 11,
       "gameweek_points": 26,
       "transfer_cost": 0,
@@ -3045,7 +3045,7 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 558,
-      "overall_rank": 6643569,
+      "overall_rank": 6643665,
       "latest_gameweek": 11,
       "gameweek_points": 35,
       "transfer_cost": 0,
@@ -3088,7 +3088,7 @@
           "out": "B.Fernandes",
           "out_id": 426,
           "out_points": 2,
-          "out_minutes": 85,
+          "out_minutes": 89,
           "gross_pl": 3,
           "time": "2026-11-21T10:09:04.397247Z"
         }
@@ -3398,7 +3398,7 @@
           "out": "B.Fernandes",
           "out_id": 426,
           "out_points": 2,
-          "out_minutes": 85,
+          "out_minutes": 89,
           "gross_pl": 3,
           "time": "2026-11-21T10:09:04.397247Z"
         }
