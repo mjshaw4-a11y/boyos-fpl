@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-11-22T18:00:52.235Z",
+  "generated_at": "2026-11-22T18:05:21.939Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 54,
       "total_points": 713,
-      "overall_rank": 312970,
+      "overall_rank": 312972,
       "previous_league_rank": 1,
       "rank_change": 0
     },
@@ -296,7 +296,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 26,
       "total_points": 687,
-      "overall_rank": 829198,
+      "overall_rank": 829204,
       "previous_league_rank": 2,
       "rank_change": 0
     },
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 35,
       "total_points": 558,
-      "overall_rank": 6626465,
+      "overall_rank": 6626675,
       "previous_league_rank": 3,
       "rank_change": 0
     }
@@ -635,7 +635,7 @@
       "entry_id": 8848218,
       "team_name": "TheRoseGardeb",
       "total_points": 713,
-      "overall_rank": 312970,
+      "overall_rank": 312972,
       "latest_gameweek": 11,
       "gameweek_points": 54,
       "transfer_cost": 0,
@@ -1629,7 +1629,7 @@
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
       "total_points": 687,
-      "overall_rank": 829198,
+      "overall_rank": 829204,
       "latest_gameweek": 11,
       "gameweek_points": 26,
       "transfer_cost": 0,
@@ -3045,7 +3045,7 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 558,
-      "overall_rank": 6626465,
+      "overall_rank": 6626675,
       "latest_gameweek": 11,
       "gameweek_points": 35,
       "transfer_cost": 0,
@@ -3084,11 +3084,11 @@
           "in": "Barcola",
           "in_id": 627,
           "in_points": 5,
-          "in_minutes": 68,
+          "in_minutes": 71,
           "out": "B.Fernandes",
           "out_id": 426,
           "out_points": 2,
-          "out_minutes": 68,
+          "out_minutes": 75,
           "gross_pl": 3,
           "time": "2026-11-21T10:09:04.397247Z"
         }
@@ -3394,11 +3394,11 @@
           "in": "Barcola",
           "in_id": 627,
           "in_points": 5,
-          "in_minutes": 68,
+          "in_minutes": 71,
           "out": "B.Fernandes",
           "out_id": 426,
           "out_points": 2,
-          "out_minutes": 68,
+          "out_minutes": 75,
           "gross_pl": 3,
           "time": "2026-11-21T10:09:04.397247Z"
         }
@@ -4061,7 +4061,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 68,
+          "minutes": 71,
           "goals": 0,
           "assists": 1,
           "clean_sheets": 1,
