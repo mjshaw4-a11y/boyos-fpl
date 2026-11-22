@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-22T16:25:20.118Z",
+  "generated_at": "2026-11-22T16:30:46.677Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 26,
       "total_points": 687,
-      "overall_rank": 753973,
+      "overall_rank": 753971,
       "previous_boyos_rank": 1,
       "rank_change": 0
     },
@@ -296,7 +296,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 13,
       "total_points": 632,
-      "overall_rank": 2713822,
+      "overall_rank": 2713819,
       "previous_boyos_rank": 2,
       "rank_change": 0
     },
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 24,
       "total_points": 627,
-      "overall_rank": 2953381,
+      "overall_rank": 2953378,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -322,7 +322,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 35,
       "total_points": 617,
-      "overall_rank": 3420322,
+      "overall_rank": 3420318,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -335,7 +335,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 35,
       "total_points": 553,
-      "overall_rank": 6541819,
+      "overall_rank": 6541815,
       "previous_boyos_rank": 5,
       "rank_change": 0
     }
@@ -511,6 +511,20 @@
           "minutes": 90,
           "points": 1,
           "counted_points": 0
+        },
+        {
+          "player": "Cunha",
+          "team": "MUN",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "LIV",
+          "home": false,
+          "kickoff_time": "2026-11-22T16:30:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
         }
       ],
       "still_to_play": [
@@ -524,20 +538,6 @@
           "opponent": "BRE",
           "home": false,
           "kickoff_time": "2026-11-23T20:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Cunha",
-          "team": "MUN",
-          "bench": true,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "LIV",
-          "home": false,
-          "kickoff_time": "2026-11-22T16:30:00Z",
           "minutes": 0,
           "points": 0,
           "counted_points": 0
@@ -930,6 +930,20 @@
           "counted_points": 2
         },
         {
+          "player": "Isak",
+          "team": "LIV",
+          "bench": false,
+          "captain": false,
+          "vice_captain": true,
+          "status": "playing",
+          "opponent": "MUN",
+          "home": true,
+          "kickoff_time": "2026-11-22T16:30:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
           "player": "Kinsky",
           "team": "TOT",
           "bench": true,
@@ -974,20 +988,6 @@
       ],
       "still_to_play": [
         {
-          "player": "Isak",
-          "team": "LIV",
-          "bench": false,
-          "captain": false,
-          "vice_captain": true,
-          "status": "to_play",
-          "opponent": "MUN",
-          "home": true,
-          "kickoff_time": "2026-11-22T16:30:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
           "player": "M.Sangaré",
           "team": "BRE",
           "bench": true,
@@ -1006,8 +1006,8 @@
       "gameweek_points": 24,
       "bench_points": 7,
       "starters_played": 0,
-      "starters_playing_now": 10,
-      "starters_still_to_play": 1
+      "starters_playing_now": 11,
+      "starters_still_to_play": 0
     },
     "Ben": {
       "played": [],
@@ -1153,6 +1153,20 @@
           "counted_points": 4
         },
         {
+          "player": "A.Becker",
+          "team": "LIV",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "MUN",
+          "home": true,
+          "kickoff_time": "2026-11-22T16:30:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
           "player": "Rodon",
           "team": "LEE",
           "bench": true,
@@ -1192,20 +1206,6 @@
           "opponent": "BRE",
           "home": false,
           "kickoff_time": "2026-11-23T20:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "A.Becker",
-          "team": "LIV",
-          "bench": true,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "MUN",
-          "home": true,
-          "kickoff_time": "2026-11-22T16:30:00Z",
           "minutes": 0,
           "points": 0,
           "counted_points": 0
@@ -1320,6 +1320,20 @@
           "counted_points": 5
         },
         {
+          "player": "Barcola",
+          "team": "LIV",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "MUN",
+          "home": true,
+          "kickoff_time": "2026-11-22T16:30:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
           "player": "Evanilson",
           "team": "BOU",
           "bench": false,
@@ -1432,28 +1446,14 @@
           "minutes": 0,
           "points": 0,
           "counted_points": 0
-        },
-        {
-          "player": "Barcola",
-          "team": "LIV",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "MUN",
-          "home": true,
-          "kickoff_time": "2026-11-22T16:30:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
         }
       ],
       "captain": "Haaland",
       "gameweek_points": 35,
       "bench_points": 4,
       "starters_played": 0,
-      "starters_playing_now": 9,
-      "starters_still_to_play": 2
+      "starters_playing_now": 10,
+      "starters_still_to_play": 1
     }
   },
   "league_insights": {
@@ -1925,7 +1925,7 @@
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
       "total_points": 687,
-      "overall_rank": 753973,
+      "overall_rank": 753971,
       "latest_gameweek": 11,
       "gameweek_points": 26,
       "transfer_cost": 0,
@@ -2113,6 +2113,20 @@
             "minutes": 90,
             "points": 1,
             "counted_points": 0
+          },
+          {
+            "player": "Cunha",
+            "team": "MUN",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "LIV",
+            "home": false,
+            "kickoff_time": "2026-11-22T16:30:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
           }
         ],
         "still_to_play": [
@@ -2126,20 +2140,6 @@
             "opponent": "BRE",
             "home": false,
             "kickoff_time": "2026-11-23T20:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Cunha",
-            "team": "MUN",
-            "bench": true,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "LIV",
-            "home": false,
-            "kickoff_time": "2026-11-22T16:30:00Z",
             "minutes": 0,
             "points": 0,
             "counted_points": 0
@@ -3267,7 +3267,7 @@
       "entry_id": 5568090,
       "team_name": "Insufferable FC",
       "total_points": 632,
-      "overall_rank": 2713822,
+      "overall_rank": 2713819,
       "latest_gameweek": 11,
       "gameweek_points": 13,
       "transfer_cost": 0,
@@ -4406,7 +4406,7 @@
       "entry_id": 2368930,
       "team_name": "The Regent",
       "total_points": 627,
-      "overall_rank": 2953381,
+      "overall_rank": 2953378,
       "latest_gameweek": 11,
       "gameweek_points": 24,
       "transfer_cost": 0,
@@ -4568,6 +4568,20 @@
             "counted_points": 2
           },
           {
+            "player": "Isak",
+            "team": "LIV",
+            "bench": false,
+            "captain": false,
+            "vice_captain": true,
+            "status": "playing",
+            "opponent": "MUN",
+            "home": true,
+            "kickoff_time": "2026-11-22T16:30:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
             "player": "Kinsky",
             "team": "TOT",
             "bench": true,
@@ -4612,20 +4626,6 @@
         ],
         "still_to_play": [
           {
-            "player": "Isak",
-            "team": "LIV",
-            "bench": false,
-            "captain": false,
-            "vice_captain": true,
-            "status": "to_play",
-            "opponent": "MUN",
-            "home": true,
-            "kickoff_time": "2026-11-22T16:30:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
             "player": "M.Sangaré",
             "team": "BRE",
             "bench": true,
@@ -4644,8 +4644,8 @@
         "gameweek_points": 24,
         "bench_points": 7,
         "starters_played": 0,
-        "starters_playing_now": 10,
-        "starters_still_to_play": 1
+        "starters_playing_now": 11,
+        "starters_still_to_play": 0
       },
       "transfers": [],
       "transfer_history": [
@@ -5518,7 +5518,7 @@
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
       "total_points": 617,
-      "overall_rank": 3420322,
+      "overall_rank": 3420318,
       "latest_gameweek": 11,
       "gameweek_points": 35,
       "transfer_cost": 0,
@@ -5680,6 +5680,20 @@
             "counted_points": 4
           },
           {
+            "player": "A.Becker",
+            "team": "LIV",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "MUN",
+            "home": true,
+            "kickoff_time": "2026-11-22T16:30:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
             "player": "Rodon",
             "team": "LEE",
             "bench": true,
@@ -5719,20 +5733,6 @@
             "opponent": "BRE",
             "home": false,
             "kickoff_time": "2026-11-23T20:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "A.Becker",
-            "team": "LIV",
-            "bench": true,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "MUN",
-            "home": true,
-            "kickoff_time": "2026-11-22T16:30:00Z",
             "minutes": 0,
             "points": 0,
             "counted_points": 0
@@ -6457,7 +6457,7 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 553,
-      "overall_rank": 6541819,
+      "overall_rank": 6541815,
       "latest_gameweek": 11,
       "gameweek_points": 35,
       "transfer_cost": 0,
@@ -6561,6 +6561,20 @@
             "minutes": 90,
             "points": 5,
             "counted_points": 5
+          },
+          {
+            "player": "Barcola",
+            "team": "LIV",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "MUN",
+            "home": true,
+            "kickoff_time": "2026-11-22T16:30:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
           },
           {
             "player": "Evanilson",
@@ -6675,28 +6689,14 @@
             "minutes": 0,
             "points": 0,
             "counted_points": 0
-          },
-          {
-            "player": "Barcola",
-            "team": "LIV",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "MUN",
-            "home": true,
-            "kickoff_time": "2026-11-22T16:30:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
           }
         ],
         "captain": "Haaland",
         "gameweek_points": 35,
         "bench_points": 4,
         "starters_played": 0,
-        "starters_playing_now": 9,
-        "starters_still_to_play": 2
+        "starters_playing_now": 10,
+        "starters_still_to_play": 1
       },
       "transfers": [
         {
