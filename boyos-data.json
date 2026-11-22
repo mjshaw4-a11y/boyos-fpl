@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-22T14:40:31.427Z",
+  "generated_at": "2026-11-22T14:45:28.711Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -282,8 +282,8 @@
       "gameweek_points": 26,
       "transfer_cost": 0,
       "net_gameweek_points": 26,
-      "total_points": 688,
-      "overall_rank": 709533,
+      "total_points": 687,
+      "overall_rank": 725482,
       "previous_boyos_rank": 1,
       "rank_change": 0
     },
@@ -295,8 +295,8 @@
       "gameweek_points": 13,
       "transfer_cost": 0,
       "net_gameweek_points": 13,
-      "total_points": 632,
-      "overall_rank": 2656680,
+      "total_points": 631,
+      "overall_rank": 2691037,
       "previous_boyos_rank": 2,
       "rank_change": 0
     },
@@ -308,8 +308,8 @@
       "gameweek_points": 24,
       "transfer_cost": 0,
       "net_gameweek_points": 24,
-      "total_points": 627,
-      "overall_rank": 2892880,
+      "total_points": 626,
+      "overall_rank": 2928294,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -322,7 +322,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 35,
       "total_points": 616,
-      "overall_rank": 3403398,
+      "overall_rank": 3392934,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -335,7 +335,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 35,
       "total_points": 552,
-      "overall_rank": 6522565,
+      "overall_rank": 6517483,
       "previous_boyos_rank": 5,
       "rank_change": 0
     }
@@ -354,9 +354,9 @@
           "opponent": "HUL",
           "home": false,
           "kickoff_time": "2026-11-22T14:00:00Z",
-          "minutes": 37,
-          "points": 3,
-          "counted_points": 3
+          "minutes": 42,
+          "points": 2,
+          "counted_points": 2
         },
         {
           "player": "Calafiori",
@@ -382,7 +382,7 @@
           "opponent": "HUL",
           "home": false,
           "kickoff_time": "2026-11-22T14:00:00Z",
-          "minutes": 37,
+          "minutes": 42,
           "points": 1,
           "counted_points": 1
         },
@@ -577,9 +577,9 @@
           "opponent": "HUL",
           "home": false,
           "kickoff_time": "2026-11-22T14:00:00Z",
-          "minutes": 37,
-          "points": 3,
-          "counted_points": 3
+          "minutes": 42,
+          "points": 2,
+          "counted_points": 2
         },
         {
           "player": "De Cuyper",
@@ -591,7 +591,7 @@
           "opponent": "HUL",
           "home": false,
           "kickoff_time": "2026-11-22T14:00:00Z",
-          "minutes": 37,
+          "minutes": 42,
           "points": 1,
           "counted_points": 1
         },
@@ -675,7 +675,7 @@
           "opponent": "HUL",
           "home": false,
           "kickoff_time": "2026-11-22T14:00:00Z",
-          "minutes": 37,
+          "minutes": 42,
           "points": 3,
           "counted_points": 3
         },
@@ -799,9 +799,9 @@
           "opponent": "HUL",
           "home": false,
           "kickoff_time": "2026-11-22T14:00:00Z",
-          "minutes": 37,
-          "points": 3,
-          "counted_points": 3
+          "minutes": 42,
+          "points": 2,
+          "counted_points": 2
         },
         {
           "player": "Silva",
@@ -883,7 +883,7 @@
           "opponent": "HUL",
           "home": false,
           "kickoff_time": "2026-11-22T14:00:00Z",
-          "minutes": 37,
+          "minutes": 42,
           "points": 3,
           "counted_points": 3
         },
@@ -1036,7 +1036,7 @@
           "opponent": "HUL",
           "home": false,
           "kickoff_time": "2026-11-22T14:00:00Z",
-          "minutes": 37,
+          "minutes": 42,
           "points": 1,
           "counted_points": 1
         },
@@ -1120,7 +1120,7 @@
           "opponent": "HUL",
           "home": false,
           "kickoff_time": "2026-11-22T14:00:00Z",
-          "minutes": 37,
+          "minutes": 42,
           "points": 3,
           "counted_points": 3
         },
@@ -1301,7 +1301,7 @@
           "opponent": "HUL",
           "home": false,
           "kickoff_time": "2026-11-22T14:00:00Z",
-          "minutes": 37,
+          "minutes": 42,
           "points": 3,
           "counted_points": 3
         },
@@ -1924,8 +1924,8 @@
       "manager": "Joe Burke",
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
-      "total_points": 688,
-      "overall_rank": 709533,
+      "total_points": 687,
+      "overall_rank": 725482,
       "latest_gameweek": 11,
       "gameweek_points": 26,
       "transfer_cost": 0,
@@ -1956,9 +1956,9 @@
             "opponent": "HUL",
             "home": false,
             "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 37,
-            "points": 3,
-            "counted_points": 3
+            "minutes": 42,
+            "points": 2,
+            "counted_points": 2
           },
           {
             "player": "Calafiori",
@@ -1984,7 +1984,7 @@
             "opponent": "HUL",
             "home": false,
             "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 37,
+            "minutes": 42,
             "points": 1,
             "counted_points": 1
           },
@@ -2889,17 +2889,17 @@
           "player_id": 109,
           "team": "BHA",
           "position": 1,
-          "raw_points": 3,
+          "raw_points": 2,
           "multiplier": 1,
-          "counted_points": 3,
+          "counted_points": 2,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 37,
+          "minutes": 42,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
-          "bonus": 2
+          "bonus": 1
         },
         {
           "player": "Calafiori",
@@ -2929,7 +2929,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 37,
+          "minutes": 42,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3266,8 +3266,8 @@
       "manager": "David Eyre",
       "entry_id": 5568090,
       "team_name": "Insufferable FC",
-      "total_points": 632,
-      "overall_rank": 2656680,
+      "total_points": 631,
+      "overall_rank": 2691037,
       "latest_gameweek": 11,
       "gameweek_points": 13,
       "transfer_cost": 0,
@@ -3298,9 +3298,9 @@
             "opponent": "HUL",
             "home": false,
             "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 37,
-            "points": 3,
-            "counted_points": 3
+            "minutes": 42,
+            "points": 2,
+            "counted_points": 2
           },
           {
             "player": "De Cuyper",
@@ -3312,7 +3312,7 @@
             "opponent": "HUL",
             "home": false,
             "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 37,
+            "minutes": 42,
             "points": 1,
             "counted_points": 1
           },
@@ -3396,7 +3396,7 @@
             "opponent": "HUL",
             "home": false,
             "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 37,
+            "minutes": 42,
             "points": 3,
             "counted_points": 3
           },
@@ -3913,7 +3913,7 @@
           "captain_minutes": 90,
           "vice_captain": "Haaland",
           "vice_points": 2,
-          "best_starting_player": "Verbruggen",
+          "best_starting_player": "Groß",
           "best_starting_points": 3,
           "captain_points_missed_vs_best_starter": 1,
           "chip": null
@@ -4028,17 +4028,17 @@
           "player_id": 109,
           "team": "BHA",
           "position": 1,
-          "raw_points": 3,
+          "raw_points": 2,
           "multiplier": 1,
-          "counted_points": 3,
+          "counted_points": 2,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 37,
+          "minutes": 42,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
-          "bonus": 2
+          "bonus": 1
         },
         {
           "player": "De Cuyper",
@@ -4051,7 +4051,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 37,
+          "minutes": 42,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4153,7 +4153,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 37,
+          "minutes": 42,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4405,8 +4405,8 @@
       "manager": "Manny Jandu",
       "entry_id": 2368930,
       "team_name": "The Regent",
-      "total_points": 627,
-      "overall_rank": 2892880,
+      "total_points": 626,
+      "overall_rank": 2928294,
       "latest_gameweek": 11,
       "gameweek_points": 24,
       "transfer_cost": 0,
@@ -4437,9 +4437,9 @@
             "opponent": "HUL",
             "home": false,
             "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 37,
-            "points": 3,
-            "counted_points": 3
+            "minutes": 42,
+            "points": 2,
+            "counted_points": 2
           },
           {
             "player": "Silva",
@@ -4521,7 +4521,7 @@
             "opponent": "HUL",
             "home": false,
             "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 37,
+            "minutes": 42,
             "points": 3,
             "counted_points": 3
           },
@@ -5140,17 +5140,17 @@
           "player_id": 109,
           "team": "BHA",
           "position": 1,
-          "raw_points": 3,
+          "raw_points": 2,
           "multiplier": 1,
-          "counted_points": 3,
+          "counted_points": 2,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 37,
+          "minutes": 42,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
-          "bonus": 2
+          "bonus": 1
         },
         {
           "player": "Silva",
@@ -5248,7 +5248,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 37,
+          "minutes": 42,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -5518,7 +5518,7 @@
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
       "total_points": 616,
-      "overall_rank": 3403398,
+      "overall_rank": 3392934,
       "latest_gameweek": 11,
       "gameweek_points": 35,
       "transfer_cost": 0,
@@ -5563,7 +5563,7 @@
             "opponent": "HUL",
             "home": false,
             "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 37,
+            "minutes": 42,
             "points": 1,
             "counted_points": 1
           },
@@ -5647,7 +5647,7 @@
             "opponent": "HUL",
             "home": false,
             "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 37,
+            "minutes": 42,
             "points": 3,
             "counted_points": 3
           },
@@ -6112,7 +6112,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 37,
+          "minutes": 42,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -6214,7 +6214,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 37,
+          "minutes": 42,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -6457,7 +6457,7 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 552,
-      "overall_rank": 6522565,
+      "overall_rank": 6517483,
       "latest_gameweek": 11,
       "gameweek_points": 35,
       "transfer_cost": 0,
@@ -6544,7 +6544,7 @@
             "opponent": "HUL",
             "home": false,
             "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 37,
+            "minutes": 42,
             "points": 3,
             "counted_points": 3
           },
@@ -7359,7 +7359,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 37,
+          "minutes": 42,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
