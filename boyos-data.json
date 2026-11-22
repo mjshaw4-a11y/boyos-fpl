@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-22T17:50:26.311Z",
+  "generated_at": "2026-11-22T17:55:22.023Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 26,
       "total_points": 687,
-      "overall_rank": 804593,
+      "overall_rank": 828176,
       "previous_boyos_rank": 1,
       "rank_change": 0
     },
@@ -296,7 +296,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 13,
       "total_points": 632,
-      "overall_rank": 2844240,
+      "overall_rank": 2917563,
       "previous_boyos_rank": 2,
       "rank_change": 0
     },
@@ -308,8 +308,8 @@
       "gameweek_points": 24,
       "transfer_cost": 0,
       "net_gameweek_points": 24,
-      "total_points": 631,
-      "overall_rank": 2898885,
+      "total_points": 632,
+      "overall_rank": 2925206,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -322,7 +322,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 35,
       "total_points": 617,
-      "overall_rank": 3572983,
+      "overall_rank": 3661939,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -334,8 +334,8 @@
       "gameweek_points": 35,
       "transfer_cost": 0,
       "net_gameweek_points": 35,
-      "total_points": 554,
-      "overall_rank": 6688206,
+      "total_points": 555,
+      "overall_rank": 6765359,
       "previous_boyos_rank": 5,
       "rank_change": 0
     }
@@ -939,9 +939,9 @@
           "opponent": "MUN",
           "home": true,
           "kickoff_time": "2026-11-22T16:30:00Z",
-          "minutes": 58,
-          "points": 4,
-          "counted_points": 4
+          "minutes": 62,
+          "points": 5,
+          "counted_points": 5
         },
         {
           "player": "Kinsky",
@@ -1162,8 +1162,8 @@
           "opponent": "MUN",
           "home": true,
           "kickoff_time": "2026-11-22T16:30:00Z",
-          "minutes": 58,
-          "points": 1,
+          "minutes": 62,
+          "points": 6,
           "counted_points": 0
         },
         {
@@ -1329,9 +1329,9 @@
           "opponent": "MUN",
           "home": true,
           "kickoff_time": "2026-11-22T16:30:00Z",
-          "minutes": 58,
-          "points": 1,
-          "counted_points": 1
+          "minutes": 62,
+          "points": 2,
+          "counted_points": 2
         },
         {
           "player": "Evanilson",
@@ -1925,7 +1925,7 @@
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
       "total_points": 687,
-      "overall_rank": 804593,
+      "overall_rank": 828176,
       "latest_gameweek": 11,
       "gameweek_points": 26,
       "transfer_cost": 0,
@@ -3267,7 +3267,7 @@
       "entry_id": 5568090,
       "team_name": "Insufferable FC",
       "total_points": 632,
-      "overall_rank": 2844240,
+      "overall_rank": 2917563,
       "latest_gameweek": 11,
       "gameweek_points": 13,
       "transfer_cost": 0,
@@ -4405,8 +4405,8 @@
       "manager": "Manny Jandu",
       "entry_id": 2368930,
       "team_name": "The Regent",
-      "total_points": 631,
-      "overall_rank": 2898885,
+      "total_points": 632,
+      "overall_rank": 2925206,
       "latest_gameweek": 11,
       "gameweek_points": 24,
       "transfer_cost": 0,
@@ -4420,8 +4420,8 @@
       },
       "vice_captain": {
         "player": "Isak",
-        "raw_points": 4,
-        "minutes": 58
+        "raw_points": 5,
+        "minutes": 62
       },
       "active_chip": null,
       "live_summary": {
@@ -4577,9 +4577,9 @@
             "opponent": "MUN",
             "home": true,
             "kickoff_time": "2026-11-22T16:30:00Z",
-            "minutes": 58,
-            "points": 4,
-            "counted_points": 4
+            "minutes": 62,
+            "points": 5,
+            "counted_points": 5
           },
           {
             "player": "Kinsky",
@@ -5024,7 +5024,7 @@
           "captain_points": 2,
           "captain_minutes": 90,
           "vice_captain": "Isak",
-          "vice_points": 4,
+          "vice_points": 5,
           "best_starting_player": "Silva",
           "best_starting_points": 8,
           "captain_points_missed_vs_best_starter": 6,
@@ -5310,16 +5310,16 @@
           "player_id": 379,
           "team": "LIV",
           "position": 11,
-          "raw_points": 4,
+          "raw_points": 5,
           "multiplier": 1,
-          "counted_points": 4,
+          "counted_points": 5,
           "captain": false,
           "vice_captain": true,
           "bench": false,
-          "minutes": 58,
+          "minutes": 62,
           "goals": 0,
           "assists": 1,
-          "clean_sheets": 0,
+          "clean_sheets": 1,
           "bonus": 0
         },
         {
@@ -5518,7 +5518,7 @@
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
       "total_points": 617,
-      "overall_rank": 3572983,
+      "overall_rank": 3661939,
       "latest_gameweek": 11,
       "gameweek_points": 35,
       "transfer_cost": 0,
@@ -5689,8 +5689,8 @@
             "opponent": "MUN",
             "home": true,
             "kickoff_time": "2026-11-22T16:30:00Z",
-            "minutes": 58,
-            "points": 1,
+            "minutes": 62,
+            "points": 6,
             "counted_points": 0
           },
           {
@@ -6019,16 +6019,16 @@
           "player_id": 350,
           "team": "LIV",
           "position": 12,
-          "raw_points": 1,
+          "raw_points": 6,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 58,
+          "minutes": 62,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
+          "clean_sheets": 1,
           "bonus": 0
         },
         {
@@ -6276,16 +6276,16 @@
           "player_id": 350,
           "team": "LIV",
           "position": 12,
-          "raw_points": 1,
+          "raw_points": 6,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 58,
+          "minutes": 62,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
+          "clean_sheets": 1,
           "bonus": 0
         },
         {
@@ -6456,8 +6456,8 @@
       "manager": "Matthew Shaw",
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
-      "total_points": 554,
-      "overall_rank": 6688206,
+      "total_points": 555,
+      "overall_rank": 6765359,
       "latest_gameweek": 11,
       "gameweek_points": 35,
       "transfer_cost": 0,
@@ -6572,9 +6572,9 @@
             "opponent": "MUN",
             "home": true,
             "kickoff_time": "2026-11-22T16:30:00Z",
-            "minutes": 58,
-            "points": 1,
-            "counted_points": 1
+            "minutes": 62,
+            "points": 2,
+            "counted_points": 2
           },
           {
             "player": "Evanilson",
@@ -6718,12 +6718,12 @@
           "chip": null,
           "in": "Barcola",
           "in_id": 627,
-          "in_points": 1,
-          "in_minutes": 58,
+          "in_points": 2,
+          "in_minutes": 62,
           "out": "B.Fernandes",
           "out_id": 426,
-          "out_points": 1,
-          "out_minutes": 58,
+          "out_points": 2,
+          "out_minutes": 62,
           "gross_pl": 0,
           "time": "2026-11-21T10:09:04.397247Z"
         }
@@ -7028,12 +7028,12 @@
           "chip": null,
           "in": "Barcola",
           "in_id": 627,
-          "in_points": 1,
-          "in_minutes": 58,
+          "in_points": 2,
+          "in_minutes": 62,
           "out": "B.Fernandes",
           "out_id": 426,
-          "out_points": 1,
-          "out_minutes": 58,
+          "out_points": 2,
+          "out_minutes": 62,
           "gross_pl": 0,
           "time": "2026-11-21T10:09:04.397247Z"
         }
@@ -7404,16 +7404,16 @@
           "player_id": 627,
           "team": "LIV",
           "position": 8,
-          "raw_points": 1,
+          "raw_points": 2,
           "multiplier": 1,
-          "counted_points": 1,
+          "counted_points": 2,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 58,
+          "minutes": 62,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
+          "clean_sheets": 1,
           "bonus": 0
         },
         {

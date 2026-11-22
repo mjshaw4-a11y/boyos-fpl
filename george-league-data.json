@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-11-22T17:50:26.831Z",
+  "generated_at": "2026-11-22T17:55:22.519Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 54,
       "total_points": 713,
-      "overall_rank": 302524,
+      "overall_rank": 312692,
       "previous_league_rank": 1,
       "rank_change": 0
     },
@@ -296,7 +296,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 26,
       "total_points": 687,
-      "overall_rank": 804593,
+      "overall_rank": 828176,
       "previous_league_rank": 2,
       "rank_change": 0
     },
@@ -308,8 +308,8 @@
       "gameweek_points": 35,
       "transfer_cost": 0,
       "net_gameweek_points": 35,
-      "total_points": 554,
-      "overall_rank": 6688206,
+      "total_points": 555,
+      "overall_rank": 6765359,
       "previous_league_rank": 3,
       "rank_change": 0
     }
@@ -635,7 +635,7 @@
       "entry_id": 8848218,
       "team_name": "TheRoseGardeb",
       "total_points": 713,
-      "overall_rank": 302524,
+      "overall_rank": 312692,
       "latest_gameweek": 11,
       "gameweek_points": 54,
       "transfer_cost": 0,
@@ -1629,7 +1629,7 @@
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
       "total_points": 687,
-      "overall_rank": 804593,
+      "overall_rank": 828176,
       "latest_gameweek": 11,
       "gameweek_points": 26,
       "transfer_cost": 0,
@@ -3044,8 +3044,8 @@
       "manager": "Matthew Shaw",
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
-      "total_points": 554,
-      "overall_rank": 6688206,
+      "total_points": 555,
+      "overall_rank": 6765359,
       "latest_gameweek": 11,
       "gameweek_points": 35,
       "transfer_cost": 0,
@@ -3083,12 +3083,12 @@
           "chip": null,
           "in": "Barcola",
           "in_id": 627,
-          "in_points": 1,
-          "in_minutes": 58,
+          "in_points": 2,
+          "in_minutes": 62,
           "out": "B.Fernandes",
           "out_id": 426,
-          "out_points": 1,
-          "out_minutes": 58,
+          "out_points": 2,
+          "out_minutes": 62,
           "gross_pl": 0,
           "time": "2026-11-21T10:09:04.397247Z"
         }
@@ -3393,12 +3393,12 @@
           "chip": null,
           "in": "Barcola",
           "in_id": 627,
-          "in_points": 1,
-          "in_minutes": 58,
+          "in_points": 2,
+          "in_minutes": 62,
           "out": "B.Fernandes",
           "out_id": 426,
-          "out_points": 1,
-          "out_minutes": 58,
+          "out_points": 2,
+          "out_minutes": 62,
           "gross_pl": 0,
           "time": "2026-11-21T10:09:04.397247Z"
         }
@@ -3634,7 +3634,7 @@
           "gross_pl": -2,
           "time": "2026-09-18T16:48:40.870355Z"
         },
-        "sub_60_minute_buys": 5,
+        "sub_60_minute_buys": 4,
         "sub_60_minute_buy_details": [
           {
             "gameweek": 5,
@@ -3691,20 +3691,6 @@
             "out_minutes": 45,
             "gross_pl": 0,
             "time": "2026-10-16T17:38:54.804629Z"
-          },
-          {
-            "gameweek": 11,
-            "chip": null,
-            "in": "Barcola",
-            "in_id": 627,
-            "in_points": 1,
-            "in_minutes": 58,
-            "out": "B.Fernandes",
-            "out_id": 426,
-            "out_points": 1,
-            "out_minutes": 58,
-            "gross_pl": 0,
-            "time": "2026-11-21T10:09:04.397247Z"
           }
         ]
       },
@@ -4069,16 +4055,16 @@
           "player": "Barcola",
           "player_id": 627,
           "position": 8,
-          "raw_points": 1,
+          "raw_points": 2,
           "multiplier": 1,
-          "counted_points": 1,
+          "counted_points": 2,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 58,
+          "minutes": 62,
           "goals": 0,
           "assists": 0,
-          "clean_sheets": 0,
+          "clean_sheets": 1,
           "bonus": 0
         },
         {
