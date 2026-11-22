@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-22T17:05:21.257Z",
+  "generated_at": "2026-11-22T17:10:39.808Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -335,7 +335,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 35,
       "total_points": 554,
-      "overall_rank": 6688169,
+      "overall_rank": 6688167,
       "previous_boyos_rank": 5,
       "rank_change": 0
     }
@@ -522,7 +522,7 @@
           "opponent": "LIV",
           "home": false,
           "kickoff_time": "2026-11-22T16:30:00Z",
-          "minutes": 33,
+          "minutes": 38,
           "points": 1,
           "counted_points": 0
         }
@@ -939,7 +939,7 @@
           "opponent": "MUN",
           "home": true,
           "kickoff_time": "2026-11-22T16:30:00Z",
-          "minutes": 33,
+          "minutes": 38,
           "points": 4,
           "counted_points": 4
         },
@@ -1162,7 +1162,7 @@
           "opponent": "MUN",
           "home": true,
           "kickoff_time": "2026-11-22T16:30:00Z",
-          "minutes": 33,
+          "minutes": 38,
           "points": 1,
           "counted_points": 0
         },
@@ -1329,7 +1329,7 @@
           "opponent": "MUN",
           "home": true,
           "kickoff_time": "2026-11-22T16:30:00Z",
-          "minutes": 33,
+          "minutes": 38,
           "points": 1,
           "counted_points": 1
         },
@@ -2124,7 +2124,7 @@
             "opponent": "LIV",
             "home": false,
             "kickoff_time": "2026-11-22T16:30:00Z",
-            "minutes": 33,
+            "minutes": 38,
             "points": 1,
             "counted_points": 0
           }
@@ -2859,7 +2859,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 33,
+          "minutes": 38,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3116,7 +3116,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 33,
+          "minutes": 38,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4421,7 +4421,7 @@
       "vice_captain": {
         "player": "Isak",
         "raw_points": 4,
-        "minutes": 33
+        "minutes": 38
       },
       "active_chip": null,
       "live_summary": {
@@ -4577,7 +4577,7 @@
             "opponent": "MUN",
             "home": true,
             "kickoff_time": "2026-11-22T16:30:00Z",
-            "minutes": 33,
+            "minutes": 38,
             "points": 4,
             "counted_points": 4
           },
@@ -5316,7 +5316,7 @@
           "captain": false,
           "vice_captain": true,
           "bench": false,
-          "minutes": 33,
+          "minutes": 38,
           "goals": 0,
           "assists": 1,
           "clean_sheets": 0,
@@ -5689,7 +5689,7 @@
             "opponent": "MUN",
             "home": true,
             "kickoff_time": "2026-11-22T16:30:00Z",
-            "minutes": 33,
+            "minutes": 38,
             "points": 1,
             "counted_points": 0
           },
@@ -6025,7 +6025,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 33,
+          "minutes": 38,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -6282,7 +6282,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 33,
+          "minutes": 38,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -6457,7 +6457,7 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 554,
-      "overall_rank": 6688169,
+      "overall_rank": 6688167,
       "latest_gameweek": 11,
       "gameweek_points": 35,
       "transfer_cost": 0,
@@ -6572,7 +6572,7 @@
             "opponent": "MUN",
             "home": true,
             "kickoff_time": "2026-11-22T16:30:00Z",
-            "minutes": 33,
+            "minutes": 38,
             "points": 1,
             "counted_points": 1
           },
@@ -6719,11 +6719,11 @@
           "in": "Barcola",
           "in_id": 627,
           "in_points": 1,
-          "in_minutes": 33,
+          "in_minutes": 38,
           "out": "B.Fernandes",
           "out_id": 426,
           "out_points": 1,
-          "out_minutes": 33,
+          "out_minutes": 38,
           "gross_pl": 0,
           "time": "2026-11-21T10:09:04.397247Z"
         }
@@ -7029,11 +7029,11 @@
           "in": "Barcola",
           "in_id": 627,
           "in_points": 1,
-          "in_minutes": 33,
+          "in_minutes": 38,
           "out": "B.Fernandes",
           "out_id": 426,
           "out_points": 1,
-          "out_minutes": 33,
+          "out_minutes": 38,
           "gross_pl": 0,
           "time": "2026-11-21T10:09:04.397247Z"
         }
@@ -7410,7 +7410,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 33,
+          "minutes": 38,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
