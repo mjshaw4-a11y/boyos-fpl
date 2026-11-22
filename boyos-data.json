@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-22T17:55:22.023Z",
+  "generated_at": "2026-11-22T18:00:51.499Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 26,
       "total_points": 687,
-      "overall_rank": 828176,
+      "overall_rank": 829198,
       "previous_boyos_rank": 1,
       "rank_change": 0
     },
@@ -296,7 +296,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 13,
       "total_points": 632,
-      "overall_rank": 2917563,
+      "overall_rank": 2917812,
       "previous_boyos_rank": 2,
       "rank_change": 0
     },
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 24,
       "total_points": 632,
-      "overall_rank": 2925206,
+      "overall_rank": 2925475,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -322,7 +322,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 35,
       "total_points": 617,
-      "overall_rank": 3661939,
+      "overall_rank": 3660734,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -334,8 +334,8 @@
       "gameweek_points": 35,
       "transfer_cost": 0,
       "net_gameweek_points": 35,
-      "total_points": 555,
-      "overall_rank": 6765359,
+      "total_points": 558,
+      "overall_rank": 6626465,
       "previous_boyos_rank": 5,
       "rank_change": 0
     }
@@ -939,7 +939,7 @@
           "opponent": "MUN",
           "home": true,
           "kickoff_time": "2026-11-22T16:30:00Z",
-          "minutes": 62,
+          "minutes": 68,
           "points": 5,
           "counted_points": 5
         },
@@ -1162,7 +1162,7 @@
           "opponent": "MUN",
           "home": true,
           "kickoff_time": "2026-11-22T16:30:00Z",
-          "minutes": 62,
+          "minutes": 68,
           "points": 6,
           "counted_points": 0
         },
@@ -1329,9 +1329,9 @@
           "opponent": "MUN",
           "home": true,
           "kickoff_time": "2026-11-22T16:30:00Z",
-          "minutes": 62,
-          "points": 2,
-          "counted_points": 2
+          "minutes": 68,
+          "points": 5,
+          "counted_points": 5
         },
         {
           "player": "Evanilson",
@@ -1520,7 +1520,7 @@
       },
       {
         "name": "Curlo",
-        "value": 10
+        "value": 13
       }
     ],
     "hit_cost": [
@@ -1925,7 +1925,7 @@
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
       "total_points": 687,
-      "overall_rank": 828176,
+      "overall_rank": 829198,
       "latest_gameweek": 11,
       "gameweek_points": 26,
       "transfer_cost": 0,
@@ -3267,7 +3267,7 @@
       "entry_id": 5568090,
       "team_name": "Insufferable FC",
       "total_points": 632,
-      "overall_rank": 2917563,
+      "overall_rank": 2917812,
       "latest_gameweek": 11,
       "gameweek_points": 13,
       "transfer_cost": 0,
@@ -4406,7 +4406,7 @@
       "entry_id": 2368930,
       "team_name": "The Regent",
       "total_points": 632,
-      "overall_rank": 2925206,
+      "overall_rank": 2925475,
       "latest_gameweek": 11,
       "gameweek_points": 24,
       "transfer_cost": 0,
@@ -4421,7 +4421,7 @@
       "vice_captain": {
         "player": "Isak",
         "raw_points": 5,
-        "minutes": 62
+        "minutes": 68
       },
       "active_chip": null,
       "live_summary": {
@@ -4577,7 +4577,7 @@
             "opponent": "MUN",
             "home": true,
             "kickoff_time": "2026-11-22T16:30:00Z",
-            "minutes": 62,
+            "minutes": 68,
             "points": 5,
             "counted_points": 5
           },
@@ -5316,7 +5316,7 @@
           "captain": false,
           "vice_captain": true,
           "bench": false,
-          "minutes": 62,
+          "minutes": 68,
           "goals": 0,
           "assists": 1,
           "clean_sheets": 1,
@@ -5518,7 +5518,7 @@
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
       "total_points": 617,
-      "overall_rank": 3661939,
+      "overall_rank": 3660734,
       "latest_gameweek": 11,
       "gameweek_points": 35,
       "transfer_cost": 0,
@@ -5689,7 +5689,7 @@
             "opponent": "MUN",
             "home": true,
             "kickoff_time": "2026-11-22T16:30:00Z",
-            "minutes": 62,
+            "minutes": 68,
             "points": 6,
             "counted_points": 0
           },
@@ -6025,7 +6025,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 62,
+          "minutes": 68,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 1,
@@ -6282,7 +6282,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 62,
+          "minutes": 68,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 1,
@@ -6456,8 +6456,8 @@
       "manager": "Matthew Shaw",
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
-      "total_points": 555,
-      "overall_rank": 6765359,
+      "total_points": 558,
+      "overall_rank": 6626465,
       "latest_gameweek": 11,
       "gameweek_points": 35,
       "transfer_cost": 0,
@@ -6572,9 +6572,9 @@
             "opponent": "MUN",
             "home": true,
             "kickoff_time": "2026-11-22T16:30:00Z",
-            "minutes": 62,
-            "points": 2,
-            "counted_points": 2
+            "minutes": 68,
+            "points": 5,
+            "counted_points": 5
           },
           {
             "player": "Evanilson",
@@ -6718,13 +6718,13 @@
           "chip": null,
           "in": "Barcola",
           "in_id": 627,
-          "in_points": 2,
-          "in_minutes": 62,
+          "in_points": 5,
+          "in_minutes": 68,
           "out": "B.Fernandes",
           "out_id": 426,
           "out_points": 2,
-          "out_minutes": 62,
-          "gross_pl": 0,
+          "out_minutes": 68,
+          "gross_pl": 3,
           "time": "2026-11-21T10:09:04.397247Z"
         }
       ],
@@ -7028,13 +7028,13 @@
           "chip": null,
           "in": "Barcola",
           "in_id": 627,
-          "in_points": 2,
-          "in_minutes": 62,
+          "in_points": 5,
+          "in_minutes": 68,
           "out": "B.Fernandes",
           "out_id": 426,
           "out_points": 2,
-          "out_minutes": 62,
-          "gross_pl": 0,
+          "out_minutes": 68,
+          "gross_pl": 3,
           "time": "2026-11-21T10:09:04.397247Z"
         }
       ],
@@ -7042,10 +7042,10 @@
         "total_transfers": 22,
         "normal_transfers": 11,
         "hit_cost": 8,
-        "gross_player_points_all": 8,
-        "gross_player_points_normal": 18,
-        "net_pl_all": 0,
-        "net_pl_normal": 10
+        "gross_player_points_all": 11,
+        "gross_player_points_normal": 21,
+        "net_pl_all": 3,
+        "net_pl_normal": 13
       },
       "captain_history": [
         {
@@ -7404,15 +7404,15 @@
           "player_id": 627,
           "team": "LIV",
           "position": 8,
-          "raw_points": 2,
+          "raw_points": 5,
           "multiplier": 1,
-          "counted_points": 2,
+          "counted_points": 5,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 62,
+          "minutes": 68,
           "goals": 0,
-          "assists": 0,
+          "assists": 1,
           "clean_sheets": 1,
           "bonus": 0
         },
