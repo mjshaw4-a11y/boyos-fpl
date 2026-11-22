@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-22T18:20:29.102Z",
+  "generated_at": "2026-11-22T18:25:32.953Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 26,
       "total_points": 687,
-      "overall_rank": 835611,
+      "overall_rank": 835743,
       "previous_boyos_rank": 1,
       "rank_change": 0
     },
@@ -296,7 +296,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 13,
       "total_points": 632,
-      "overall_rank": 2931861,
+      "overall_rank": 2932485,
       "previous_boyos_rank": 2,
       "rank_change": 0
     },
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 24,
       "total_points": 632,
-      "overall_rank": 2939528,
+      "overall_rank": 2940139,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -322,7 +322,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 35,
       "total_points": 617,
-      "overall_rank": 3676454,
+      "overall_rank": 3677318,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -335,7 +335,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 35,
       "total_points": 558,
-      "overall_rank": 6643665,
+      "overall_rank": 6645142,
       "previous_boyos_rank": 5,
       "rank_change": 0
     }
@@ -1162,8 +1162,8 @@
           "opponent": "MUN",
           "home": true,
           "kickoff_time": "2026-11-22T16:30:00Z",
-          "minutes": 89,
-          "points": 6,
+          "minutes": 90,
+          "points": 7,
           "counted_points": 0
         },
         {
@@ -1925,7 +1925,7 @@
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
       "total_points": 687,
-      "overall_rank": 835611,
+      "overall_rank": 835743,
       "latest_gameweek": 11,
       "gameweek_points": 26,
       "transfer_cost": 0,
@@ -3267,7 +3267,7 @@
       "entry_id": 5568090,
       "team_name": "Insufferable FC",
       "total_points": 632,
-      "overall_rank": 2931861,
+      "overall_rank": 2932485,
       "latest_gameweek": 11,
       "gameweek_points": 13,
       "transfer_cost": 0,
@@ -4406,7 +4406,7 @@
       "entry_id": 2368930,
       "team_name": "The Regent",
       "total_points": 632,
-      "overall_rank": 2939528,
+      "overall_rank": 2940139,
       "latest_gameweek": 11,
       "gameweek_points": 24,
       "transfer_cost": 0,
@@ -5518,7 +5518,7 @@
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
       "total_points": 617,
-      "overall_rank": 3676454,
+      "overall_rank": 3677318,
       "latest_gameweek": 11,
       "gameweek_points": 35,
       "transfer_cost": 0,
@@ -5689,8 +5689,8 @@
             "opponent": "MUN",
             "home": true,
             "kickoff_time": "2026-11-22T16:30:00Z",
-            "minutes": 89,
-            "points": 6,
+            "minutes": 90,
+            "points": 7,
             "counted_points": 0
           },
           {
@@ -6019,13 +6019,13 @@
           "player_id": 350,
           "team": "LIV",
           "position": 12,
-          "raw_points": 6,
+          "raw_points": 7,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 89,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 1,
@@ -6276,13 +6276,13 @@
           "player_id": 350,
           "team": "LIV",
           "position": 12,
-          "raw_points": 6,
+          "raw_points": 7,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 89,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 1,
@@ -6457,7 +6457,7 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 558,
-      "overall_rank": 6643665,
+      "overall_rank": 6645142,
       "latest_gameweek": 11,
       "gameweek_points": 35,
       "transfer_cost": 0,
@@ -6723,7 +6723,7 @@
           "out": "B.Fernandes",
           "out_id": 426,
           "out_points": 2,
-          "out_minutes": 89,
+          "out_minutes": 90,
           "gross_pl": 3,
           "time": "2026-11-21T10:09:04.397247Z"
         }
@@ -7033,7 +7033,7 @@
           "out": "B.Fernandes",
           "out_id": 426,
           "out_points": 2,
-          "out_minutes": 89,
+          "out_minutes": 90,
           "gross_pl": 3,
           "time": "2026-11-21T10:09:04.397247Z"
         }
