@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-22T13:55:21.931Z",
+  "generated_at": "2026-11-22T14:00:51.929Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -345,6 +345,20 @@
       "played": [],
       "playing_now": [
         {
+          "player": "Verbruggen",
+          "team": "BHA",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "HUL",
+          "home": false,
+          "kickoff_time": "2026-11-22T14:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
           "player": "Calafiori",
           "team": "ARS",
           "bench": false,
@@ -357,6 +371,20 @@
           "minutes": 90,
           "points": 1,
           "counted_points": 1
+        },
+        {
+          "player": "De Cuyper",
+          "team": "BHA",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "HUL",
+          "home": false,
+          "kickoff_time": "2026-11-22T14:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
         },
         {
           "player": "Gvardiol",
@@ -487,34 +515,6 @@
       ],
       "still_to_play": [
         {
-          "player": "Verbruggen",
-          "team": "BHA",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "HUL",
-          "home": false,
-          "kickoff_time": "2026-11-22T14:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "De Cuyper",
-          "team": "BHA",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "HUL",
-          "home": false,
-          "kickoff_time": "2026-11-22T14:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
           "player": "Barry",
           "team": "EVE",
           "bench": false,
@@ -561,12 +561,40 @@
       "gameweek_points": 26,
       "bench_points": 3,
       "starters_played": 0,
-      "starters_playing_now": 8,
-      "starters_still_to_play": 3
+      "starters_playing_now": 10,
+      "starters_still_to_play": 1
     },
     "Dave": {
       "played": [],
       "playing_now": [
+        {
+          "player": "Verbruggen",
+          "team": "BHA",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "HUL",
+          "home": false,
+          "kickoff_time": "2026-11-22T14:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
+          "player": "De Cuyper",
+          "team": "BHA",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "HUL",
+          "home": false,
+          "kickoff_time": "2026-11-22T14:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
         {
           "player": "Calafiori",
           "team": "ARS",
@@ -636,6 +664,20 @@
           "minutes": 90,
           "points": 2,
           "counted_points": 4
+        },
+        {
+          "player": "Groß",
+          "team": "BHA",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "HUL",
+          "home": false,
+          "kickoff_time": "2026-11-22T14:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
         },
         {
           "player": "Gonzalo",
@@ -736,14 +778,24 @@
           "counted_points": 0
         }
       ],
-      "still_to_play": [
+      "still_to_play": [],
+      "captain": "Palmer",
+      "gameweek_points": 13,
+      "bench_points": 17,
+      "starters_played": 0,
+      "starters_playing_now": 11,
+      "starters_still_to_play": 0
+    },
+    "Manny": {
+      "played": [],
+      "playing_now": [
         {
           "player": "Verbruggen",
           "team": "BHA",
           "bench": false,
           "captain": false,
           "vice_captain": false,
-          "status": "to_play",
+          "status": "playing",
           "opponent": "HUL",
           "home": false,
           "kickoff_time": "2026-11-22T14:00:00Z",
@@ -751,45 +803,6 @@
           "points": 0,
           "counted_points": 0
         },
-        {
-          "player": "De Cuyper",
-          "team": "BHA",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "HUL",
-          "home": false,
-          "kickoff_time": "2026-11-22T14:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Groß",
-          "team": "BHA",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "HUL",
-          "home": false,
-          "kickoff_time": "2026-11-22T14:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        }
-      ],
-      "captain": "Palmer",
-      "gameweek_points": 13,
-      "bench_points": 17,
-      "starters_played": 0,
-      "starters_playing_now": 8,
-      "starters_still_to_play": 3
-    },
-    "Manny": {
-      "played": [],
-      "playing_now": [
         {
           "player": "Silva",
           "team": "BOU",
@@ -859,6 +872,20 @@
           "minutes": 90,
           "points": 2,
           "counted_points": 2
+        },
+        {
+          "player": "Groß",
+          "team": "BHA",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "HUL",
+          "home": false,
+          "kickoff_time": "2026-11-22T14:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
         },
         {
           "player": "Rogers",
@@ -947,34 +974,6 @@
       ],
       "still_to_play": [
         {
-          "player": "Verbruggen",
-          "team": "BHA",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "HUL",
-          "home": false,
-          "kickoff_time": "2026-11-22T14:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Groß",
-          "team": "BHA",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "HUL",
-          "home": false,
-          "kickoff_time": "2026-11-22T14:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
           "player": "Isak",
           "team": "LIV",
           "bench": false,
@@ -1007,8 +1006,8 @@
       "gameweek_points": 24,
       "bench_points": 7,
       "starters_played": 0,
-      "starters_playing_now": 8,
-      "starters_still_to_play": 3
+      "starters_playing_now": 10,
+      "starters_still_to_play": 1
     },
     "Ben": {
       "played": [],
@@ -1026,6 +1025,20 @@
           "minutes": 90,
           "points": 2,
           "counted_points": 2
+        },
+        {
+          "player": "De Cuyper",
+          "team": "BHA",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "HUL",
+          "home": false,
+          "kickoff_time": "2026-11-22T14:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
         },
         {
           "player": "Hill",
@@ -1098,6 +1111,20 @@
           "counted_points": 5
         },
         {
+          "player": "Groß",
+          "team": "BHA",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "HUL",
+          "home": false,
+          "kickoff_time": "2026-11-22T14:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
           "player": "Haaland",
           "team": "MCI",
           "bench": false,
@@ -1156,34 +1183,6 @@
       ],
       "still_to_play": [
         {
-          "player": "De Cuyper",
-          "team": "BHA",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "HUL",
-          "home": false,
-          "kickoff_time": "2026-11-22T14:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Groß",
-          "team": "BHA",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "HUL",
-          "home": false,
-          "kickoff_time": "2026-11-22T14:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
           "player": "Barry",
           "team": "EVE",
           "bench": false,
@@ -1230,8 +1229,8 @@
       "gameweek_points": 35,
       "bench_points": 2,
       "starters_played": 0,
-      "starters_playing_now": 8,
-      "starters_still_to_play": 3
+      "starters_playing_now": 10,
+      "starters_still_to_play": 1
     },
     "Curlo": {
       "played": [],
@@ -1291,6 +1290,20 @@
           "minutes": 90,
           "points": 1,
           "counted_points": 1
+        },
+        {
+          "player": "Groß",
+          "team": "BHA",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "HUL",
+          "home": false,
+          "kickoff_time": "2026-11-22T14:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
         },
         {
           "player": "Ødegaard",
@@ -1407,20 +1420,6 @@
       ],
       "still_to_play": [
         {
-          "player": "Groß",
-          "team": "BHA",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "HUL",
-          "home": false,
-          "kickoff_time": "2026-11-22T14:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
           "player": "Schade",
           "team": "BRE",
           "bench": false,
@@ -1453,8 +1452,8 @@
       "gameweek_points": 35,
       "bench_points": 4,
       "starters_played": 0,
-      "starters_playing_now": 8,
-      "starters_still_to_play": 3
+      "starters_playing_now": 9,
+      "starters_still_to_play": 2
     }
   },
   "league_insights": {
@@ -1948,6 +1947,20 @@
         "played": [],
         "playing_now": [
           {
+            "player": "Verbruggen",
+            "team": "BHA",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "HUL",
+            "home": false,
+            "kickoff_time": "2026-11-22T14:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
             "player": "Calafiori",
             "team": "ARS",
             "bench": false,
@@ -1960,6 +1973,20 @@
             "minutes": 90,
             "points": 1,
             "counted_points": 1
+          },
+          {
+            "player": "De Cuyper",
+            "team": "BHA",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "HUL",
+            "home": false,
+            "kickoff_time": "2026-11-22T14:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
           },
           {
             "player": "Gvardiol",
@@ -2090,34 +2117,6 @@
         ],
         "still_to_play": [
           {
-            "player": "Verbruggen",
-            "team": "BHA",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "HUL",
-            "home": false,
-            "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "De Cuyper",
-            "team": "BHA",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "HUL",
-            "home": false,
-            "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
             "player": "Barry",
             "team": "EVE",
             "bench": false,
@@ -2164,8 +2163,8 @@
         "gameweek_points": 26,
         "bench_points": 3,
         "starters_played": 0,
-        "starters_playing_now": 8,
-        "starters_still_to_play": 3
+        "starters_playing_now": 10,
+        "starters_still_to_play": 1
       },
       "transfers": [
         {
@@ -3290,6 +3289,34 @@
         "played": [],
         "playing_now": [
           {
+            "player": "Verbruggen",
+            "team": "BHA",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "HUL",
+            "home": false,
+            "kickoff_time": "2026-11-22T14:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
+            "player": "De Cuyper",
+            "team": "BHA",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "HUL",
+            "home": false,
+            "kickoff_time": "2026-11-22T14:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
             "player": "Calafiori",
             "team": "ARS",
             "bench": false,
@@ -3358,6 +3385,20 @@
             "minutes": 90,
             "points": 2,
             "counted_points": 4
+          },
+          {
+            "player": "Groß",
+            "team": "BHA",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "HUL",
+            "home": false,
+            "kickoff_time": "2026-11-22T14:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
           },
           {
             "player": "Gonzalo",
@@ -3458,56 +3499,13 @@
             "counted_points": 0
           }
         ],
-        "still_to_play": [
-          {
-            "player": "Verbruggen",
-            "team": "BHA",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "HUL",
-            "home": false,
-            "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "De Cuyper",
-            "team": "BHA",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "HUL",
-            "home": false,
-            "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Groß",
-            "team": "BHA",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "HUL",
-            "home": false,
-            "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          }
-        ],
+        "still_to_play": [],
         "captain": "Palmer",
         "gameweek_points": 13,
         "bench_points": 17,
         "starters_played": 0,
-        "starters_playing_now": 8,
-        "starters_still_to_play": 3
+        "starters_playing_now": 11,
+        "starters_still_to_play": 0
       },
       "transfers": [],
       "transfer_history": [
@@ -4430,6 +4428,20 @@
         "played": [],
         "playing_now": [
           {
+            "player": "Verbruggen",
+            "team": "BHA",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "HUL",
+            "home": false,
+            "kickoff_time": "2026-11-22T14:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
             "player": "Silva",
             "team": "BOU",
             "bench": false,
@@ -4498,6 +4510,20 @@
             "minutes": 90,
             "points": 2,
             "counted_points": 2
+          },
+          {
+            "player": "Groß",
+            "team": "BHA",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "HUL",
+            "home": false,
+            "kickoff_time": "2026-11-22T14:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
           },
           {
             "player": "Rogers",
@@ -4586,34 +4612,6 @@
         ],
         "still_to_play": [
           {
-            "player": "Verbruggen",
-            "team": "BHA",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "HUL",
-            "home": false,
-            "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Groß",
-            "team": "BHA",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "HUL",
-            "home": false,
-            "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
             "player": "Isak",
             "team": "LIV",
             "bench": false,
@@ -4646,8 +4644,8 @@
         "gameweek_points": 24,
         "bench_points": 7,
         "starters_played": 0,
-        "starters_playing_now": 8,
-        "starters_still_to_play": 3
+        "starters_playing_now": 10,
+        "starters_still_to_play": 1
       },
       "transfers": [],
       "transfer_history": [
@@ -5556,6 +5554,20 @@
             "counted_points": 2
           },
           {
+            "player": "De Cuyper",
+            "team": "BHA",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "HUL",
+            "home": false,
+            "kickoff_time": "2026-11-22T14:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
             "player": "Hill",
             "team": "BOU",
             "bench": false,
@@ -5626,6 +5638,20 @@
             "counted_points": 5
           },
           {
+            "player": "Groß",
+            "team": "BHA",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "HUL",
+            "home": false,
+            "kickoff_time": "2026-11-22T14:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
             "player": "Haaland",
             "team": "MCI",
             "bench": false,
@@ -5684,34 +5710,6 @@
         ],
         "still_to_play": [
           {
-            "player": "De Cuyper",
-            "team": "BHA",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "HUL",
-            "home": false,
-            "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Groß",
-            "team": "BHA",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "HUL",
-            "home": false,
-            "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
             "player": "Barry",
             "team": "EVE",
             "bench": false,
@@ -5758,8 +5756,8 @@
         "gameweek_points": 35,
         "bench_points": 2,
         "starters_played": 0,
-        "starters_playing_now": 8,
-        "starters_still_to_play": 3
+        "starters_playing_now": 10,
+        "starters_still_to_play": 1
       },
       "transfers": [],
       "transfer_history": [
@@ -6537,6 +6535,20 @@
             "counted_points": 1
           },
           {
+            "player": "Groß",
+            "team": "BHA",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "HUL",
+            "home": false,
+            "kickoff_time": "2026-11-22T14:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
             "player": "Ødegaard",
             "team": "ARS",
             "bench": false,
@@ -6651,20 +6663,6 @@
         ],
         "still_to_play": [
           {
-            "player": "Groß",
-            "team": "BHA",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "HUL",
-            "home": false,
-            "kickoff_time": "2026-11-22T14:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
             "player": "Schade",
             "team": "BRE",
             "bench": false,
@@ -6697,8 +6695,8 @@
         "gameweek_points": 35,
         "bench_points": 4,
         "starters_played": 0,
-        "starters_playing_now": 8,
-        "starters_still_to_play": 3
+        "starters_playing_now": 9,
+        "starters_still_to_play": 2
       },
       "transfers": [
         {
