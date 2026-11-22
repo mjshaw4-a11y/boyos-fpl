@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-11-22T14:15:28.053Z",
+  "generated_at": "2026-11-22T14:20:37.473Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -2687,7 +2687,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 11,
+          "minutes": 18,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -2719,7 +2719,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 11,
+          "minutes": 18,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4027,7 +4027,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 11,
+          "minutes": 18,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
