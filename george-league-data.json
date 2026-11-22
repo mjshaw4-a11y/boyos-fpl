@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-11-22T15:15:30.415Z",
+  "generated_at": "2026-11-22T15:20:35.065Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -2681,17 +2681,17 @@
           "player": "Verbruggen",
           "player_id": 109,
           "position": 1,
-          "raw_points": 2,
+          "raw_points": 4,
           "multiplier": 1,
-          "counted_points": 2,
+          "counted_points": 4,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 52,
+          "minutes": 58,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
-          "bonus": 1
+          "bonus": 2
         },
         {
           "player": "Calafiori",
@@ -2719,7 +2719,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 52,
+          "minutes": 58,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4027,7 +4027,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 52,
+          "minutes": 58,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
