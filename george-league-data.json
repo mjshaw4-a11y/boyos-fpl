@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-11-22T16:55:21.917Z",
+  "generated_at": "2026-11-22T17:00:56.142Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 35,
       "total_points": 554,
-      "overall_rank": 6688175,
+      "overall_rank": 6688173,
       "previous_league_rank": 3,
       "rank_change": 0
     }
@@ -2653,7 +2653,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 23,
+          "minutes": 28,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -2895,7 +2895,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 23,
+          "minutes": 28,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3045,7 +3045,7 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 554,
-      "overall_rank": 6688175,
+      "overall_rank": 6688173,
       "latest_gameweek": 11,
       "gameweek_points": 35,
       "transfer_cost": 0,
@@ -3084,11 +3084,11 @@
           "in": "Barcola",
           "in_id": 627,
           "in_points": 1,
-          "in_minutes": 23,
+          "in_minutes": 28,
           "out": "B.Fernandes",
           "out_id": 426,
           "out_points": 1,
-          "out_minutes": 23,
+          "out_minutes": 28,
           "gross_pl": 0,
           "time": "2026-11-21T10:09:04.397247Z"
         }
@@ -3394,11 +3394,11 @@
           "in": "Barcola",
           "in_id": 627,
           "in_points": 1,
-          "in_minutes": 23,
+          "in_minutes": 28,
           "out": "B.Fernandes",
           "out_id": 426,
           "out_points": 1,
-          "out_minutes": 23,
+          "out_minutes": 28,
           "gross_pl": 0,
           "time": "2026-11-21T10:09:04.397247Z"
         }
@@ -3698,11 +3698,11 @@
             "in": "Barcola",
             "in_id": 627,
             "in_points": 1,
-            "in_minutes": 23,
+            "in_minutes": 28,
             "out": "B.Fernandes",
             "out_id": 426,
             "out_points": 1,
-            "out_minutes": 23,
+            "out_minutes": 28,
             "gross_pl": 0,
             "time": "2026-11-21T10:09:04.397247Z"
           }
@@ -4075,7 +4075,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 23,
+          "minutes": 28,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
