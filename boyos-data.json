@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-23T06:55:26.679Z",
+  "generated_at": "2026-11-23T07:00:54.111Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -335,7 +335,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 44,
       "total_points": 558,
-      "overall_rank": 6645081,
+      "overall_rank": 6645080,
       "previous_boyos_rank": 5,
       "rank_change": 0
     }
@@ -6457,7 +6457,7 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 558,
-      "overall_rank": 6645081,
+      "overall_rank": 6645080,
       "latest_gameweek": 11,
       "gameweek_points": 44,
       "transfer_cost": 0,
