@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-23T21:55:27.726Z",
+  "generated_at": "2026-11-23T22:00:48.697Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -550,7 +550,7 @@
           "opponent": "BRE",
           "home": false,
           "kickoff_time": "2026-11-23T20:00:00Z",
-          "minutes": 86,
+          "minutes": 90,
           "points": 2,
           "counted_points": 0
         }
@@ -980,7 +980,7 @@
           "opponent": "EVE",
           "home": true,
           "kickoff_time": "2026-11-23T20:00:00Z",
-          "minutes": 4,
+          "minutes": 8,
           "points": 1,
           "counted_points": 0
         },
@@ -1326,7 +1326,7 @@
           "opponent": "EVE",
           "home": true,
           "kickoff_time": "2026-11-23T20:00:00Z",
-          "minutes": 20,
+          "minutes": 24,
           "points": 1,
           "counted_points": 1
         },
@@ -2148,7 +2148,7 @@
             "opponent": "BRE",
             "home": false,
             "kickoff_time": "2026-11-23T20:00:00Z",
-            "minutes": 86,
+            "minutes": 90,
             "points": 2,
             "counted_points": 0
           }
@@ -2871,7 +2871,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 86,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3128,7 +3128,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 86,
+          "minutes": 90,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4614,7 +4614,7 @@
             "opponent": "EVE",
             "home": true,
             "kickoff_time": "2026-11-23T20:00:00Z",
-            "minutes": 4,
+            "minutes": 8,
             "points": 1,
             "counted_points": 0
           },
@@ -5104,7 +5104,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 4,
+          "minutes": 8,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -5361,7 +5361,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 4,
+          "minutes": 8,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -6565,7 +6565,7 @@
             "opponent": "EVE",
             "home": true,
             "kickoff_time": "2026-11-23T20:00:00Z",
-            "minutes": 20,
+            "minutes": 24,
             "points": 1,
             "counted_points": 1
           },
@@ -7385,7 +7385,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 20,
+          "minutes": 24,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
