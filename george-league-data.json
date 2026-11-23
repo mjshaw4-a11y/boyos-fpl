@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-11-23T23:40:28.283Z",
+  "generated_at": "2026-11-23T23:45:30.067Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -292,9 +292,9 @@
       "name": "Joe",
       "manager": "Joe Burke",
       "team_name": "Roper To Beat",
-      "gameweek_points": 29,
+      "gameweek_points": 31,
       "transfer_cost": 0,
-      "net_gameweek_points": 29,
+      "net_gameweek_points": 31,
       "total_points": 689,
       "overall_rank": 797961,
       "previous_league_rank": 2,
@@ -305,9 +305,9 @@
       "name": "Curlo",
       "manager": "Matthew Shaw",
       "team_name": "Victor Moses Lawn",
-      "gameweek_points": 44,
+      "gameweek_points": 45,
       "transfer_cost": 0,
-      "net_gameweek_points": 44,
+      "net_gameweek_points": 45,
       "total_points": 559,
       "overall_rank": 6633330,
       "previous_league_rank": 3,
@@ -382,7 +382,7 @@
       },
       {
         "name": "Joe",
-        "value": 101
+        "value": 102
       }
     ],
     "captain_efficiency": [
@@ -618,11 +618,11 @@
           },
           {
             "name": "Curlo",
-            "net_points": 44
+            "net_points": 45
           },
           {
             "name": "Joe",
-            "net_points": 29
+            "net_points": 31
           }
         ]
       }
@@ -1616,7 +1616,7 @@
           "points": 54,
           "net_points": 54,
           "total_points": 713,
-          "overall_rank": 316225,
+          "overall_rank": 323271,
           "transfer_cost": 0,
           "points_on_bench": 12,
           "chip": null
@@ -1631,10 +1631,10 @@
       "total_points": 689,
       "overall_rank": 797961,
       "latest_gameweek": 11,
-      "gameweek_points": 29,
+      "gameweek_points": 31,
       "transfer_cost": 0,
-      "net_gameweek_points": 29,
-      "points_on_bench": 4,
+      "net_gameweek_points": 31,
+      "points_on_bench": 5,
       "captain": {
         "player": "N.Jackson",
         "raw_points": 2,
@@ -2574,7 +2574,7 @@
       ],
       "season_insights": {
         "gameweeks_played": 11,
-        "average_net_gw_score": 62.5,
+        "average_net_gw_score": 62.6,
         "best_gameweek": {
           "gameweek": 6,
           "points": 100,
@@ -2583,12 +2583,12 @@
         },
         "worst_gameweek": {
           "gameweek": 11,
-          "points": 29,
+          "points": 31,
           "hit": 0,
-          "net_points": 29
+          "net_points": 31
         },
-        "total_bench_points": 101,
-        "average_bench_points": 9.2,
+        "total_bench_points": 102,
+        "average_bench_points": 9.3,
         "captain_raw_points": 58,
         "captain_efficiency_pct_vs_best_starter": 43.6,
         "captain_points_missed_vs_best_starter": 75,
@@ -3029,12 +3029,12 @@
         },
         {
           "gameweek": 11,
-          "points": 29,
-          "net_points": 29,
-          "total_points": 687,
-          "overall_rank": 835739,
+          "points": 31,
+          "net_points": 31,
+          "total_points": 689,
+          "overall_rank": 797958,
           "transfer_cost": 0,
-          "points_on_bench": 4,
+          "points_on_bench": 5,
           "chip": null
         }
       ]
@@ -3047,9 +3047,9 @@
       "total_points": 559,
       "overall_rank": 6633330,
       "latest_gameweek": 11,
-      "gameweek_points": 44,
+      "gameweek_points": 45,
       "transfer_cost": 0,
-      "net_gameweek_points": 44,
+      "net_gameweek_points": 45,
       "points_on_bench": 4,
       "captain": {
         "player": "Haaland",
@@ -3846,7 +3846,7 @@
       ],
       "season_insights": {
         "gameweeks_played": 11,
-        "average_net_gw_score": 50.7,
+        "average_net_gw_score": 50.8,
         "best_gameweek": {
           "gameweek": 4,
           "points": 70,
@@ -4291,10 +4291,10 @@
         },
         {
           "gameweek": 11,
-          "points": 44,
-          "net_points": 44,
-          "total_points": 558,
-          "overall_rank": 6645098,
+          "points": 45,
+          "net_points": 45,
+          "total_points": 559,
+          "overall_rank": 6633317,
           "transfer_cost": 0,
           "points_on_bench": 4,
           "chip": null
