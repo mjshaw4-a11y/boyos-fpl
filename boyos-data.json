@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-23T20:00:49.296Z",
+  "generated_at": "2026-11-23T20:04:13.925Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -282,8 +282,8 @@
       "gameweek_points": 29,
       "transfer_cost": 0,
       "net_gameweek_points": 29,
-      "total_points": 687,
-      "overall_rank": 835442,
+      "total_points": 688,
+      "overall_rank": 818410,
       "previous_boyos_rank": 1,
       "rank_change": 0
     },
@@ -296,7 +296,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 20,
       "total_points": 632,
-      "overall_rank": 2931317,
+      "overall_rank": 2954299,
       "previous_boyos_rank": 2,
       "rank_change": 0
     },
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 35,
       "total_points": 632,
-      "overall_rank": 2938967,
+      "overall_rank": 2961899,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -321,8 +321,8 @@
       "gameweek_points": 40,
       "transfer_cost": 0,
       "net_gameweek_points": 40,
-      "total_points": 617,
-      "overall_rank": 3675895,
+      "total_points": 618,
+      "overall_rank": 3650684,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -471,6 +471,20 @@
           "counted_points": 4
         },
         {
+          "player": "Barry",
+          "team": "EVE",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "BRE",
+          "home": false,
+          "kickoff_time": "2026-11-23T20:00:00Z",
+          "minutes": 1,
+          "points": 1,
+          "counted_points": 1
+        },
+        {
           "player": "Haaland",
           "team": "MCI",
           "bench": false,
@@ -525,22 +539,6 @@
           "minutes": 45,
           "points": 1,
           "counted_points": 0
-        }
-      ],
-      "still_to_play": [
-        {
-          "player": "Barry",
-          "team": "EVE",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "BRE",
-          "home": false,
-          "kickoff_time": "2026-11-23T20:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
         },
         {
           "player": "Mykolenko",
@@ -548,21 +546,22 @@
           "bench": true,
           "captain": false,
           "vice_captain": false,
-          "status": "to_play",
+          "status": "playing",
           "opponent": "BRE",
           "home": false,
           "kickoff_time": "2026-11-23T20:00:00Z",
-          "minutes": 0,
-          "points": 0,
+          "minutes": 1,
+          "points": 1,
           "counted_points": 0
         }
       ],
+      "still_to_play": [],
       "captain": "N.Jackson",
       "gameweek_points": 29,
       "bench_points": 4,
       "starters_played": 0,
-      "starters_playing_now": 10,
-      "starters_still_to_play": 1
+      "starters_playing_now": 11,
+      "starters_still_to_play": 0
     },
     "Dave": {
       "played": [],
@@ -972,6 +971,20 @@
           "counted_points": 0
         },
         {
+          "player": "M.Sangaré",
+          "team": "BRE",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "EVE",
+          "home": true,
+          "kickoff_time": "2026-11-23T20:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
+        },
+        {
           "player": "Hughes",
           "team": "CRY",
           "bench": true,
@@ -986,22 +999,7 @@
           "counted_points": 0
         }
       ],
-      "still_to_play": [
-        {
-          "player": "M.Sangaré",
-          "team": "BRE",
-          "bench": true,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "EVE",
-          "home": true,
-          "kickoff_time": "2026-11-23T20:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        }
-      ],
+      "still_to_play": [],
       "captain": "Haaland",
       "gameweek_points": 35,
       "bench_points": 7,
@@ -1153,6 +1151,20 @@
           "counted_points": 4
         },
         {
+          "player": "Barry",
+          "team": "EVE",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "BRE",
+          "home": false,
+          "kickoff_time": "2026-11-23T20:00:00Z",
+          "minutes": 1,
+          "points": 1,
+          "counted_points": 1
+        },
+        {
           "player": "A.Becker",
           "team": "LIV",
           "bench": true,
@@ -1164,6 +1176,20 @@
           "kickoff_time": "2026-11-22T16:30:00Z",
           "minutes": 90,
           "points": 7,
+          "counted_points": 0
+        },
+        {
+          "player": "Dewsbury-Hall",
+          "team": "EVE",
+          "bench": true,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "BRE",
+          "home": false,
+          "kickoff_time": "2026-11-23T20:00:00Z",
+          "minutes": 1,
+          "points": 1,
           "counted_points": 0
         },
         {
@@ -1195,42 +1221,13 @@
           "counted_points": 0
         }
       ],
-      "still_to_play": [
-        {
-          "player": "Barry",
-          "team": "EVE",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "BRE",
-          "home": false,
-          "kickoff_time": "2026-11-23T20:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        },
-        {
-          "player": "Dewsbury-Hall",
-          "team": "EVE",
-          "bench": true,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "BRE",
-          "home": false,
-          "kickoff_time": "2026-11-23T20:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        }
-      ],
+      "still_to_play": [],
       "captain": "N.Jackson",
       "gameweek_points": 40,
       "bench_points": 9,
       "starters_played": 0,
-      "starters_playing_now": 10,
-      "starters_still_to_play": 1
+      "starters_playing_now": 11,
+      "starters_still_to_play": 0
     },
     "Curlo": {
       "played": [],
@@ -1318,6 +1315,20 @@
           "minutes": 90,
           "points": 5,
           "counted_points": 5
+        },
+        {
+          "player": "Schade",
+          "team": "BRE",
+          "bench": false,
+          "captain": false,
+          "vice_captain": false,
+          "status": "playing",
+          "opponent": "EVE",
+          "home": true,
+          "kickoff_time": "2026-11-23T20:00:00Z",
+          "minutes": 0,
+          "points": 0,
+          "counted_points": 0
         },
         {
           "player": "Barcola",
@@ -1432,28 +1443,13 @@
           "counted_points": 0
         }
       ],
-      "still_to_play": [
-        {
-          "player": "Schade",
-          "team": "BRE",
-          "bench": false,
-          "captain": false,
-          "vice_captain": false,
-          "status": "to_play",
-          "opponent": "EVE",
-          "home": true,
-          "kickoff_time": "2026-11-23T20:00:00Z",
-          "minutes": 0,
-          "points": 0,
-          "counted_points": 0
-        }
-      ],
+      "still_to_play": [],
       "captain": "Haaland",
       "gameweek_points": 44,
       "bench_points": 4,
       "starters_played": 0,
-      "starters_playing_now": 10,
-      "starters_still_to_play": 1
+      "starters_playing_now": 11,
+      "starters_still_to_play": 0
     }
   },
   "league_insights": {
@@ -1924,8 +1920,8 @@
       "manager": "Joe Burke",
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
-      "total_points": 687,
-      "overall_rank": 835442,
+      "total_points": 688,
+      "overall_rank": 818410,
       "latest_gameweek": 11,
       "gameweek_points": 29,
       "transfer_cost": 0,
@@ -2073,6 +2069,20 @@
             "counted_points": 4
           },
           {
+            "player": "Barry",
+            "team": "EVE",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "BRE",
+            "home": false,
+            "kickoff_time": "2026-11-23T20:00:00Z",
+            "minutes": 1,
+            "points": 1,
+            "counted_points": 1
+          },
+          {
             "player": "Haaland",
             "team": "MCI",
             "bench": false,
@@ -2127,22 +2137,6 @@
             "minutes": 45,
             "points": 1,
             "counted_points": 0
-          }
-        ],
-        "still_to_play": [
-          {
-            "player": "Barry",
-            "team": "EVE",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "BRE",
-            "home": false,
-            "kickoff_time": "2026-11-23T20:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
           },
           {
             "player": "Mykolenko",
@@ -2150,21 +2144,22 @@
             "bench": true,
             "captain": false,
             "vice_captain": false,
-            "status": "to_play",
+            "status": "playing",
             "opponent": "BRE",
             "home": false,
             "kickoff_time": "2026-11-23T20:00:00Z",
-            "minutes": 0,
-            "points": 0,
+            "minutes": 1,
+            "points": 1,
             "counted_points": 0
           }
         ],
+        "still_to_play": [],
         "captain": "N.Jackson",
         "gameweek_points": 29,
         "bench_points": 4,
         "starters_played": 0,
-        "starters_playing_now": 10,
-        "starters_still_to_play": 1
+        "starters_playing_now": 11,
+        "starters_still_to_play": 0
       },
       "transfers": [
         {
@@ -2870,13 +2865,13 @@
           "player_id": 233,
           "team": "EVE",
           "position": 15,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 1,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3042,13 +3037,13 @@
           "player_id": 249,
           "team": "EVE",
           "position": 10,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 1,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 1,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3127,13 +3122,13 @@
           "player_id": 233,
           "team": "EVE",
           "position": 15,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 1,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3267,7 +3262,7 @@
       "entry_id": 5568090,
       "team_name": "Insufferable FC",
       "total_points": 632,
-      "overall_rank": 2931317,
+      "overall_rank": 2954299,
       "latest_gameweek": 11,
       "gameweek_points": 20,
       "transfer_cost": 0,
@@ -4406,7 +4401,7 @@
       "entry_id": 2368930,
       "team_name": "The Regent",
       "total_points": 632,
-      "overall_rank": 2938967,
+      "overall_rank": 2961899,
       "latest_gameweek": 11,
       "gameweek_points": 35,
       "transfer_cost": 0,
@@ -4610,6 +4605,20 @@
             "counted_points": 0
           },
           {
+            "player": "M.Sangaré",
+            "team": "BRE",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "EVE",
+            "home": true,
+            "kickoff_time": "2026-11-23T20:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
             "player": "Hughes",
             "team": "CRY",
             "bench": true,
@@ -4624,22 +4633,7 @@
             "counted_points": 0
           }
         ],
-        "still_to_play": [
-          {
-            "player": "M.Sangaré",
-            "team": "BRE",
-            "bench": true,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "EVE",
-            "home": true,
-            "kickoff_time": "2026-11-23T20:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          }
-        ],
+        "still_to_play": [],
         "captain": "Haaland",
         "gameweek_points": 35,
         "bench_points": 7,
@@ -5517,8 +5511,8 @@
       "manager": "Ben Burt",
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
-      "total_points": 617,
-      "overall_rank": 3675895,
+      "total_points": 618,
+      "overall_rank": 3650684,
       "latest_gameweek": 11,
       "gameweek_points": 40,
       "transfer_cost": 0,
@@ -5680,6 +5674,20 @@
             "counted_points": 4
           },
           {
+            "player": "Barry",
+            "team": "EVE",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "BRE",
+            "home": false,
+            "kickoff_time": "2026-11-23T20:00:00Z",
+            "minutes": 1,
+            "points": 1,
+            "counted_points": 1
+          },
+          {
             "player": "A.Becker",
             "team": "LIV",
             "bench": true,
@@ -5691,6 +5699,20 @@
             "kickoff_time": "2026-11-22T16:30:00Z",
             "minutes": 90,
             "points": 7,
+            "counted_points": 0
+          },
+          {
+            "player": "Dewsbury-Hall",
+            "team": "EVE",
+            "bench": true,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "BRE",
+            "home": false,
+            "kickoff_time": "2026-11-23T20:00:00Z",
+            "minutes": 1,
+            "points": 1,
             "counted_points": 0
           },
           {
@@ -5722,42 +5744,13 @@
             "counted_points": 0
           }
         ],
-        "still_to_play": [
-          {
-            "player": "Barry",
-            "team": "EVE",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "BRE",
-            "home": false,
-            "kickoff_time": "2026-11-23T20:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          },
-          {
-            "player": "Dewsbury-Hall",
-            "team": "EVE",
-            "bench": true,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "BRE",
-            "home": false,
-            "kickoff_time": "2026-11-23T20:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          }
-        ],
+        "still_to_play": [],
         "captain": "N.Jackson",
         "gameweek_points": 40,
         "bench_points": 9,
         "starters_played": 0,
-        "starters_playing_now": 10,
-        "starters_still_to_play": 1
+        "starters_playing_now": 11,
+        "starters_still_to_play": 0
       },
       "transfers": [],
       "transfer_history": [
@@ -6036,13 +6029,13 @@
           "player_id": 236,
           "team": "EVE",
           "position": 13,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 1,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -6259,13 +6252,13 @@
           "player_id": 249,
           "team": "EVE",
           "position": 11,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 1,
-          "counted_points": 0,
+          "counted_points": 1,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 0,
+          "minutes": 1,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -6293,13 +6286,13 @@
           "player_id": 236,
           "team": "EVE",
           "position": 13,
-          "raw_points": 0,
+          "raw_points": 1,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 0,
+          "minutes": 1,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -6563,6 +6556,20 @@
             "counted_points": 5
           },
           {
+            "player": "Schade",
+            "team": "BRE",
+            "bench": false,
+            "captain": false,
+            "vice_captain": false,
+            "status": "playing",
+            "opponent": "EVE",
+            "home": true,
+            "kickoff_time": "2026-11-23T20:00:00Z",
+            "minutes": 0,
+            "points": 0,
+            "counted_points": 0
+          },
+          {
             "player": "Barcola",
             "team": "LIV",
             "bench": false,
@@ -6675,28 +6682,13 @@
             "counted_points": 0
           }
         ],
-        "still_to_play": [
-          {
-            "player": "Schade",
-            "team": "BRE",
-            "bench": false,
-            "captain": false,
-            "vice_captain": false,
-            "status": "to_play",
-            "opponent": "EVE",
-            "home": true,
-            "kickoff_time": "2026-11-23T20:00:00Z",
-            "minutes": 0,
-            "points": 0,
-            "counted_points": 0
-          }
-        ],
+        "still_to_play": [],
         "captain": "Haaland",
         "gameweek_points": 44,
         "bench_points": 4,
         "starters_played": 0,
-        "starters_playing_now": 10,
-        "starters_still_to_play": 1
+        "starters_playing_now": 11,
+        "starters_still_to_play": 0
       },
       "transfers": [
         {
