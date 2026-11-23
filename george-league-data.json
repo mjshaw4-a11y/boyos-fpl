@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-11-23T20:30:43.528Z",
+  "generated_at": "2026-11-23T20:35:21.633Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 54,
       "total_points": 713,
-      "overall_rank": 319136,
+      "overall_rank": 319137,
       "previous_league_rank": 1,
       "rank_change": 0
     },
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 44,
       "total_points": 558,
-      "overall_rank": 6662465,
+      "overall_rank": 6662499,
       "previous_league_rank": 3,
       "rank_change": 0
     }
@@ -635,7 +635,7 @@
       "entry_id": 8848218,
       "team_name": "TheRoseGardeb",
       "total_points": 713,
-      "overall_rank": 319136,
+      "overall_rank": 319137,
       "latest_gameweek": 11,
       "gameweek_points": 54,
       "transfer_cost": 0,
@@ -2669,7 +2669,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 29,
+          "minutes": 34,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -2831,7 +2831,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 29,
+          "minutes": 34,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -2911,7 +2911,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 29,
+          "minutes": 34,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3045,7 +3045,7 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 558,
-      "overall_rank": 6662465,
+      "overall_rank": 6662499,
       "latest_gameweek": 11,
       "gameweek_points": 44,
       "transfer_cost": 0,
