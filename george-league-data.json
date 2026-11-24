@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-11-23T23:55:24.981Z",
+  "generated_at": "2026-11-24T00:00:52.173Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -1616,7 +1616,7 @@
           "points": 54,
           "net_points": 54,
           "total_points": 713,
-          "overall_rank": 323271,
+          "overall_rank": 323273,
           "transfer_cost": 0,
           "points_on_bench": 12,
           "chip": null
@@ -3032,7 +3032,7 @@
           "points": 31,
           "net_points": 31,
           "total_points": 689,
-          "overall_rank": 797958,
+          "overall_rank": 797961,
           "transfer_cost": 0,
           "points_on_bench": 5,
           "chip": null
@@ -4294,7 +4294,7 @@
           "points": 45,
           "net_points": 45,
           "total_points": 559,
-          "overall_rank": 6633317,
+          "overall_rank": 6633330,
           "transfer_cost": 0,
           "points_on_bench": 4,
           "chip": null
