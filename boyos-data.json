@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-24T11:25:29.805Z",
+  "generated_at": "2026-11-24T11:30:43.686Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -3249,7 +3249,7 @@
           "points": 31,
           "net_points": 31,
           "total_points": 689,
-          "overall_rank": 805379,
+          "overall_rank": 805381,
           "transfer_cost": 0,
           "points_on_bench": 5,
           "chip": null
@@ -4388,7 +4388,7 @@
           "points": 20,
           "net_points": 20,
           "total_points": 632,
-          "overall_rank": 3013202,
+          "overall_rank": 3013211,
           "transfer_cost": 0,
           "points_on_bench": 17,
           "chip": null
@@ -5499,7 +5499,7 @@
           "points": 35,
           "net_points": 35,
           "total_points": 632,
-          "overall_rank": 3020890,
+          "overall_rank": 3020899,
           "transfer_cost": 0,
           "points_on_bench": 8,
           "chip": null
@@ -6437,7 +6437,7 @@
           "points": 42,
           "net_points": 42,
           "total_points": 619,
-          "overall_rank": 3674094,
+          "overall_rank": 3674102,
           "transfer_cost": 0,
           "points_on_bench": 11,
           "chip": null
@@ -7642,7 +7642,7 @@
           "points": 45,
           "net_points": 45,
           "total_points": 559,
-          "overall_rank": 6751961,
+          "overall_rank": 6751977,
           "transfer_cost": 0,
           "points_on_bench": 4,
           "chip": null
