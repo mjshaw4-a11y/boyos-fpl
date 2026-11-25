@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-11-25T08:55:24.987Z",
+  "generated_at": "2026-11-25T09:00:52.155Z",
   "latest_gameweek": 11,
   "events": [
     {
@@ -296,7 +296,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 31,
       "total_points": 689,
-      "overall_rank": 805381,
+      "overall_rank": 805380,
       "previous_league_rank": 2,
       "rank_change": 0
     },
@@ -1629,7 +1629,7 @@
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
       "total_points": 689,
-      "overall_rank": 805381,
+      "overall_rank": 805380,
       "latest_gameweek": 11,
       "gameweek_points": 31,
       "transfer_cost": 0,
