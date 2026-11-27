@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-11-27T20:25:21.406Z",
+  "generated_at": "2026-11-27T20:30:53.775Z",
   "latest_gameweek": 12,
   "events": [
     {
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 560,
-      "overall_rank": 6744147,
+      "overall_rank": 6744146,
       "previous_league_rank": 3,
       "rank_change": 0
     }
@@ -696,7 +696,7 @@
           "out": "Palmer",
           "out_id": 154,
           "out_points": 1,
-          "out_minutes": 24,
+          "out_minutes": 30,
           "gross_pl": -1,
           "time": "2026-11-24T12:14:15.816080Z"
         }
@@ -922,7 +922,7 @@
           "out": "Palmer",
           "out_id": 154,
           "out_points": 1,
-          "out_minutes": 24,
+          "out_minutes": 30,
           "gross_pl": -1,
           "time": "2026-11-24T12:14:15.816080Z"
         }
@@ -1128,7 +1128,7 @@
             "out": "Palmer",
             "out_id": 154,
             "out_points": 1,
-            "out_minutes": 24,
+            "out_minutes": 30,
             "gross_pl": -1,
             "time": "2026-11-24T12:14:15.816080Z"
           }
@@ -1357,7 +1357,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 24,
+          "minutes": 30,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -1599,7 +1599,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 24,
+          "minutes": 30,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -2953,7 +2953,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 24,
+          "minutes": 30,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -2985,7 +2985,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 24,
+          "minutes": 30,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3257,7 +3257,7 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 560,
-      "overall_rank": 6744147,
+      "overall_rank": 6744146,
       "latest_gameweek": 12,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -3272,7 +3272,7 @@
       "vice_captain": {
         "player": "Rogers",
         "raw_points": 1,
-        "minutes": 24
+        "minutes": 30
       },
       "active_chip": null,
       "transfers": [
@@ -3282,7 +3282,7 @@
           "in": "Rogers",
           "in_id": 40,
           "in_points": 1,
-          "in_minutes": 24,
+          "in_minutes": 30,
           "out": "Schade",
           "out_id": 94,
           "out_points": 0,
@@ -3606,7 +3606,7 @@
           "in": "Rogers",
           "in_id": 40,
           "in_points": 1,
-          "in_minutes": 24,
+          "in_minutes": 30,
           "out": "Schade",
           "out_id": 94,
           "out_points": 0,
@@ -3925,7 +3925,7 @@
             "in": "Rogers",
             "in_id": 40,
             "in_points": 1,
-            "in_minutes": 24,
+            "in_minutes": 30,
             "out": "Schade",
             "out_id": 94,
             "out_points": 0,
@@ -4091,7 +4091,7 @@
           "captain_minutes": 0,
           "vice_captain": "Rogers",
           "vice_points": 1,
-          "vice_minutes": 24,
+          "vice_minutes": 30,
           "best_starting_player": "Rogers",
           "best_starting_points": 1,
           "captain_points_missed_vs_best_starter": 1,
@@ -4169,7 +4169,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 24,
+          "minutes": 30,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4299,7 +4299,7 @@
           "captain": false,
           "vice_captain": true,
           "bench": false,
-          "minutes": 24,
+          "minutes": 30,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4411,7 +4411,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 24,
+          "minutes": 30,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
