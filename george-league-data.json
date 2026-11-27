@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-11-27T21:10:30.619Z",
+  "generated_at": "2026-11-27T21:15:30.855Z",
   "latest_gameweek": 12,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 713,
-      "overall_rank": 340612,
+      "overall_rank": 347558,
       "previous_league_rank": 1,
       "rank_change": 0
     },
@@ -295,8 +295,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 691,
-      "overall_rank": 778540,
+      "total_points": 696,
+      "overall_rank": 669062,
       "previous_league_rank": 2,
       "rank_change": 0
     },
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 560,
-      "overall_rank": 6742546,
+      "overall_rank": 6767707,
       "previous_league_rank": 3,
       "rank_change": 0
     }
@@ -391,18 +391,18 @@
         "value": 52.2
       },
       {
-        "name": "Joe",
-        "value": 43.3
-      },
-      {
         "name": "Curlo",
         "value": 42.9
+      },
+      {
+        "name": "Joe",
+        "value": 41.7
       }
     ],
     "captain_regret": [
       {
         "name": "Joe",
-        "value": 76
+        "value": 81
       },
       {
         "name": "Curlo",
@@ -653,7 +653,7 @@
       "entry_id": 8848218,
       "team_name": "TheRoseGardeb",
       "total_points": 713,
-      "overall_rank": 340612,
+      "overall_rank": 347558,
       "latest_gameweek": 12,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -696,7 +696,7 @@
           "out": "Palmer",
           "out_id": 154,
           "out_points": 1,
-          "out_minutes": 49,
+          "out_minutes": 56,
           "gross_pl": -1,
           "time": "2026-11-24T12:14:15.816080Z"
         }
@@ -922,7 +922,7 @@
           "out": "Palmer",
           "out_id": 154,
           "out_points": 1,
-          "out_minutes": 49,
+          "out_minutes": 56,
           "gross_pl": -1,
           "time": "2026-11-24T12:14:15.816080Z"
         }
@@ -1128,7 +1128,7 @@
             "out": "Palmer",
             "out_id": 154,
             "out_points": 1,
-            "out_minutes": 49,
+            "out_minutes": 56,
             "gross_pl": -1,
             "time": "2026-11-24T12:14:15.816080Z"
           }
@@ -1351,15 +1351,15 @@
           "player": "Neto",
           "player_id": 156,
           "position": 13,
-          "raw_points": 1,
+          "raw_points": 4,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 49,
+          "minutes": 56,
           "goals": 0,
-          "assists": 0,
+          "assists": 1,
           "clean_sheets": 0,
           "bonus": 0
         },
@@ -1593,15 +1593,15 @@
           "player": "Neto",
           "player_id": 156,
           "position": 13,
-          "raw_points": 1,
+          "raw_points": 4,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 49,
+          "minutes": 56,
           "goals": 0,
-          "assists": 0,
+          "assists": 1,
           "clean_sheets": 0,
           "bonus": 0
         },
@@ -1774,8 +1774,8 @@
       "manager": "Joe Burke",
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
-      "total_points": 691,
-      "overall_rank": 778540,
+      "total_points": 696,
+      "overall_rank": 669062,
       "latest_gameweek": 12,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -2769,8 +2769,8 @@
           "vice_points": 0,
           "vice_minutes": 0,
           "best_starting_player": "Gibbs-White",
-          "best_starting_points": 1,
-          "captain_points_missed_vs_best_starter": 1,
+          "best_starting_points": 6,
+          "captain_points_missed_vs_best_starter": 6,
           "chip": null
         }
       ],
@@ -2792,8 +2792,8 @@
         "total_bench_points": 102,
         "average_bench_points": 8.5,
         "captain_raw_points": 58,
-        "captain_efficiency_pct_vs_best_starter": 43.3,
-        "captain_points_missed_vs_best_starter": 76,
+        "captain_efficiency_pct_vs_best_starter": 41.7,
+        "captain_points_missed_vs_best_starter": 81,
         "chips_used": [
           {
             "name": "3xc",
@@ -2947,14 +2947,14 @@
           "player": "Gibbs-White",
           "player_id": 480,
           "position": 5,
-          "raw_points": 1,
+          "raw_points": 6,
           "multiplier": 1,
-          "counted_points": 1,
+          "counted_points": 6,
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 49,
-          "goals": 0,
+          "minutes": 56,
+          "goals": 1,
           "assists": 0,
           "clean_sheets": 0,
           "bonus": 0
@@ -2985,7 +2985,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 49,
+          "minutes": 56,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3257,7 +3257,7 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 560,
-      "overall_rank": 6742546,
+      "overall_rank": 6767707,
       "latest_gameweek": 12,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -3272,7 +3272,7 @@
       "vice_captain": {
         "player": "Rogers",
         "raw_points": 1,
-        "minutes": 49
+        "minutes": 56
       },
       "active_chip": null,
       "transfers": [
@@ -3282,7 +3282,7 @@
           "in": "Rogers",
           "in_id": 40,
           "in_points": 1,
-          "in_minutes": 49,
+          "in_minutes": 56,
           "out": "Schade",
           "out_id": 94,
           "out_points": 0,
@@ -3606,7 +3606,7 @@
           "in": "Rogers",
           "in_id": 40,
           "in_points": 1,
-          "in_minutes": 49,
+          "in_minutes": 56,
           "out": "Schade",
           "out_id": 94,
           "out_points": 0,
@@ -3925,7 +3925,7 @@
             "in": "Rogers",
             "in_id": 40,
             "in_points": 1,
-            "in_minutes": 49,
+            "in_minutes": 56,
             "out": "Schade",
             "out_id": 94,
             "out_points": 0,
@@ -4091,7 +4091,7 @@
           "captain_minutes": 0,
           "vice_captain": "Rogers",
           "vice_points": 1,
-          "vice_minutes": 49,
+          "vice_minutes": 56,
           "best_starting_player": "Rogers",
           "best_starting_points": 1,
           "captain_points_missed_vs_best_starter": 1,
@@ -4169,7 +4169,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 49,
+          "minutes": 56,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4299,7 +4299,7 @@
           "captain": false,
           "vice_captain": true,
           "bench": false,
-          "minutes": 49,
+          "minutes": 56,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4411,7 +4411,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 49,
+          "minutes": 56,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
