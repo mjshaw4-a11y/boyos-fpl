@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-27T21:35:23.472Z",
+  "generated_at": "2026-11-27T21:40:27.233Z",
   "latest_gameweek": 12,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 706,
-      "overall_rank": 501848,
+      "overall_rank": 501847,
       "previous_boyos_rank": 1,
       "rank_change": 0
     },
@@ -296,7 +296,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 636,
-      "overall_rank": 2969105,
+      "overall_rank": 2969104,
       "previous_boyos_rank": 2,
       "rank_change": 0
     },
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 632,
-      "overall_rank": 3175298,
+      "overall_rank": 3175297,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -322,7 +322,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 621,
-      "overall_rank": 3727585,
+      "overall_rank": 3727584,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -354,7 +354,7 @@
           "opponent": "CHE",
           "home": true,
           "kickoff_time": "2026-11-27T20:00:00Z",
-          "minutes": 76,
+          "minutes": 80,
           "points": 15,
           "counted_points": 15
         },
@@ -368,7 +368,7 @@
           "opponent": "NFO",
           "home": false,
           "kickoff_time": "2026-11-27T20:00:00Z",
-          "minutes": 76,
+          "minutes": 80,
           "points": 2,
           "counted_points": 2
         }
@@ -577,7 +577,7 @@
           "opponent": "NFO",
           "home": false,
           "kickoff_time": "2026-11-27T20:00:00Z",
-          "minutes": 76,
+          "minutes": 80,
           "points": 2,
           "counted_points": 2
         },
@@ -591,7 +591,7 @@
           "opponent": "NFO",
           "home": false,
           "kickoff_time": "2026-11-27T20:00:00Z",
-          "minutes": 76,
+          "minutes": 80,
           "points": 2,
           "counted_points": 2
         }
@@ -1022,7 +1022,7 @@
           "opponent": "NFO",
           "home": false,
           "kickoff_time": "2026-11-27T20:00:00Z",
-          "minutes": 76,
+          "minutes": 80,
           "points": 2,
           "counted_points": 2
         }
@@ -1245,7 +1245,7 @@
           "opponent": "NFO",
           "home": false,
           "kickoff_time": "2026-11-27T20:00:00Z",
-          "minutes": 76,
+          "minutes": 80,
           "points": 2,
           "counted_points": 2
         },
@@ -1259,7 +1259,7 @@
           "opponent": "CHE",
           "home": true,
           "kickoff_time": "2026-11-27T20:00:00Z",
-          "minutes": 76,
+          "minutes": 80,
           "points": 2,
           "counted_points": 0
         }
@@ -1951,7 +1951,7 @@
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
       "total_points": 706,
-      "overall_rank": 501848,
+      "overall_rank": 501847,
       "latest_gameweek": 12,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -1982,7 +1982,7 @@
             "opponent": "CHE",
             "home": true,
             "kickoff_time": "2026-11-27T20:00:00Z",
-            "minutes": 76,
+            "minutes": 80,
             "points": 15,
             "counted_points": 15
           },
@@ -1996,7 +1996,7 @@
             "opponent": "NFO",
             "home": false,
             "kickoff_time": "2026-11-27T20:00:00Z",
-            "minutes": 76,
+            "minutes": 80,
             "points": 2,
             "counted_points": 2
           }
@@ -3015,7 +3015,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 76,
+          "minutes": 80,
           "goals": 2,
           "assists": 0,
           "clean_sheets": 0,
@@ -3049,7 +3049,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 76,
+          "minutes": 80,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3329,7 +3329,7 @@
       "entry_id": 2368930,
       "team_name": "The Regent",
       "total_points": 636,
-      "overall_rank": 2969105,
+      "overall_rank": 2969104,
       "latest_gameweek": 12,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -3360,7 +3360,7 @@
             "opponent": "NFO",
             "home": false,
             "kickoff_time": "2026-11-27T20:00:00Z",
-            "minutes": 76,
+            "minutes": 80,
             "points": 2,
             "counted_points": 2
           },
@@ -3374,7 +3374,7 @@
             "opponent": "NFO",
             "home": false,
             "kickoff_time": "2026-11-27T20:00:00Z",
-            "minutes": 76,
+            "minutes": 80,
             "points": 2,
             "counted_points": 2
           }
@@ -4206,7 +4206,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 76,
+          "minutes": 80,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4240,7 +4240,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 76,
+          "minutes": 80,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -4520,7 +4520,7 @@
       "entry_id": 5568090,
       "team_name": "Insufferable FC",
       "total_points": 632,
-      "overall_rank": 3175298,
+      "overall_rank": 3175297,
       "latest_gameweek": 12,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -4771,7 +4771,7 @@
           "out": "Palmer",
           "out_id": 154,
           "out_points": 2,
-          "out_minutes": 76,
+          "out_minutes": 80,
           "gross_pl": -2,
           "time": "2026-11-27T17:40:16.521806Z"
         },
@@ -5095,7 +5095,7 @@
           "out": "Palmer",
           "out_id": 154,
           "out_points": 2,
-          "out_minutes": 76,
+          "out_minutes": 80,
           "gross_pl": -2,
           "time": "2026-11-27T17:40:16.521806Z"
         },
@@ -5794,7 +5794,7 @@
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
       "total_points": 621,
-      "overall_rank": 3727585,
+      "overall_rank": 3727584,
       "latest_gameweek": 12,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -5825,7 +5825,7 @@
             "opponent": "NFO",
             "home": false,
             "kickoff_time": "2026-11-27T20:00:00Z",
-            "minutes": 76,
+            "minutes": 80,
             "points": 2,
             "counted_points": 2
           }
@@ -6536,7 +6536,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": false,
-          "minutes": 76,
+          "minutes": 80,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -6855,7 +6855,7 @@
       "vice_captain": {
         "player": "Rogers",
         "raw_points": 2,
-        "minutes": 76
+        "minutes": 80
       },
       "active_chip": null,
       "live_summary": {
@@ -6871,7 +6871,7 @@
             "opponent": "NFO",
             "home": false,
             "kickoff_time": "2026-11-27T20:00:00Z",
-            "minutes": 76,
+            "minutes": 80,
             "points": 2,
             "counted_points": 2
           },
@@ -6885,7 +6885,7 @@
             "opponent": "CHE",
             "home": true,
             "kickoff_time": "2026-11-27T20:00:00Z",
-            "minutes": 76,
+            "minutes": 80,
             "points": 2,
             "counted_points": 0
           }
@@ -7088,7 +7088,7 @@
           "in": "Rogers",
           "in_id": 40,
           "in_points": 2,
-          "in_minutes": 76,
+          "in_minutes": 80,
           "out": "Schade",
           "out_id": 94,
           "out_points": 0,
@@ -7412,7 +7412,7 @@
           "in": "Rogers",
           "in_id": 40,
           "in_points": 2,
-          "in_minutes": 76,
+          "in_minutes": 80,
           "out": "Schade",
           "out_id": 94,
           "out_points": 0,
@@ -7650,7 +7650,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 76,
+          "minutes": 80,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -7788,7 +7788,7 @@
           "captain": false,
           "vice_captain": true,
           "bench": false,
-          "minutes": 76,
+          "minutes": 80,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -7907,7 +7907,7 @@
           "captain": false,
           "vice_captain": false,
           "bench": true,
-          "minutes": 76,
+          "minutes": 80,
           "goals": 0,
           "assists": 0,
           "clean_sheets": 0,
