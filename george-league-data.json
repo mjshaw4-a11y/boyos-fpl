@@ -3,7 +3,7 @@
     "id": 1104419,
     "name": "George / Joe / Curlo League"
   },
-  "generated_at": "2026-11-27T21:50:27.642Z",
+  "generated_at": "2026-11-27T21:55:21.996Z",
   "latest_gameweek": 12,
   "events": [
     {
@@ -283,7 +283,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 713,
-      "overall_rank": 377117,
+      "overall_rank": 375875,
       "previous_league_rank": 1,
       "rank_change": 0
     },
@@ -295,8 +295,8 @@
       "gameweek_points": 0,
       "transfer_cost": 0,
       "net_gameweek_points": 0,
-      "total_points": 705,
-      "overall_rank": 519289,
+      "total_points": 704,
+      "overall_rank": 537294,
       "previous_league_rank": 2,
       "rank_change": 0
     },
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 561,
-      "overall_rank": 6796212,
+      "overall_rank": 6795520,
       "previous_league_rank": 3,
       "rank_change": 0
     }
@@ -396,13 +396,13 @@
       },
       {
         "name": "Joe",
-        "value": 39.5
+        "value": 39.7
       }
     ],
     "captain_regret": [
       {
         "name": "Joe",
-        "value": 89
+        "value": 88
       },
       {
         "name": "Curlo",
@@ -653,7 +653,7 @@
       "entry_id": 8848218,
       "team_name": "TheRoseGardeb",
       "total_points": 713,
-      "overall_rank": 377117,
+      "overall_rank": 375875,
       "latest_gameweek": 12,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -1351,7 +1351,7 @@
           "player": "Neto",
           "player_id": 156,
           "position": 13,
-          "raw_points": 7,
+          "raw_points": 9,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
@@ -1361,7 +1361,7 @@
           "goals": 0,
           "assists": 2,
           "clean_sheets": 0,
-          "bonus": 0
+          "bonus": 2
         },
         {
           "player": "O'Shea",
@@ -1593,7 +1593,7 @@
           "player": "Neto",
           "player_id": 156,
           "position": 13,
-          "raw_points": 7,
+          "raw_points": 9,
           "multiplier": 0,
           "counted_points": 0,
           "captain": false,
@@ -1603,7 +1603,7 @@
           "goals": 0,
           "assists": 2,
           "clean_sheets": 0,
-          "bonus": 0
+          "bonus": 2
         },
         {
           "player": "O'Shea",
@@ -1774,8 +1774,8 @@
       "manager": "Joe Burke",
       "entry_id": 3926846,
       "team_name": "Roper To Beat",
-      "total_points": 705,
-      "overall_rank": 519289,
+      "total_points": 704,
+      "overall_rank": 537294,
       "latest_gameweek": 12,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -2769,8 +2769,8 @@
           "vice_points": 0,
           "vice_minutes": 0,
           "best_starting_player": "Gibbs-White",
-          "best_starting_points": 14,
-          "captain_points_missed_vs_best_starter": 14,
+          "best_starting_points": 13,
+          "captain_points_missed_vs_best_starter": 13,
           "chip": null
         }
       ],
@@ -2792,8 +2792,8 @@
         "total_bench_points": 102,
         "average_bench_points": 8.5,
         "captain_raw_points": 58,
-        "captain_efficiency_pct_vs_best_starter": 39.5,
-        "captain_points_missed_vs_best_starter": 89,
+        "captain_efficiency_pct_vs_best_starter": 39.7,
+        "captain_points_missed_vs_best_starter": 88,
         "chips_used": [
           {
             "name": "3xc",
@@ -2947,9 +2947,9 @@
           "player": "Gibbs-White",
           "player_id": 480,
           "position": 5,
-          "raw_points": 14,
+          "raw_points": 13,
           "multiplier": 1,
-          "counted_points": 14,
+          "counted_points": 13,
           "captain": false,
           "vice_captain": false,
           "bench": false,
@@ -2957,7 +2957,7 @@
           "goals": 2,
           "assists": 0,
           "clean_sheets": 0,
-          "bonus": 2
+          "bonus": 1
         },
         {
           "player": "Cunha",
@@ -3257,7 +3257,7 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 561,
-      "overall_rank": 6796212,
+      "overall_rank": 6795520,
       "latest_gameweek": 12,
       "gameweek_points": 0,
       "transfer_cost": 0,
