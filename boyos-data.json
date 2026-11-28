@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-28T10:20:31.497Z",
+  "generated_at": "2026-11-28T10:25:19.671Z",
   "latest_gameweek": 12,
   "events": [
     {
@@ -296,7 +296,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 4,
       "total_points": 636,
-      "overall_rank": 2967658,
+      "overall_rank": 2967657,
       "previous_boyos_rank": 2,
       "rank_change": 0
     },
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 632,
-      "overall_rank": 3173832,
+      "overall_rank": 3173831,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -322,7 +322,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 2,
       "total_points": 621,
-      "overall_rank": 3726028,
+      "overall_rank": 3726027,
       "previous_boyos_rank": 4,
       "rank_change": 0
     },
@@ -335,7 +335,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 2,
       "total_points": 561,
-      "overall_rank": 6795499,
+      "overall_rank": 6795498,
       "previous_boyos_rank": 5,
       "rank_change": 0
     }
@@ -3329,7 +3329,7 @@
       "entry_id": 2368930,
       "team_name": "The Regent",
       "total_points": 636,
-      "overall_rank": 2967658,
+      "overall_rank": 2967657,
       "latest_gameweek": 12,
       "gameweek_points": 4,
       "transfer_cost": 0,
@@ -4520,7 +4520,7 @@
       "entry_id": 5568090,
       "team_name": "Insufferable FC",
       "total_points": 632,
-      "overall_rank": 3173832,
+      "overall_rank": 3173831,
       "latest_gameweek": 12,
       "gameweek_points": 0,
       "transfer_cost": 0,
@@ -5794,7 +5794,7 @@
       "entry_id": 9314745,
       "team_name": "20 packs of ciggosss",
       "total_points": 621,
-      "overall_rank": 3726028,
+      "overall_rank": 3726027,
       "latest_gameweek": 12,
       "gameweek_points": 2,
       "transfer_cost": 0,
@@ -6840,7 +6840,7 @@
       "entry_id": 4909963,
       "team_name": "Victor Moses Lawn",
       "total_points": 561,
-      "overall_rank": 6795499,
+      "overall_rank": 6795498,
       "latest_gameweek": 12,
       "gameweek_points": 2,
       "transfer_cost": 0,
