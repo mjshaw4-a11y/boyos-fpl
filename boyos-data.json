@@ -3,7 +3,7 @@
     "id": 1104421,
     "name": "Boyos FPL"
   },
-  "generated_at": "2026-11-28T10:30:42.065Z",
+  "generated_at": "2026-11-28T10:35:20.341Z",
   "latest_gameweek": 12,
   "events": [
     {
@@ -296,7 +296,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 4,
       "total_points": 636,
-      "overall_rank": 2967657,
+      "overall_rank": 2967658,
       "previous_boyos_rank": 2,
       "rank_change": 0
     },
@@ -309,7 +309,7 @@
       "transfer_cost": 0,
       "net_gameweek_points": 0,
       "total_points": 632,
-      "overall_rank": 3173831,
+      "overall_rank": 3173832,
       "previous_boyos_rank": 3,
       "rank_change": 0
     },
@@ -3329,7 +3329,7 @@
       "entry_id": 2368930,
       "team_name": "The Regent",
       "total_points": 636,
-      "overall_rank": 2967657,
+      "overall_rank": 2967658,
       "latest_gameweek": 12,
       "gameweek_points": 4,
       "transfer_cost": 0,
@@ -4520,7 +4520,7 @@
       "entry_id": 5568090,
       "team_name": "Insufferable FC",
       "total_points": 632,
-      "overall_rank": 3173831,
+      "overall_rank": 3173832,
       "latest_gameweek": 12,
       "gameweek_points": 0,
       "transfer_cost": 0,
